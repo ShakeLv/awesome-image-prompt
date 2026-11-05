@@ -1,0 +1,14 @@
+Scene:
+A square white-wall installation showing two companion posters hung side by side with equal spacing, photographed frontally so the pair reads as a designed conversation rather than two unrelated sheets. The poster should express raw market-poster painting on rough cloth or board with fearless scale distortion and thick visible brushwork, using saturated red, yellow, green, blue, black, and sun-faded cloth neutrals and a tactile surface appropriate to the medium.
+
+Subject:
+Compose a matched diptych: two posters sharing one style system while splitting the narrative across paired motifs, mirrored masses, or complementary color emphasis. Use giant eyes, action poses, storm skies, spirit masks, blades, creatures, flames, and hand-painted borders as the main visual ingredients, and organize them with brush-painted pseudo-titles and framing bands kept emphatic but unreadable. For the contemporary-subject axis, thread in a night bus station, generator glow, and urban hustle translated into a bold hand-painted thriller advertisement. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Both halves should feel distinct yet inseparable. Preserve one coherent visual language, but let each sheet carry its own focal symbol and rhythm without readable wording. Preserve oversized portrait dominance, uneven brush edges, hand-mixed paint, energetic anatomy distortion, and local-market immediacy. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no smooth digital airbrush, no clean vector geometry, no subtle luxury minimalism, no photographic polish.
+
+Use case:
+Ghana Hand-Painted single study 6/9, testing system flexibility across a paired set.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

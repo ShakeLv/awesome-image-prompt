@@ -1,0 +1,14 @@
+Scene:
+A square photoreal sports image of a basketball player exploding upward for a jump in an empty indoor court. The lighting is high contrast with warm hardwood reflections, rim light along the athlete, and a dark background that keeps the glowing overlay readable. Use a frozen action moment with dust and sweat particles visible but controlled.
+
+Subject:
+An adult athlete in plain unbranded training clothes, suspended near peak jump with knees bent and one arm reaching upward. Overlay a red pulse core at the heart and major blood-flow paths, cyan breath pressure around ribs and throat, green muscle activation in calves, quadriceps, glutes, abdominals, shoulders, and forearm, and orange joint-load halos around ankles, knees, hips, spine, shoulder, elbow, and wrist. Add vertical force arrows from the floor, a translucent jump arc, and small abstract data markers around the body.
+
+Important details:
+The biomechanics must be convincing: force begins at the planted foot, travels through ankle, knee, hip, core, shoulder, and hand. Overlay lines should follow body contours and court perspective. Keep the ball plain and unbranded if present. The glowing anatomy should be educational and premium, with precise thin strokes, restrained bloom, and no clutter over the face or hands.
+
+Use case:
+Glowing Anatomy Overlay single study 4/8, testing an explosive jump image with kinetic-chain, muscle activation, heart, breath, and joint-load overlays.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no team uniforms, no arena signage, no jersey numbers, no medical gore, no impossible skeleton, no random holographic boxes, no disconnected force arrows, no broken limb proportions.

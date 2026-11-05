@@ -1,0 +1,14 @@
+Scene:
+Design a square near-future living environment study that feels immediately usable as a brand-inspiration image or speculative editorial visual. The scene should show one complete routine surface, not just decorative furniture styling. Compose a sheltered rooftop greenhouse with planting benches, storage lockers, irrigation surfaces, and a view back toward surrounding homes.
+
+Subject:
+Focus on a believable room or shared domestic node where human habits, object placement, and light all imply how the space is used every day. Technology should feel embedded in materials, fixtures, and workflows instead of floating as abstract holograms. Treat the greenhouse as part of everyday domestic life, with harvest prep, seating, and tool care integrated into the same environment.
+
+Important details:
+Keep the design humane, tactile, and slightly imperfect so it reads as lived-in. Surfaces, storage, and appliance behavior should all support a credible near-future domestic routine. The image should feel communal, productive, and realistic rather than utopian or rustic. Preserve habitual realism in object placement, cleaning, storage, and circulation so every room feels actually inhabited.
+
+Use case:
+Future Domestic single study 4/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no generic smart-home wallpaper, no unrealistic levitating furniture, no fashion-shoot posing, no readable packaging copy, no pastoral farmhouse styling.

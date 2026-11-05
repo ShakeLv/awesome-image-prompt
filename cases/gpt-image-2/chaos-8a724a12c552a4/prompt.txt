@@ -1,0 +1,14 @@
+Scene:
+A square street-level frame at a dense downtown crosswalk on a rainy night, where elevated rails, layered billboards without readable text, noodle stalls, maintenance ducts, and apartment balconies stack upward into a deep canyon of city life. Reflections in the wet asphalt glow with peach, jade, and cobalt light, but the whole scene is softened by painterly edges and breathable mist instead of harsh synthetic glare.
+
+Subject:
+The main subject is a bicycle messenger weaving through a cyberpunk district, carrying insulated parcels and wearing a practical rain cape with patched seams and reflective trim. Around the rider are delivery drones docked like swallows on wires, tiny workshop windows, old tram signal boxes, steam from ramen carts, and pedestrians holding umbrellas of many handmade textures. The city must remain unmistakably cyberpunk in density, cabling, electronics, and vertical layering, yet the emotional register should be curious, human, and almost cozy. The rider is not a lone antihero; the district feels inhabited, communal, and improvised.
+
+Important details:
+The key visual rule is countergenre balance: maintain cyberpunk complexity, stacked infrastructure, and wet-night luminosity, but replace aggression and sterile futurism with hand-painted warmth, tactile clutter, and everyday kindness. Keep forms readable. Avoid chrome fetishism, black leather clichés, or nightclub menace. Use cel-shaded silhouettes, watercolor haze, and detailed props such as baskets, toolboxes, hanging plants, and patched awnings.
+
+Use case:
+Ghibli Countergenre single study 6/8, testing whether a cyberpunk megacity can feel welcoming and handcrafted without losing genre density.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no guns, no nightclub posing, no giant hologram face, no empty street, no hyper-gloss CGI finish, no dystopian police raid.

@@ -1,0 +1,12 @@
+# Community Rooftop Greenhouse
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/future-domestic-life-environment-visions/packages/single-support-studies/images/04-community-rooftop-greenhouse/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/842f7e5d1a44fad8d741ca5d39c2b7ff9f9e81991f626113bae02073a0648074.webp)
+- SHA-256:842f7e5d1a44fad8d741ca5d39c2b7ff9f9e81991f626113bae02073a0648074
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

@@ -1,0 +1,14 @@
+Scene:
+A square interior view inside a major financial trading floor during a quiet pause between market surges. The room is broad and bright, with concentric desk islands, hanging monitors turned at many angles, glass walls catching warm afternoon light, and layered depth that shows stair rails, mezzanines, cables, coffee trays, and windows to neighboring towers. The color palette should shift the usual steel-blue corporate chill into honey light, cedar brown, cream, muted green, and charcoal accents.
+
+Subject:
+The subject is a bustling Wall Street-style trading floor interpreted through a gentle animated-film sensibility. Traders in rolled-up sleeves and practical vests are scattered through the room, some comparing charts on paper, some carrying tea kettles and ceramic cups, some leaning over terminals with tired but human expressions. The financial infrastructure must remain accurate enough to read instantly: clustered market screens, badge gates, headsets, data displays, rolling chairs, shared desks, and tiered oversight platforms. Yet the scene should feel like a communal workshop rather than a cold temple of money. Plants on ledges, worn floor mats, jackets over chair backs, and hand-labeled lunch tins add warmth.
+
+Important details:
+The countergenre tension is between institutional finance and domestic tenderness. Keep the architecture, equipment density, and world knowledge of a trading floor intact, but replace the usual aggressive visual language with painterly light, soft facial acting, and everyday rituals. Avoid satire, caricature, or cartoon greed. No one should be yelling theatrically; the life comes from subtle motion, layered props, and believable collaborative work.
+
+Use case:
+Ghibli Countergenre single study 7/8, testing whether a Wall Street trading floor can become visually warm without losing its recognizable operational structure.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no stock ticker text, no money raining through the air, no villain posing, no empty desks, no futuristic spaceship bridge design.

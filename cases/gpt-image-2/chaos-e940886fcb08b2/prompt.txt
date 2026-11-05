@@ -1,0 +1,14 @@
+Scene:
+A square photoreal action image of a tennis player at the instant before striking a serve, photographed on a dark practice court under clean stadium lights. Use a slightly low camera angle, crisp subject focus, and controlled motion trails on the racket and ball. The background should be minimal and free of signage so the anatomy overlay can dominate.
+
+Subject:
+An adult tennis player in plain training clothes, arched upward with racket overhead and weight transferring through the rear leg. Overlay red cardiovascular pulse through chest, shoulder, and forearm, cyan breath expansion around rib cage, green muscle activation across calves, glutes, core obliques, back, rotator cuff, triceps, and wrist flexors, and orange stress arcs at ankle, knee, hip, spine, shoulder, elbow, and wrist. Add a clean serve trajectory arc, torque spiral around the torso, and small abstract metric glyphs without readable text.
+
+Important details:
+The serve is a kinetic-chain test. The overlay must show force rising from ground contact through hips, torso rotation, shoulder external rotation, elbow extension, wrist snap, and racket path. Keep anatomy aligned to the visible pose and avoid generic body glow. The racket, ball, fabric, and skin should remain photoreal. Data graphics should be precise, thin, and commercial-grade, with clear color coding and no clutter.
+
+Use case:
+Glowing Anatomy Overlay single study 6/8, testing a tennis serve image with torque, muscle activation, cardiovascular, breath, and joint-stress overlays.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no tournament branding, no court sponsor marks, no player name, no medical gore, no impossible shoulder rotation, no random interface boxes, no detached racket trail, no overlay hiding the ball.

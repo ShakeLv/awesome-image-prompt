@@ -1,0 +1,14 @@
+Scene:
+A square photoreal image of a swimmer cutting through a dark indoor pool lane, captured just as one arm exits the water and the face turns to breathe. Use dramatic overhead pool lighting, crisp water droplets, deep blue reflections, and a clean advertising composition with no visible lane text or sponsor marks. The body should be readable through spray and surface distortion.
+
+Subject:
+An adult freestyle swimmer wearing a plain cap and goggles, mid-stroke. Overlay glowing anatomical systems that interact with the water: cyan airflow arcs entering the mouth and filling the lungs, red heart and vascular rhythm through chest and shoulders, green muscle activation across deltoids, lats, core, hip flexors, and kicking legs, and orange stress arcs at shoulder, elbow, spine, and ankle. Add thin hydrodynamic streamlines, pulse waveforms, and abstract data nodes suspended above the water.
+
+Important details:
+The overlay must preserve both anatomy and water physics. Lines should refract subtly where they pass behind splashes or under the surface. Shoulder mechanics should look plausible for freestyle, with force direction traveling from torso rotation into the pulling arm. Keep the glowing systems separated by color and opacity. The image should feel like a sports-science commercial, not an x-ray horror image.
+
+Use case:
+Glowing Anatomy Overlay single study 3/8, testing a swimmer breath-cycle image with water-aware respiratory, muscular, cardiovascular, and joint overlays.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no lane labels, no team insignia, no medical gore, no impossible transparent skeleton, no random hologram panels, no overlay ignoring water refraction, no distorted swimmer anatomy.

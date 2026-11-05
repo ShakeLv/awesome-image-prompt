@@ -1,0 +1,14 @@
+Scene:
+A square composition looking down a wide street in a collapsed bathhouse district after years of abandonment, under late-afternoon light filtered through dust and climbing vines. Broken tram tracks run through puddles, tiled roofs sag inward, and warm shafts of sun push through hanging laundry lines, torn banners, and drifting seed fluff. The palette is muted gold, moss green, terracotta, and faded teal, with a storybook sense of atmosphere instead of horror gloom.
+
+Subject:
+The image should translate a hard post-apocalyptic ruin into a compassionate hand-painted animated-film scene. The central structure is a grand bathhouse-like civic building with cracked ceramic ornament, shattered windows, and plants overtaking balconies. Around it sit collapsed vending kiosks, a rusted bus stop, bicycles swallowed by ivy, and a small improvised vegetable patch growing from old concrete. There may be one or two tiny figures for scale, but the emphasis is on environmental storytelling and the strange peace of the ruins. The district must still feel urban and specific, not a generic fantasy village or romantic countryside.
+
+Important details:
+The countergenre rule is crucial: keep the evidence of collapse real and layered, yet let the mood stay tender, breathable, and visually inviting. Avoid gore, militarized destruction, and bleak monochrome decay. Surfaces should have tactile watercolor texture and careful linework, with chipped tile patterns, moss, puddle reflections, and weathered plaster. The bathhouse architecture should anchor the frame as a recognizable civic landmark rather than a castle or temple.
+
+Use case:
+Ghibli Countergenre single study 5/8, testing whether post-apocalyptic urban ruin can feel humane, painterly, and immediately legible.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no zombies, no guns, no firestorms, no armored vehicles, no dystopian neon signage, no photoreal live-action grading.

@@ -1,0 +1,14 @@
+Scene:
+A square interior looking across a mission control room built with tiered consoles facing a giant window wall of screens, during a calm orbital operations shift near sunrise. The room is softly backlit by pale morning light from clerestory windows, with long shadows across wood-and-metal consoles, instrument racks, paper checklists, plants near the edges, and a distant suggestion of antennas outside. The palette is cream, pale blue, olive, brass, and warm gray.
+
+Subject:
+The scene should portray a serious orbital mission control center, but translated into a restorative, meadow-like emotional register. Engineers and flight controllers sit in clusters at their stations, each with headsets, notebooks, binders, mugs, and carefully arranged tools. Overhead screens show abstract orbital tracks and telemetry shapes without readable text. The room layout must feel credible: front flight director row, raised back rows, side support stations, timing displays, cable trays, and equipment cabinets. Yet instead of sterile severity, the space carries the atmosphere of a quiet greenhouse workshop. Potted grasses by the windows, sunlight catching dust motes, and hand-maintained details on the desks make the room feel lived in and patient.
+
+Important details:
+Keep the operational grammar of real mission control intact so the subject reads instantly as orbital oversight, not a generic office. The countergenre move is tonal, not informational: realism in console density, headset posture, and screen choreography, with hand-painted softness, humane scale, and near-pastoral calm layered over it. Avoid retro toy aesthetics and avoid glossy sci-fi command bridge clichés.
+
+Use case:
+Ghibli Countergenre single study 8/8, testing whether mission control can hold genuine aerospace credibility while feeling quiet, hopeful, and handcrafted.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no astronauts floating in the room, no starship cockpit, no emergency red alarm lighting, no giant holograms, no empty control center.

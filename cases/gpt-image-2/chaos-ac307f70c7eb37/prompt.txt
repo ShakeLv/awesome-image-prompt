@@ -1,0 +1,14 @@
+Scene:
+A square photoreal high-speed image of a sprinter launching from starting blocks on a dark track under clean stadium side light. The camera is low and close, looking along the lane with sharp focus on the athlete and blocks. Use a dramatic but uncluttered background, track texture, dust particles, and no visible lane numbers or event branding.
+
+Subject:
+An adult sprinter in plain unbranded kit at the first explosive push, body angled forward, rear leg extending, front foot driving from the block, arms counterbalancing. Overlay red heart pulse and vascular paths through chest and legs, cyan breath pressure around throat and rib cage, green muscle activation in calves, hamstrings, quadriceps, glutes, core, shoulders, and forearms, and orange stress rings at toes, ankles, knees, hips, spine, shoulders, elbows, and wrists. Add ground-reaction force arrows, acceleration streaks, and small abstract performance ticks.
+
+Important details:
+The overlay must make the start mechanics clear: pressure into blocks, force through feet, extension through legs, forward torso angle, and arm drive. Ground-reaction arrows should originate exactly at contact points. Muscle glow should emphasize posterior chain and explosive extension, not a uniform body outline. Keep the starting blocks, shoe soles, track granules, sweat, and fabric photorealistic beneath the luminous technical layer.
+
+Use case:
+Glowing Anatomy Overlay single study 8/8, testing a sprint-start image with ground reaction, acceleration, muscle activation, breath, heart, and joint-stress overlays.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no lane numbers, no sponsor signage, no jersey text, no medical gore, no impossible starting pose, no detached force vectors, no excessive sci-fi panels, no overlay obscuring foot contact.

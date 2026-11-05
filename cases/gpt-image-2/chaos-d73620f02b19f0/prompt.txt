@@ -1,0 +1,14 @@
+Scene:
+A square dusk street photograph of a backlit transit poster glowing inside glass, with faint rain reflections, soft city blur in the distance, and the poster remaining fully legible as a composition. The poster should express raw market-poster painting on rough cloth or board with fearless scale distortion and thick visible brushwork, using saturated red, yellow, green, blue, black, and sun-faded cloth neutrals and a tactile surface appropriate to the medium.
+
+Subject:
+Adapt the poster into a public-facing lightbox version that still honors the original style grammar while feeling bold enough to stop a passerby from several meters away. Use giant eyes, action poses, storm skies, spirit masks, blades, creatures, flames, and hand-painted borders as the main visual ingredients, and organize them with brush-painted pseudo-titles and framing bands kept emphatic but unreadable. For the contemporary-subject axis, thread in a night bus station, generator glow, and urban hustle translated into a bold hand-painted thriller advertisement. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Let the style survive the illumination test: color blocking, silhouette contrast, and abstract lettering should stay controlled under bright internal light and reflective glass. Preserve oversized portrait dominance, uneven brush edges, hand-mixed paint, energetic anatomy distortion, and local-market immediacy. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no smooth digital airbrush, no clean vector geometry, no subtle luxury minimalism, no photographic polish.
+
+Use case:
+Ghana Hand-Painted single study 3/9, testing distance readability in public display.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.
