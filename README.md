@@ -14,6 +14,10 @@ Image and prompt pairs with original author, source, actual generation model, re
 
 The first 37 pairs have ProjectD publication receipts. Three additional reviewed editing pairs await the next publication receipt. Independent final public-browser acceptance is tracked separately.
 
+## GitHub gallery expansion
+
+[All40 Beatra Qwen Image3.0 cases](QWEN-IMAGE-3-BEATRA.md), with complete prompts and exact local images.38 approved for ProjectD; two original previews remain below its minimum dimensions. A separate955-record API Models source is being fully reconciled against491 already-present records.
+
 ## ProjectD historical backfill
 
 **1,574 historical pairs** are now archived across 16 batches with complete prompts and local images. [Browse all batches](PROJECTD-ARCHIVE.md). Their actual generation models remain unchanged; historical outputs are not relabeled as GPT Image 2.6.
