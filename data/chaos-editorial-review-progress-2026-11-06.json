@@ -20036,6 +20036,326 @@
       "nativeGitBlobVerified": "1d1af70061cc4257c276fe0c89b162771ee78e4a",
       "nativeSha256": "d3fa1771e25c3c798a755e97dae1171af2f0a4eb347245e8e390bc57b1199d53",
       "reason": "Explicit speculative Titan-like alien ecology art; not observed extraterrestrial life, validated cryogenic biology or real spacecraft/field imagery."
+    },
+    "methane-sea-titan-creature/single-methane-creature-studies/methane-wave-foraging": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "eb0a35e81db5167b01d6635762d14a53c96b07c6",
+      "nativeSha256": "b5d3455ff95e62e06297b8e59fc35bee8ab87c296c0e0a322ba0f2c62317acb4",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "methane-sea-titan-creature/single-methane-creature-studies/cryovolcanic-plume-crossing": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "0cc8465225841fdb25b3e29001e7b2375e3229d3",
+      "nativeSha256": "510b4b916fffa88674e398b5e87a3dd64b31f4fb420c069cab25e40e6eeb854b",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "methane-sea-titan-creature/single-methane-creature-studies/juvenile-huddle-basin": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d0cb4849cbfc75a7b028a286b7489e1397842174",
+      "nativeSha256": "f860cdaff5dc47dbcdf78237e4ba929d11e968b1a4ae694aac3f73e5cb4e31f7",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "methane-sea-titan-creature/single-methane-creature-studies/sonar-organ-display": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "5721d7c5247c686e96c5c23aad1d3382b32a608d",
+      "nativeSha256": "4c8620f0a81565a15cec56b1d3958edfcec561d1fbe53177fd98f8dbccd4ae0c",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "methane-sea-titan-creature/single-methane-creature-studies/stormfront-shelter-ridge": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "8ccdcd540efb5faed480f012af989f1301e90de6",
+      "nativeSha256": "2719c84d5784ca9ad997cf609ee2a2ea46395abec6895a0cc1a5aa7e2a7b77a2",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "methane-sea-titan-creature/single-methane-creature-studies/undersea-glow-silhouette": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d10ad8eebc26be35e0f24df630d08626456877df",
+      "nativeSha256": "ca6b662f81d47570524bda1e807cf055d2e4c571b9fbaee7e954bf1be0be7132",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "methane-sea-titan-creature/single-methane-creature-studies/survey-rover-encounter": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "a10f3678acd288dbf712291a232d1258033c5f3e",
+      "nativeSha256": "0e4fdfd72ab313724f65c21af1751b9d9a5bab7f7c75a663b6ef966ca7059bd4",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "mexican-street-graphics-and-taqueria-language/series-core-system/01-reference-anchor": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "cfcf2ca0f5815a8d3efaef51863cfbae3c2a0315",
+      "nativeSha256": "940ae7ec3fb77cfa9080f6d23043c42d82b9e8cc547dd89db013f3d47115dfe6",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "mexican-street-graphics-and-taqueria-language/series-core-system/02-variant-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "0588f07f7f732ed8a09334d6d37aac60d6aa3da3",
+      "nativeSha256": "5e29f7230ac4e019c5195a18a958f587d81894c22c0413e3ecc7f2d4e85af417",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "mexican-street-graphics-and-taqueria-language/series-core-system/03-variant-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "242166c923708545d3008d85925348ea1c5ec1b0",
+      "nativeSha256": "9d0320c08e176590558a0985f1f0a5c4ef61ae61896dfb4e8d4524a454c858fa",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "mexican-street-graphics-and-taqueria-language/series-core-system/04-variant-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d22157553ae2b7c38ea234886e6cbf4c1389f35a",
+      "nativeSha256": "854f83f2f10341eee7c61de8a7883e407e5d749f9c4420c23787b14373ae07d9",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "mexican-street-graphics-and-taqueria-language/single-support-studies/support-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "b78c0cf4e255ddb4e19f6e792a946cae6332032e",
+      "nativeSha256": "ba525774706f76955baf0c3b061def6f69186af75fe731b9741bac0c87e27e22",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "mexican-street-graphics-and-taqueria-language/single-support-studies/support-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "aaa025099dfdddf346ce556a91657718389f57e8",
+      "nativeSha256": "8f74e46f17b3dc19e510154139545f34104d891bbe3f3db6ca8bd6da43a5f5df",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "mexican-street-graphics-and-taqueria-language/single-support-studies/support-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "40f558524eafd5f202b06584dddc1dac920a2e2c",
+      "nativeSha256": "543e5e6c34e6e9355eb58432bbae2242b121266798738c2e9dee717e3bdc564d",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "mexican-street-graphics-and-taqueria-language/single-support-studies/support-four": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "40aa72be71c0b8ca8cde9b478260fabc214ff507",
+      "nativeSha256": "42768517a2b390fa3ba9df04ba0233a2f219288ac3027159627a1b68e274ae8f",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "mexican-street-graphics-and-taqueria-language/single-support-studies/support-five": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "sheet": 126,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "6dabf5461a195730260bd8359b77c85c4ee4ed3d",
+      "nativeSha256": "0c6e80251db5cc26582fc65f7683787c3d74e34cbc4cea4afe263c348ca3231c",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-plate-hero-shot/single-fine-dining-hero-studies/02-langoustine-citrus-ribbon": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "47890921020b06665e4f9fe569d2b59cf587e787",
+      "nativeSha256": "ec7c22174f601a3f96a7601f1ec843f8a1e3e8b7ee19839411a44cb7b39cc9b5",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-plate-hero-shot/single-fine-dining-hero-studies/03-wagyu-smoke-lacquer": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "ed7ad7ece3db014f332a6371396f12d19703e60a",
+      "nativeSha256": "3c5f619a692c7b4a08e07bab1e3b7abd7a1ff22e5dd7600de6f65a5dc84b2cc3",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-plate-hero-shot/single-fine-dining-hero-studies/04-beetroot-rose-tartare": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "7001ae744c2957bd47ecdc9627b37fb3eb2ead6c",
+      "nativeSha256": "324543126b6b7e3d062928060262bfe6bd80d0d590804aedf8ce7e98a8f8063e",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-plate-hero-shot/single-fine-dining-hero-studies/05-truffle-broth-island": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "fd5ab0d848a2c8ae6e2b1ca5f1ec54c5c517a8e4",
+      "nativeSha256": "122333c1052a772e177248d2f1015bbe4ffbdcdc02ddf1ee42514d642d9dc1ce",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-plate-hero-shot/single-fine-dining-hero-studies/06-sea-urchin-saffron-spiral": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "9570b5d51ca7cacbe469f581126ea08eebd67c1a",
+      "nativeSha256": "14a002c3711053df63926bf57c41ab4f7fba63107b9d1437eedae2179df9285d",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-plate-hero-shot/single-fine-dining-hero-studies/07-oyster-pearl-minimalism": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "8eddbdf2c56d52b457b23c136a2fb303deed4bef",
+      "nativeSha256": "8eea2fc3a433785b2a7b0596b1935e49e2b0d72ee16dc491d8ddddb998f8f3d7",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-plate-hero-shot/single-fine-dining-hero-studies/08-chocolate-orchid-sphere": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f2114479a16cdf3fe5d3d9af16291c76b5b92867",
+      "nativeSha256": "b047f5b7cc525f75862c272429fdc19724f156df7aff1c8d1ab91898117e8dfd",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-three-star-plate-art/series-core-system/01-black-plate-anchor": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "0dda8d8a47296ee7de393e9ef47b68698742f1b3",
+      "nativeSha256": "62a5753bbedca669b6dd83f88031a1e498bd0e5cc6a8a6688a53575c06471b56",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-three-star-plate-art/series-core-system/02-scallop-crescent": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f21aea98ba7c8b59f4f45b409fce03e528f92a7c",
+      "nativeSha256": "db0a4ed5cb9838ea0bedf6bc8d6040921820cf032ad3f9d71d4f637414308360",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-three-star-plate-art/series-core-system/03-duck-breast-ribbon": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "e31eb9b758e59b158e5a0c11f6be31e4ee5ea121",
+      "nativeSha256": "16cbf4fd2b4ca4aa7ee7e25cc3a50654233b7178c7d35387295b66d8b746de72",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-three-star-plate-art/series-core-system/04-plum-dessert-orbit": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "79bde22f1cb8c7de595f6e4dcbcac89d5cebff5b",
+      "nativeSha256": "05388cda5130599e0963a18fd6d2a0a02e0c656ba548568514ce6eeea021bf1b",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-three-star-plate-art/single-support-studies/amuse-bouche-constellation": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "04a3bbedfe9e56ad04877e1b11b560669a16394f",
+      "nativeSha256": "35a0149ea30eb3a1335879f1b7b36234b30363b94bccb5c318e50443b4bde11a",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-three-star-plate-art/single-support-studies/sauce-calligraphy-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "3d4e1ca18229e34d1afc0cfb8829771f51aa88ee",
+      "nativeSha256": "204fabd16cd44d1002ebc3350392a4020590eecd4f689d90b059e0c09064d2dd",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-three-star-plate-art/single-support-studies/garnish-micro-meadow": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "781376fe2c27003d1628fea1ad565e94053204e0",
+      "nativeSha256": "9119c89846d95b31048a4802e50315a63ea9e6a085bc82471aba690b6d489829",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-three-star-plate-art/single-support-studies/chef-pass-overhead": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "69c69ec1ad5f22af1149c2fbf5e0cb9724c45dce",
+      "nativeSha256": "5de4d586e535c6888337f8bea2c17adb38ee76ee4cbbbfe678d42dce73be8efd",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
+    },
+    "michelin-three-star-plate-art/single-support-studies/petit-four-void": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
+      "sheet": 127,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "e952d479b95460e29853912312159fcffe5be1a1",
+      "nativeSha256": "30a59a8366dbc54c5afaef34203b3cc560b90ea45e9ea2d0fd9a722da3e9448c",
+      "reason": "Complete full source prompt and uncropped author-published image correspond. Preserve actual dimensions, source reference requirements and generation imperfections."
     }
   },
   "sheets": {
@@ -20661,6 +20981,16 @@
     },
     "125": {
       "reviewedAt": "2026-11-05T19:28:22.975730+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "126": {
+      "reviewedAt": "2026-11-05T19:49:46.307220+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "127": {
+      "reviewedAt": "2026-11-05T19:51:43.119544+00:00",
       "cases": 16,
       "held": 0
     }
