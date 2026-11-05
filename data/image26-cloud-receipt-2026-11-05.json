@@ -1,0 +1,35 @@
+{
+  "runId": "41995538782",
+  "url": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782",
+  "status": "success",
+  "sourceCommit": "a16132859ff2e1a78ec90319acfdb381a93fd63c",
+  "records": [
+    {
+      "uploaded": 417
+    },
+    {
+      "releaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "uploaded": 169
+    },
+    {
+      "sourceReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "status": "updated",
+      "documents": 26,
+      "urls": 60290,
+      "checkpoint": "sitemap-publication/checkpoints/befb71a67eb8e665c77a19520d76bde53eccbf86e30734f8fc4596548dc8ed47.json"
+    },
+    {
+      "releaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "total": 6992,
+      "verifiedAssets": 5521
+    },
+    {
+      "releaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "status": "published",
+      "acceptedSnapshotWrites": {
+        "archive": true,
+        "current": true
+      }
+    }
+  ]
+}

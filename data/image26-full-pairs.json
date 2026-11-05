@@ -26,7 +26,11 @@
       "promptLicenseSource": null,
       "primaryImageHash": "3416bc29fbc252f8b81bffd041336850595f365222b9aec292a42190be36efe4",
       "primaryImageBytesMatch": true,
-      "projectdId": "82c6f87ff1ab01"
+      "projectdId": "82c6f87ff1ab01",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/82c6f87ff1ab01",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-02",
@@ -77,7 +81,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "1c1a8446c094ea93102ad6664e76b3b75f3475fcc9c3c98e5c1762dbd4ba4a44",
       "primaryImageBytesMatch": true,
-      "projectdId": "617961e67383df"
+      "projectdId": "617961e67383df",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/617961e67383df",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-04",
@@ -105,7 +113,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "45eb4af6120c0770d79dbfe6d9c5ef3c2562f092cc6642b706a16c96d1e676d7",
       "primaryImageBytesMatch": true,
-      "projectdId": "c6a5a53f385694"
+      "projectdId": "c6a5a53f385694",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/c6a5a53f385694",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-05",
@@ -133,7 +145,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "cc8db1ff218d921c139ed3e6774f2a784072e6872d0d6c941bd9ce97c24d86ec",
       "primaryImageBytesMatch": true,
-      "projectdId": "296e401e215871"
+      "projectdId": "296e401e215871",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/296e401e215871",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-06",
@@ -161,7 +177,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "3bd36da538b0f3e839461e6c8ac669724d3f1d03507e73fd280b10bc4cc7343c",
       "primaryImageBytesMatch": true,
-      "projectdId": "46d7b704338bf8"
+      "projectdId": "46d7b704338bf8",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/46d7b704338bf8",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-07",
@@ -212,7 +232,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "5b551e29ea4ebdd68f953f22f5b38657accdda5e3af654eb45c069da945eac14",
       "primaryImageBytesMatch": true,
-      "projectdId": "d1011ccb7bf418"
+      "projectdId": "d1011ccb7bf418",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/d1011ccb7bf418",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-09",
@@ -240,7 +264,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "d5c606064eef1e54e2755ba1d73cc052d3e1001868e3abdf2075abc0888412f4",
       "primaryImageBytesMatch": true,
-      "projectdId": "5318a2f5b00601"
+      "projectdId": "5318a2f5b00601",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/5318a2f5b00601",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-10",
@@ -268,7 +296,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "c778357d69029cc0170c648afe16fb23d85d8d16db091749e2d3ea88f6564311",
       "primaryImageBytesMatch": true,
-      "projectdId": "40ff389649857e"
+      "projectdId": "40ff389649857e",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/40ff389649857e",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-11",
@@ -320,7 +352,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "12b194bcbb5b77e1d4707075686d2dd097d31f8aba2eccf112166dab4e388191",
       "primaryImageBytesMatch": true,
-      "projectdId": "1edebf7c82d27a"
+      "projectdId": "1edebf7c82d27a",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/1edebf7c82d27a",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-13",
@@ -394,7 +430,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "48b8779f2dcd9846b6c3505583cab4dd10c2a8ad86ca61fbfb2d8965b36e0153",
       "primaryImageBytesMatch": true,
-      "projectdId": "13733117cdfdce"
+      "projectdId": "13733117cdfdce",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/13733117cdfdce",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-17",
@@ -422,7 +462,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "6bc8bc3793b507ad727631ef85fe3ba3d1b5abb34d5ff8c8676586b71eba2c6e",
       "primaryImageBytesMatch": true,
-      "projectdId": "b94f50b8d12141"
+      "projectdId": "b94f50b8d12141",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/b94f50b8d12141",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-18",
@@ -450,7 +494,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "a598c9219be4abcdcac598b9773a6161a06afaadba412cb1fc09e9b3c2219118",
       "primaryImageBytesMatch": true,
-      "projectdId": "8133aca2afa05e"
+      "projectdId": "8133aca2afa05e",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/8133aca2afa05e",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-19",
@@ -478,7 +526,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "b226708e747e6f2fdaf575db11f8f09675ae56d9e7a614a238e130624fa3a66d",
       "primaryImageBytesMatch": true,
-      "projectdId": "4d132bbcdeb786"
+      "projectdId": "4d132bbcdeb786",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/4d132bbcdeb786",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-20",
@@ -506,7 +558,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "53e62eb941561e0b014be1e04e8a5401554276b06e71b86c7682e61bae3409db",
       "primaryImageBytesMatch": true,
-      "projectdId": "7a842a1d3db289"
+      "projectdId": "7a842a1d3db289",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/7a842a1d3db289",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-21",
@@ -534,7 +590,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "3ded57293e1dc0e8c0d4662a014bfba2024e62a50603834c9a246aea544c335a",
       "primaryImageBytesMatch": true,
-      "projectdId": "21afbb3cbbe19f"
+      "projectdId": "21afbb3cbbe19f",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/21afbb3cbbe19f",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-22",
@@ -562,7 +622,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "95992e80787b9cb11023aaf00876d0882deba4328c07298235b6f3b847a37ac2",
       "primaryImageBytesMatch": true,
-      "projectdId": "509c302fc76df9"
+      "projectdId": "509c302fc76df9",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/509c302fc76df9",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-23",
@@ -590,7 +654,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "3ac357629a68a13a53b39bf5540f4ab2e2204a2268bc2bc51bab7d0e3963966e",
       "primaryImageBytesMatch": true,
-      "projectdId": "f218fba12cb471"
+      "projectdId": "f218fba12cb471",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/f218fba12cb471",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-24",
@@ -618,7 +686,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "19b7f2c7990a5e60fe67e24c6439608a0513ac87b93bacbde674bb7cb536ff2c",
       "primaryImageBytesMatch": true,
-      "projectdId": "764a3095b2a61f"
+      "projectdId": "764a3095b2a61f",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/764a3095b2a61f",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-25",
@@ -646,7 +718,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "a7a275fdadb8f30108c8a30bd7659528a52476ef1090f8f6c05f892e77dd11bd",
       "primaryImageBytesMatch": true,
-      "projectdId": "b90e133202c83a"
+      "projectdId": "b90e133202c83a",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/b90e133202c83a",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-26",
@@ -674,7 +750,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "83ec021188b38c1857a191719be270b006ffeca3cc9fa922293e506ecd70f91a",
       "primaryImageBytesMatch": true,
-      "projectdId": "776a1404a00033"
+      "projectdId": "776a1404a00033",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/776a1404a00033",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-27",
@@ -702,7 +782,11 @@
       "promptLicenseSource": "https://github.com/openai/openai-cookbook/blob/d310dfa05d20fb653caa9c1c4b89ac1a4aeeeae4/LICENSE",
       "primaryImageHash": "b462b4be5ba852640c998646254f5b575401f5f6c1178725b310ee71bafbe147",
       "primaryImageBytesMatch": true,
-      "projectdId": "d15ff05d90a26a"
+      "projectdId": "d15ff05d90a26a",
+      "projectdStatus": "published",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/d15ff05d90a26a",
+      "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
     },
     {
       "id": "official-28",

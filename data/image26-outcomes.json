@@ -2,115 +2,115 @@
   "sourceGroups": 50,
   "fullPairsArchived": 21,
   "pending": 29,
-  "projectdPublished": 0,
+  "projectdPublished": 21,
   "outcomes": [
     {
       "id": "official-case-1",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-2",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-3",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-4",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-5",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-6",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-7",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-8",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-9",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-10",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-11",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-12",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-13",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-14",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-16",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-17",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-18",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-19",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-20",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-21",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-22",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-23",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-24",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-25",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-26",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-27",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "official-case-28",
-      "outcome": "full-pair-archived"
+      "outcome": "full-pair-archived-and-projectd-published"
     },
     {
       "id": "nightlab-01",
@@ -204,5 +204,7 @@
       "id": "creator-v3rt0x-tea",
       "outcome": "held-no-explicit-creator-reuse-license"
     }
-  ]
+  ],
+  "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+  "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
 }

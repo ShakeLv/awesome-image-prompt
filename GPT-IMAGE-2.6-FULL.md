@@ -2,7 +2,7 @@
 
 已核对 21 组完整图文。图片、完整 prompt 文件和原始来源均保存在本仓库。模型标注以官方 2.6 文档及对应图片为依据。
 
-Prompt 许可和图片版权分别记录，原始署名保留。ProjectD 上线状态单独记录。
+Prompt 许可和图片版权分别记录，原始署名保留。21 组均已通过审核并在 [ProjectD 上线](https://aitoolsradar.com/zh/prompts?model=GPT%20Image%202.6%20Sunburst)。[发布验收](data/image26-public-acceptance-2026-11-05.json)。
 
 ## Paper-cut football championship celebration
 

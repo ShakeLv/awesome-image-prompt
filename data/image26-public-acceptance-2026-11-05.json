@@ -1,0 +1,70 @@
+{
+  "origin": "https://aitoolsradar.com",
+  "cases": 21,
+  "clipboard": 21,
+  "media": 21,
+  "pagination": 30,
+  "locales": 10,
+  "releaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
+  "readOnly": true,
+  "workflowRunId": "41995538782",
+  "dataCommit": "a16132859ff2e1a78ec90319acfdb381a93fd63c",
+  "batchSha256": "94a08d41a290e649440cdc8976c4148c4ab4e8f4ddc3c5cfaf0c56b7275ea969",
+  "verifiedIds": [
+    "82c6f87ff1ab01",
+    "617961e67383df",
+    "c6a5a53f385694",
+    "296e401e215871",
+    "46d7b704338bf8",
+    "d1011ccb7bf418",
+    "5318a2f5b00601",
+    "40ff389649857e",
+    "1edebf7c82d27a",
+    "13733117cdfdce",
+    "b94f50b8d12141",
+    "8133aca2afa05e",
+    "4d132bbcdeb786",
+    "7a842a1d3db289",
+    "21afbb3cbbe19f",
+    "509c302fc76df9",
+    "f218fba12cb471",
+    "764a3095b2a61f",
+    "b90e133202c83a",
+    "776a1404a00033",
+    "d15ff05d90a26a"
+  ],
+  "verifiedImageHashes": {
+    "82c6f87ff1ab01": "3416bc29fbc252f8b81bffd041336850595f365222b9aec292a42190be36efe4",
+    "617961e67383df": "1c1a8446c094ea93102ad6664e76b3b75f3475fcc9c3c98e5c1762dbd4ba4a44",
+    "c6a5a53f385694": "45eb4af6120c0770d79dbfe6d9c5ef3c2562f092cc6642b706a16c96d1e676d7",
+    "296e401e215871": "cc8db1ff218d921c139ed3e6774f2a784072e6872d0d6c941bd9ce97c24d86ec",
+    "46d7b704338bf8": "3bd36da538b0f3e839461e6c8ac669724d3f1d03507e73fd280b10bc4cc7343c",
+    "d1011ccb7bf418": "5b551e29ea4ebdd68f953f22f5b38657accdda5e3af654eb45c069da945eac14",
+    "5318a2f5b00601": "d5c606064eef1e54e2755ba1d73cc052d3e1001868e3abdf2075abc0888412f4",
+    "40ff389649857e": "c778357d69029cc0170c648afe16fb23d85d8d16db091749e2d3ea88f6564311",
+    "1edebf7c82d27a": "12b194bcbb5b77e1d4707075686d2dd097d31f8aba2eccf112166dab4e388191",
+    "13733117cdfdce": "48b8779f2dcd9846b6c3505583cab4dd10c2a8ad86ca61fbfb2d8965b36e0153",
+    "b94f50b8d12141": "6bc8bc3793b507ad727631ef85fe3ba3d1b5abb34d5ff8c8676586b71eba2c6e",
+    "8133aca2afa05e": "a598c9219be4abcdcac598b9773a6161a06afaadba412cb1fc09e9b3c2219118",
+    "4d132bbcdeb786": "b226708e747e6f2fdaf575db11f8f09675ae56d9e7a614a238e130624fa3a66d",
+    "7a842a1d3db289": "53e62eb941561e0b014be1e04e8a5401554276b06e71b86c7682e61bae3409db",
+    "21afbb3cbbe19f": "3ded57293e1dc0e8c0d4662a014bfba2024e62a50603834c9a246aea544c335a",
+    "509c302fc76df9": "95992e80787b9cb11023aaf00876d0882deba4328c07298235b6f3b847a37ac2",
+    "f218fba12cb471": "3ac357629a68a13a53b39bf5540f4ab2e2204a2268bc2bc51bab7d0e3963966e",
+    "764a3095b2a61f": "19b7f2c7990a5e60fe67e24c6439608a0513ac87b93bacbde674bb7cb536ff2c",
+    "b90e133202c83a": "a7a275fdadb8f30108c8a30bd7659528a52476ef1090f8f6c05f892e77dd11bd",
+    "776a1404a00033": "83ec021188b38c1857a191719be270b006ffeca3cc9fa922293e506ecd70f91a",
+    "d15ff05d90a26a": "b462b4be5ba852640c998646254f5b575401f5f6c1178725b310ee71bafbe147"
+  },
+  "initialAttempts": [
+    {
+      "issue": "Five-second async filter readiness wait expired",
+      "resolution": "Waited for the exact requested 21-card state with a bounded 60-second readiness wait."
+    },
+    {
+      "issue": "Node API response body timed out after 200 cache HIT headers",
+      "resolution": "Read complete bytes in the normal browser network stack; all 21 SHA-256 comparisons passed."
+    }
+  ],
+  "desktopScreenshotSha256": "87e55b9250c7092100ddcb1f2ecfd4def13049a319c833b4458d55cf50ce1d03"
+}
