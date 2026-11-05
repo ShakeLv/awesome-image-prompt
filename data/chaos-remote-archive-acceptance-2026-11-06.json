@@ -1,0 +1,14 @@
+{
+  "verifiedAt": "2026-11-05T17:10:32.321206+00:00",
+  "remoteCommit": "c8b2a707eabdcaffa7967ad42d0143c715316bc9",
+  "verifiedNativeImagePromptCreditAndSourceBlobs": 10897,
+  "sourcePairedNewArchive": 3631,
+  "earlierArchivedPairs": 2103,
+  "totalArchivedSourcePairs": 5734,
+  "pendingIndividualProjectDReviewInNewSource": 3631,
+  "approvedForProjectDInNewSource": 0,
+  "sourceExistingPromptPairsSkipped": 166,
+  "missingSourceImageRecords": 1,
+  "nativeMediaBytes": 1334451348,
+  "method": "Native original-source Git blob SHA1 equals accepted GitHub blob. Full prompt and credit/source bytes recomputed as Git objects and matched against complete nontruncated remote tree. No visual review, raw API pixel provenance, ProjectD publication or2.6 label inferred."
+}
