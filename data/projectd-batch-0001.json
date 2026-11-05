@@ -1,0 +1,1356 @@
+{
+  "origin": "ProjectD local dataset; existing publication acceptance: docs/prompt-nano-banana21-acceptance-2026-10-14.md",
+  "items": [
+    {
+      "id": "a75b1d5a6afd62",
+      "title": "Pure White Marketplace Packshot (reference photo required)",
+      "prompt": "Keep the product exactly as it is, including its shape, label, colors and proportions. Replace the background with pure white (#FFFFFF) and center the product. Light it with soft, even studio light from both sides and add a subtle natural contact shadow under its base. Crisp edges, no color spill, clean e-commerce packshot.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/studio-pure-white-amazon",
+      "image": "/prompt-gallery/a75b1d5a6afd62-8e4e70653571f81b.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-pure-white-amazon-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-pure-white-amazon-after.webp",
+        "originalImageHash": "99954f4445f815994cef2a50d3f2b37dd6923720ce43cc36488bd38de928cd18",
+        "imageHash": "8e4e70653571f81bf926f66f382e587e30f448cb43face3d85308e616884e7f5",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "0da3dcaaefe00a",
+      "title": "Black Acrylic Mirror Reflection (reference photo required)",
+      "prompt": "Keep the product unchanged. Place it on glossy black acrylic with a crisp mirror reflection that fades downward. Use a dark, seamless background and a dramatic rim light along both edges of the product. Deep contrast, luxury brand look, ultra-sharp detail.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/studio-acrylic-reflection",
+      "image": "/prompt-gallery/0da3dcaaefe00a-87bfc1f1134547f0.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-acrylic-reflection-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-acrylic-reflection-after.webp",
+        "originalImageHash": "3dd189c78adafc3ceae72bc4ff93ea4cc7ecc8678f743ee3020445fbd17d9d83",
+        "imageHash": "87bfc1f1134547f04d03347850f23492cfeaf617105e7d6225966a784ec98535",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "ef57d4605972d1",
+      "title": "Floating Hero Shot (reference photo required)",
+      "prompt": "Keep the product unchanged. Make it float about 2 cm above a seamless off-white studio backdrop, with a soft, diffused shadow on the floor directly beneath it. Soft overhead lighting, clean and minimal catalog style.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/studio-floating-ambient-shadow",
+      "image": "/prompt-gallery/ef57d4605972d1-d0556010c64ce2e0.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-floating-ambient-shadow-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-floating-ambient-shadow-after.webp",
+        "originalImageHash": "71e338c054381cd7c4a877d024b9bda0ae9a21e0a147b082e65e4d32a95827b3",
+        "imageHash": "d0556010c64ce2e073661fefd870909a4b63bb11411d544e13fd569eb45339ee",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "277764e03c7728",
+      "title": "Overhead Flat Lay on Light Gray (reference photo required)",
+      "prompt": "Keep the product exactly as it is, including its shape, stitching, colors and any logo. Show it as an overhead flat lay, photographed straight down and centered on a light gray seamless background. Soft, even lighting with only a faint shadow. Clean, minimal marketplace listing photo.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/studio-overhead-flat-lay",
+      "image": "/prompt-gallery/277764e03c7728-1182415ae85a470a.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-overhead-flat-lay-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-overhead-flat-lay-after.webp",
+        "originalImageHash": "8f469d8519551ef5b756396a1ee362109a9bf69eac041ecb89150e1dd2290622",
+        "imageHash": "1182415ae85a470a3571b1d94db214363bf543ec6bb5c45c0bac42e3f3de22f2",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "0a401865f4d6ef",
+      "title": "Three-Quarter Catalog Angle (reference photo required)",
+      "prompt": "Keep the product's design, colors, materials and logo exactly as they are. Show it at a three-quarter angle, turned about 45 degrees to the left, on a pure white background with a soft contact shadow. Even studio lighting, consistent e-commerce catalog style.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/studio-three-quarter-angle",
+      "image": "/prompt-gallery/0a401865f4d6ef-fb2a3d91754aa27d.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-three-quarter-angle-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-three-quarter-angle-after.webp",
+        "originalImageHash": "f6cf5e61696475ae7911abd23db070e3aff1798349a4afac7b4e61a6b96dff01",
+        "imageHash": "fb2a3d91754aa27df0dfbbc32c815a967c23d24550889218f6577bb31f232765",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "843d5e52aae605",
+      "title": "Material Close-Up for Detail Images (reference photo required)",
+      "prompt": "Turn this into a close-up detail shot of the product's material and craftsmanship. Fill the frame with its surface texture, stitching and hardware, using a shallow depth of field and soft side light that brings out the texture. Keep the colors, materials and hardware finish exactly as in the original photo.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/studio-material-detail-closeup",
+      "image": "/prompt-gallery/843d5e52aae605-dc9f59f5600dc6fc.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-material-detail-closeup-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-material-detail-closeup-after.webp",
+        "originalImageHash": "6f5cd1e7f8bc6560067867754cb9c277a156f735a55964885e1ce16dbc39be62",
+        "imageHash": "dc9f59f5600dc6fcb00bc87c6a6da274b08eda9875ce4c6cd5520f3149fbfe31",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "cf585707446a40",
+      "title": "Preview Colorways Side by Side (reference photo required)",
+      "prompt": "Show this product in four colorways side by side: its original color, sage green, sand beige and charcoal black. Keep the shape, materials, details and logo identical across all four. Space them evenly on a light gray background with the same soft studio light and matching shadows.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/studio-colorway-lineup",
+      "image": "/prompt-gallery/cf585707446a40-507a58cc67274258.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-colorway-lineup-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-colorway-lineup-after.webp",
+        "originalImageHash": "4a4da0f0ad1860e4016223030ac6f21856794d925fe407be9bb5121289b36988",
+        "imageHash": "507a58cc6727425833a1be137c1df0a33557260a61b04830ff179b2d870aac37",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "a76fc0f664a985",
+      "title": "Travertine Block in Morning Light (reference photo required)",
+      "prompt": "Keep the product exactly as it is, including its shape, label and colors. Place it on a raw-cut beige travertine block with a few dried botanical stems beside it. Soft morning window light casts dappled leaf shadows across the scene. Warm, organic mood, shallow depth of field, editorial lifestyle photo.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/lifestyle-travertine-stone",
+      "image": "/prompt-gallery/a76fc0f664a985-dbef9442a6e3a40d.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-travertine-stone-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-travertine-stone-after.webp",
+        "originalImageHash": "ba9ed0ff2bc5fbeaf8a05fe4c10b9f00f67927d359a59b8933e7d427fc544f23",
+        "imageHash": "dbef9442a6e3a40def64870a37973195ecfb043d2dbd6257da73097c6acbed2d",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "f7917793ce18c0",
+      "title": "Marble Vanity with Water Droplets (reference photo required)",
+      "prompt": "Keep the product unchanged. Place it on a polished white Carrara marble bathroom vanity with fine water droplets on the surface. Soft light through a frosted window, a blurred luxury spa bathroom in the background. Fresh, clean skincare advertising look with crisp focus on the product.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/lifestyle-marble-bathroom-dew",
+      "image": "/prompt-gallery/f7917793ce18c0-49795a72ba8b7b90.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-marble-bathroom-dew-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-marble-bathroom-dew-after.webp",
+        "originalImageHash": "b317b1ad4b993837bb2c0608f0fdcf3cfe52073f5011c33d6198573a62107ea8",
+        "imageHash": "49795a72ba8b7b903974e0f9588728c214b690140ef1246be3b5a9a345d88222",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "2729aaf9ef12df",
+      "title": "Oak Table with Kitchen Props (reference photo required)",
+      "prompt": "Keep the product unchanged. Place it on a natural oak tabletop with visible wood grain, with a ceramic cup and a linen napkin nearby. Warm daylight from a side window, authentic Scandinavian home atmosphere, f/4 depth of field, product in sharp focus.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/lifestyle-scandinavian-wood-kitchen",
+      "image": "/prompt-gallery/2729aaf9ef12df-0047d99f7ea8d809.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-scandinavian-wood-kitchen-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-scandinavian-wood-kitchen-after.webp",
+        "originalImageHash": "11fcf2bd76c8f3798073bed623248a7c25056b44023810336221421fe9091d8b",
+        "imageHash": "0047d99f7ea8d809c119398153b0fb08704cd947c127dc6ecb1cc8b8ae08324b",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "61d0588d6c92bd",
+      "title": "Concrete Podium, Tech Style (reference photo required)",
+      "prompt": "Keep the product unchanged. Place it on a minimalist raw gray concrete cylinder podium with a few brushed-metal geometric shapes around it. Cool architectural light with sharp, angular shadows. Modern industrial look for tech accessories, high detail.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/lifestyle-industrial-concrete-podium",
+      "image": "/prompt-gallery/61d0588d6c92bd-a7ac12f966cbfb90.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-industrial-concrete-podium-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-industrial-concrete-podium-after.webp",
+        "originalImageHash": "4b227583535bad23c12000d003b46e8e77be406bc1a92bd09109dfdedc58e328",
+        "imageHash": "a7ac12f966cbfb90f47caf98f95a78733cab3299a97c3ffee57fe086f7410580",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "90d8b971e14ba3",
+      "title": "Bright Modern Living Room (reference photo required)",
+      "prompt": "Keep the product exactly as it is, including its shape, finish and colors. Place it on a light oak sideboard in a bright, modern living room, with a sofa and green plants softly blurred behind it. Natural daylight from a large window, shadows that match the light, photorealistic interior catalog photo.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/lifestyle-bright-living-room",
+      "image": "/prompt-gallery/90d8b971e14ba3-9dd711e37b6e8a43.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-bright-living-room-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-bright-living-room-after.webp",
+        "originalImageHash": "029cd2d8db42fd337335544fdab9b0731de259f88e05427e7618fe1d46f8b02a",
+        "imageHash": "9dd711e37b6e8a438136f5257d0945bfee452313e95df7cba4c32d8be9403ad8",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "a0321566daaede",
+      "title": "Sunny Picnic Blanket (reference photo required)",
+      "prompt": "Keep the product unchanged. Place it on a red and white checkered picnic blanket in a sunny park, with a wicker basket and fresh fruit nearby and trees softly blurred in the background. Bright natural daylight with soft shadows, shallow depth of field, cheerful summer lifestyle photo.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/lifestyle-outdoor-picnic",
+      "image": "/prompt-gallery/a0321566daaede-bd59c46f89f3c6e2.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-outdoor-picnic-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-outdoor-picnic-after.webp",
+        "originalImageHash": "43468605a1c092525707e25b1a49f73cae110e24b0c8228e0d79da4a7064dad6",
+        "imageHash": "bd59c46f89f3c6e2c24ca5525e1ce2b1336074d98a7fda76d849f706f5acbf7c",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "0ee969c84f9053",
+      "title": "Neon Gaming Desk (reference photo required)",
+      "prompt": "Keep the product unchanged, including its shape, buttons and logo. Place it on a dark desk mat in a gaming setup, with a mechanical keyboard and the glow of a monitor softly blurred behind it. Purple and cyan neon light with subtle RGB reflections along the product's edges. Moody, high-contrast tech product photo.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/lifestyle-neon-gaming-desk",
+      "image": "/prompt-gallery/0ee969c84f9053-d1a0a222aae9f849.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-neon-gaming-desk-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-neon-gaming-desk-after.webp",
+        "originalImageHash": "a70e9bb71642b98c9a9adce4a6ed595a7e9938284fddf7c977152c376ec97382",
+        "imageHash": "d1a0a222aae9f84941c22bf71aa4aff3d3ea14d0703d6660bce9a85643bbd3d2",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "bbc388d92cb62e",
+      "title": "Remove Glare on Shiny Surfaces (mask required)",
+      "prompt": "Remove the glare, window reflections and camera reflection in the marked area of the shiny surface. Replace them with a smooth, even highlight that follows the surface's curvature, so it blends seamlessly with the rest of the product. Keep everything outside the marked area unchanged.\n\nApply the edit only inside the white region of the following mask.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/cleanup-remove-glare-reflections",
+      "image": "/prompt-gallery/bbc388d92cb62e-46a992efd9c6272f.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-remove-glare-reflections-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-remove-glare-reflections-after.webp",
+        "originalImageHash": "3b32e7729c91ba333a9e55dd80930b04d273111e38ef033bcbf94bef51da5c16",
+        "imageHash": "46a992efd9c6272f8b35be3c79075f85d337b2e0bd3f0547549e66d2d44a47eb",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "eeca6130e5a4ec",
+      "title": "Erase Barcode and Price Sticker (mask required)",
+      "prompt": "Erase the barcode, price sticker and any text label in the marked area. Rebuild the packaging underneath so its color, texture and printed pattern continue naturally, with no smudges or leftover edges. Keep everything outside the marked area unchanged.\n\nApply the edit only inside the white region of the following mask.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/cleanup-erase-barcode-watermark",
+      "image": "/prompt-gallery/eeca6130e5a4ec-6c6160c6bc6d5500.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-erase-barcode-watermark-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-erase-barcode-watermark-after.webp",
+        "originalImageHash": "e8cebfce0c639b6d855441e75015204330530cafe8fe372315f65d54a93cf1bc",
+        "imageHash": "6c6160c6bc6d5500a033fda45b4b3c56fef02b3b43482b866c25e7a8bb7b3532",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "e4e3843772bcc8",
+      "title": "Remove Dust and Fingerprints (reference photo required)",
+      "prompt": "Remove all dust, lint, fingerprints and fine scratches from the product's surface. Keep its shape, color, glossy finish, logo and reflections exactly as they are, and leave the background unchanged. Clean, freshly unboxed look.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/cleanup-dust-fingerprints",
+      "image": "/prompt-gallery/e4e3843772bcc8-d930b6567dc6171f.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-dust-fingerprints-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-dust-fingerprints-after.webp",
+        "originalImageHash": "ca35e3ee3f58490b3ed8201ee367fcf2c043461c97777a985265fdd6c3727eae",
+        "imageHash": "d930b6567dc6171fe609a2aa63480ad4ccae4f7a11eb3ac4d4287f158a3112db",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "0b716d87f908b6",
+      "title": "Place a Product into Your Scene (two reference images)",
+      "prompt": "Place the product from IMG_2 on the table in IMG_1. Keep the product's shape, label and colors exactly as in IMG_2. Match IMG_1's perspective, lighting direction and color temperature, and add a natural contact shadow so the product looks photographed in place. Keep the rest of IMG_1 unchanged.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/compose-product-into-scene",
+      "image": "/prompt-gallery/0b716d87f908b6-91ccbd4a7f84d155.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-product-into-scene-before.webp",
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-product-into-scene-reference.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-product-into-scene-after.webp",
+        "originalImageHash": "ba22795574b99f72a6888312aeed857783cb050bbc656eb307e3f5622a2df9ac",
+        "imageHash": "91ccbd4a7f84d155f26f7b987ef144f478e4d96cb2312504cf93d29a781bf2f5",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Supply IMG_1 and IMG_2 in order. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "ea5d723b65dc2f",
+      "title": "Bundle Two Products into One Shot (two reference images)",
+      "prompt": "Combine the product in IMG_1 and the product in IMG_2 into one bundle photo. Keep both products exactly as they are, including their shapes, labels and colors. Arrange them side by side on a pure white background with the same soft studio light and natural contact shadows. Clean gift-set listing image.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/compose-bundle-group-shot",
+      "image": "/prompt-gallery/ea5d723b65dc2f-4cc7fb8652307f06.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-bundle-group-shot-before.webp",
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-bundle-group-shot-reference.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-bundle-group-shot-after.webp",
+        "originalImageHash": "dcd33de941fd4f733f8100be168b7fcedcce60d7eba0e09e7db2eb6db3dc392e",
+        "imageHash": "4cc7fb8652307f06052068d7cde0c2449802cce9a82a5cfdca21bba8254223ad",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Supply IMG_1 and IMG_2 in order. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "7324877da73f85",
+      "title": "Match Your Existing Catalog Look (two reference images)",
+      "prompt": "Restyle IMG_1 to match the look of IMG_2: use the same background color, lighting direction, shadow style and color grade. Keep the product in IMG_1 exactly as it is, including its shape, label and colors. Do not copy the product or props from IMG_2.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product & Commercial"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/compose-match-catalog-style",
+      "image": "/prompt-gallery/7324877da73f85-c795b01510058f1d.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-match-catalog-style-before.webp",
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-match-catalog-style-reference.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-match-catalog-style-after.webp",
+        "originalImageHash": "a55460338f4d30f4efab3255123c7fc1b4ceb1357a49242e90f45e0be9945942",
+        "imageHash": "c795b01510058f1d8fc9553021365820f5c2fde2a55d03b053e11956a8fd7606",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Supply IMG_1 and IMG_2 in order. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "d28d53d6844f4e",
+      "title": "Ghost Mannequin to Street Model (reference photo required)",
+      "prompt": "Show the garment in this photo worn by a tall female model walking on a European cobblestone street. Keep the garment exactly as it is: cut, color, pattern, buttons and seams. Natural fabric folds and movement, golden-hour side light, 35mm street fashion photo.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Fashion & Beauty"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/apparel-ghost-mannequin-to-street-model",
+      "image": "/prompt-gallery/d28d53d6844f4e-1758b9a92060eda3.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/apparel-ghost-mannequin-to-street-model-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/apparel-ghost-mannequin-to-street-model-after.webp",
+        "originalImageHash": "1b4a58857d6323f161b127ad07811ef6520ce8c4098fb2910aa1ce34b07acb61",
+        "imageHash": "1758b9a92060eda344b1836370a21bd071ef8df1eef318ba07d31339ef18733b",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "d76f624ea65067",
+      "title": "Virtual Try-On (two reference images)",
+      "prompt": "Dress the person in IMG_1 in the garment from IMG_2. Keep the person's face, hairstyle, body shape and pose unchanged. Keep the garment's cut, color, fabric texture and seams exactly as in IMG_2, with natural folds that fit the pose. Keep IMG_1's background and lighting.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Fashion & Beauty"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/compose-virtual-try-on",
+      "image": "/prompt-gallery/d76f624ea65067-86250fbec1908c12.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-virtual-try-on-before.webp",
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-virtual-try-on-reference.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-virtual-try-on-after.webp",
+        "originalImageHash": "4d1b4d8acbcbdb5d7b968e2b78f5e5b4c879a65171fd66c935757d3a7e595675",
+        "imageHash": "86250fbec1908c129596a9029ebfc7662f3afd7fb42918ef34a8fb63a566e86b",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Supply IMG_1 and IMG_2 in order. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "8186f5ea3178fe",
+      "title": "Upgrade Fabric to Silk (mask required)",
+      "prompt": "Change the fabric of the garment in the marked area to heavy, lustrous mulberry silk with a fluid drape and soft highlights along the folds. Keep the garment's cut, seams, color and fit unchanged, and keep everything outside the marked area as it is.\n\nApply the edit only inside the white region of the following mask.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Fashion & Beauty"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/apparel-silk-texture-upgrade",
+      "image": "/prompt-gallery/8186f5ea3178fe-8cbe2e978fba7bbe.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/apparel-silk-texture-upgrade-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/apparel-silk-texture-upgrade-after.webp",
+        "originalImageHash": "1f630b63383f925e33bc6ad0b77ad3a9e0ca738a89b2128a151a003859fb4ed8",
+        "imageHash": "8cbe2e978fba7bbe122030d4d37ef8eaf2e1637909a82c365c20acd56c96c47c",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "e1f76baa61fa6e",
+      "title": "Smooth Out Fabric Wrinkles (mask required)",
+      "prompt": "Smooth out the creases and wrinkles in the marked area as if the garment had been professionally steamed. Keep the woven fabric texture, color, seams and the garment's natural shading. Keep everything outside the marked area unchanged.\n\nApply the edit only inside the white region of the following mask.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Fashion & Beauty"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/cleanup-smooth-fabric-wrinkles",
+      "image": "/prompt-gallery/e1f76baa61fa6e-2f81e58a239a8742.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-smooth-fabric-wrinkles-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-smooth-fabric-wrinkles-after.webp",
+        "originalImageHash": "309a90cb89ca7a8be969c7ef4ce34d5f762f3a0849783d7f4ffa1fff6b5bde77",
+        "imageHash": "2f81e58a239a8742935bc5794a55446001a381b38787fcb865e5ba581ce5c4cc",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "c804c1aa2b3631",
+      "title": "Recolor a Garment (mask required)",
+      "prompt": "Change the color of the garment in the marked area to sage green. Keep the fabric texture, stitching, folds, shadows and highlights exactly as they are, so it looks like the same garment dyed in a new color. Keep everything outside the marked area unchanged.\n\nApply the edit only inside the white region of the following mask.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Fashion & Beauty"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/fashion-garment-recolor",
+      "image": "/prompt-gallery/c804c1aa2b3631-bf573091452dc6b8.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/fashion-garment-recolor-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/fashion-garment-recolor-after.webp",
+        "originalImageHash": "4a16e58f01835445a754fa748a35e2433480ffb08833ea302fdc9f8bcd9d26fe",
+        "imageHash": "bf573091452dc6b830309042cf9aac3c5048c5d39450a5cb832741b44632e885",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "35c285a33a6303",
+      "title": "Clean Studio Backdrop for Model Shots (reference photo required)",
+      "prompt": "Keep the model, pose, outfit and the lighting on the model exactly as they are. Replace the cluttered background with a seamless light gray studio backdrop and add a soft, natural shadow on the floor behind the feet. Clean fashion e-commerce look.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Fashion & Beauty"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/fashion-model-studio-backdrop",
+      "image": "/prompt-gallery/35c285a33a6303-1cec0faf4f4fa689.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/fashion-model-studio-backdrop-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/fashion-model-studio-backdrop-after.webp",
+        "originalImageHash": "7a69cb9454f5f239338a71667064918404247758784ec0a0ae85afaf6e4eb49c",
+        "imageHash": "1cec0faf4f4fa689324c367d00438710a09f36a48c427519bd420f15b196704e",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "7736935dcc6a02",
+      "title": "Change Hair to Platinum Blonde (mask required)",
+      "prompt": "Recolor the hair in the marked area to a bright platinum blonde with soft golden undertones. Keep the hairstyle, individual strands, shine and natural hairline transitions. Keep the face and everything outside the marked area unchanged.\n\nApply the edit only inside the white region of the following mask.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Portrait & Character"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/portrait-platinum-blonde-hair",
+      "image": "/prompt-gallery/7736935dcc6a02-56c3499faf262938.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-platinum-blonde-hair-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-platinum-blonde-hair-after.webp",
+        "originalImageHash": "aef816f618924a8e57c67b5d2bb7f4ed5ca66cae293a906cecc730fbf44d6012",
+        "imageHash": "56c3499faf2629388c2f35c234313a338975f0e074c5096aa34fc4c90b4fddc1",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "9391163c365bcc",
+      "title": "Natural Skin Retouch (reference photo required)",
+      "prompt": "Retouch the skin on the face: reduce temporary redness and small blemishes while keeping the real pore texture, freckles and natural skin tone variation. No plastic smoothing. Keep the face shape, features, expression and lighting exactly as they are.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Portrait & Character"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/portrait-skin-texture-refinement",
+      "image": "/prompt-gallery/9391163c365bcc-f6393ce2e355f323.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-skin-texture-refinement-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-skin-texture-refinement-after.webp",
+        "originalImageHash": "9a08082d28c4f6786a2f16191fb06dea837144a3fce1a7492e75a41e454d17bc",
+        "imageHash": "f6393ce2e355f3239c67ca7df2eb6c888e0007a7ead43793885fd602c380003e",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "26a76f3ec7e934",
+      "title": "Casual Photo to Business Headshot (reference photo required)",
+      "prompt": "Turn this into a professional business headshot. Keep the person's face, features, hairstyle and expression exactly the same. Replace the background with a smooth mid-gray studio backdrop, dress the person in a navy blazer over a white shirt, and use soft key light from the front left. Sharp focus on the eyes.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Portrait & Character"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/portrait-business-headshot",
+      "image": "/prompt-gallery/26a76f3ec7e934-80e6aef7d7281d59.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-business-headshot-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-business-headshot-after.webp",
+        "originalImageHash": "5a42dc5d3ea619da0ae46c89db6188e7699e0ba4c7bcca614baefc1dbfbcf2ec",
+        "imageHash": "80e6aef7d7281d59991e1a9aff3ef5d97be4cb0cc054a9155d9360608a33c1b8",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "3b0b308b9e2c2b",
+      "title": "ID Photo with White Background (reference photo required)",
+      "prompt": "Turn this into a passport-style ID photo: a front-facing head-and-shoulders crop on a plain white background, with even lighting and no shadows on the face or background. Keep the person's face, features, hairstyle and skin tone exactly the same.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Portrait & Character"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/portrait-id-photo",
+      "image": "/prompt-gallery/3b0b308b9e2c2b-f03b03de25e658b6.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-id-photo-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-id-photo-after.webp",
+        "originalImageHash": "9f2d989ca6f2dbc55badad55d8c7cdaae8c110e0fde2946bb2bbd18f2effe6d7",
+        "imageHash": "f03b03de25e658b6d285396657c96e0ef2d08ea10e7011b65fad1507e1b9b9d2",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "e72014d9bddd9c",
+      "title": "Remove People from the Background (mask required)",
+      "prompt": "Remove the people in the marked area and rebuild the background behind them so the scenery, lighting and perspective continue naturally, with no blur, smears or leftover shadows. Keep the main subject and everything outside the marked area unchanged.\n\nApply the edit only inside the white region of the following mask.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Portrait & Character"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/portrait-remove-photobomber",
+      "image": "/prompt-gallery/e72014d9bddd9c-6fe4700386b60837.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-remove-photobomber-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-remove-photobomber-after.webp",
+        "originalImageHash": "8ea8cc8778ec7d5c3885e587cc27672e2dac51c9a5e8e11a4d1d0fc4ffda0d63",
+        "imageHash": "6fe4700386b60837a6edef0c7423a3b7499b741c8c6551593ffc1fe7c7dc91bf",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "3efd71dbe35988",
+      "title": "Christmas Pine and Warm Bokeh (reference photo required)",
+      "prompt": "Keep the product unchanged. Place it on dark rustic wood surrounded by fresh pine branches and a few frosted pinecones, with golden fairy lights forming warm, round bokeh in the background. Cozy, premium Christmas campaign look.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/seasonal-christmas-pine-bokeh",
+      "image": "/prompt-gallery/3efd71dbe35988-197fc97f4faaaf3d.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-christmas-pine-bokeh-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-christmas-pine-bokeh-after.webp",
+        "originalImageHash": "c84ed8bd108af1171847fc927c5ea83b3b8ac521ffb1c2444be1a0fcb9b3a4fe",
+        "imageHash": "197fc97f4faaaf3d8ee775037cf4c24800f1ebb85cd34cecf4522ed40a2624c1",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "50c4443f347d2b",
+      "title": "Summer Pool Water and Caustics (reference photo required)",
+      "prompt": "Keep the product unchanged. Place it standing in shallow, crystal-clear turquoise pool water, with dancing sunlight caustics across the product and gentle ripples around its base. Bright tropical sunlight, refreshing summer campaign look.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/seasonal-summer-pool-water-ripples",
+      "image": "/prompt-gallery/50c4443f347d2b-a9ec9fb6cad96bdb.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-summer-pool-water-ripples-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-summer-pool-water-ripples-after.webp",
+        "originalImageHash": "3e37716315222256c9875807581bde5a4523787a2243893681c933e5d9650dc7",
+        "imageHash": "a9ec9fb6cad96bdb8dc9787a0cc70b746960833109320253f40169e18757fdee",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "521c970205f8ae",
+      "title": "Black Friday Black-and-Gold Pedestal (reference photo required)",
+      "prompt": "Keep the product unchanged. Place it on a matte black hexagonal pedestal with polished brass edges, with flowing dark satin fabric in the background and a dramatic spotlight from above. Luxurious Black Friday campaign look, premium commercial photography. Do not add any text.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/seasonal-black-friday-gold-geometry",
+      "image": "/prompt-gallery/521c970205f8ae-b71ee1cc160f0f50.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-black-friday-gold-geometry-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-black-friday-gold-geometry-after.webp",
+        "originalImageHash": "3fe85b087bc9ac845f6a2f22782bbe9952b90b5fc8af87a0855a4cbc920739ac",
+        "imageHash": "b71ee1cc160f0f50fe85c4465e5c4109341cc548e71b5bda1dfca793b53d1f11",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "037164eca7b4e5",
+      "title": "Turn a Product Photo into a Sale Poster (reference photo required)",
+      "prompt": "Turn this product photo into a sale poster. Keep the product unchanged and centered. Add the headline \"SUMMER SALE\" at the top and \"50% OFF\" below the product in a bold, clean sans-serif, on a bright coral background with simple geometric shapes. Spell the text exactly as given.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/campaign-sale-poster-text",
+      "image": "/prompt-gallery/037164eca7b4e5-f9fc2b726471c609.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/campaign-sale-poster-text-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/campaign-sale-poster-text-after.webp",
+        "originalImageHash": "bf36e02e06a0fe8b20baf3f85f9711edef4026869fb45824a71d53c07f70765c",
+        "imageHash": "f9fc2b726471c609637bc36ed4cda2377547d5b3780a0d39880743af6084004f",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "9bcdba8511b805",
+      "title": "Lunar New Year Red and Gold (reference photo required)",
+      "prompt": "Keep the product unchanged. Place it on a red lacquer tray with plum blossom branches and small gold ornaments around it, and blurred red paper lanterns glowing in the background. Warm, festive Lunar New Year campaign look with rich red and gold tones.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/seasonal-lunar-new-year",
+      "image": "/prompt-gallery/9bcdba8511b805-c21386b128ee6cdb.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-lunar-new-year-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-lunar-new-year-after.webp",
+        "originalImageHash": "b1e785207102f007dbba94d524c49a6e78b78c54c98cc4f3d31e14220af08165",
+        "imageHash": "c21386b128ee6cdb8edd8c77f76ea6e849e04a43ca9a6edc54ffa116b69c9c88",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "988d1d4d61327d",
+      "title": "Restore a Faded Old Photo (reference photo required)",
+      "prompt": "Restore this old photograph: remove the yellow age cast, dust spots, scratches and fold creases, and bring back clear, natural detail in the faces and eyes. Keep the people's features, expressions, clothing and the original composition unchanged. Clean archival quality with natural contrast.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/restore-vintage-photo-reconstruction",
+      "image": "/prompt-gallery/988d1d4d61327d-eb3c013e979195c8.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-vintage-photo-reconstruction-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-vintage-photo-reconstruction-after.webp",
+        "originalImageHash": "cefe27b3af565264f70a9da4b76249fe978a44e612945c47d0a1d5f7a6856244",
+        "imageHash": "eb3c013e979195c809578aa6f77862d72de5bbafe8445c99e34f30b203450265",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "a925a4dbefad19",
+      "title": "Colorize a Black-and-White Photo (reference photo required)",
+      "prompt": "Colorize this black-and-white photo with natural, period-accurate colors: realistic skin tones, clothing and surroundings. Keep every detail, the grain structure and the composition exactly as they are; only add color. Avoid oversaturated or uniform tints.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/restore-colorize-bw",
+      "image": "/prompt-gallery/a925a4dbefad19-66c62040eeadd84c.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-colorize-bw-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-colorize-bw-after.webp",
+        "originalImageHash": "7208a73ce77c659ece24587ae2235c45a01702d334e5a765f0dcfbbc919282f7",
+        "imageHash": "66c62040eeadd84c7f1ce4e0c15e6a1a24beebb15f508c93febbac4167bc4e1c",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "c7db4582f69a47",
+      "title": "Fix Blur and Noise (reference photo required)",
+      "prompt": "Sharpen this blurry, noisy photo: remove motion blur and grain, and recover crisp edges and fine texture. Keep the subject, colors, lighting and composition exactly the same. Do not add new details or change any shapes.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/restore-deblur-sharpen",
+      "image": "/prompt-gallery/c7db4582f69a47-0f8510917979b4c3.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-deblur-sharpen-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-deblur-sharpen-after.webp",
+        "originalImageHash": "b69e8e83a7fa88e3aa2152af4030539ed1b8d92c7b31a6585279140c8759f4f7",
+        "imageHash": "0f8510917979b4c3c72e58e1e0649b15c80118b8b1e3005db9998aa11e7ed8a9",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "7f339596b20781",
+      "title": "Brighten an Underexposed Photo (reference photo required)",
+      "prompt": "Fix this underexposed photo: raise the exposure so the faces and the table are clearly visible, recover detail in the shadows, neutralize the color cast and reduce noise. Keep the scene, people and composition exactly the same, and keep the light looking natural.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/restore-low-light-fix",
+      "image": "/prompt-gallery/7f339596b20781-a48690739a09d575.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-low-light-fix-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-low-light-fix-after.webp",
+        "originalImageHash": "135c7522a7fbffc28a5f36cd85b490a14f570cba68c96a043c8a7538520977ac",
+        "imageHash": "a48690739a09d575ffd66372aecb870f3f78c19c063dcd9c33b5fa36bade2108",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "d6a491a3bfb460",
+      "title": "Turn Your Pet into a Collectible Figure (reference photo required)",
+      "prompt": "Turn the animal in this photo into a 1/7 scale collectible figure standing on a round clear acrylic base on a computer desk. Behind it, place a toy packaging box printed with the same character. Keep the animal's markings, colors and pose. Realistic studio product photo with soft light.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/creative-collectible-figure",
+      "image": "/prompt-gallery/d6a491a3bfb460-48f5da687128579a.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-collectible-figure-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-collectible-figure-after.webp",
+        "originalImageHash": "2deaa0c9b63f516d69dd41bea86f1178a9020d44a1289b67f0719ce348ddf378",
+        "imageHash": "48f5da687128579a2b4a8acf5d64d9fa12cc1df1ae062de3b3df8458f419160b",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "79cebcd46d38d2",
+      "title": "Photo to Watercolor Illustration (reference photo required)",
+      "prompt": "Redraw this photo as a loose watercolor illustration on textured paper, with soft color washes, visible brush strokes and fine ink outlines. Keep the composition, buildings and main shapes recognizable. Light, airy palette with white paper showing through.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/creative-watercolor-illustration",
+      "image": "/prompt-gallery/79cebcd46d38d2-46a68c95d9d7b388.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-watercolor-illustration-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-watercolor-illustration-after.webp",
+        "originalImageHash": "2c5f9c66c9f62e8ed35093650258dbb0dc06cbc959410e331929a0351078d764",
+        "imageHash": "46a68c95d9d7b388429336bbfc2e1fe45d153e2022ac2021335d1675828a132f",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "26327c31f3dea5",
+      "title": "Photo to 3D Clay Character (reference photo required)",
+      "prompt": "Transform this photo into a handmade 3D clay animation style, with soft rounded shapes, visible fingerprint texture in the clay and a miniature set. Keep the subject's pose, colors and key features recognizable. Warm soft lighting, playful stop-motion look.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/creative-3d-clay",
+      "image": "/prompt-gallery/26327c31f3dea5-27ec9d8ca160d7bf.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-3d-clay-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-3d-clay-after.webp",
+        "originalImageHash": "9b4ec3d0bdf3408161da7a5a49894484551bb1301b9aced765641afcf2491a8e",
+        "imageHash": "27ec9d8ca160d7bfd571a293c72b9421a8fab7cfcf70ab73a04ad16299ae67f0",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "8d669612bb0659",
+      "title": "Sketch to Product Render (reference photo required)",
+      "prompt": "Turn this pencil sketch into a photorealistic product render. Follow the sketch's shape, proportions and details exactly. Use realistic materials: white leather upper, gray suede panels and a rubber sole, on a light gray studio background with soft shadows.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/creative-sketch-to-render",
+      "image": "/prompt-gallery/8d669612bb0659-381c838b0ef41096.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-sketch-to-render-before.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-sketch-to-render-after.webp",
+        "originalImageHash": "9fcc225c9ebcd2e57fce461422385a091224e35ef17bed367c4ec9d83eddb099",
+        "imageHash": "381c838b0ef41096fa02bc4d323ad37026312d30e244cec5dc67085b4c694fa3",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "5d6eaabd88961f",
+      "title": "Borrow the Style of a Reference Image (two reference images)",
+      "prompt": "Redraw IMG_1 in the visual style of IMG_2: use its color palette, texture and brushwork. Keep IMG_1's composition, subject and proportions intact. Do not copy any objects from IMG_2.",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Photography"
+      ],
+      "author": "YepShot · https://yepshot.com",
+      "source": "lygerone/awesome-nano-banana-prompts",
+      "sourceUrl": "https://yepshot.com/explore/compose-style-transfer",
+      "image": "/prompt-gallery/5d6eaabd88961f-23434cc72fd14628.webp",
+      "referenceRequirement": "user-image",
+      "referenceImages": [
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-style-transfer-before.webp",
+        "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-style-transfer-reference.webp"
+      ],
+      "provenance": {
+        "sourceCommit": "3576e29c96f9f6e4c21ff12772e2b455587ccd95",
+        "originalImageUrl": "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-style-transfer-after.webp",
+        "originalImageHash": "9b0ccb8bf81dadd421ea92c12cf2c9edc2f9a30d122c23732c77b0a63d05a726",
+        "imageHash": "23434cc72fd146288044ffeb208d0d38b2ccd5956487083ab80fa1aff902f3c3",
+        "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Supply IMG_1 and IMG_2 in order. Source-attested, not independently generated.",
+        "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "id": "237358b18724d0",
+      "title": "Product Hero Perfume",
+      "prompt": "Studio hero shot of a frosted glass perfume bottle on a wet black stone slab, single softbox from the left, faint mist, deep charcoal background, crisp label text, commercial product photography",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Product / e-commerce"
+      ],
+      "author": "APIMart prompt contributors",
+      "source": "apimartyrdf8/nano-banana-2.1-prompts",
+      "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/01-product-hero-perfume.jpg",
+      "image": "/prompt-gallery/237358b18724d0-2f048a78bba17b3e.webp",
+      "provenance": {
+        "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
+        "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/01-product-hero-perfume.jpg",
+        "originalImageHash": "7cef153919495070ffb8f69345087262a72c5bcf31805b01fcee90b16713591c",
+        "imageHash": "2f048a78bba17b3eec0f240d1b9728562a2db2d55087ac2f7477cf675fb0fda9",
+        "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
+        "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
+      }
+    },
+    {
+      "id": "522d02c87a6b93",
+      "title": "Cinematic Street Rain",
+      "prompt": "Rain soaked Kyoto alley at night, paper lantern reflections on wet stone, a lone figure with a transparent umbrella walking away, cinematic 35mm still, shallow depth of field, film grain",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Cinematic still"
+      ],
+      "author": "APIMart prompt contributors",
+      "source": "apimartyrdf8/nano-banana-2.1-prompts",
+      "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/03-cinematic-street-rain.jpg",
+      "image": "/prompt-gallery/522d02c87a6b93-98f0f3893bb4a34d.webp",
+      "provenance": {
+        "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
+        "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/03-cinematic-street-rain.jpg",
+        "originalImageHash": "a44890fad33a40b8024f82b3d3762602bb4c69e5d651cd7c69d983c90f1daffb",
+        "imageHash": "98f0f3893bb4a34d6a7a71dd8126afa967b547d5efa57fda881110f950e55e7f",
+        "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
+        "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
+      }
+    },
+    {
+      "id": "1efac36e5d8d57",
+      "title": "Food Overhead Ramen",
+      "prompt": "Overhead flat lay of a spicy miso ramen bowl with soft boiled egg, nori and scallions, dark ceramic table, chopsticks resting on the rim, natural window light, editorial food photography",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Food photography"
+      ],
+      "author": "APIMart prompt contributors",
+      "source": "apimartyrdf8/nano-banana-2.1-prompts",
+      "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/02-food-overhead-ramen.jpg",
+      "image": "/prompt-gallery/1efac36e5d8d57-cd2bd1428e8906e8.webp",
+      "provenance": {
+        "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
+        "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/02-food-overhead-ramen.jpg",
+        "originalImageHash": "c876d4ac6a2874a51f8a7366ecb12a45e7c76f9f540c279d3b01a807bdf8c80e",
+        "imageHash": "cd2bd1428e8906e84dd9dc38ca2cf821d8827adac24a4dd129e9093c6ed1d574",
+        "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
+        "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
+      }
+    },
+    {
+      "id": "dec5244c0e4aa8",
+      "title": "Architectural Dusk",
+      "prompt": "Minimalist concrete villa on a cliff at dusk, warm interior light, infinity pool reflecting a violet sky, architectural photography, 24mm perspective, ultra sharp",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Architecture"
+      ],
+      "author": "APIMart prompt contributors",
+      "source": "apimartyrdf8/nano-banana-2.1-prompts",
+      "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/04-architectural-dusk.jpg",
+      "image": "/prompt-gallery/dec5244c0e4aa8-07dac4ca4777c42b.webp",
+      "provenance": {
+        "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
+        "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/04-architectural-dusk.jpg",
+        "originalImageHash": "68f38c79d60985c9df906f431d929dd5da4dce15a4ca871e8695b37bee20a4f1",
+        "imageHash": "07dac4ca4777c42b58ec1037ef517175e6e2b923b98279fa8f2a299f77ac3317",
+        "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
+        "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
+      }
+    },
+    {
+      "id": "b5736341be11fe",
+      "title": "Illustration Layered Paper",
+      "prompt": "Layered paper cut illustration of a mountain lake at sunrise, five depth layers, soft pastel palette, subtle drop shadows, art print composition, clean vector edges",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Illustration"
+      ],
+      "author": "APIMart prompt contributors",
+      "source": "apimartyrdf8/nano-banana-2.1-prompts",
+      "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/06-illustration-layered-paper.jpg",
+      "image": "/prompt-gallery/b5736341be11fe-d815345acb6ae009.webp",
+      "provenance": {
+        "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
+        "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/06-illustration-layered-paper.jpg",
+        "originalImageHash": "32e6529b53c25d19af93f432108d8c8b6055e952054172983a855615a078763d",
+        "imageHash": "d815345acb6ae00968c951af803427da7d4664dcd08612f54c144b7192d13ab7",
+        "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
+        "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
+      }
+    },
+    {
+      "id": "a5907bb08b1e14",
+      "title": "Fashion Editorial Studio",
+      "prompt": "Editorial fashion portrait of a model in an oversized ivory wool coat, seamless light grey studio backdrop, crisp high key lighting, medium format detail, calm expression",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Fashion portrait"
+      ],
+      "author": "APIMart prompt contributors",
+      "source": "apimartyrdf8/nano-banana-2.1-prompts",
+      "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/05-fashion-editorial-studio.jpg",
+      "image": "/prompt-gallery/a5907bb08b1e14-53d9976b64bce57c.webp",
+      "provenance": {
+        "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
+        "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/05-fashion-editorial-studio.jpg",
+        "originalImageHash": "4ec84ac56ed509e5e50b223d7d6d0833eede7b3a9f5bcabcadcffd4e27bd882e",
+        "imageHash": "53d9976b64bce57cc743a740ee45eb40c6f641cc0a588189cb37e41d766272b3",
+        "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
+        "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
+      }
+    },
+    {
+      "id": "6c6350fe849e54",
+      "title": "Macro Botanical Detail",
+      "prompt": "Macro photograph of a dew covered dandelion seed head against deep black background, focus stacked detail, iridescent droplets, studio lighting",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Macro nature"
+      ],
+      "author": "APIMart prompt contributors",
+      "source": "apimartyrdf8/nano-banana-2.1-prompts",
+      "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/08-macro-botanical-detail.jpg",
+      "image": "/prompt-gallery/6c6350fe849e54-118857f1178ac9c5.webp",
+      "provenance": {
+        "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
+        "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/08-macro-botanical-detail.jpg",
+        "originalImageHash": "5f0ba73748211a697dd04ed2b3298361367cd200df98e6844b4dea151e1058bd",
+        "imageHash": "118857f1178ac9c5a2e633df84f74c34973014d94e8bfb060b5f02ca98a009b9",
+        "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
+        "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
+      }
+    },
+    {
+      "id": "2ec2766afafad8",
+      "title": "Infographic Dashboard",
+      "prompt": "Flat vector dashboard panel showing three gauge dials and abstract latency curves, muted blue and sand palette, generous white space, crisp geometric cards, no placeholder text",
+      "model": "Nano Banana 2.1",
+      "language": "en",
+      "categories": [
+        "Design / UI"
+      ],
+      "author": "APIMart prompt contributors",
+      "source": "apimartyrdf8/nano-banana-2.1-prompts",
+      "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/07-infographic-dashboard.jpg",
+      "image": "/prompt-gallery/2ec2766afafad8-3a01d1bcebfab6c6.webp",
+      "provenance": {
+        "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
+        "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/07-infographic-dashboard.jpg",
+        "originalImageHash": "57c3cd04354221cffe92c37c9f904c472492a1d7ee7eabfd899731e76a728dea",
+        "imageHash": "3a01d1bcebfab6c6147635c9a5ea8a5a8e9818343d14c455859b2a01b9711b62",
+        "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
+        "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
+      }
+    }
+  ]
+}
