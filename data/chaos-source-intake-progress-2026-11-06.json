@@ -10,7 +10,7 @@
   "sourceMediaNotYetDownloaded": 0,
   "approvedNewPairs": 0,
   "licenseEvidence": "Root MIT plus first-party public/llms.txt explicitly states content MIT and prompts reusable. Preserve per-case reference constraints; actual image bytes and individual review still pending.",
-  "status": "Complete3631-pair remote archive;2000 reviewed,1885 approved,115 held,1631 unreviewed. First731 public-accepted; third495 ordinary browser passed, final publisher receipt pending; fourth487 locally passed and PR344 merged.",
+  "status": "Complete3631-pair remote archive;2000 reviewed,1885 approved,115 held,1631 unreviewed. First1226 public-accepted; fourth487 locally passed, PR344 merged and publishing42094646749.",
   "referenceDependentCount": 907,
   "source": "https://github.com/ChaosRealmsAI/gpt-image-2-gallery",
   "nativeMediaDownloaded": 3631,
@@ -26,10 +26,11 @@
   "unreviewedSourcePairs": 1631,
   "reviewCheckpointAt": "2026-11-05T19:29:49.228009+00:00",
   "individuallyApproved": 1885,
-  "individuallyImportedNotPublished": 982,
+  "individuallyImportedNotPublished": 487,
   "firstPublicationRun": "42080135905",
   "secondLocalImport": 493,
-  "individuallyPublishedAndPublicAccepted": 731,
+  "individuallyPublishedAndPublicAccepted": 1226,
   "thirdPublicationRun": "42090448597",
-  "fourthLocalImport": 487
+  "fourthLocalImport": 487,
+  "fourthPublicationRun": "42094646749"
 }
