@@ -1,0 +1,14 @@
+Scene:
+A square urban wall study with the poster pasted onto rough plaster among torn edges and older paper remnants, photographed in soft overcast light so texture, glue bubbles, and surface scars stay visible. The poster should express mid-century minimalist paper-cut poster language driven by torn shapes, narrative negative space, and three-color restraint, using matte black, rust orange, cream, and a very limited dark teal accent and a tactile surface appropriate to the medium.
+
+Subject:
+Create a version that feels made for the street, with the poster carrying enough formal force to survive abrasion, layering, and imperfect placement without losing its visual identity. Use single silhouettes, staircases, hands, knives, eyes, circles, doorways, and dramatic shadows as the main visual ingredients, and organize them with simple cut-paper title bars and glyph fragments kept abstract and unreadable. For the contemporary-subject axis, thread in ride-share lanes, phone glare, and elevator doors converted into severe paper-cut suspense. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Keep the main design intact but let the environment add grit: lifted corners, tiny tears, wrinkled paper, and older color fragments around the perimeter should amplify the style rather than dilute it. Preserve deliberate imbalance, clean cut contours, visible paper fibers, and story told through absence as much as presence. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no glossy gradients, no tiny fiddly detail, no photoreal rendering, no ornamental clutter.
+
+Use case:
+Paper-Cut Film single study 4/9, testing street-life durability and layered context.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

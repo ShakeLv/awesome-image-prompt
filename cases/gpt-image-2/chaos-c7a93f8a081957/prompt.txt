@@ -1,0 +1,14 @@
+Scene:
+A square front-facing poster presentation on a clean neutral wall, lit like a premium print test, with crisp edges and a polished but still tactile finish appropriate to the style. The poster should express heroic monumental realism with low-angle figures, sunrise shafts, sculptural drapery, and industrial optimism, using red, ochre, cream, steel blue, and warm industrial smoke gray and a tactile surface appropriate to the medium.
+
+Subject:
+Apply the historical poster language to a contemporary urban subject so the old visual grammar proves it can carry present-day themes without losing authenticity or formal discipline. Use workers, engineers, turbines, wheat, chimneys, steel beams, and raised-arm silhouettes as the main visual ingredients, and organize them with bold banner-like glyph panels used as abstract propaganda blocks without readable wording. For the contemporary-subject axis, thread in renewable-energy towers, metro construction, and logistics workers recast through monumental heroic framing. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+This is not parody. The contemporary subject should feel genuinely absorbed into the style through palette, composition, symbolic compression, and non-readable lettering treatment. Preserve upward gaze, idealized anatomy, broad light geometry, and poster clarity at large scale. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no specific leaders, no state emblems, no satire, no gritty collapse imagery.
+
+Use case:
+Soviet Monumental single study 9/9, testing historical grammar on a present-day subject.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

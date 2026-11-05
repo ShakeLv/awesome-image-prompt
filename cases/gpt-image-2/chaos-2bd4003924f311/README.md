@@ -1,0 +1,12 @@
+# Red Blood Cell Terrain
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/sem-microscopy/packages/single-sem-specimen-plates/images/red-blood-cell-terrain/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/a0930b44b8778b0cea6cd94f7fa71d0ae2f0726cdf11fa14c5db2d0871b3f255.webp)
+- SHA-256:a0930b44b8778b0cea6cd94f7fa71d0ae2f0726cdf11fa14c5db2d0871b3f255
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

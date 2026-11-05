@@ -1,0 +1,14 @@
+Scene:
+Render the same square straight-on poster on the classroom wall, with the same soft daylight, print realism, and supporting science-corner props held in the background. The image should read as another approved poster in the same school-ready series. Keep the square frame balanced, calm, and production-ready so the asset can serve gallery review, research comparison, and real educational delivery at the same time.
+
+Subject:
+Build the experiment around horseshoe magnets, metal and non-metal test objects, sorting trays, and attraction paths shown through friendly diagrams and step panels. Make the poster instantly understandable through imagery and sequence rather than text, while staying visually rich enough to feel like a real published classroom asset. The subject matter should feel intentionally selected for a coherent curriculum family rather than like a random decorative assortment.
+
+Important details:
+Every structural rule from the reference poster must remain intact, especially the module grid, safety cue placement, blank headline zones, and pictogram weight. Variation should come from object behavior and discovery energy, not from a new graphic system. Preserve the same poster grid, step-panel proportions, icon weight, blank instruction bars, and safety-callout rhythm from the reference poster. Use variation only in the teaching content, supporting props, and scene-specific mood while preserving the core visual system exactly.
+
+Use case:
+Science Kids Experiment Poster System series study 3/4, magnet exploration board.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable copy, no chemical formulas, no logos, no dangerous realism, no lab-brand signage, no chaotic clutter.

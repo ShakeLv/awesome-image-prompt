@@ -1,0 +1,14 @@
+Scene:
+A square SEM microscopy plate with luminous grayscale relief and a very subtle cyan-gray false-color tint applied to highlights. The specimen is centered, rotated slightly off-axis, and surrounded by dark sample-mount negative space. A lower-left scale bar shape and a bottom instrument strip with tiny unreadable interface marks provide scientific structure.
+
+Subject:
+A diatom frustule, like a microscopic glass shell, showing an intricate porous lattice. The oval shell has radial ribs, honeycomb perforations, raised rim, fractured window edges, and layered silica thickness. One side is partly broken to reveal inner chambers and secondary perforation patterns. Fine dust specks and small shell fragments rest nearby, emphasizing scale.
+
+Important details:
+The image must balance beauty with SEM credibility. The diatom should not become jewelry, architecture, or a mandala; it should remain a biological silica shell with natural asymmetry, brittle edges, and uneven pores. Preserve detailed microtexture across the lattice: rim ridges, tiny holes, broken panels, granular substrate, and topographic shadows. The bottom information strip should support the plate layout but contain no readable text or numbers.
+
+Use case:
+SEM Microscopy single study 6/8, testing porous biological lattice rendering with scientific realism.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no decorative mandala, no stained glass colors, no perfect vector geometry, no underwater scene, no labels, no glowing fantasy shell, no smooth plastic surface.

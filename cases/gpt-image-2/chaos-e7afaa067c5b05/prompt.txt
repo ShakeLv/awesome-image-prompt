@@ -1,0 +1,14 @@
+Scene:
+A square commercial beauty-or-fashion image designed like a polished campaign proof for Single-Talent Styling Journey. Keep the camera discipline clear and believable: portrait-oriented within the square, premium studio light, controlled tonal contrast, and enough surrounding negative space to feel like an ad layout without relying on readable typography. The image should look production-ready, with realistic skin, hair, fabric, and makeup rendering that supports identity locking instead of distracting from it.
+
+Subject:
+Build the frame around one clearly recognizable person. First Switch should feel like a specific transformation step that keeps the same identity but changes the styling direction in a clear and controlled way. The face structure, age, body proportions, and general camera position must stay consistent with the same-person premise of Follow one talent through multiple styling directions such as airport look, red carpet, comeback concept, streetwear, and beauty close-up without losing identity.. Styling, wardrobe, grooming, makeup, hair, or pose can evolve, but the viewer must believe it is unquestionably the same subject across the whole theme. Use a premium editorial-commercial tone rather than a casual portrait session.
+
+Important details:
+The visual test is identity consistency under change. Preserve stable bone structure, eye spacing, nose shape, lip volume, skin tone family, and believable texture response. Let the transformation be visible through styling choices instead of facial drift. This theme studies multi-image-reference, editing-workflow, commercial-mockup, photorealism through a production-ready visual system. Make the composition clean enough for client review, with professional grooming fidelity and enough detail for salon, beauty, or fashion decision-making. Aim for clear hierarchy, polished craft, and immediately usable campaign logic.
+
+Use case:
+Single-Talent Styling Journey series study 2/4.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no face drift, no inconsistent age shift, no extra limbs, no duplicate person, no asymmetric eye placement, no beauty-editorial chaos.

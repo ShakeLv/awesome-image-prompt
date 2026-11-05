@@ -1,0 +1,14 @@
+Scene:
+A square conservation-table view of a vintage poster laid on gray felt under raking light, with visible fold lines, softened corners, and subtle aging that still preserves the integrity of the image. The poster should express heroic monumental realism with low-angle figures, sunrise shafts, sculptural drapery, and industrial optimism, using red, ochre, cream, steel blue, and warm industrial smoke gray and a tactile surface appropriate to the medium.
+
+Subject:
+Present the poster as an archive copy that has been stored, unfolded, and carefully documented, letting age and handling reveal how the design holds up across time. Use workers, engineers, turbines, wheat, chimneys, steel beams, and raised-arm silhouettes as the main visual ingredients, and organize them with bold banner-like glyph panels used as abstract propaganda blocks without readable wording. For the contemporary-subject axis, thread in renewable-energy towers, metro construction, and logistics workers recast through monumental heroic framing. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Aging must stay believable rather than theatrical: slight yellowing, fold memory, edge wear, and pigment variation should support the historical or crafted feeling of the style. Preserve upward gaze, idealized anatomy, broad light geometry, and poster clarity at large scale. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no specific leaders, no state emblems, no satire, no gritty collapse imagery.
+
+Use case:
+Soviet Monumental single study 5/9, testing archival endurance and age character.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

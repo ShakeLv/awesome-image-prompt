@@ -1,0 +1,14 @@
+Scene:
+A square grayscale SEM plate with dramatic but scientifically restrained topographic contrast. The specimen is centered diagonally across the frame, magnified enough to show segmented anatomy and fine bristles. A thin bottom instrument strip includes a lower-left scale bar, tiny tick marks, and unreadable machine-interface marks, all integrated into the plate without becoming graphic design decoration.
+
+Subject:
+Mosquito mouthparts seen under scanning electron microscopy: a bundled proboscis with needle-like stylets, segmented sheath structure, small palps, hooked micro bristles, textured cuticle, and tiny sensory hairs along the surface. The mouthparts should feel dry, metallic-gray, and insect-scale, with sharp ridges and natural asymmetry. The surrounding background is dark, grainy sample mount material.
+
+Important details:
+This must read as real SEM scientific imaging, not a horror illustration. Keep anatomy plausible: segmented insect cuticle, tapering proboscis, bristles attached to surfaces, shallow shadowing, and brittle microtexture. The field should avoid blood, skin, or bite context. Maintain the structured layout: main specimen area, subtle border discipline, bottom information strip, and scale bar geometry with no readable labels. Use grayscale only, with fine noise and high local contrast.
+
+Use case:
+SEM Microscopy single study 3/8, testing insect mouthpart realism and controlled scientific composition.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no human skin, no monster design, no bright colors, no cartoon fangs, no oversized eyes, no annotations, no exaggerated horror lighting.

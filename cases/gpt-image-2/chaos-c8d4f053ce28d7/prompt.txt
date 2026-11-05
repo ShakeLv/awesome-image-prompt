@@ -1,0 +1,14 @@
+Scene:
+A polished fictional mobile social-feed screen, portrait 4:5, presented as a direct screenshot-like composition with a clean modern interface. The design should feel inspired by contemporary social apps without copying any real brand, logo, or exact interface.
+
+Subject:
+A Song dynasty literati post by the historical poet Su Shi, shown as a profile row, a short classical-style post, a nine-grid image layout, likes, comments, and a timestamp. The nine images show inkstone, river moon, tea cup, bamboo courtyard, travel sandals, winter robe, handwritten draft as unreadable texture, food table, and friends at a pavilion. Comments are from fictional scholar profiles and should read as short, tidy interface text.
+
+Important details:
+Accurate mobile UI hierarchy, consistent spacing, clear nine-grid layout, refined Song dynasty visual details, restrained ivory paper background, ink black, cinnabar accent, jade green highlights, readable but compact interface elements, high-density structure without clutter. The historical atmosphere should be clear through clothing, objects, architecture, and painting fragments.
+
+Use case:
+Independent Prompt Atlas image for testing structured layout, in-image interface composition, historical world knowledge, and controlled readable text density.
+
+Constraints:
+No real app logo, no real brand marks, no watermark, no broken grid, no random modern photography, no celebrity likeness, no excessive tiny text, preserve exact 4:5 portrait aspect ratio.

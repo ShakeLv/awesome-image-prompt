@@ -1,0 +1,14 @@
+Scene:
+Arrange a square lineup sheet with one dominant full-body figure and supporting tier crops around it, using abstract UI blocks with no readable copy. Build a polished game-art presentation for one original playable hero skinline, with premium lighting, clean silhouette read, and merchandising clarity. Keep the image square, polished, and intentionally staged like a production-ready game asset review or campaign module. The camera, lighting, and tonal range should help the subject stay readable at both thumbnail and full resolution, with clear hierarchy and no dependence on readable on-screen copy.
+
+Subject:
+Show the base, epic, legendary, and event variants as one family of the same hero, aligned by pose rhythm and color progression. The recurring hero is a swift storm duelist with warm brown skin, a sharp oval face, close-cropped dark hair with one longer braided strand, teal eyes, and a lean athletic build. The subject should feel original, specific, and part of one coherent product system rather than a generic fantasy or sci-fi mashup. Preserve stable design anchors, clean shape language, and believable scale relationships across every visible object, character, card, or environment layer.
+
+Important details:
+The board should communicate upgrade logic, value separation, and campaign consistency. Keep spacing deliberate so it feels like a real review deck or internal pitch board. The design language should show a believable rarity ladder instead of random costume swaps, keeping the same role fantasy while materials, trim density, glow treatment, and ceremonial value scale upward. Favor disciplined composition, premium material rendering, and obvious internal logic so the result feels useful for art direction, live-ops rollout, or product review. Abstract interface blocks, symbolic markers, or decorative framing are fine, but they must remain non-readable and subordinate to the main visual message.
+
+Use case:
+Skinline Suite single study 5/9, a system overview board for rarity communication.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no weapon copied from known franchises, no floating price text, no random extra characters, no unreadable clutter, no readable labels, no distorted miniatures, no mismatched lighting families.

@@ -1,0 +1,14 @@
+Scene:
+A square dusk street photograph of a backlit transit poster glowing inside glass, with faint rain reflections, soft city blur in the distance, and the poster remaining fully legible as a composition. The poster should express heroic monumental realism with low-angle figures, sunrise shafts, sculptural drapery, and industrial optimism, using red, ochre, cream, steel blue, and warm industrial smoke gray and a tactile surface appropriate to the medium.
+
+Subject:
+Adapt the poster into a public-facing lightbox version that still honors the original style grammar while feeling bold enough to stop a passerby from several meters away. Use workers, engineers, turbines, wheat, chimneys, steel beams, and raised-arm silhouettes as the main visual ingredients, and organize them with bold banner-like glyph panels used as abstract propaganda blocks without readable wording. For the contemporary-subject axis, thread in renewable-energy towers, metro construction, and logistics workers recast through monumental heroic framing. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Let the style survive the illumination test: color blocking, silhouette contrast, and abstract lettering should stay controlled under bright internal light and reflective glass. Preserve upward gaze, idealized anatomy, broad light geometry, and poster clarity at large scale. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no specific leaders, no state emblems, no satire, no gritty collapse imagery.
+
+Use case:
+Soviet Monumental single study 3/9, testing distance readability in public display.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

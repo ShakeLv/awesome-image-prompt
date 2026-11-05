@@ -1,0 +1,14 @@
+Scene:
+Compose a square seasonal drink campaign image that can function as a poster, counter card, or launch visual. The frame should combine a hero beverage with strong art direction, abstract text-safe zones, and seasonal cues expressed through ingredients, color shifts, atmosphere, and material accents rather than readable copy. Use a polished studio campaign setup with one hero cup centered against a color field and atmospheric gradient, leaving clear negative space for abstract layout zones.
+
+Subject:
+The beverage must remain physically believable and delicious, with clear cup or bottle silhouette, realistic liquid behavior, and ingredients that support a limited-time seasonal story. Feature a premium seasonal beverage with realistic ice, foam, garnish, or swirl, supported by floating or arranged ingredients that define the seasonal story.
+
+Important details:
+This theme lives at the intersection of product photography and campaign layout. Preserve strong focal hierarchy, poster-safe negative space, and refined color systems that suggest seasonality without relying on legible words. Abstract lettering forms or blocks are allowed only as unreadable design elements. The drink must still look like something a real brand could launch tomorrow. This image establishes the reference system for the series, including camera height, tabletop discipline, prop family, and color control that later images must inherit. This anchor image must lock the poster system for the series: disciplined central hero, ingredient choreography, abstract unreadable type zones, and commercial clarity.
+
+Use case:
+Seasonal Drinks series study 1/9, built for Prompt Atlas coverage of a food and beverage commercial visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake holiday slogans, no amusement-park color overload, no unreadable clutter, no cheap stock-poster look, no readable launch copy, no holiday mascot, no generic fireworks.

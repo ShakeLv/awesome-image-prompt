@@ -1,0 +1,14 @@
+Scene:
+A square nighttime city view with the poster wrapping part of a cylindrical kiosk, wet pavement reflecting nearby light, and the composition holding together under moody urban illumination. The poster should express mid-century minimalist paper-cut poster language driven by torn shapes, narrative negative space, and three-color restraint, using matte black, rust orange, cream, and a very limited dark teal accent and a tactile surface appropriate to the medium.
+
+Subject:
+Reframe the design for a dramatic street-placement context, where the poster has to project style and mood through reflection, curvature, and surrounding darkness. Use single silhouettes, staircases, hands, knives, eyes, circles, doorways, and dramatic shadows as the main visual ingredients, and organize them with simple cut-paper title bars and glyph fragments kept abstract and unreadable. For the contemporary-subject axis, thread in ride-share lanes, phone glare, and elevator doors converted into severe paper-cut suspense. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+The design should remain instantly recognizable despite the cylindrical wrap. Preserve major blocks, symbolic shapes, and abstract title forms so the style still feels authoritative at night. Preserve deliberate imbalance, clean cut contours, visible paper fibers, and story told through absence as much as presence. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no glossy gradients, no tiny fiddly detail, no photoreal rendering, no ornamental clutter.
+
+Use case:
+Paper-Cut Film single study 8/9, testing atmospheric display under rain and glow.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

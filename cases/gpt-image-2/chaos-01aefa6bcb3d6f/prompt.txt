@@ -1,0 +1,14 @@
+Scene:
+Using the referenced host identity and the same square thumbnail layout, create a market-volatility explainer cover. Keep the host face crop on the left, the blank hook zone on the right, and the thin top strip, but shift the accent palette to warning orange and crisp white against the same dark navy base. Add a single falling-chart diagonal and one coin or candlestick symbol as simplified background cues.
+
+Subject:
+The same recurring female host from the reference image must remain clearly identical in face, hairstyle, wardrobe, and framing. Her expression is sharper and more analytical, with lips slightly parted as if saying something surprising. The right-side hook zone uses stacked non-readable bars and a downward arrow motif. The overall thumbnail should feel like another episode from the same account, tuned for financial urgency and high click-through recognition.
+
+Important details:
+Preserve identity consistency and channel-system discipline above all else. The host cannot drift into a different person or a different lighting setup. Keep background elements large and simple enough to read when reduced to a tiny thumbnail. Use orange sparingly so the face remains dominant. The empty text zone must look intentional and bold even without any readable lettering.
+
+Use case:
+Short Video Cover Pack series study 3/9, testing a finance-news variation while preserving the same creator-channel visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no extra hosts, no dense stock-market clutter, no low-energy expression, no deviation from the reference face and crop.

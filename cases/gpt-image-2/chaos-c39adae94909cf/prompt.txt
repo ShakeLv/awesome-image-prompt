@@ -1,0 +1,14 @@
+Scene:
+A square tabletop shot of several poster prints stacked and slightly fanned, with curled corners, offset edges, and soft directional light revealing paper thickness and ink behavior. The poster should express mid-century minimalist paper-cut poster language driven by torn shapes, narrative negative space, and three-color restraint, using matte black, rust orange, cream, and a very limited dark teal accent and a tactile surface appropriate to the medium.
+
+Subject:
+Design the top poster to dominate while nearby duplicate sheets echo the same composition, creating a tactile print-run scene rather than a single isolated sheet. Use single silhouettes, staircases, hands, knives, eyes, circles, doorways, and dramatic shadows as the main visual ingredients, and organize them with simple cut-paper title bars and glyph fragments kept abstract and unreadable. For the contemporary-subject axis, thread in ride-share lanes, phone glare, and elevator doors converted into severe paper-cut suspense. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Use the stack to emphasize production character: edge shadows, repeated motifs peeking from beneath, and subtle misalignment should enrich the material reading without changing the core design. Preserve deliberate imbalance, clean cut contours, visible paper fibers, and story told through absence as much as presence. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no glossy gradients, no tiny fiddly detail, no photoreal rendering, no ornamental clutter.
+
+Use case:
+Paper-Cut Film single study 7/9, testing print-run tactility and repeat presence.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

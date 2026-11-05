@@ -1,0 +1,14 @@
+Scene:
+A square straight-on studio view of a pristine poster mounted on a matte wall with even museum lighting, crisp corners, and enough breathing room around the sheet for the full composition to read as an intentional object. The poster should express mid-century minimalist paper-cut poster language driven by torn shapes, narrative negative space, and three-color restraint, using matte black, rust orange, cream, and a very limited dark teal accent and a tactile surface appropriate to the medium.
+
+Subject:
+Build the flagship poster statement for this style, with the strongest hierarchy, the clearest subject silhouette, and the most disciplined balance between image field, pseudo-typography, and empty space. Use single silhouettes, staircases, hands, knives, eyes, circles, doorways, and dramatic shadows as the main visual ingredients, and organize them with simple cut-paper title bars and glyph fragments kept abstract and unreadable. For the contemporary-subject axis, thread in ride-share lanes, phone glare, and elevator doors converted into severe paper-cut suspense. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Treat this as the cleanest thesis image in the set: the paper should look fresh, the inks or paint should feel deliberate, and every formal rule of the style should be easy to study at a glance. Preserve deliberate imbalance, clean cut contours, visible paper fibers, and story told through absence as much as presence. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no glossy gradients, no tiny fiddly detail, no photoreal rendering, no ornamental clutter.
+
+Use case:
+Paper-Cut Film single study 1/9, establishing the cleanest museum-grade poster reading.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

@@ -1,0 +1,14 @@
+Scene:
+A square illustrated portrait composition surrounded by sixteen small swatch-like source cues arranged as subtle border tiles, not a rigid reference grid. Warm paper texture, soft studio light, and refined editorial illustration quality.
+
+Subject:
+A single coherent portrait of an imagined traveler built from sixteen visual cues: round glasses, teal coat, embroidered scarf, canal-blue shadows, brick bridge texture, lantern warmth, compass motif, bicycle handlebar curve, cat-shaped pin, moss-green stair color, wooden window geometry, watercolor sky, ink cloud edge, food-stall red accent, film grain, and cream paper tone. The border swatches hint at the inputs while the central portrait is the fused result.
+
+Important details:
+The central character must feel unified, not like a patchwork costume. The sixteen cues should be discoverable through color, material, shape, and accessories. Use clean hierarchy, gentle texture, and clear silhouette. No readable labels are needed.
+
+Use case:
+Independent sixteen-reference fusion single image, showing many source cues merging into one character identity without external refs.
+
+Constraints:
+No readable text, no logos, no watermark, no real person likeness, no cluttered collage, no extra faces, no photorealism, preserve exact 1:1 aspect ratio.

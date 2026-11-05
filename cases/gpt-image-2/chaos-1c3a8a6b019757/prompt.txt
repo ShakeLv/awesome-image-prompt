@@ -1,0 +1,14 @@
+Scene:
+Show a square top-down mockup of an open admissions brochure on a reception desk, lit cleanly with subtle shadows and believable coated-paper texture. The spread should feel publication-ready and suitable for a real school communications team. Keep the square frame balanced, calm, and production-ready so the asset can serve gallery review, research comparison, and real educational delivery at the same time.
+
+Subject:
+Use campus photos, icon-led info blocks, blank pull-quote bands, and carefully paced panels that communicate program breadth, safety, and community without readable copy. The brochure should feel spacious, modern, and parent-trust oriented. The subject arrangement should feel complete and self-contained, able to stand alone as a real supporting deliverable inside the same education business line.
+
+Important details:
+Keep the layout modular and restrained, avoiding generic corporate brochure stiffness. The balance between imagery and empty copy zones should signal serious admissions intent and design maturity. Keep the visual hierarchy modular, commercially believable, and clearly tied to a real educational use case rather than a generic mood board.
+
+Use case:
+School Open Day and Enrollment Kit single study 2/5, brochure spread.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable school names, no logos, no luxury-hotel exaggeration, no chaotic crowds, no celebrity faces, no fake brand signage.

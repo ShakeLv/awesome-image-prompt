@@ -1,0 +1,14 @@
+Scene:
+A square cooking-hack thumbnail for mobile feeds, using a split composition: sizzling pan close-up on the right and expressive chef face on the left. The background is warm cream with orange and green accents, plus a clear top category bar and a bold empty hook block overlapping the pan edge. The overall look should be bright, simple, and instantly edible.
+
+Subject:
+A charismatic home-cook creator in an apron reacts with delight while lifting chopsticks above a pan where steam and one dramatic cheese or sauce pull creates a single irresistible food cue. The ingredients should stay large and recognizable: one pan, one bright garnish, one utensil. The right-side hook area uses non-readable blocks and one badge-like circle to imply the platform template.
+
+Important details:
+Thumbnail logic comes first. Keep the cook's face large and expressive, keep the food cue singular and obvious, and avoid restaurant-menu clutter. Use strong warm contrast so the frame survives downscaling. This should look like a repeatable short-video cover system for kitchen hacks rather than a plated-food advertisement.
+
+Use case:
+Short Video Cover Pack single study 7/9, focused on split-screen cooking-cover logic with face-plus-food clarity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no crowded ingredient spread, no multiple dishes, no greasy mess, no fine-print labels or recipe cards.

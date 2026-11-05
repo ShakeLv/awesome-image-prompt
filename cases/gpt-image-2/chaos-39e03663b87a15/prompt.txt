@@ -1,0 +1,14 @@
+Scene:
+A square short-video thumbnail for a true-crime channel, designed for maximum mobile-size readability. The composition uses a dark blue-black background, one flashlight beam, one close human face on the left, and a stark empty hook zone on the right. A narrow red top strip signals the category. The overall layout should feel clean, urgent, and highly clickable without becoming a messy poster.
+
+Subject:
+An investigative female host in a dark coat leans into frame holding a flashlight upward, her expression tense but controlled. Behind her, a crime-scene wall and evidence board appear only as large abstract shapes, not detailed clutter. The right side contains bold non-readable headline bars and one simple caution-tape diagonal. The frame must read instantly at thumbnail scale.
+
+Important details:
+Keep the face large, the lighting dramatic, and the design extremely simple. Use red only as a category accent so the face remains the focal point. The hook zone should feel intentional and strong even with no real words. This is a channel cover system, not a cinematic key art poster.
+
+Use case:
+Short Video Cover Pack single study 5/9, focused on true-crime thumbnail clarity and bold hook-zone placement.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cluttered evidence collage, no multiple faces competing, no muddy darkness, no tiny props everywhere.

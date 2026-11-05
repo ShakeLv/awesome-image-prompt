@@ -1,0 +1,14 @@
+Scene:
+A square photoreal architectural render looking from a small interior courtyard toward the rear face of the same building, using the provided pencil facade sketch as the primary reference for proportions and opening rhythm. The camera is at human eye level, with soft afternoon light entering from above, quiet shadows, and realistic depth without dramatic distortion.
+
+Subject:
+Translate the sketched four-story facade into its courtyard-facing counterpart while preserving the core layout: four levels, consistent floor heights, aligned windows, slender balconies, vertical circulation slot, shallow roof terrace, and masonry panel divisions. The courtyard is modest and urban, with pale brick walls, concrete paving, slim planters, rainwater drain lines, and clear glass doors at ground level. It should feel like the same architectural project viewed from the private side, not a new building.
+
+Important details:
+This image tests structural reasoning from a sketch reference. Keep the building's proportions, window grid, balcony stacking, and roofline faithful to the reference, adapting only what is necessary for a courtyard side. No added wings, no extra stair towers, no random decorative facade changes. Photorealism should include believable material scale, weathered brick variation, glass reflections, soft interior shadows, and proper construction joints.
+
+Use case:
+Sketch to Photoreal Render series study 4/8, extending the referenced sketch into a photoreal courtyard view while maintaining architectural identity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no extra floors, no luxury resort redesign, no impossible cantilevers, no people in foreground, no signage, no plants covering key windows.

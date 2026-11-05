@@ -1,0 +1,14 @@
+Scene:
+A square museum archive table photographed straight-on in an illustrated catalog style. Cream background, soft shadows, thin annotation lines without readable words, and a carefully balanced arrangement of objects.
+
+Subject:
+One hybrid archive object sits in the center: part compass, part lantern, part ceramic animal, part bicycle bell, part wooden window latch, part embroidered fabric charm. Around it are sixteen tiny unlabeled source fragments that visually explain the fusion: metal, glass, fabric, ceramic, wood, moss, brick, paper, ink, watercolor, rope, brass, enamel, stone, film grain, and warm light.
+
+Important details:
+The central object should feel designed and functional, not random. The sixteen input fragments should be small but legible as source cues. Use refined material rendering in an illustrated style, clear silhouette, and strong catalog composition.
+
+Use case:
+Independent sixteen-reference fusion single image, testing object-level synthesis from many material and prop references.
+
+Constraints:
+No readable text, no labels, no logos, no watermark, no scattered junk, no real brand artifacts, no photorealistic product mockup, preserve exact 1:1 aspect ratio.

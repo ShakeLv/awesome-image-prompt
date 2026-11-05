@@ -1,0 +1,14 @@
+Scene:
+A portrait 4:5 fictional mobile social-feed screen showing a long comment thread over a Song dynasty night-market post. The interface is modern, clean, and screenshot-like, but uses no real app branding.
+
+Subject:
+A night market post from a fictional Song dynasty merchant account: lantern stalls, steam from food baskets, painted umbrellas, ceramic bowls, silk bolts, river bridge reflections, and customers in period clothing. Below the image, a neatly stacked comment thread includes scholar, vendor, and traveler profiles with compact readable UI text and small reaction icons.
+
+Important details:
+Strong structured layout, realistic feed spacing, legible hierarchy, warm lantern palette, period-accurate market objects, clear distinction between image area and comments, interface shadows and dividers kept subtle, no cluttered overlap, readable top-level UI controls, dense comments that still align cleanly.
+
+Use case:
+Independent Prompt Atlas image for testing mobile UI layout, world-knowledge reconstruction, and high-density comment composition.
+
+Constraints:
+No real app logo, no real brand marks, no watermark, no broken alignment, no random Latin filler text, no modern storefront signage, no photorealistic phone frame, preserve exact 4:5 portrait aspect ratio.

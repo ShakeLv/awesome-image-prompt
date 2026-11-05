@@ -1,0 +1,14 @@
+Scene:
+A square false-color SEM microscopy plate with muted amber and teal tinting over an otherwise electron-microscope tonal base. The sample field is viewed from a slightly elevated angle, with a shallow topographic shadow and a clean black bottom information strip. A lower-left scale bar area and small calibration blocks are present as visual structures only, with no readable characters.
+
+Subject:
+A dense field of pollen grains resting on a rough carbon tape surface. The grains vary in shape: round spiny spheres, oval grooved capsules, and a few collapsed shells. Each pollen grain has species-like microarchitecture, including pores, spikes, ridges, perforations, and powdery residue. Some grains overlap or sit in tiny depressions, casting delicate SEM-like shadows.
+
+Important details:
+Make the image scientific and plausible, not decorative. False color should be restrained post-processing: warm grains, cool shadows, neutral substrate, and preserved grayscale relief. Keep the instrument layout structured with a bottom strip, scale bar geometry, and micro UI marks that remain unreadable. Surface detail must be crisp at multiple scales: grain silhouette, pore pattern, spines, dust, and substrate granularity. Avoid turning pollen into fruit, beads, or planets.
+
+Use case:
+SEM Microscopy single study 2/8, testing false-color pollen surface rendering with structured scientific plate layout.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no bright candy colors, no macro photo bokeh, no plant petals, no floating grains, no cartoon spikes, no labels, no decorative border, no biological gore.

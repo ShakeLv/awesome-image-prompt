@@ -1,0 +1,12 @@
+# Canal Wanderer Fusion
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/sixteen-reference-fusion/packages/series-reference-fusion-atlas/images/02-canal-wanderer-fusion/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/e860af6735bfa69f2050494216ac4b5bb75dc82191cf7040f27901b550951cce.webp)
+- SHA-256:e860af6735bfa69f2050494216ac4b5bb75dc82191cf7040f27901b550951cce
+- Reference dependencies:1; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

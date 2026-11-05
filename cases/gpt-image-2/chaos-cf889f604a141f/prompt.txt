@@ -1,0 +1,14 @@
+Scene:
+Create a square 1:1 portrait image for Same-Model Wardrobe Try-On Campaign. Use a square composition that can include multiple tight crops or one richer close-up, but still reads as one coherent portrait asset. The frame should feel like a finished professional deliverable rather than a casual snapshot, with clear lens discipline, believable light falloff, and a palette that directly supports Keep the same model stable while swapping through campaign-ready wardrobe directions that feel like a real fashion fitting or virtual try-on studio.. Keep enough surrounding space and compositional control for gallery, research, campaign, or approval-board reuse while staying photoreal and human-scaled.
+
+Subject:
+Center one campaign model with deep brown skin, short natural hair, balanced tall proportions, and a calm direct gaze. Stay locked to the same identity while emphasizing the evidence of the switch: hair texture, makeup finish, beard line, garment detail, or aging cues depending on the topic. Use the example direction from the brief as grounding context: Keep the same model stable while swapping through campaign-ready wardrobe directions that feel like a real fashion fitting or virtual try-on studio.. Wardrobe, lighting, environment, and pose may shift to serve this variation, but the viewer must immediately understand that the same reference identity is still in front of the camera.
+
+Important details:
+This backlog line is difficult because Keep the same model stable while swapping through campaign-ready wardrobe directions that feel like a real fashion fitting or virtual try-on studio.. Preserve skin tone family, bone structure, eye spacing, nose shape, mouth shape, hairline logic, shoulder width, and overall body read across the entire series. preserve exact face / hair base / body proportions from the reference model. This frame should support professional review and decision making without readable text. Avoid the common failure described in the brief: ordinary image models often lose likeness once styling, lighting, or layout changes enter the frame. Success should feel like the result should feel professionally usable, coherent, and clearly built around one stable human identity.
+
+Use case:
+Same-Model Wardrobe Try-On Campaign series study 8/9, a detail-proof or comparison board.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no readable labels, no broken panel alignment, no detached close-up fragments, no face drift.

@@ -1,0 +1,14 @@
+Scene:
+A square tabletop shot of several poster prints stacked and slightly fanned, with curled corners, offset edges, and soft directional light revealing paper thickness and ink behavior. The poster should express heroic monumental realism with low-angle figures, sunrise shafts, sculptural drapery, and industrial optimism, using red, ochre, cream, steel blue, and warm industrial smoke gray and a tactile surface appropriate to the medium.
+
+Subject:
+Design the top poster to dominate while nearby duplicate sheets echo the same composition, creating a tactile print-run scene rather than a single isolated sheet. Use workers, engineers, turbines, wheat, chimneys, steel beams, and raised-arm silhouettes as the main visual ingredients, and organize them with bold banner-like glyph panels used as abstract propaganda blocks without readable wording. For the contemporary-subject axis, thread in renewable-energy towers, metro construction, and logistics workers recast through monumental heroic framing. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Use the stack to emphasize production character: edge shadows, repeated motifs peeking from beneath, and subtle misalignment should enrich the material reading without changing the core design. Preserve upward gaze, idealized anatomy, broad light geometry, and poster clarity at large scale. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no specific leaders, no state emblems, no satire, no gritty collapse imagery.
+
+Use case:
+Soviet Monumental single study 7/9, testing print-run tactility and repeat presence.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

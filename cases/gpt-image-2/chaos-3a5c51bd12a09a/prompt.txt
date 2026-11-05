@@ -1,0 +1,14 @@
+Scene:
+Use the reference board as the source atlas, but compose a single coherent square studio still life, not a grid. The setting is a small artist workshop with warm desk light, watercolor paper, and quiet analog texture.
+
+Subject:
+Fuse the source cues into a whimsical studio creature: the ceramic cat figurine becomes a small living guide wearing the teal coat texture as a cape, round glasses as tiny spectacles, and an embroidered scarf. Around it are the brass compass, blue bicycle wheel, paper lantern glow, mossy stone stair miniature, wooden window frame, and canal bridge model, all arranged as if the creature is building a memory map.
+
+Important details:
+Preserve the color palette, film grain, watercolor texture, and individual prop identities from the reference board. The fusion must be elegant and coherent: many references are integrated into one designed object-world, with no copied grid. Use shallow studio depth, tactile materials, and clear focal hierarchy.
+
+Use case:
+Third image in a reference-dependent sixteen-reference fusion series, testing object, material, and character-like cue fusion.
+
+Constraints:
+Use the reference image as source material, but no visible 4 by 4 grid. No readable text, no logos, no watermark, no extra unrelated props, no horror creature, no photorealism, preserve exact 1:1 aspect ratio.

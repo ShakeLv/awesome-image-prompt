@@ -1,0 +1,14 @@
+Scene:
+Use the reference board as the source atlas, but create one coherent square interior scene. The setting is a compact memory room at dusk, with a canal window, paper lantern light, wooden frames, and soft illustrated texture.
+
+Subject:
+Fuse the sixteen cues into an inhabited room: the round-glasses protagonist's coat hangs by the window, the embroidered scarf drapes over a chair, the brass compass sits on a table beside a ceramic cat, the blue bicycle rests outside near a mossy stair, and the canal bridge appears through the window. The room should feel like a life assembled from many visual references.
+
+Important details:
+Keep the reference palette, warm film grain, watercolor softness, ink wash clouds, brick, wood, stone, lantern glow, and object identities. The fusion should be subtle and emotionally coherent rather than a checklist. Use layered foreground, middle ground, and window background while preserving visual clarity.
+
+Use case:
+Fourth image in a reference-dependent sixteen-reference fusion series, testing environmental fusion and memory-like continuity from a source atlas.
+
+Constraints:
+Use the reference image as source material, but no visible 4 by 4 grid. No readable text, no logos, no watermark, no unrelated props, no duplicate rooms, no photorealism, preserve exact 1:1 aspect ratio.

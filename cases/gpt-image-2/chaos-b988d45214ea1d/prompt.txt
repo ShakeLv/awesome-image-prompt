@@ -1,0 +1,14 @@
+Scene:
+A square illustrated travel poster with a clean central composition and sixteen small source motifs woven into the border. The style is warm hand-painted poster art with watercolor grain, soft ink outlines, and cinematic dusk light.
+
+Subject:
+The poster depicts a fictional canal town made from sixteen fused cues: canal bridge, old alley, wooden window, paper lanterns, blue bicycle, food stall, moss stairs, ink clouds, warm film grain, embroidered scarf pattern, teal coat color, brass compass rose, ceramic cat statue, watercolor sky, brick texture, and cream paper border. The cues must become one believable destination scene.
+
+Important details:
+Clear poster hierarchy, one strong scenic focal point, harmonious palette, border motifs that hint at the sources, and no readable typography. The fusion should be coherent and atmospheric, with many discoverable details but no clutter.
+
+Use case:
+Independent sixteen-reference fusion single image, testing place-level synthesis from many source motifs.
+
+Constraints:
+No readable text, no real place names, no logos, no watermark, no random collage scraps, no photorealism, no overstuffed border, preserve exact 1:1 aspect ratio.

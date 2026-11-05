@@ -1,0 +1,14 @@
+Scene:
+A square science-facts thumbnail built for instant small-size recognition. The composition uses a bright astronaut helmet or presenter face on the left, a large glowing planet behind, and a clean hook zone on the right made of thick non-readable bars. Background is deep space purple-black with cyan highlights, but the overall layout stays simple and graphic.
+
+Subject:
+A youthful science presenter in a silver space jacket points upward with excitement while a stylized Saturn-like planet and orbit ring fill the upper background. A simple star map grid and one rocket icon appear as large clean forms only. The presenter expression should be energetic and friendly. The thumbnail must feel like a repeatable educational channel cover, not a movie poster.
+
+Important details:
+Prioritize silhouette, contrast, and category signal. Keep the face or helmet large, the planet unmistakable, and the text area bold yet unreadable. Use a strong color split between the presenter and background so the image survives heavy downscaling. Avoid too many stars or tiny science props.
+
+Use case:
+Short Video Cover Pack single study 6/9, focused on science-channel readability and bright category coding.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cluttered galaxy wallpaper, no multiple competing planets, no tiny labels, no low-contrast composition.

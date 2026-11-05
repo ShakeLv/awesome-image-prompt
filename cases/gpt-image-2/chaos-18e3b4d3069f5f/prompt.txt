@@ -1,0 +1,14 @@
+Scene:
+A square frame organized around a ruthless one-point perspective, with the vanishing point pinned dead center and every wall seam, ceiling light, floor tile, and doorway converging toward it. The palette should lean cold white, muted red, steel gray, and hospital green, with a monumental sense of emptiness and institutional order. Create an ice-blue laboratory chamber with floor drains, cable trays, and illuminated wall niches all converging toward a central sealed hatch.
+
+Subject:
+Place one small human figure or one important object along the central axis so the architecture dominates the scale relationship. The corridor or interior must feel long, controlled, and mildly oppressive, as if the camera is witnessing a space designed by precision rather than comfort. A scientist in a simple protective suit stands in front of the hatch with hands behind their back, reduced to a small silhouette by the architecture.
+
+Important details:
+The essential grammar is exact perspective discipline, polished surfaces, measured repetition, and low emotional temperature. Preserve straight lines, clean threshold spacing, and a believable practical-lighting logic. The image should feel clinical, deliberate, and spatially hypnotic rather than decorative or chaotic. Favor frozen color temperature, crisp edges, and a sense of monitored stillness rather than futuristic spectacle.
+
+Use case:
+Single-Point Perspective Clinical Corridor single study 8/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fisheye distortion, no crooked horizon, no cluttered props, no graffiti, no colorful signage, no broken anatomy, no low-detail background, no accidental text fragments.

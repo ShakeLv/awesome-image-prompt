@@ -1,0 +1,14 @@
+Scene:
+Use the reference board as the source atlas, but do not repeat the grid. Create one coherent square illustration of a quiet canal alley at dusk, seen at walking height, with warm lantern light and soft hand-painted atmosphere.
+
+Subject:
+Fuse the reference cues into one character scene: the round-glasses protagonist wears the teal wool coat and embroidered scarf, walks beside an old brick canal bridge, pushes the blue bicycle, and carries the brass compass. A ceramic cat sits near the wooden window frame; a small food stall glows under paper lanterns. The image should feel like all sixteen cues became one believable world.
+
+Important details:
+Preserve identity, palette, props, and illustrated texture from the reference board. Use the watercolor texture, ink wash clouds, mossy stair, warm film grain, and hand-painted sky as environmental details. The fusion should be seamless, not a collage; the viewer should sense many references were combined into one place.
+
+Use case:
+Second image in a reference-dependent sixteen-reference fusion series, testing whether many source cues can become a coherent walking scene.
+
+Constraints:
+Use the reference image as source material, but no visible 4 by 4 grid. No readable text, no logos, no watermark, no duplicated protagonist, no random extra props, no photorealism, preserve exact 1:1 aspect ratio.

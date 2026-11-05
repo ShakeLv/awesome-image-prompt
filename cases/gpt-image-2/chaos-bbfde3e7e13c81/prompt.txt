@@ -1,0 +1,14 @@
+Scene:
+A square sports-recap thumbnail optimized for instant feed impact. The composition uses a dynamic athlete cutout on the right, a presenter or commentator face on the left, and a bold central slash separating the two. Background is deep stadium blue with one hot yellow accent and a wide top strip for category coding. The empty hook zone should sit across the upper center as thick non-readable bars.
+
+Subject:
+A commentator host reacts with open-mouth excitement while a football or basketball player in motion occupies the opposite side, frozen at the decisive highlight moment. Use only one athlete and one host so the frame remains clean. Add one scoreboard-like block and one heat-trail graphic as simple visual cues. The thumbnail should feel like a repeatable sports recap system for a short-video account.
+
+Important details:
+Clarity beats realism. Keep expressions big, silhouettes bold, and the central slash graphic simple. Make sure the athlete and host stay readable at tiny scale. Use color contrast aggressively but avoid cluttered stadium detail. The empty hook block must feel loud and clickable without any actual words.
+
+Use case:
+Short Video Cover Pack single study 9/9, focused on sports-recap thumbnail energy and two-subject layout discipline.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no full team crowd, no messy scoreboard clutter, no multiple athletes, no muddy motion blur covering faces.

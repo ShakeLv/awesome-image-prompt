@@ -1,0 +1,14 @@
+Scene:
+Compose a square seasonal drink campaign image that can function as a poster, counter card, or launch visual. The frame should combine a hero beverage with strong art direction, abstract text-safe zones, and seasonal cues expressed through ingredients, color shifts, atmosphere, and material accents rather than readable copy. Retain the exact campaign composition and layout-safe space, but move into berry tones, dusk gradients, and reflective chilled surfaces.
+
+Subject:
+The beverage must remain physically believable and delicious, with clear cup or bottle silhouette, realistic liquid behavior, and ingredients that support a limited-time seasonal story. Show an iced berry beverage with glass clarity, fruit accent, and a mood that feels like a seasonal evening launch moment.
+
+Important details:
+This theme lives at the intersection of product photography and campaign layout. Preserve strong focal hierarchy, poster-safe negative space, and refined color systems that suggest seasonality without relying on legible words. Abstract lettering forms or blocks are allowed only as unreadable design elements. The drink must still look like something a real brand could launch tomorrow. Preserve the exact camera height, lens feel, prop family, tabletop scale, palette discipline, and brand logic established by 01-launch-anchor. The poster should still read as part of the same campaign family through vessel scale, ingredient orbit logic, and abstract layout blocks even as the palette cools.
+
+Use case:
+Seasonal Drinks series study 4/9, built for Prompt Atlas coverage of a food and beverage commercial visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake holiday slogans, no amusement-park color overload, no unreadable clutter, no cheap stock-poster look, no neon nightclub vibe, no readable berry callouts, no candy-shop styling.
