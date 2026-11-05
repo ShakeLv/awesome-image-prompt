@@ -1,0 +1,14 @@
+Scene:
+Produce a square orthographic character-sheet image with a bright neutral board, strict spacing, and an even more diagrammatic tone than the reference sheet. The page should emphasize clarity over spectacle, using front, side, and back placements with clean vertical alignment, a faint floor baseline, restrained crop marks, and discreet shape blocks that imply production annotations without readable text. Keep the overall lighting flat enough for technical evaluation while preserving enough material separation to distinguish cloth, armor, and emissive parts.
+
+Subject:
+Use the exact same heroine from the turnaround reference model. Preserve exact face, hair base, body proportions, eyebrow scar, braid length, chest reactor, asymmetrical shoulder mantle, bodysuit seam map, belt and holster logic, cape split, glove shapes, and boot construction. Show front, side, and back views as the dominant content, with one tiny head close-up inset if needed for face clarity. The image should read like a reliable orthographic handoff for modeling or wiki documentation, not like a new concept.
+
+Important details:
+Consistency is the whole point. Do not beautify away the production logic. Keep silhouette breakpoints measurable and aligned, especially shoulder width, knee height, cape length, and reactor placement. Use a restrained palette of teal, ember orange, gunmetal, and ivory exactly as established in the reference model. Small inset blocks may show belt buckle or gauntlet details, but the main layout must remain clean and orthographic.
+
+Use case:
+Hero Reveal Turnaround Pack series study 7/9, translating the same heroine into a stricter front-side-back production sheet.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face and body proportions from the reference model, no dramatic perspective, no extra prop clutter, no colorway change, no anatomy drift, no floating UI panels.

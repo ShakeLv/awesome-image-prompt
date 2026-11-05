@@ -1,0 +1,14 @@
+Scene:
+A square technical board with disciplined spacing, soft top light, and subtle cast shadows adding depth to separated components. Compose the frame as a square key visual with disciplined camera placement, premium lighting control, and believable real-world scale. The tonal range should feel polished and intentional, with enough atmosphere to create depth without obscuring form. Keep contrast calibrated for launch, catalog, or research presentation use rather than casual snapshot aesthetics.
+
+Subject:
+Center an original industrial handheld measurement device with magnesium shell, rubberized grips, gasket seams, vent slots, internal battery bay, and dense but plausible fastener logic. Make the subject feel original, production-aware, and clearly grounded in Industrial Product Exploded View Suite. For this series image, preserve exact core subject identity, proportions, base geometry, and material language from the reference image whenever continuity matters. The focal hierarchy should be immediate: primary form first, then material behavior, then supporting environmental cues that clarify use context and difficulty.
+
+Important details:
+Reveal PCB, battery, seals, structural ribs, and sensor block while keeping the same device recognizable. The logic should feel like something a real engineering team could build. Preserve exact external form, part hierarchy, material palette, and engineering plausibility across the series. Separation distances must stay clean and readable. Internal parts should feel manufacturable rather than ornamental. Use believable materials, engineering logic, and professional composition discipline. Reflections, shadows, edge breaks, texture scale, interface density, and small physical joints must all support realism. Avoid filler props, vague mood-board clutter, or any element that weakens the sense of a purpose-built industrial or automotive image.
+
+Use case:
+Exploded Views series study 3/9 for Industrial Product Exploded View Suite, built as image 03-surface-study.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no logos, no impossible levitation clutter, no magic components, no random colorful wires, no messy arrows.

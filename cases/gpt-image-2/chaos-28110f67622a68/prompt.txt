@@ -1,0 +1,14 @@
+Scene:
+A square studio photograph style image of a premium tea pouch lying flat beside a magnified label proof sheet. The background is warm off-white paper, lit from the upper left with soft shadows. The design language is commercial packaging: clean black text, sage green blocks, small line dividers, and a precise nutrition-label-like grid. The label fills most of the frame and must be easy to inspect.
+
+Subject:
+Create a Spanish localization of a compact ingredient and brewing label. The exact readable Spanish text must be: Té verde, Ingredientes, hojas de té, arroz tostado, Preparación, 80 C, 2 min, Sin azúcar. Arrange these strings in a realistic package label with the same visual role that English text would occupy: product name at top, section headings, ingredient rows, brewing settings, and a small claim badge. Keep the packaging generic with no brand name.
+
+Important details:
+This tests translation in a dense commercial mockup where text must fit small containers. Preserve a strict grid, sharp label borders, consistent numeral style, even padding, and readable accents. The Spanish text should look naturally typeset, not randomly scattered. Make the surface tactile and plausible, but prioritize clear text and localization discipline over decorative packaging noise.
+
+Use case:
+In-Image Translation single study 6/8, testing localized packaging text inside a compact ingredient label layout.
+
+Constraints:
+No readable text except the specified Spanish strings, no watermark, no logos, preserve exact 1:1 aspect ratio, no real brand, no random certification marks, no misspelled accents, no unreadable microtext, no cluttered label grid.

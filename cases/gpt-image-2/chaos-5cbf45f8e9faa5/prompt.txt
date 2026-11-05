@@ -1,0 +1,14 @@
+Scene:
+A square adventure poster with tropical emerald, sandstone, brass, and torch-gold tones, finished like glossy theatrical key art. The composition should feel energetic and readable, with one dominant explorer in the foreground, supporting companions arranged on diagonals, and an exotic ruin opening toward the viewer. Use warm directional light, drifting dust, and leafy silhouettes that frame rather than clutter the scene.
+
+Subject:
+Create a cast-remix poster based on the grammar of a beloved relic-hunt action one-sheet. The lead is a one-eyed museum conservator wearing climbing gear and carrying a rolled star map; beside and behind them place a sarcastic jungle botanist, a teenage parkour messenger, an armored river guide with a jade spear, and a monkey-like clockwork companion holding a gemstone idol. The background should feature a collapsing vine-covered arch, a waterfall cave, rope bridges, and an approaching storm. The lead explorer remains the largest figure, stepping slightly toward the viewer while the ensemble cascades outward in clear descending importance.
+
+Important details:
+The image must preserve the breezy, iconic hierarchy of an expedition poster: charismatic lead, adventurous secondary cast, relic at the center of desire, and an environment promising traps and motion. Keep the ad composition tight, with obvious space for an abstract title block near the lower center and ornamental strips for cast names higher up. Use shape language, carved plaques, or painted banner blocks instead of actual words. The overall feeling should be polished and theatrical, never like a random fantasy scene or a literal recreation of any fedora-wearing archaeologist brand.
+
+Use case:
+Iconic Poster Cast Remix single study 8/9, testing whether expedition-poster composition stays instantly legible when its characters and relic mythology are fully replaced.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fedora iconography, no copied whip pose, no chaotic overpopulation, no fake map labels, no direct franchise costume echoes, no hidden letters in vines or stone carvings.

@@ -1,0 +1,14 @@
+Scene:
+A square close comparison board with even light, clean sample separation, and subtle shadow depth under multiple material fragments. Compose the frame as a square key visual with disciplined camera placement, premium lighting control, and believable real-world scale. The tonal range should feel polished and intentional, with enough atmosphere to create depth without obscuring form. Keep contrast calibrated for launch, catalog, or research presentation use rather than casual snapshot aesthetics.
+
+Subject:
+Center an original industrial product finish family featuring anodized aluminum, bead-blasted magnesium, textured polymer, molded rubber, and satin ceramic coating applied to one coherent device platform. Make the subject feel original, production-aware, and clearly grounded in Industrial Material Finish Study Board. For this series image, preserve exact core subject identity, proportions, base geometry, and material language from the reference image whenever continuity matters. The focal hierarchy should be immediate: primary form first, then material behavior, then supporting environmental cues that clarify use context and difficulty.
+
+Important details:
+Emphasize tactile contrast, edge precision, substrate honesty, and assembly realism. The board should feel rooted in real industrial CMF decision-making. Preserve exact finish palette, substrate relationships, edge treatments, and micro-texture logic across the series. The work should feel like an industrial-design materials deck, not a random mood board. Use believable materials, engineering logic, and professional composition discipline. Reflections, shadows, edge breaks, texture scale, interface density, and small physical joints must all support realism. Avoid filler props, vague mood-board clutter, or any element that weakens the sense of a purpose-built industrial or automotive image.
+
+Use case:
+Material Study series study 3/9 for Industrial Material Finish Study Board, built as image 03-surface-study.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no logos, no paint drips, no decorative clutter, no fabric swatches, no unrealistic CGI glow.

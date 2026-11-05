@@ -1,0 +1,14 @@
+Scene:
+A square colorful top-down cutaway of a coworking space transformed into a stealth puzzle map. The office includes hot desks, phone booths, lounge sofas, coffee bar, shared conference pods, printer alcove, lockers, plant dividers, glass entrance, and a rooftop terrace door. Use bright startup-office colors under a semi-transparent tactical overlay.
+
+Subject:
+The playable map shows NPC patrol routines as curved colored paths between coffee, phone booths, printers, and meeting pods. The exact readable objective text should be "STEAL GPT-6" in a small objective card. A player marker begins near lockers; target data is shown in a conference pod as a glowing icon, not a person. HUD elements include disguise icon, access badge, silent inventory silhouette, and suspicion meter. Use small dots and cones rather than detailed violence or action.
+
+Important details:
+This image tests reasoning composition inside a busy open-plan office. The map must remain legible despite furniture density: routes avoid desks, sightlines are blocked by phone booths and plant dividers, and staff routines create timed openings. Keep UI overlays clean with different colors for patrol, objective, restricted zones, and safe route. The space should feel like a real coworking office with plausible amenities, not a generic maze.
+
+Use case:
+Hitman Office Level single study 6/8, testing independent coworking-office patrol puzzle composition and UI hierarchy.
+
+Constraints:
+No readable text except "STEAL GPT-6", no watermark, no logos, preserve exact 1:1 aspect ratio, no real coworking brand, no blood, no active shooting, no dead bodies, no random furniture maze, no unreadable patrol spaghetti, no UI labels beyond the objective.

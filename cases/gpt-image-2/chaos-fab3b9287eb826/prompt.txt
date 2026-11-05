@@ -1,0 +1,14 @@
+Scene:
+A square hyperreal museum-display photograph of a desert oasis diorama cube on a pale limestone base. Use high, dry sunlight with crisp shadows, a clean cream background, and a three-quarter camera angle that shows the palm-covered top surface and exposed sides. The cube should feel tactile, dusty, and precisely cut.
+
+Subject:
+The top face shows a small oasis with date palms, a shallow turquoise pool, reed patches, wind ripples in sand, camel tracks without animals, and a few mudbrick walls without signage. The cutaway sides reveal dune cross-bedding, compacted ancient lakebed clay, palm roots, a freshwater lens, salt crust, buried pottery fragments, beetle burrows, and a deeper fractured sandstone aquifer. Include capillary moisture gradients, root hairs touching wet sand, and mineral rings around the pool.
+
+Important details:
+The whole object must communicate how an oasis works. Surface water should connect visibly to groundwater, palm roots should reach toward the wet lens, and sand layers should show wind-driven structure. Pottery fragments and burrows should be sparse and embedded, not scattered decoration. Keep the cube edges sharp, the materials dry except at the wet zones, and the top oasis small enough to preserve the sense of a specimen block.
+
+Use case:
+Hyperreal Diorama Cube single study 8/8, testing a desert oasis cube with groundwater logic, dune stratigraphy, roots, salt, artifacts, and aquifer layers.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no floating labels, no fantasy temple ruins, no oversized animals, no random treasure, no muddy blue water stripe, no disconnected pool, no soft rounded cube edges, no cropped palm crowns.

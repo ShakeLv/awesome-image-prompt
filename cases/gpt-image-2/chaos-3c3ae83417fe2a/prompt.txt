@@ -1,0 +1,14 @@
+Scene:
+A square crop of a transit safety panel inside a clean metro carriage, photographed straight-on with stainless steel edges and soft overhead light. The panel is a finished public-information graphic with four pictogram boxes, a headline band, and a lower instruction strip. Use high contrast safety colors: white, black, signal yellow, muted blue, and a small red accent.
+
+Subject:
+Show a French localization of a transit safety instruction panel. The exact readable French text must be: Restez derriere la ligne, Tenez la rampe, Laissez sortir, Gardez vos sacs pres de vous, Sortie. Place the main warning in the headline band, three instructions under pictograms in the middle boxes, and the exit label beside a clean arrow in the lower strip. Typography should be sober, transit-grade, and readable, with no brand system or route names.
+
+Important details:
+The challenge is maintaining a public-safety layout while translating the text. Keep pictograms aligned, box borders crisp, icon scale consistent, and the baseline grid stable. French accents should render correctly where used, and the text must not spill outside boxes. The panel should look like a professionally localized safety graphic, not an improvised poster.
+
+Use case:
+In-Image Translation single study 7/8, testing translated safety instructions with pictogram alignment and strict readability.
+
+Constraints:
+No readable text except the specified French strings, no watermark, no logos, preserve exact 1:1 aspect ratio, no metro brand, no route numbers, no extra warnings, no garbled accents, no angled unreadable panel.

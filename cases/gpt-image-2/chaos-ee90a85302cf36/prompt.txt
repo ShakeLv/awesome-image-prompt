@@ -1,0 +1,14 @@
+Scene:
+A square hyperreal product photograph of a rainforest diorama cube on a black velvet display base. Use humid atmospheric light, tiny water droplets, and a clean three-quarter angle that reveals the top canopy and three strong side faces. The background is dark green-gray and softly blurred, making the cube look like a rare scientific collectible.
+
+Subject:
+The top face shows a dense rainforest canopy with giant leaves, bromeliads, small flowering vines, and a winding boardwalk barely visible between trees. The cube sides reveal stacked ecological systems: dark leaf litter, red clay soil, pale fungal threads, thick buttress roots, termite tunnels, a buried stream, mineral seams, and a hidden limestone cave with clear water. Include tiny insects, seed pods, root hairs, and moisture beads where they belong, all at believable scale.
+
+Important details:
+The visual rule is continuous ecology across every visible face. Roots must start from real trunks on the top and continue down into the soil layers. Water should pool in low cavities and glisten along clay seams. The side faces need crisp material transitions rather than random brown bands. The cube should have sharp cut edges, detailed micro-texture, and an understandable vertical hierarchy from canopy to cave.
+
+Use case:
+Hyperreal Diorama Cube single study 2/8, testing a rainforest ecosystem compressed into a collectible cube with coherent roots, soil, tunnels, and groundwater.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no floating labels, no fantasy plants, no giant insects, no muddy texture soup, no disconnected root fragments, no flat wallpaper side faces, no cropped top canopy.

@@ -1,0 +1,14 @@
+Scene:
+Use the reference image as the locked source poster. Maintain the same square, front-facing poster proof, neutral studio wall, bright even lighting, white card surfaces, graphite typography color, blue and green accent blocks, and warm yellow highlights. The finished result must feel like a Korean language export from the same design system.
+
+Subject:
+Replace only the English text with Korean. The exact readable Korean text must be: headline 매일 물 마시기 계획; card labels 기상, 아침 식사, 출근, 점심, 저녁; footer 잠들기 전에 채우기. Keep every phrase inside the same original text zone: the headline at the top, five schedule labels in the middle cards, and the footer in the bottom strip. Characters should be crisp Hangul, visually centered, and typeset with a clean sans serif rhythm.
+
+Important details:
+The challenge is to preserve typography and layout while the language changes length and density. Do not change the poster's card order, icon locations, container sizes, margin grid, background color, or visual hierarchy. The Korean text can use natural spacing, but it must keep the same baseline feeling and not collide with icons. Make the result inspectable as a before-and-after localization artifact.
+
+Use case:
+In-Image Translation series study 3/8, translating the source poster into Korean while preserving text boxes and composition.
+
+Constraints:
+No readable text except the specified Korean strings, no watermark, no logos, preserve exact 1:1 aspect ratio, no English leftovers, no garbled Hangul, no duplicate labels, no altered icons, no redesigned layout.

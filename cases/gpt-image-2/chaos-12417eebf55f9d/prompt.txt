@@ -1,0 +1,14 @@
+Scene:
+A square campaign poster built around a bold red-and-black crime palette, photographed and lit like a premium printed one-sheet pinned to a gallery wall. The frame should feel flat and graphic rather than cinematic realism, with a strong central rectangle of empty negative space reserved for an abstract title block. Use crisp directional light, lacquered highlights, and smoky shadows to make the composition feel expensive and instantly legible from a distance.
+
+Subject:
+Remix the famous grammar of a rebellious ensemble poster into a new cast drawn from unrelated fictional worlds: a composed anime swordswoman in a black suit reclining diagonally across the lower half, a retro arcade pilot leaning against the frame edge, a masked lounge singer with a chrome microphone, and a tiny robot courier guarding an open glowing briefcase on a diner table. The briefcase becomes the brightest object in the composition and drives the eye upward toward a band of supporting faces, weapon silhouettes, and diner props hovering in carefully ranked layers.
+
+Important details:
+The poster must read as an iconic cast remix, not a collage. Preserve ad-poster hierarchy with one dominant figure, one anchor prop, and a stepped pyramid of secondary characters above. Use exacting negative space, controlled crop lines, and believable print-finish polish. Include abstract zones for cast names, tagline, and credits as graphic bars or ornamental glyph textures only, never readable lettering. The image should feel like a pitch-ready entertainment campaign that clearly borrows legendary poster logic while fully replacing the characters and world.
+
+Use case:
+Iconic Poster Cast Remix single study 1/9, testing whether GPT Image 2 can preserve a legendary crime-poster composition while swapping the entire cast and object language.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no celebrity likenesses, no direct costume copies from known films, no face-swap look, no messy collage seams, no tiny illegible fake billing block, no extra props outside the main hierarchy.

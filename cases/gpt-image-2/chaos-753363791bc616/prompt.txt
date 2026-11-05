@@ -1,0 +1,14 @@
+Scene:
+Compose a sectional environmental plate showing an interior forest growing along the inward-facing shell under soft light from the central body. The square should combine explanatory curvature with enough ecological texture to feel inhabited and real. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Focus on tree analogs, water flow, atmosphere, and ground layers oriented to the shell interior. The forest should appear stable and fully adapted to this unusual geometry rather than transplanted from Earth. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the planet is a stable shell world with an inner luminous core, inverted continental surfaces, and atmospheric circulation that equalizes pressure across interior and exterior environments. Diagrams should explain how landscapes and ecosystems remain coherent inside the shell. Make the inverted orientation legible through canopy angle, shadows, and the location of the central light source. The biome should feel like a true consequence of the world model, not a visual trick. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Hollow World Cross Section single study 6/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no upside-down novelty gag, no fantasy glowing trees, no readable labels, no flat infographic simplification, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

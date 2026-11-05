@@ -1,0 +1,14 @@
+Scene:
+A square modular instruction manual page on white paper, with crisp black technical drawing, pale gray panel gutters, and small blue-yellow accent symbols. The page is organized like a real flat-pack shelf assembly sheet: hardware inventory at top, exploded structure in the middle, and final-use icons along the bottom. All written zones are blank blocks or pseudo strokes, with no readable language.
+
+Subject:
+A friendship shelf system assembled from shared-memory boards, message pegs, time brackets, listening hinges, joke drawers, tea cups, spare chairs, and repair patches. Two small instruction figures cooperate from opposite sides of the shelf: one holds a board steady, one tightens a hex bolt, and a third tiny figure arrives later with an extra connector. The final shelf is asymmetrical but balanced, holding keepsakes, plants, mugs, and open space for future parts.
+
+Important details:
+The instruction logic should show friendship as maintenance, not instant assembly. Include one panel with crossed-out overloading, one panel showing equal tightening from both sides, one panel with a replacement patch for a cracked board, and one panel showing optional expansion modules. Keep all arrows clear, all parts separated in exploded view, and all figure expressions simple. The manual should feel commercial and technical while carrying a warm conceptual joke.
+
+Use case:
+IKEA Instruction World single study 7/8, turning friendship into a modular shelf assembly and maintenance diagram.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real brand marks, no sentimental typography, no cluttered gift collage, no photorealistic shelf photo, no hard-to-follow arrows, no actual numbered labels.

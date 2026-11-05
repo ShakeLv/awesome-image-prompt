@@ -1,0 +1,14 @@
+Scene:
+Render a square, front-facing sacred diagram with the calm authority of a museum print or ceremonial object photography. The composition should be centered, still, and precise, with lighting chosen to reveal line accuracy, material finish, and the relationship between the central bindu and the surrounding triangle, lotus, and boundary systems. Present it straight on like an architectural sample, with subtle directional light revealing joints and polish. Keep the square crop exact, the camera flat, and the tonal design disciplined enough that structure stays clear at poster scale and under close inspection.
+
+Subject:
+Use a yantra structure driven by exact intersecting triangles, disciplined rings, lotus petals, and square boundary logic. The geometry should feel measured and intentional, with no uncertain overlaps and no decorative material distracting from the mathematical clarity of the primary form. Focus this variation on a stone inlay interpretation where polished minerals form the yantra as a square sacred floor panel. The composition should feel complete and singular, as though one finished artifact has been resolved with full conviction rather than one fragment pulled from a larger sheet.
+
+Important details:
+Intersection accuracy is the main challenge. Keep the bindu fixed at the true center, preserve clean point-to-point contacts, and let petals, borders, and subsidiary rings reinforce the core structure instead of competing with it. Material richness should support legibility, never soften it. Joints must trace the geometry exactly, the bindu must stay perfectly centered, and the panel border must feel structural rather than decorative. Preserve crisp edge behavior, stable hierarchy, and enough fine information that the image rewards slow viewing without losing the main read from a distance.
+
+Use case:
+Yantra Precision single study 9/9, designed as a self-contained sacred-geometry image with a distinct material and compositional emphasis.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no misregistered triangle intersections, no off-center bindu, no cartoon mysticism, no incense smoke covering geometry, no readable script, no ornamental clutter outside the main order, no perspective tilt, no cracked tiles, no surrounding architecture stealing focus.

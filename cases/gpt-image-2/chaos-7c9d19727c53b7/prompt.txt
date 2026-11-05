@@ -1,0 +1,14 @@
+Scene:
+A square hyperreal diorama cube photographed like a luxury natural-history specimen. The cube sits partly on a shallow reflective water surface, with bright tropical light from above and soft caustic patterns on the sides. The view is three-quarter and slightly elevated, revealing the turquoise top lagoon and the vertical coral-limestone cross sections.
+
+Subject:
+The top face is a miniature coral atoll with a ring of white sand, shallow lagoon water, branching coral heads, seagrass patches, and tiny wavelets. The cutaway sides reveal living coral growth, older dead coral skeleton, porous limestone, sand channels, freshwater lens, saltwater intrusion, small reef fish in cavities, and a deeper volcanic seamount base. Include shells, algae films, sponge pockets, and suspended grains where the water meets the cut face.
+
+Important details:
+The image must show a clear relationship between surface reef and subsurface geology. The freshwater lens should be a subtle clear layer floating above denser blue saltwater, not a random stripe. Coral heads must attach to real substrate. Limestone pores, reef rubble, and volcanic base should have different materials. Keep water transparent enough to reveal depth while preserving realistic reflections and refraction.
+
+Use case:
+Hyperreal Diorama Cube single study 5/8, testing a coral atoll cube with reef ecology, porous limestone, water lenses, and volcanic foundation layers.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cartoon fish, no fantasy coral colors, no disconnected water layer, no plastic aquarium look, no cloudy side faces, no impossible wave scale, no cropped lagoon rim.

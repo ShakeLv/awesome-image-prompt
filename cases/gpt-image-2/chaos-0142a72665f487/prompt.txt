@@ -1,0 +1,14 @@
+Scene:
+Create a square 1:1 portrait image for Identity-Locked Hairstyle Switchboard. Use a final single-look variation with confident but restrained campaign polish. The frame should feel like a finished professional deliverable rather than a casual snapshot, with clear lens discipline, believable light falloff, and a palette that directly supports Keep one face locked while exploring a broad hairstyle board across length, texture, color, and styling direction with salon-grade clarity.. Keep enough surrounding space and compositional control for gallery, research, campaign, or approval-board reuse while staying photoreal and human-scaled.
+
+Subject:
+Center one face-locked model with neutral tan skin, almond eyes, high cheekbones, and a clean hairline that can support dramatic restyling. Use the same person again in a sixth styling state, making sure recognition is instant before the viewer notices what changed. Use the example direction from the brief as grounding context: Keep one face locked while exploring a broad hairstyle board across length, texture, color, and styling direction with salon-grade clarity.. Wardrobe, lighting, environment, and pose may shift to serve this variation, but the viewer must immediately understand that the same reference identity is still in front of the camera.
+
+Important details:
+This backlog line is difficult because Keep one face locked while exploring a broad hairstyle board across length, texture, color, and styling direction with salon-grade clarity.. Preserve skin tone family, bone structure, eye spacing, nose shape, mouth shape, hairline logic, shoulder width, and overall body read across the entire series. preserve exact face / hair base / body proportions from the reference model. The transformation should feel deliberate, premium, and usable in a real salon, beauty, fashion, or casting workflow. Avoid the common failure described in the brief: ordinary image models often lose likeness once styling, lighting, or layout changes enter the frame. Success should feel like the result should feel professionally usable, coherent, and clearly built around one stable human identity.
+
+Use case:
+Identity-Locked Hairstyle Switchboard series study 7/9, the sixth controlled transformation.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no hidden face, no perspective warp, no dramatic environment change, no AI-gloss artifacts.

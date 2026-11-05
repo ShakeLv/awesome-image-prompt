@@ -1,0 +1,14 @@
+Scene:
+A square repair instruction page in a minimal flat-pack manual style, straight-on on white paper. The drawing language is black technical line art with thin gray alignment guides, blue safety arrows, yellow caution shapes, and tidy modular panels. The layout includes a diagnosis strip, an exploded repair diagram, and three lower reassembly steps. All labels are non-readable pseudo marks or empty bars.
+
+Subject:
+A kit for repairing creative burnout as if it were a malfunctioning desk lamp and workbench. The inventory contains a dim idea bulb, tangled cable, empty battery pack, calendar pressure plate, coffee mug cylinder, rest cushion, walk-outside wheel, sketchbook panel, and small patience screws. A tired instruction figure removes the overloaded pressure plate with a hex key, replaces it with a rest spacer, untangles the cable, and reattaches the idea bulb.
+
+Important details:
+Keep the diagram funny but precise. One panel should show a crossed-out setup where the calendar plate crushes the bulb. Another should show correct spacing between work, sleep, and play modules. The final panel shows a clean glowing workbench with the figure standing calmly. Use assembly arrows, dashed alignment paths, warning triangles, and check marks, but no readable instructions. Make the emotional metaphor readable through objects alone.
+
+Use case:
+IKEA Instruction World single study 6/8, presenting creative burnout recovery as a flat-pack repair procedure.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real brand marks, no therapy poster lettering, no messy notebook collage, no photorealistic office, no doom mood, no illegible instruction clutter.

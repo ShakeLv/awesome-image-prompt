@@ -1,0 +1,14 @@
+Scene:
+Design a clean sectional diagram that zooms closer on the inner cavity, with the central light source offset enough to show the distribution of illumination and heat across the shell interior. The square composition should feel explanatory and elegant, with layered atmosphere and terrain belts. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Focus on climate zones, cloud circulation, and the way light intensity creates distinct inner biomes around the shell. Include enough land and water detail to make the climate consequences visible rather than abstract. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the planet is a stable shell world with an inner luminous core, inverted continental surfaces, and atmospheric circulation that equalizes pressure across interior and exterior environments. Diagrams should explain how landscapes and ecosystems remain coherent inside the shell. Use diagram discipline instead of labels: graded color, clear air layers, and consistent terrain forms should communicate climate structure. This should feel like a scientific thought experiment presented with conviction. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Hollow World Cross Section single study 2/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable arrows, no dashboard UI, no fantasy aurora overload, no posterized gradient shortcuts, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

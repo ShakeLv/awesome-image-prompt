@@ -1,0 +1,14 @@
+Scene:
+A controlled black studio macro setup, pure black background, glossy black reflective tray, invisible electronic flash, cool blue rim light from back right and clean white key flash from front left.
+
+Subject:
+a bright orange wedge bursting into juice mist and peel fragments, centered in a square frame at the exact peak moment of impact. The main event fills about 62% of the image width with particles suspended around it.
+
+Important details:
+Photorealistic high-speed photography, millionth-of-a-second freeze, macro lens, translucent pulp, orange droplets, peel shards, no gore, realistic physics, deep black negative space, crop-safe composition.
+
+Use case:
+Independent image in a Prompt Atlas high-speed theme. Square 1:1 gallery card and detail modal asset.
+
+Constraints:
+No text, no watermark, no logo, no human hands, no visible weapon or launcher, no blood, no animals, no cartoon style, no CGI look, preserve exact 1:1 aspect ratio.

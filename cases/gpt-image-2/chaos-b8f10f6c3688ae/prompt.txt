@@ -1,0 +1,14 @@
+Scene:
+Compose a square equipment-callout board that mixes one full-body hero view with organized detail insets on a pale production background. The layout should feel like a studio approval sheet: one dominant standing figure slightly off center, surrounded by smaller callout windows for the ring-blade, chest reactor motif, mantle interior, belt hardware, glove surface, and boot tread. Use soft overhead light, crisp edge definition, and enough spacing so every inset remains readable without any text. The board must feel orderly, technical, and ready for wiki or team review use.
+
+Subject:
+Feature the exact same heroine from the turnaround reference model with no identity drift. Preserve face, hair base, body proportions, eyebrow scar, and the full costume architecture of asymmetrical teal shoulder mantle, ember-orange bodysuit, graphite segmented armor, ivory scarf tabs, crescent chest reactor, slim ring-blade sidearm, and split cape panels. The standing figure can be front-facing or slight three-quarter, but the callout insets must match the same materials and geometry seen on the body. Each inset should reinforce the costume logic rather than invent alternate details. The ring-blade must keep the same crescent language, and the reactor should echo the same motif seen on the chest.
+
+Important details:
+This sheet should make production logic legible. Separate matte armor, satin fabric, brushed metal, and soft emissive surfaces clearly. Maintain the same palette and edge hierarchy established earlier. Abstract panel frames and alignment marks are welcome, but there should be no readable labels. The goal is to prove that the hero can survive transition from splash-art charisma into practical asset breakdown without losing recognizability.
+
+Use case:
+Hero Reveal Turnaround Pack series study 8/9, testing equipment and material callouts for the same locked-identity heroine.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face and costume logic from the reference model, no extra costume variants, no exploded parts floating chaotically, no heavy shadows hiding details, no unrelated props.

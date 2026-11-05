@@ -1,0 +1,14 @@
+Scene:
+A square flat-pack instruction manual page on clean white paper, viewed straight-on like a commercial product insert. The style is precise black vector-like technical line art with sparse blue and yellow accent blocks, thin gray construction lines, and generous margins. The page is divided into a clear cover band, a parts inventory, and six diagram panels, but all labels are blank blocks or pseudo marks rather than readable words.
+
+Subject:
+An imaginary kit for assembling a human life across fifty years. The parts inventory shows a crib panel, school desk, bicycle wheel, apartment key, work lamp, travel suitcase, family table, medical chart shape, rocking chair, memory boxes, and many tiny connector pegs. Small faceless instruction figures use hex keys, arrows, and puzzled expressions to assemble these parts into a winding timeline shelf. The final panel shows the life structure standing like a modular bookcase with rooms, doors, and keepsakes.
+
+Important details:
+The humor must come from treating life milestones as furniture hardware. Use exploded diagrams, numbered-looking step circles without readable numerals, warning icons with expressive little figures, twist arrows, check marks, X marks, and one oversized hex key. Keep the layout professionally balanced: every panel should be legible, aligned, and clean enough to pass as a real assembly sheet.
+
+Use case:
+IKEA Instruction World single study 1/8, translating a fifty-year life into a flat-pack technical instruction diagram.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real brand marks, no actual product names, no messy comic page, no photorealistic furniture showroom, no dense illegible labels, no broken arrows.

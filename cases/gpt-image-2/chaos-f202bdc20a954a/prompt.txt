@@ -1,0 +1,14 @@
+Scene:
+A square flat-pack moving manual on a bright white page, laid out with strict information-design hierarchy, black technical line art, small blue and yellow accents, and light gray registration marks. The page looks like a folded instruction insert for a modular cart system. It has a large exploded diagram in the center, a parts checklist at the side, and four small step panels around it with blank label strips only.
+
+Subject:
+A kit for moving into a new apartment. The parts inventory shows sofa panels, bed slats, bookshelf boards, plant pots, lamp shades, cardboard boxes, door keys, elevator buttons as abstract icons, tape rolls, wheels, and a small emotional-support snack tray. Tiny instruction figures push, lift, rotate, and align the pieces into a single impossible moving cart that unfolds into a furnished studio apartment.
+
+Important details:
+The main visual joke is that the entire stressful move is treated as one furniture assembly. Show correct and incorrect lifting posture icons, arrows that rotate a sofa through a doorway, caster wheels attaching to a cardboard box stack, and a final check panel where the apartment locks into place. Keep the diagrams plausible, clean, and mechanically satisfying. Avoid real labels; rely on icons and silhouettes for meaning.
+
+Use case:
+IKEA Instruction World single study 5/8, turning an apartment move into a modular assembly-cart instruction sheet.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real store branding, no actual street address, no cluttered moving-photo scene, no unreadable typography, no chaotic piles hiding the diagram, no broken technical perspective.

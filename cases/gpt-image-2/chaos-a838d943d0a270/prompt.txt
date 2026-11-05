@@ -1,0 +1,14 @@
+Scene:
+A square instruction leaflet laid out on white paper, straight-on, with crisp black technical drawing, sparse blue-yellow accents, gray fold marks, and a disciplined grid. The page has a parts list on the left, a caution strip at the top, and four large assembly panels in a two-by-two arrangement. Use blank label bars and symbolic glyphs only, so the design reads as a manual without readable language.
+
+Subject:
+A flat-pack kit for assembling a relationship. The parts include two chair-like heart brackets, trust dowels, tiny conversation hinges, calendar pegs, apology washers, shared-blanket panels, boundary spacers, and a fragile glass patience shelf. Two simple instruction figures work together: one holds an oversized hex key, the other steadies a wobbling emotional frame. The final assembly is a small two-seat bench-house hybrid with balanced legs, cushions, shelves, and open windows.
+
+Important details:
+Show the relationship as a technical system that fails if parts are forced: one panel shows crossed-out over-tightening, another shows alignment arrows between two separate panels, another shows missing washer chaos, and the final panel shows a clean check-marked structure. Keep the humor dry and diagrammatic. The layout must be orderly, with consistent stroke weight, no crowded labels, and clear visual hierarchy from inventory to steps to final object.
+
+Use case:
+IKEA Instruction World single study 2/8, turning a relationship into a structured flat-pack assembly diagram.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real brand identity, no romance-card lettering, no photorealism, no cluttered scrapbook, no actual numbered text, no broken panel grid.

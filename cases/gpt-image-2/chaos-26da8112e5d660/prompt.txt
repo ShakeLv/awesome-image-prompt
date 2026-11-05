@@ -1,0 +1,14 @@
+Scene:
+Create a square architectural photograph of an edible miniature city built from sugar and chocolate, lit like a serious built-environment hero shot rather than a whimsical craft display. The composition should imply scale through streets, openings, and tiny pathways while keeping the material identity unmistakably confectionary. Light must reveal translucency, lacework, caramel tension, and crystal sparkle without flattening the forms. Create a square street-level night photograph in the edible city after rain, with reflections stretching along dark chocolate pavement and glowing through translucent sugar facades. The camera should feel close enough to the street that the city briefly reads as full scale.
+
+Subject:
+Show a narrow avenue lined with sugar towers, caramel awnings, and chocolate storefront-like masses, all rendered without any readable signage. Wet reflections, crystal-lit windows, and a few tiny puddles should amplify the realism of the impossible materials. The city should feel moody, quiet, and architectural rather than cute.
+
+Important details:
+Treat the city as structurally plausible even when the materials are fantastical. Blown sugar should refract like fragile glass, pulled caramel should show tension and stretch, and dark chocolate should carry matte-to-satin variation where appropriate. The image should balance wonder with discipline, as if photographed for an architecture journal about impossible edible construction. Make the wet-surface physics convincing: glossy chocolate pavement, amber caramel reflections, and diffused light through sugar windows should all behave differently. The scene should prove the edible city can survive a cinematic street-level close-up.
+
+Use case:
+Candy architecture single study 7/9, testing the edible metropolis under night rain and reflections.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no candy wrappers, no toy-town props, no gingerbread-house cliches, no cartoon palette overload, no readable signage, no umbrellas or people, no neon brand signs, no toy-car scale gags.

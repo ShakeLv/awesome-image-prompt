@@ -1,0 +1,14 @@
+Scene:
+Create a polished square hero-introduction frame with a controlled studio-cinematic hybrid setup. The camera sits at a three-quarter full-body distance, slightly below eye level so the figure feels playable and aspirational without becoming exaggerated poster fantasy. Use a soft storm-gray gradient background, a faint illuminated floor ring, and crisp rim light that separates the character silhouette from the backdrop. Brightness should be concentrated on the face, chest reactor, and shoulder mantle, while the corners stay quiet and clean for downstream marketing reuse. The overall image must feel like a finished launch anchor that can guide later references across poster, bust crop, banner, and production-sheet outputs.
+
+Subject:
+Center an original playable heroine with warm umber skin, an angular heart-shaped face, high cheekbones, a slim slash scar through the left eyebrow, alert amber-brown eyes, and short ivory-white hair cut into an undercut with one long braided tail. Preserve athletic dancer-sprinter build with long legs, narrow waist, and confident upright posture. Her costume language is fixed: asymmetrical teal shoulder mantle, ember-orange bodysuit, graphite segmented armor, ivory scarf tabs, crescent chest reactor, slim ring-blade sidearm, and split cape panels. Keep the body turned slightly off-axis with one foot forward, one hand relaxed near the ring-blade holster, and the other hand open in a calm charge-ready gesture. The expression should be focused, composed, and unmistakably heroic rather than aggressive. The face must be highly legible and repeatable, with the same eyebrow scar, hairline, braid length, cheekbone shape, nose bridge, lip shape, and eye spacing that all later images will preserve.
+
+Important details:
+The visual language must balance promo polish with production clarity. Lock the faction palette to teal, ember orange, gunmetal, and soft ivory, keep armor seams believable, and let the chest reactor read as a crescent motif that can recur in every asset. Do not overfill the background. The silhouette should stay readable from thumbnail distance: angular shoulder mantle on one side, narrow waist, long legs, and split cape panels. Materials should feel like premium stylized game rendering, with matte armor, satin fabric, soft skin texture, and controlled emissive accents.
+
+Use case:
+Hero Reveal Turnaround Pack series study 1/9, establishing the canonical hero identity for all launch and turnaround assets.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no extra characters, no oversized weapon swing, no chaotic background scenery, no costume redesign, no face drift, no inaccurate anatomy.

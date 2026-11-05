@@ -1,0 +1,14 @@
+Scene:
+Create a square atlas-style planetary cutaway viewed straight on, with the shell thickness, inner cavity, and luminous central body all clearly legible. The image should feel like a polished museum diagram rather than a rough concept sketch. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Show both outer crust and inverted inner continents, with oceans clinging to the interior shell, atmospheric layers curving around the cavity, and one central light source providing illumination. Keep the whole system readable at a glance. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the planet is a stable shell world with an inner luminous core, inverted continental surfaces, and atmospheric circulation that equalizes pressure across interior and exterior environments. Diagrams should explain how landscapes and ecosystems remain coherent inside the shell. Clarity and plausibility matter most. Use restrained cross-sectional color coding, believable geology, and clean hierarchy so the viewer can infer how a shell world might physically organize itself. Avoid clutter and avoid pure fantasy spectacle. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Hollow World Cross Section single study 1/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no comic-book explosion cutaway, no cluttered UI overlays, no magical glow fog everywhere, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

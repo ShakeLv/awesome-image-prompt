@@ -1,0 +1,14 @@
+Scene:
+Create a square dependent Halloween campaign image inside the same moody event world, preserving the exact ember-orange highlights, charcoal depth, and refined sense of danger from the reference image, but orient the composition toward an entertainment-gate or fairground entry. The scene should remain premium and suspenseful rather than childish, with clear continuity to the anchor image.
+
+Subject:
+Feature a stylized gate, ticketing threshold without readable text, lantern light, sculptural props, and controlled seasonal detail that suggests a premium Halloween carnival or immersive event. Preserve exact campaign identity from the reference model while changing the venue emphasis. The subject must feel original, promotional, and suitable for nightlife or entertainment rollout.
+
+Important details:
+Keep the same high-end Halloween language: suspense first, novelty second. Metalwork, wood, haze, and lighting rigs should all feel believable. The gate should imply event access and anticipation, not a theme-park parody. The final image should work as campaign key art for entertainment venues and seasonal event promotions.
+
+Use case:
+Halloween Promo series study 4/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no readable ticket text, no gore, no clown-horror cliché, no logo banners, no theme-park mascots, no circus overload, no rainbow carnival lights, no crowd crush.

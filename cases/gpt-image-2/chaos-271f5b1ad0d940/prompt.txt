@@ -1,0 +1,14 @@
+Scene:
+Create a square drinks-table campaign image at night with low amber light, dark glass reflections, and velvet-shadow atmosphere. The frame should feel like a premium hospitality or bar campaign for Halloween, not a casual party snapshot. Use strong styling, clean spacing, and enough visual hierarchy that the drinks, tableware, and seasonal cues read immediately.
+
+Subject:
+Show crafted cocktails or mocktails, glassware, a mask-like object or accessory, candlelight, and restrained seasonal props arranged into an elegant Halloween hospitality scene. The subject should communicate social intrigue and event readiness rather than horror or costume comedy. Keep the objects tactile, polished, and original.
+
+Important details:
+Let menace remain playful and upscale. Glass refraction, ice, garnish, velvet cloth, metal trays, and candlelight should all feel believable. The final image should support bar, hotel, or event promotions during Halloween. Avoid generic nightclub clutter or gaudy mixology theatrics. This is about polished suspense and selective seasonal coding. Keep the frame precise enough for gallery, research, and campaign reuse, with believable materials and a strong thumbnail read.
+
+Use case:
+Halloween Promo single study 7/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable drink menu, no branded bottles, no gore, no cartoon skull cups, no cigarette clutter, no rainbow LEDs, no crowd, no movie-character masks.

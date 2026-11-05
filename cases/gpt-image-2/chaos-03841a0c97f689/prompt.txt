@@ -1,0 +1,14 @@
+Scene:
+Use the reference image as the locked source poster. Keep the same square crop, same straight-on wall presentation, same color palette, same modular grid, same line icons, same card sizes, and same footer position. The image should look like the same design file after a professional Japanese localization pass, not like a new poster or a loose remake.
+
+Subject:
+Replace only the English text with Japanese while preserving the typography hierarchy and approximate visual weight. The exact readable Japanese text must be: headline 毎日の水分プラン; card labels 起床, 朝食, 通勤, 昼食, 夜; footer 就寝前に補充. Keep the headline in the same top area, each card label beside its original icon, and the footer inside the same bottom strip. The translated characters should be crisp, balanced, and naturally typeset.
+
+Important details:
+The core test is in-image translation with typography preservation. Do not move icons, resize cards, change colors, add new ornaments, or redesign the schedule. Japanese strings may be slightly wider or narrower than English, but they must stay centered in the same boxes and retain the original label rhythm. Preserve line spacing, corner radius, margins, icon scale, and overall visual identity from image 01.
+
+Use case:
+In-Image Translation series study 2/8, translating the source poster into Japanese while keeping the visual system fixed.
+
+Constraints:
+No readable text except the specified Japanese strings, no watermark, no logos, preserve exact 1:1 aspect ratio, no English leftovers, no random kana, no broken characters, no shifted icons, no changed poster structure.

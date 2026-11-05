@@ -1,0 +1,14 @@
+Scene:
+A square sepia-and-olive prestige poster, lit like aged varnished paper with soft falloff, deep shadows, and a solemn museum-grade finish. The composition should be almost architectural: a central seated figure near the bottom, large areas of quiet negative space above, and a disciplined arrangement of supporting portraits and ceremonial objects around the edges. Keep the palette restrained, tactile, and formal, like a legacy family empire advertisement.
+
+Subject:
+Create a cast-remix poster built on the grammar of a revered dynasty drama one-sheet. Replace the expected crime family with an entirely different ensemble: a stern cyberpunk matriarch seated beside an ancestral altar, a pale-haired fantasy tactician standing behind her, a river-merchant daughter in embroidered silk, a scarred mecha veteran holding prayer beads, and a child prodigy with a glowing mechanical dove. Around them, arrange incense smoke, folded fans, lacquered fruit, chess pieces, and a dim wedding banquet corridor. The matriarch must dominate the lower center while all other figures orbit in descending visual importance.
+
+Important details:
+The image needs to feel unmistakably poster-authored, with heirloom gravity and classic ad spacing. Preserve the iconic hierarchy of a single seated ruler, surrounding heirs, and ceremonial emptiness above for an abstract title field. Use painterly sepia depth, subtle paper grain, and disciplined symmetry without becoming static. Indicate actor-name bands, critic quotes, and billing-space as elegant horizontal ornaments, carved shapes, or muted plaques that do not resolve into text. The cast swap should feel seamless and intentional, as if a major franchise was reinterpreted by a new studio art department.
+
+Use case:
+Iconic Poster Cast Remix single study 2/9, testing whether a classic dynasty-poster composition remains recognizable after a total character-world replacement.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no direct imitation of any real actor portrait, no modern neon clutter, no comedic tone, no random extra faces, no sloppy montage edges, no visible real-world trademarks.

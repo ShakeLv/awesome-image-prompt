@@ -1,0 +1,14 @@
+Scene:
+Create a square dependent campaign image in the same Halloween world, with the identical charcoal shadow, ember glow, and polished threat from the reference image, but shift the setting into a dramatic hotel corridor or lobby threshold. Preserve the same light behavior and material identity while increasing spatial mystery and hospitality cues, as though the same campaign has expanded into a haunted-luxury venue activation.
+
+Subject:
+Show an elegant corridor or lobby with moody lamps, shadows, controlled fog, a few carefully placed seasonal props, and an implied invitation deeper into the space. Preserve exact campaign identity from the reference model while making the hospitality environment central. The scene should feel cinematic and event-ready, but still physically plausible and premium.
+
+Important details:
+Continuity must remain exact. Keep the same color discipline, same suspense level, and same upscale production value. Let the haunted quality come from architecture, light falloff, and silence rather than from monsters or gore. The final image should fit hotel activations, event venues, or premium Halloween poster systems.
+
+Use case:
+Halloween Promo series study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no readable room numbers, no gore, no ghost cliché, no logo signage, no cheap cobweb decor, no zombie references, no bright carnival colors, no jump-scare figure.

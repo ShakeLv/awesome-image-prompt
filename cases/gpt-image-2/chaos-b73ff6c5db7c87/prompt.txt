@@ -1,0 +1,14 @@
+Scene:
+A square top-down premium game screenshot of an executive office floor turned into a stealth mission board. The camera looks down through a clean architectural cutaway: marble elevator lobby, private reception, two glass offices, a boardroom, assistant desks, copy room, restroom corridor, and a secure records archive. The palette is corporate charcoal, ivory, brass, and tactical cyan UI.
+
+Subject:
+The mission overlay shows one player start marker, NPC patrol loops, camera cones, keycard doors, and objective icons layered over the floorplan. The exact readable objective text should be "STEAL GPT-6" in a compact upper-left objective panel. A lower-right HUD includes icon-only inventory slots, a non-firing suppressed pistol silhouette, access card icon, and suspicion meter. The image should feel like a level designer's finished screenshot, with strong hierarchy between architecture and UI.
+
+Important details:
+The office logic must be playable: reception controls entry, assistants watch the corridor, the boardroom blocks line of sight, archive access requires a keycard, and the elevator lobby is exposed. Keep patrol lines connected, vision cones aligned to character dots, and restricted areas tinted consistently. The mood can borrow stealth-game language, but avoid real game branding and avoid showing harm. The spectacle is the precise fusion of corporate office plan and game systems.
+
+Use case:
+Hitman Office Level single study 5/8, testing an independent executive-floor stealth layout with objective UI and readable patrol logic.
+
+Constraints:
+No readable text except "STEAL GPT-6", no watermark, no logos, preserve exact 1:1 aspect ratio, no real game brand, no blood, no active shooting, no dead bodies, no impossible door connections, no cluttered UI covering the route logic.

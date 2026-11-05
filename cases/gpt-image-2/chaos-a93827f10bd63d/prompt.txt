@@ -1,0 +1,14 @@
+Scene:
+A square hyperreal cutaway cube displayed under clean architectural model lighting. The cube floats above a white plinth in a quiet design studio, with a three-quarter view and strong edge definition. Use cool concrete grays, asphalt black, signal yellow accents, and warm underground station light. The top and side faces must all be visible and sharply detailed.
+
+Subject:
+The top face shows a miniature dense city block with towers, sidewalks, trees, rooftop equipment, crosswalks without readable markings, and small cars at realistic scale. The side faces reveal basement levels, utility conduits, storm drains, subway tunnels, platforms, escalator shafts, bedrock, groundwater seepage, and older buried foundations. Include train cars inside one tunnel, pipe bundles, cable trays, retaining walls, and soil nails that connect logically to surface structures.
+
+Important details:
+The cube is a structured urban x-ray, not a chaotic city collage. Each layer should have a distinct purpose: street surface, building foundations, service corridors, transit tube, drainage, bedrock, and water. Vertical shafts must connect from street entrances down to platforms. Keep architectural scale consistent and avoid impossible overlaps. The cutaway faces should feel like a physical model made from concrete, soil, metal, glass, and stone.
+
+Use case:
+Hyperreal Diorama Cube single study 6/8, testing a megacity block cube with surface urban detail and organized underground infrastructure.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand signs, no route maps, no station names, no floating labels, no impossible tunnel intersections, no toy-like cars, no muddy utility spaghetti, no cropped cube edges.

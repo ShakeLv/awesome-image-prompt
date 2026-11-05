@@ -1,0 +1,14 @@
+Scene:
+Create a square 1:1 portrait image for High Fashion Lookbook Grid. Use a lookbook composition with clear stance, full-body silhouette, and fashion-week-grade restraint. The frame should feel like a finished professional deliverable rather than a casual snapshot, with clear lens discipline, believable light falloff, and a palette that directly supports Build editorial lookbook grids that keep the same model identity stable across multiple outfits, poses, and page compositions.. Keep enough surrounding space and compositional control for gallery, research, campaign, or approval-board reuse while staying photoreal and human-scaled.
+
+Subject:
+Center one high-fashion model with deep espresso skin, sharp editorial bone structure, long neck, stable lean proportions, and an unwavering runway stare. Preserve the same subject through a heavier outerwear styling direction with stable body proportions and facial recognition. Use the example direction from the brief as grounding context: Build editorial lookbook grids that keep the same model identity stable across multiple outfits, poses, and page compositions.. Wardrobe, lighting, environment, and pose may shift to serve this variation, but the viewer must immediately understand that the same reference identity is still in front of the camera.
+
+Important details:
+This backlog line is difficult because Build editorial lookbook grids that keep the same model identity stable across multiple outfits, poses, and page compositions.. Preserve skin tone family, bone structure, eye spacing, nose shape, mouth shape, hairline logic, shoulder width, and overall body read across the entire series. preserve exact face / hair base / body proportions from the reference model. Even when the outfit becomes bulkier, the model must remain unquestionably the same. Avoid the common failure described in the brief: ordinary image models often lose likeness once styling, lighting, or layout changes enter the frame. Success should feel like the result should feel professionally usable, coherent, and clearly built around one stable human identity.
+
+Use case:
+High Fashion Lookbook Grid series study 8/9, a stronger outerwear or statement layer look.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no inflated body size, no hidden neck, no hat that changes identity, no second model.

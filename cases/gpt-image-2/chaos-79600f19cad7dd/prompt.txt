@@ -1,0 +1,14 @@
+Scene:
+A square space-opera rebellion poster with midnight blue, engine white, rust red, and amber flare colors, finished like a collector's one-sheet with luminous ink and subtle paper grain. The composition should rise from a grounded lower strip of machinery and troops to an open heroic sky, maintaining strong diagonal movement and clean negative space for campaign elements. Let smoke, sparks, and star haze create drama without obscuring the structure.
+
+Subject:
+Remix the grammar of a legendary uprising poster into a new cast of original characters. The central hero is a young signal engineer lifting a radiant antenna staff toward the sky. Behind and around the hero, arrange a silver-haired star smuggler, a broad-shouldered android defector, a masked pilot with a cracked visor, and a grandmother tactician gripping folded battle maps. Near the bottom, show a narrow line of insurgent bikes and a grounded shuttle bursting through smoke. Above them, place two colossal moons and the silhouette of a floating citadel, with one bright diagonal beam connecting the raised staff to the upper sky.
+
+Important details:
+The poster must preserve the instantly readable uprising hierarchy of one raised heroic gesture, ranked companions, vehicle strip at the bottom, and celestial backdrop above. Use deliberate campaign spacing so the eye travels from the staff to the cast to the lower action band. Replace title, cast names, and studio marks with abstract illuminated panels, embossed metal plates, or painted blocks that suggest ad layout without resolving into words. The image should feel like a sincere blockbuster key art remix, not satire, with an entirely original cast inhabiting the composition of an unforgettable rebellion poster.
+
+Use case:
+Iconic Poster Cast Remix single study 9/9, testing whether a classic uprising-poster silhouette can stay recognizable after the cast, props, and world mythology are completely rebuilt.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no lightsabers, no stormtrooper analogs, no copied spaceship designs from known franchises, no overcrowded dogfight sky, no comic-book exaggeration, no letters hidden in smoke or moon glow.

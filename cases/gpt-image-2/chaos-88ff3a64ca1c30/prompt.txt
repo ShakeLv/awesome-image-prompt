@@ -1,0 +1,14 @@
+Scene:
+Use the reference image as the locked source poster, but localize it for Arabic while keeping the square gallery crop and professional design proof quality. Preserve the same card grid, same soft gray wall, same white poster surface, same icon style, same blue, green, yellow, and graphite palette. The output should show a careful right-to-left localization pass without becoming a different poster.
+
+Subject:
+Replace only the English text with Arabic. The exact readable Arabic text must be: headline خطة الماء اليومية; card labels استيقاظ, فطور, تنقل, غداء, مساء; footer املأ قبل النوم. Keep every translated phrase in the equivalent text box, with right-to-left shaping, correct connected Arabic forms, and balanced weight. Icons may remain in their original locations from the reference, but each label must align naturally within its card and stay visually matched to the source hierarchy.
+
+Important details:
+This study tests whether in-image translation can handle script direction, shaping, and layout preservation together. Do not mirror the entire poster unless needed for the text flow; preserve the original visual identity, colors, card sizes, icon scale, footer strip, and headline prominence. Arabic text must look intentionally typeset, not pasted or distorted.
+
+Use case:
+In-Image Translation series study 4/8, translating the source poster into Arabic while preserving the original poster design.
+
+Constraints:
+No readable text except the specified Arabic strings, no watermark, no logos, preserve exact 1:1 aspect ratio, no English leftovers, no broken Arabic joining, no random marks, no shifted cards, no changed color system.

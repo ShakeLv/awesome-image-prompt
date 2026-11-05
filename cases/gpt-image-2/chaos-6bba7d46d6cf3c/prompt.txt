@@ -1,0 +1,14 @@
+Scene:
+A square flat-pack food instruction sheet in the language of furniture assembly: white background, black technical line art, clean grid, small blue and yellow accent shapes, and precise exploded diagrams. The page is viewed perfectly straight-on. It includes a large bowl assembly diagram, ingredient hardware inventory, directional arrows, and warning icons, but every label area is blank or filled with non-readable pseudo strokes.
+
+Subject:
+A kit for assembling a bowl of hot and sour soup as if it were a modular cabinet. The parts inventory includes tofu cubes as shelf blocks, wood ear mushrooms as curved brackets, bamboo shoots as slats, egg ribbons as flexible straps, pepper dots as tiny screws, vinegar droplets as connector caps, scallions as trim rails, and broth as a transparent bowl shell. Small instruction figures use a hex key, ladle, and alignment arrows to insert ingredients in the correct order.
+
+Important details:
+Make the soup visually delicious while preserving the absurd manual logic. Show an exploded bowl cross-section, one panel with crossed-out incorrect layering, one panel where the broth shell lowers over the ingredients, and one final assembled bowl with steam drawn as technical airflow lines. Keep the linework clean and the parts identifiable. The humor should be instantly clear without readable captions.
+
+Use case:
+IKEA Instruction World single study 3/8, converting a bowl of hot and sour soup into a technical flat-pack assembly sheet.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real restaurant branding, no messy recipe typography, no photorealistic food photo, no illegible dense labels, no extra decorative border, no actual product codes.
