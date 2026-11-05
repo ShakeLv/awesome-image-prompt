@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-11-05T21:31:38.594Z",
+  "ordinaryPublic": true,
+  "total": 10153,
+  "idsModelsAndImagesMatched": 10153,
+  "bytes": 5934125,
+  "sha256": "204504485aac484e0052ed467af2aebe5f3008ef3670513008cb56e90640f6b4",
+  "release": null,
+  "sourceBaseline": "f20f6ba78c66194ef3f301c9adf56d2044e5e2bf",
+  "scope": "Entire ordinary visitor prompt index; no content-version override."
+}
