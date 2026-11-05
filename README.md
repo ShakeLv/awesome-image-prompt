@@ -4,21 +4,22 @@ Image and prompt pairs with original author, source, actual generation model, re
 
 ## GPT Image 2.6 — current focus
 
-[21 complete image + full-prompt pairs, stored in this repository](GPT-IMAGE-2.6-FULL.md). Official model labels, native image hashes, MIT prompt-text attribution and per-item review retained. All 21 pairs are now published and publicly verified on [ProjectD](https://aitoolsradar.com/zh/prompts?model=GPT%20Image%202.6%20Sunburst).
+**37 complete output/prompt pairs, representing 22 distinct prompt texts.** Images and full prompts are stored in this repository with original attribution and per-item rights notes.
 
-[Browse 50 source-linked 2.6 case groups (41 distinct prompt texts)](GPT-IMAGE-2.6.md). Includes exact prompt source links, pinned output images and API settings where available. These are indexed candidates; ProjectD import and publication are tracked separately.
+- [21 official example pairs](GPT-IMAGE-2.6-FULL.md), already published on ProjectD.
+- [15 official comparison outputs](GPT-IMAGE-2.6-COMPARISONS.md): 13 Flare + 2 Sunburst complexity variants; zero additional prompt recipes.
+- [1 independent creator recipe](GPT-IMAGE-2.6-CREATOR.md), with the original 14-word prompt and actual 2.6 attachment. Variant unspecified.
+- [50-group original source index](GPT-IMAGE-2.6.md) and [additional research outcomes](data/image26-research-expansion.json). Source-linked candidates are not automatically approved pairs.
 
-## Initial ProjectD backfill
+The new 16 pairs have passed local review and browser checks; ProjectD publication is tracked separately.
 
-53 Nano Banana 2.1 pairs copied from ProjectD with matching image hashes. These are historical examples, not GPT Image 2.6 outputs. [Structured data](data/projectd-batch-0001.json).
+## ProjectD historical backfill
 
-Third-party prompts and images retain their original licenses and attribution in each record. No blanket repository license grants rights to third-party content.
+**1,574 historical pairs** are now archived across 16 batches with complete prompts and local images. [Browse all batches](PROJECTD-ARCHIVE.md). Their actual generation models remain unchanged; historical outputs are not relabeled as GPT Image 2.6.
 
-## More historical pairs
+The remaining **5,397** legacy records have individual source-evidence holds. [Held records](data/projectd-backfill-held.json) · [Upstream license audit](data/projectd-held-source-audit.json) · [Current inventory](data/projectd-inventory.json).
 
-[Batch 2: 144 additional image/prompt pairs](GALLERY-BATCH-0002.md), retaining their actual GPT Image 2 / 2.5 labels and per-item licenses. Total historical pairs published here: 197 (53 in batch 1, 144 in batch 2).
-
-[GPT Image 2.6 discovery ledger](RESEARCH-IMAGE-2.6.md).
+Third-party prompts and images retain original licenses, attribution and rights notices. No blanket repository license grants rights to third-party content.
 
 ## Gallery
 

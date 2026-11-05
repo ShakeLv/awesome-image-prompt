@@ -1,0 +1,107 @@
+{
+  "sourceChecks": [
+    {
+      "repo": "Toolcentral-ai/awesome-gpt-image-2-prompts",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-12T04:00:58Z",
+      "readmeRightsLines": [
+        "- `data/gpt-image-2-prompts.json`: full enriched prompt bundle with prompt text, variables, preview images, tags, input modes, references, and attribution fields.",
+        "- Keep source case URLs and attribution fields when reusing prompts or images.",
+        "Validate the bundle with `schema/gpt-image-2-prompt.schema.json`. Top-level fields record `schemaVersion`, `generatedAt`, `source`, `count`, and `templates`. Each template includes its public ID and slug, title, category and tags, model and input mode, prompt text and localized variants, reusable variables, reference-image requirements, aspect ratio, public preview URLs, source attribution, publication time, and SEO summary. Private review status, GSC metrics, internal source URLs, ranking weights, and API credentials are intentionally excluded.",
+        "## Attribution, Opt-out, and Commercial Reuse",
+        "This repository is a normalized discovery dataset, not a blanket license for every prompt or image. Keep item-level source attribution, review model-provider terms, and check trademarks, packaging, likeness, privacy, and media rights before commercial publication. To correct attribution or request removal of a prompt or preview, [open an issue](https://github.com/Toolcentral-ai/awesome-gpt-image-2-prompts/issues) with the public case URL and evidence; maintainers will review the source record and update both the dataset and web gallery when appropriate."
+      ]
+    },
+    {
+      "repo": "jau123/nanobanana-trending-prompts",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "defaultBranch": "main",
+      "updatedAt": "2026-11-04T06:05:30Z",
+      "readmeRightsLines": []
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "defaultBranch": "main",
+      "updatedAt": "2026-11-05T12:46:01Z",
+      "readmeRightsLines": [
+        "- [MIT License](LICENSE)",
+        "During collection and research, this project references public prompt-library content from [YouMind](https://youmind.com/) and [OpenNana](https://opennana.com/) for learning, summarization, and methodology research. Copyright belongs to the original authors or platforms. If any content is infringing or inappropriate, please contact us and we will correct or remove it promptly.",
+        "- For third-party content, we follow source repository statements, licenses such as `CC BY 4.0`, and the relevant platform rules.",
+        "## 📜 License",
+        "This project is open source under the [MIT License](LICENSE). You can use, modify, distribute, and build on it freely while preserving the license notice."
+      ]
+    },
+    {
+      "repo": "HiAPIAI/awesome-gpt-image-2-prompts",
+      "license": {
+        "key": "cc-by-4.0",
+        "name": "Creative Commons Attribution 4.0 International",
+        "spdx_id": "CC-BY-4.0",
+        "url": "https://api.github.com/licenses/cc-by-4.0",
+        "node_id": "MDc6TGljZW5zZTI1"
+      },
+      "defaultBranch": "main",
+      "updatedAt": "2026-11-04T04:19:49Z",
+      "readmeRightsLines": [
+        "Explore 189 curated visual generation cases across portraits, commercial posters, character design, interface design, model tests, and reusable references. Each case includes a real output image, full prompt, creator or source attribution, and original link so you can study, adapt, and reuse practical AI visual creation patterns.",
+        "- **2026-05-12** — Sources, NOTICE, and per-locale README copy cleaned up; case attribution discipline tightened. · [→](./NOTICE.md)",
+        "## License",
+        "HiAPI-owned repository materials — original curation, repository structure, README copy, code and scripts, JSON field structure (key names and file format), and HiAPI-created examples — are licensed under [CC BY 4.0](LICENSE): reuse and adapt with attribution to HiAPI and a link back to this repository. Prompt content inside the JSON, example images, creator attribution, third-party brand names, and platform names are not covered by this license; copyright belongs to the original rightsholders unless separately licensed. Do not treat this repository as a relicensing of prompt text, example images, or third-party material. For public display, copying, adaptation, or commercial use, follow the requirements of the original creators, publishing platforms, and relevant rightsholders — see [NOTICE.md](NOTICE.md)."
+      ]
+    },
+    {
+      "repo": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "defaultBranch": "main",
+      "updatedAt": "2026-11-05T12:56:01Z",
+      "readmeRightsLines": [
+        "[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)",
+        "> ⚠️ **Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) and we will remove it promptly.",
+        "- [📄 License](#-license)",
+        "## 📄 License",
+        "Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+      ]
+    },
+    {
+      "repo": "pyth0nb3st/awesome-gpt-image-2",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "defaultBranch": "main",
+      "updatedAt": "2026-11-05T09:27:38Z",
+      "readmeRightsLines": [
+        "This repository tracks 299 generated examples. The README is generated from `gallery.json` and `readme.config.json`; the live site keeps full prompt text, source attribution, provenance notes, tags, and static detail pages."
+      ]
+    }
+  ]
+}

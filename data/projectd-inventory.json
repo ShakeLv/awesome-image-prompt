@@ -1,19 +1,31 @@
 {
   "snapshotDate": "2026-11-05",
-  "scope": "local ProjectD dataset, not a fresh production audit",
-  "total": 5594,
+  "sourceCommit": "0381c2b",
+  "scope": "Current ProjectD main source, not a new live audit",
+  "total": 7008,
   "models": {
+    "GPT Image 2.6 Sunburst": 21,
+    "GPT Image 2": 5053,
+    "Nano Banana Pro": 248,
+    "Seedream 4.5": 70,
+    "Not disclosed": 34,
+    "GPT Image 2.5": 152,
+    "Claude Opus 5.5": 4,
+    "Nano Banana": 1348,
     "Nano Banana 2.1": 53,
-    "GPT Image 2.5": 118,
-    "GPT Image 2": 4109,
     "AI": 6,
-    "GPT Image 1.5": 3,
-    "Nano Banana": 1144,
-    "Nano Banana Pro": 161
+    "GPT Image 1.5": 3
   },
-  "exported": 197,
+  "archivedFullPairs": 1611,
+  "historicalFullPairs": 1574,
+  "gptImage26Pairs": 37,
+  "newHistoricalThisBatch": 1377,
+  "localImagesVerified": 1611,
+  "localMediaBytes": 1121487056,
   "remaining": 5397,
-  "preparedAdditional": 0,
-  "githubPublished": 197,
-  "remainingAfterPrepared": 5397
+  "remainingReason": "Missing source/license provenance; per-item hold ledger retained",
+  "githubPublished": 1611,
+  "publicationStatus": "GitHub batches 2–16 accepted; follow-up 2.6 creator and metadata commit in progress",
+  "gptImage26DistinctPrompts": 22,
+  "projectdNewBatchStatus": "16 reviewed pairs awaiting cloud receipt"
 }

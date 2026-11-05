@@ -1,7 +1,7 @@
 {
   "sourceGroups": 50,
-  "fullPairsArchived": 21,
-  "pending": 29,
+  "fullPairsArchived": 37,
+  "pending": 28,
   "projectdPublished": 21,
   "outcomes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "id": "official-case-2",
-      "outcome": "full-pair-archived-and-projectd-published"
+      "outcome": "held-license-scope-or-native-animation"
     },
     {
       "id": "official-case-3",
@@ -30,7 +30,7 @@
     },
     {
       "id": "official-case-7",
-      "outcome": "full-pair-archived-and-projectd-published"
+      "outcome": "held-license-scope-or-native-animation"
     },
     {
       "id": "official-case-8",
@@ -46,7 +46,7 @@
     },
     {
       "id": "official-case-11",
-      "outcome": "full-pair-archived-and-projectd-published"
+      "outcome": "held-license-scope-or-native-animation"
     },
     {
       "id": "official-case-12",
@@ -54,11 +54,11 @@
     },
     {
       "id": "official-case-13",
-      "outcome": "full-pair-archived-and-projectd-published"
+      "outcome": "held-license-scope-or-native-animation"
     },
     {
       "id": "official-case-14",
-      "outcome": "full-pair-archived-and-projectd-published"
+      "outcome": "held-license-scope-or-native-animation"
     },
     {
       "id": "official-case-16",
@@ -110,7 +110,7 @@
     },
     {
       "id": "official-case-28",
-      "outcome": "full-pair-archived-and-projectd-published"
+      "outcome": "held-license-scope-or-native-animation"
     },
     {
       "id": "nightlab-01",
@@ -202,9 +202,13 @@
     },
     {
       "id": "creator-v3rt0x-tea",
-      "outcome": "held-no-explicit-creator-reuse-license"
+      "outcome": "archived-attributed-short-quotation-awaiting-projectd"
     }
   ],
   "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
-  "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782"
+  "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782",
+  "additionalOutputVariants": 15,
+  "distinctArchivedPromptTexts": 22,
+  "note": "50 original indexed source groups: 22 selected recipes, 28 held groups; 15 further official model/complexity output variants bring stored full pairs to 37. Publication pending for the new 16 pairs.",
+  "statusCorrection": "Earlier outcome rows had assigned published to the first 21 ordinal rows instead of the exact 21 approved official case IDs. Reconciled against actual item-level ProjectD IDs and publication receipts; actual published content unchanged."
 }

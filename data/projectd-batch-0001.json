@@ -13,7 +13,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/studio-pure-white-amazon",
-      "image": "/prompt-gallery/a75b1d5a6afd62-8e4e70653571f81b.webp",
+      "image": "images/a75b1d5a6afd62-8e4e70653571f81b.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-pure-white-amazon-before.webp"
@@ -25,7 +25,8 @@
         "imageHash": "8e4e70653571f81bf926f66f382e587e30f448cb43face3d85308e616884e7f5",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/a75b1d5a6afd62-8e4e70653571f81b.webp"
     },
     {
       "id": "0da3dcaaefe00a",
@@ -39,7 +40,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/studio-acrylic-reflection",
-      "image": "/prompt-gallery/0da3dcaaefe00a-87bfc1f1134547f0.webp",
+      "image": "images/0da3dcaaefe00a-87bfc1f1134547f0.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-acrylic-reflection-before.webp"
@@ -51,7 +52,8 @@
         "imageHash": "87bfc1f1134547f04d03347850f23492cfeaf617105e7d6225966a784ec98535",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/0da3dcaaefe00a-87bfc1f1134547f0.webp"
     },
     {
       "id": "ef57d4605972d1",
@@ -65,7 +67,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/studio-floating-ambient-shadow",
-      "image": "/prompt-gallery/ef57d4605972d1-d0556010c64ce2e0.webp",
+      "image": "images/ef57d4605972d1-d0556010c64ce2e0.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-floating-ambient-shadow-before.webp"
@@ -77,7 +79,8 @@
         "imageHash": "d0556010c64ce2e073661fefd870909a4b63bb11411d544e13fd569eb45339ee",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/ef57d4605972d1-d0556010c64ce2e0.webp"
     },
     {
       "id": "277764e03c7728",
@@ -91,7 +94,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/studio-overhead-flat-lay",
-      "image": "/prompt-gallery/277764e03c7728-1182415ae85a470a.webp",
+      "image": "images/277764e03c7728-1182415ae85a470a.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-overhead-flat-lay-before.webp"
@@ -103,7 +106,8 @@
         "imageHash": "1182415ae85a470a3571b1d94db214363bf543ec6bb5c45c0bac42e3f3de22f2",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/277764e03c7728-1182415ae85a470a.webp"
     },
     {
       "id": "0a401865f4d6ef",
@@ -117,7 +121,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/studio-three-quarter-angle",
-      "image": "/prompt-gallery/0a401865f4d6ef-fb2a3d91754aa27d.webp",
+      "image": "images/0a401865f4d6ef-fb2a3d91754aa27d.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-three-quarter-angle-before.webp"
@@ -129,7 +133,8 @@
         "imageHash": "fb2a3d91754aa27df0dfbbc32c815a967c23d24550889218f6577bb31f232765",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/0a401865f4d6ef-fb2a3d91754aa27d.webp"
     },
     {
       "id": "843d5e52aae605",
@@ -143,7 +148,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/studio-material-detail-closeup",
-      "image": "/prompt-gallery/843d5e52aae605-dc9f59f5600dc6fc.webp",
+      "image": "images/843d5e52aae605-dc9f59f5600dc6fc.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-material-detail-closeup-before.webp"
@@ -155,7 +160,8 @@
         "imageHash": "dc9f59f5600dc6fcb00bc87c6a6da274b08eda9875ce4c6cd5520f3149fbfe31",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/843d5e52aae605-dc9f59f5600dc6fc.webp"
     },
     {
       "id": "cf585707446a40",
@@ -169,7 +175,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/studio-colorway-lineup",
-      "image": "/prompt-gallery/cf585707446a40-507a58cc67274258.webp",
+      "image": "images/cf585707446a40-507a58cc67274258.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/studio-colorway-lineup-before.webp"
@@ -181,7 +187,8 @@
         "imageHash": "507a58cc6727425833a1be137c1df0a33557260a61b04830ff179b2d870aac37",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/cf585707446a40-507a58cc67274258.webp"
     },
     {
       "id": "a76fc0f664a985",
@@ -195,7 +202,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/lifestyle-travertine-stone",
-      "image": "/prompt-gallery/a76fc0f664a985-dbef9442a6e3a40d.webp",
+      "image": "images/a76fc0f664a985-dbef9442a6e3a40d.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-travertine-stone-before.webp"
@@ -207,7 +214,8 @@
         "imageHash": "dbef9442a6e3a40def64870a37973195ecfb043d2dbd6257da73097c6acbed2d",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/a76fc0f664a985-dbef9442a6e3a40d.webp"
     },
     {
       "id": "f7917793ce18c0",
@@ -221,7 +229,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/lifestyle-marble-bathroom-dew",
-      "image": "/prompt-gallery/f7917793ce18c0-49795a72ba8b7b90.webp",
+      "image": "images/f7917793ce18c0-49795a72ba8b7b90.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-marble-bathroom-dew-before.webp"
@@ -233,7 +241,8 @@
         "imageHash": "49795a72ba8b7b903974e0f9588728c214b690140ef1246be3b5a9a345d88222",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/f7917793ce18c0-49795a72ba8b7b90.webp"
     },
     {
       "id": "2729aaf9ef12df",
@@ -247,7 +256,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/lifestyle-scandinavian-wood-kitchen",
-      "image": "/prompt-gallery/2729aaf9ef12df-0047d99f7ea8d809.webp",
+      "image": "images/2729aaf9ef12df-0047d99f7ea8d809.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-scandinavian-wood-kitchen-before.webp"
@@ -259,7 +268,8 @@
         "imageHash": "0047d99f7ea8d809c119398153b0fb08704cd947c127dc6ecb1cc8b8ae08324b",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/2729aaf9ef12df-0047d99f7ea8d809.webp"
     },
     {
       "id": "61d0588d6c92bd",
@@ -273,7 +283,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/lifestyle-industrial-concrete-podium",
-      "image": "/prompt-gallery/61d0588d6c92bd-a7ac12f966cbfb90.webp",
+      "image": "images/61d0588d6c92bd-a7ac12f966cbfb90.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-industrial-concrete-podium-before.webp"
@@ -285,7 +295,8 @@
         "imageHash": "a7ac12f966cbfb90f47caf98f95a78733cab3299a97c3ffee57fe086f7410580",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/61d0588d6c92bd-a7ac12f966cbfb90.webp"
     },
     {
       "id": "90d8b971e14ba3",
@@ -299,7 +310,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/lifestyle-bright-living-room",
-      "image": "/prompt-gallery/90d8b971e14ba3-9dd711e37b6e8a43.webp",
+      "image": "images/90d8b971e14ba3-9dd711e37b6e8a43.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-bright-living-room-before.webp"
@@ -311,7 +322,8 @@
         "imageHash": "9dd711e37b6e8a438136f5257d0945bfee452313e95df7cba4c32d8be9403ad8",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/90d8b971e14ba3-9dd711e37b6e8a43.webp"
     },
     {
       "id": "a0321566daaede",
@@ -325,7 +337,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/lifestyle-outdoor-picnic",
-      "image": "/prompt-gallery/a0321566daaede-bd59c46f89f3c6e2.webp",
+      "image": "images/a0321566daaede-bd59c46f89f3c6e2.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-outdoor-picnic-before.webp"
@@ -337,7 +349,8 @@
         "imageHash": "bd59c46f89f3c6e2c24ca5525e1ce2b1336074d98a7fda76d849f706f5acbf7c",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/a0321566daaede-bd59c46f89f3c6e2.webp"
     },
     {
       "id": "0ee969c84f9053",
@@ -351,7 +364,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/lifestyle-neon-gaming-desk",
-      "image": "/prompt-gallery/0ee969c84f9053-d1a0a222aae9f849.webp",
+      "image": "images/0ee969c84f9053-d1a0a222aae9f849.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/lifestyle-neon-gaming-desk-before.webp"
@@ -363,7 +376,8 @@
         "imageHash": "d1a0a222aae9f84941c22bf71aa4aff3d3ea14d0703d6660bce9a85643bbd3d2",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/0ee969c84f9053-d1a0a222aae9f849.webp"
     },
     {
       "id": "bbc388d92cb62e",
@@ -377,7 +391,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/cleanup-remove-glare-reflections",
-      "image": "/prompt-gallery/bbc388d92cb62e-46a992efd9c6272f.webp",
+      "image": "images/bbc388d92cb62e-46a992efd9c6272f.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-remove-glare-reflections-before.webp"
@@ -389,7 +403,8 @@
         "imageHash": "46a992efd9c6272f8b35be3c79075f85d337b2e0bd3f0547549e66d2d44a47eb",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/bbc388d92cb62e-46a992efd9c6272f.webp"
     },
     {
       "id": "eeca6130e5a4ec",
@@ -403,7 +418,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/cleanup-erase-barcode-watermark",
-      "image": "/prompt-gallery/eeca6130e5a4ec-6c6160c6bc6d5500.webp",
+      "image": "images/eeca6130e5a4ec-6c6160c6bc6d5500.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-erase-barcode-watermark-before.webp"
@@ -415,7 +430,8 @@
         "imageHash": "6c6160c6bc6d5500a033fda45b4b3c56fef02b3b43482b866c25e7a8bb7b3532",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/eeca6130e5a4ec-6c6160c6bc6d5500.webp"
     },
     {
       "id": "e4e3843772bcc8",
@@ -429,7 +445,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/cleanup-dust-fingerprints",
-      "image": "/prompt-gallery/e4e3843772bcc8-d930b6567dc6171f.webp",
+      "image": "images/e4e3843772bcc8-d930b6567dc6171f.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-dust-fingerprints-before.webp"
@@ -441,7 +457,8 @@
         "imageHash": "d930b6567dc6171fe609a2aa63480ad4ccae4f7a11eb3ac4d4287f158a3112db",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/e4e3843772bcc8-d930b6567dc6171f.webp"
     },
     {
       "id": "0b716d87f908b6",
@@ -455,7 +472,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/compose-product-into-scene",
-      "image": "/prompt-gallery/0b716d87f908b6-91ccbd4a7f84d155.webp",
+      "image": "images/0b716d87f908b6-91ccbd4a7f84d155.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-product-into-scene-before.webp",
@@ -468,7 +485,8 @@
         "imageHash": "91ccbd4a7f84d155f26f7b987ef144f478e4d96cb2312504cf93d29a781bf2f5",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Supply IMG_1 and IMG_2 in order. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/0b716d87f908b6-91ccbd4a7f84d155.webp"
     },
     {
       "id": "ea5d723b65dc2f",
@@ -482,7 +500,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/compose-bundle-group-shot",
-      "image": "/prompt-gallery/ea5d723b65dc2f-4cc7fb8652307f06.webp",
+      "image": "images/ea5d723b65dc2f-4cc7fb8652307f06.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-bundle-group-shot-before.webp",
@@ -495,7 +513,8 @@
         "imageHash": "4cc7fb8652307f06052068d7cde0c2449802cce9a82a5cfdca21bba8254223ad",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Supply IMG_1 and IMG_2 in order. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/ea5d723b65dc2f-4cc7fb8652307f06.webp"
     },
     {
       "id": "7324877da73f85",
@@ -509,7 +528,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/compose-match-catalog-style",
-      "image": "/prompt-gallery/7324877da73f85-c795b01510058f1d.webp",
+      "image": "images/7324877da73f85-c795b01510058f1d.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-match-catalog-style-before.webp",
@@ -522,7 +541,8 @@
         "imageHash": "c795b01510058f1d8fc9553021365820f5c2fde2a55d03b053e11956a8fd7606",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Supply IMG_1 and IMG_2 in order. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/7324877da73f85-c795b01510058f1d.webp"
     },
     {
       "id": "d28d53d6844f4e",
@@ -536,7 +556,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/apparel-ghost-mannequin-to-street-model",
-      "image": "/prompt-gallery/d28d53d6844f4e-1758b9a92060eda3.webp",
+      "image": "images/d28d53d6844f4e-1758b9a92060eda3.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/apparel-ghost-mannequin-to-street-model-before.webp"
@@ -548,7 +568,8 @@
         "imageHash": "1758b9a92060eda344b1836370a21bd071ef8df1eef318ba07d31339ef18733b",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/d28d53d6844f4e-1758b9a92060eda3.webp"
     },
     {
       "id": "d76f624ea65067",
@@ -562,7 +583,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/compose-virtual-try-on",
-      "image": "/prompt-gallery/d76f624ea65067-86250fbec1908c12.webp",
+      "image": "images/d76f624ea65067-86250fbec1908c12.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-virtual-try-on-before.webp",
@@ -575,7 +596,8 @@
         "imageHash": "86250fbec1908c129596a9029ebfc7662f3afd7fb42918ef34a8fb63a566e86b",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Supply IMG_1 and IMG_2 in order. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/d76f624ea65067-86250fbec1908c12.webp"
     },
     {
       "id": "8186f5ea3178fe",
@@ -589,7 +611,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/apparel-silk-texture-upgrade",
-      "image": "/prompt-gallery/8186f5ea3178fe-8cbe2e978fba7bbe.webp",
+      "image": "images/8186f5ea3178fe-8cbe2e978fba7bbe.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/apparel-silk-texture-upgrade-before.webp"
@@ -601,7 +623,8 @@
         "imageHash": "8cbe2e978fba7bbe122030d4d37ef8eaf2e1637909a82c365c20acd56c96c47c",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/8186f5ea3178fe-8cbe2e978fba7bbe.webp"
     },
     {
       "id": "e1f76baa61fa6e",
@@ -615,7 +638,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/cleanup-smooth-fabric-wrinkles",
-      "image": "/prompt-gallery/e1f76baa61fa6e-2f81e58a239a8742.webp",
+      "image": "images/e1f76baa61fa6e-2f81e58a239a8742.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/cleanup-smooth-fabric-wrinkles-before.webp"
@@ -627,7 +650,8 @@
         "imageHash": "2f81e58a239a8742935bc5794a55446001a381b38787fcb865e5ba581ce5c4cc",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/e1f76baa61fa6e-2f81e58a239a8742.webp"
     },
     {
       "id": "c804c1aa2b3631",
@@ -641,7 +665,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/fashion-garment-recolor",
-      "image": "/prompt-gallery/c804c1aa2b3631-bf573091452dc6b8.webp",
+      "image": "images/c804c1aa2b3631-bf573091452dc6b8.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/fashion-garment-recolor-before.webp"
@@ -653,7 +677,8 @@
         "imageHash": "bf573091452dc6b830309042cf9aac3c5048c5d39450a5cb832741b44632e885",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/c804c1aa2b3631-bf573091452dc6b8.webp"
     },
     {
       "id": "35c285a33a6303",
@@ -667,7 +692,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/fashion-model-studio-backdrop",
-      "image": "/prompt-gallery/35c285a33a6303-1cec0faf4f4fa689.webp",
+      "image": "images/35c285a33a6303-1cec0faf4f4fa689.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/fashion-model-studio-backdrop-before.webp"
@@ -679,7 +704,8 @@
         "imageHash": "1cec0faf4f4fa689324c367d00438710a09f36a48c427519bd420f15b196704e",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/35c285a33a6303-1cec0faf4f4fa689.webp"
     },
     {
       "id": "7736935dcc6a02",
@@ -693,7 +719,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/portrait-platinum-blonde-hair",
-      "image": "/prompt-gallery/7736935dcc6a02-56c3499faf262938.webp",
+      "image": "images/7736935dcc6a02-56c3499faf262938.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-platinum-blonde-hair-before.webp"
@@ -705,7 +731,8 @@
         "imageHash": "56c3499faf2629388c2f35c234313a338975f0e074c5096aa34fc4c90b4fddc1",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/7736935dcc6a02-56c3499faf262938.webp"
     },
     {
       "id": "9391163c365bcc",
@@ -719,7 +746,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/portrait-skin-texture-refinement",
-      "image": "/prompt-gallery/9391163c365bcc-f6393ce2e355f323.webp",
+      "image": "images/9391163c365bcc-f6393ce2e355f323.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-skin-texture-refinement-before.webp"
@@ -731,7 +758,8 @@
         "imageHash": "f6393ce2e355f3239c67ca7df2eb6c888e0007a7ead43793885fd602c380003e",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/9391163c365bcc-f6393ce2e355f323.webp"
     },
     {
       "id": "26a76f3ec7e934",
@@ -745,7 +773,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/portrait-business-headshot",
-      "image": "/prompt-gallery/26a76f3ec7e934-80e6aef7d7281d59.webp",
+      "image": "images/26a76f3ec7e934-80e6aef7d7281d59.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-business-headshot-before.webp"
@@ -757,7 +785,8 @@
         "imageHash": "80e6aef7d7281d59991e1a9aff3ef5d97be4cb0cc054a9155d9360608a33c1b8",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/26a76f3ec7e934-80e6aef7d7281d59.webp"
     },
     {
       "id": "3b0b308b9e2c2b",
@@ -771,7 +800,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/portrait-id-photo",
-      "image": "/prompt-gallery/3b0b308b9e2c2b-f03b03de25e658b6.webp",
+      "image": "images/3b0b308b9e2c2b-f03b03de25e658b6.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-id-photo-before.webp"
@@ -783,7 +812,8 @@
         "imageHash": "f03b03de25e658b6d285396657c96e0ef2d08ea10e7011b65fad1507e1b9b9d2",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/3b0b308b9e2c2b-f03b03de25e658b6.webp"
     },
     {
       "id": "e72014d9bddd9c",
@@ -797,7 +827,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/portrait-remove-photobomber",
-      "image": "/prompt-gallery/e72014d9bddd9c-6fe4700386b60837.webp",
+      "image": "images/e72014d9bddd9c-6fe4700386b60837.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/portrait-remove-photobomber-before.webp"
@@ -809,7 +839,8 @@
         "imageHash": "6fe4700386b60837a6edef0c7423a3b7499b741c8c6551593ffc1fe7c7dc91bf",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Prompt combines the original prompt with the repository’s exact mask instruction; supply a black-and-white mask. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/e72014d9bddd9c-6fe4700386b60837.webp"
     },
     {
       "id": "3efd71dbe35988",
@@ -823,7 +854,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/seasonal-christmas-pine-bokeh",
-      "image": "/prompt-gallery/3efd71dbe35988-197fc97f4faaaf3d.webp",
+      "image": "images/3efd71dbe35988-197fc97f4faaaf3d.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-christmas-pine-bokeh-before.webp"
@@ -835,7 +866,8 @@
         "imageHash": "197fc97f4faaaf3d8ee775037cf4c24800f1ebb85cd34cecf4522ed40a2624c1",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/3efd71dbe35988-197fc97f4faaaf3d.webp"
     },
     {
       "id": "50c4443f347d2b",
@@ -849,7 +881,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/seasonal-summer-pool-water-ripples",
-      "image": "/prompt-gallery/50c4443f347d2b-a9ec9fb6cad96bdb.webp",
+      "image": "images/50c4443f347d2b-a9ec9fb6cad96bdb.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-summer-pool-water-ripples-before.webp"
@@ -861,7 +893,8 @@
         "imageHash": "a9ec9fb6cad96bdb8dc9787a0cc70b746960833109320253f40169e18757fdee",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/50c4443f347d2b-a9ec9fb6cad96bdb.webp"
     },
     {
       "id": "521c970205f8ae",
@@ -875,7 +908,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/seasonal-black-friday-gold-geometry",
-      "image": "/prompt-gallery/521c970205f8ae-b71ee1cc160f0f50.webp",
+      "image": "images/521c970205f8ae-b71ee1cc160f0f50.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-black-friday-gold-geometry-before.webp"
@@ -887,7 +920,8 @@
         "imageHash": "b71ee1cc160f0f50fe85c4465e5c4109341cc548e71b5bda1dfca793b53d1f11",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/521c970205f8ae-b71ee1cc160f0f50.webp"
     },
     {
       "id": "037164eca7b4e5",
@@ -901,7 +935,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/campaign-sale-poster-text",
-      "image": "/prompt-gallery/037164eca7b4e5-f9fc2b726471c609.webp",
+      "image": "images/037164eca7b4e5-f9fc2b726471c609.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/campaign-sale-poster-text-before.webp"
@@ -913,7 +947,8 @@
         "imageHash": "f9fc2b726471c609637bc36ed4cda2377547d5b3780a0d39880743af6084004f",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/037164eca7b4e5-f9fc2b726471c609.webp"
     },
     {
       "id": "9bcdba8511b805",
@@ -927,7 +962,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/seasonal-lunar-new-year",
-      "image": "/prompt-gallery/9bcdba8511b805-c21386b128ee6cdb.webp",
+      "image": "images/9bcdba8511b805-c21386b128ee6cdb.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/seasonal-lunar-new-year-before.webp"
@@ -939,7 +974,8 @@
         "imageHash": "c21386b128ee6cdb8edd8c77f76ea6e849e04a43ca9a6edc54ffa116b69c9c88",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/9bcdba8511b805-c21386b128ee6cdb.webp"
     },
     {
       "id": "988d1d4d61327d",
@@ -953,7 +989,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/restore-vintage-photo-reconstruction",
-      "image": "/prompt-gallery/988d1d4d61327d-eb3c013e979195c8.webp",
+      "image": "images/988d1d4d61327d-eb3c013e979195c8.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-vintage-photo-reconstruction-before.webp"
@@ -965,7 +1001,8 @@
         "imageHash": "eb3c013e979195c809578aa6f77862d72de5bbafe8445c99e34f30b203450265",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/988d1d4d61327d-eb3c013e979195c8.webp"
     },
     {
       "id": "a925a4dbefad19",
@@ -979,7 +1016,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/restore-colorize-bw",
-      "image": "/prompt-gallery/a925a4dbefad19-66c62040eeadd84c.webp",
+      "image": "images/a925a4dbefad19-66c62040eeadd84c.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-colorize-bw-before.webp"
@@ -991,7 +1028,8 @@
         "imageHash": "66c62040eeadd84c7f1ce4e0c15e6a1a24beebb15f508c93febbac4167bc4e1c",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/a925a4dbefad19-66c62040eeadd84c.webp"
     },
     {
       "id": "c7db4582f69a47",
@@ -1005,7 +1043,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/restore-deblur-sharpen",
-      "image": "/prompt-gallery/c7db4582f69a47-0f8510917979b4c3.webp",
+      "image": "images/c7db4582f69a47-0f8510917979b4c3.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-deblur-sharpen-before.webp"
@@ -1017,7 +1055,8 @@
         "imageHash": "0f8510917979b4c3c72e58e1e0649b15c80118b8b1e3005db9998aa11e7ed8a9",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/c7db4582f69a47-0f8510917979b4c3.webp"
     },
     {
       "id": "7f339596b20781",
@@ -1031,7 +1070,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/restore-low-light-fix",
-      "image": "/prompt-gallery/7f339596b20781-a48690739a09d575.webp",
+      "image": "images/7f339596b20781-a48690739a09d575.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/restore-low-light-fix-before.webp"
@@ -1043,7 +1082,8 @@
         "imageHash": "a48690739a09d575ffd66372aecb870f3f78c19c063dcd9c33b5fa36bade2108",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/7f339596b20781-a48690739a09d575.webp"
     },
     {
       "id": "d6a491a3bfb460",
@@ -1057,7 +1097,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/creative-collectible-figure",
-      "image": "/prompt-gallery/d6a491a3bfb460-48f5da687128579a.webp",
+      "image": "images/d6a491a3bfb460-48f5da687128579a.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-collectible-figure-before.webp"
@@ -1069,7 +1109,8 @@
         "imageHash": "48f5da687128579a2b4a8acf5d64d9fa12cc1df1ae062de3b3df8458f419160b",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/d6a491a3bfb460-48f5da687128579a.webp"
     },
     {
       "id": "79cebcd46d38d2",
@@ -1083,7 +1124,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/creative-watercolor-illustration",
-      "image": "/prompt-gallery/79cebcd46d38d2-46a68c95d9d7b388.webp",
+      "image": "images/79cebcd46d38d2-46a68c95d9d7b388.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-watercolor-illustration-before.webp"
@@ -1095,7 +1136,8 @@
         "imageHash": "46a68c95d9d7b388429336bbfc2e1fe45d153e2022ac2021335d1675828a132f",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/79cebcd46d38d2-46a68c95d9d7b388.webp"
     },
     {
       "id": "26327c31f3dea5",
@@ -1109,7 +1151,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/creative-3d-clay",
-      "image": "/prompt-gallery/26327c31f3dea5-27ec9d8ca160d7bf.webp",
+      "image": "images/26327c31f3dea5-27ec9d8ca160d7bf.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-3d-clay-before.webp"
@@ -1121,7 +1163,8 @@
         "imageHash": "27ec9d8ca160d7bfd571a293c72b9421a8fab7cfcf70ab73a04ad16299ae67f0",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/26327c31f3dea5-27ec9d8ca160d7bf.webp"
     },
     {
       "id": "8d669612bb0659",
@@ -1135,7 +1178,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/creative-sketch-to-render",
-      "image": "/prompt-gallery/8d669612bb0659-381c838b0ef41096.webp",
+      "image": "images/8d669612bb0659-381c838b0ef41096.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/creative-sketch-to-render-before.webp"
@@ -1147,7 +1190,8 @@
         "imageHash": "381c838b0ef41096fa02bc4d323ad37026312d30e244cec5dc67085b4c694fa3",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/8d669612bb0659-381c838b0ef41096.webp"
     },
     {
       "id": "5d6eaabd88961f",
@@ -1161,7 +1205,7 @@
       "author": "YepShot · https://yepshot.com",
       "source": "lygerone/awesome-nano-banana-prompts",
       "sourceUrl": "https://yepshot.com/explore/compose-style-transfer",
-      "image": "/prompt-gallery/5d6eaabd88961f-23434cc72fd14628.webp",
+      "image": "images/5d6eaabd88961f-23434cc72fd14628.webp",
       "referenceRequirement": "user-image",
       "referenceImages": [
         "https://raw.githubusercontent.com/lygerone/awesome-nano-banana-prompts/3576e29c96f9f6e4c21ff12772e2b455587ccd95/images/compose-style-transfer-before.webp",
@@ -1174,7 +1218,8 @@
         "imageHash": "23434cc72fd146288044ffeb208d0d38b2ccd5956487083ab80fa1aff902f3c3",
         "modelEvidence": "Pinned repository author reports exact prompt execution on Nano Banana 2.1 at 1K; after images are unretouched outputs, before images are synthetic. Supply IMG_1 and IMG_2 in order. Source-attested, not independently generated.",
         "promptLicense": "CC BY 4.0. Copyright 2026 YepShot. Attribution: YepShot — https://yepshot.com. License: https://creativecommons.org/licenses/by/4.0/"
-      }
+      },
+      "projectdImage": "/prompt-gallery/5d6eaabd88961f-23434cc72fd14628.webp"
     },
     {
       "id": "237358b18724d0",
@@ -1188,7 +1233,7 @@
       "author": "APIMart prompt contributors",
       "source": "apimartyrdf8/nano-banana-2.1-prompts",
       "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/01-product-hero-perfume.jpg",
-      "image": "/prompt-gallery/237358b18724d0-2f048a78bba17b3e.webp",
+      "image": "images/237358b18724d0-2f048a78bba17b3e.webp",
       "provenance": {
         "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
         "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/01-product-hero-perfume.jpg",
@@ -1196,7 +1241,8 @@
         "imageHash": "2f048a78bba17b3eec0f240d1b9728562a2db2d55087ac2f7477cf675fb0fda9",
         "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
         "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
-      }
+      },
+      "projectdImage": "/prompt-gallery/237358b18724d0-2f048a78bba17b3e.webp"
     },
     {
       "id": "522d02c87a6b93",
@@ -1210,7 +1256,7 @@
       "author": "APIMart prompt contributors",
       "source": "apimartyrdf8/nano-banana-2.1-prompts",
       "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/03-cinematic-street-rain.jpg",
-      "image": "/prompt-gallery/522d02c87a6b93-98f0f3893bb4a34d.webp",
+      "image": "images/522d02c87a6b93-98f0f3893bb4a34d.webp",
       "provenance": {
         "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
         "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/03-cinematic-street-rain.jpg",
@@ -1218,7 +1264,8 @@
         "imageHash": "98f0f3893bb4a34d6a7a71dd8126afa967b547d5efa57fda881110f950e55e7f",
         "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
         "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
-      }
+      },
+      "projectdImage": "/prompt-gallery/522d02c87a6b93-98f0f3893bb4a34d.webp"
     },
     {
       "id": "1efac36e5d8d57",
@@ -1232,7 +1279,7 @@
       "author": "APIMart prompt contributors",
       "source": "apimartyrdf8/nano-banana-2.1-prompts",
       "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/02-food-overhead-ramen.jpg",
-      "image": "/prompt-gallery/1efac36e5d8d57-cd2bd1428e8906e8.webp",
+      "image": "images/1efac36e5d8d57-cd2bd1428e8906e8.webp",
       "provenance": {
         "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
         "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/02-food-overhead-ramen.jpg",
@@ -1240,7 +1287,8 @@
         "imageHash": "cd2bd1428e8906e84dd9dc38ca2cf821d8827adac24a4dd129e9093c6ed1d574",
         "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
         "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
-      }
+      },
+      "projectdImage": "/prompt-gallery/1efac36e5d8d57-cd2bd1428e8906e8.webp"
     },
     {
       "id": "dec5244c0e4aa8",
@@ -1254,7 +1302,7 @@
       "author": "APIMart prompt contributors",
       "source": "apimartyrdf8/nano-banana-2.1-prompts",
       "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/04-architectural-dusk.jpg",
-      "image": "/prompt-gallery/dec5244c0e4aa8-07dac4ca4777c42b.webp",
+      "image": "images/dec5244c0e4aa8-07dac4ca4777c42b.webp",
       "provenance": {
         "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
         "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/04-architectural-dusk.jpg",
@@ -1262,7 +1310,8 @@
         "imageHash": "07dac4ca4777c42b58ec1037ef517175e6e2b923b98279fa8f2a299f77ac3317",
         "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
         "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
-      }
+      },
+      "projectdImage": "/prompt-gallery/dec5244c0e4aa8-07dac4ca4777c42b.webp"
     },
     {
       "id": "b5736341be11fe",
@@ -1276,7 +1325,7 @@
       "author": "APIMart prompt contributors",
       "source": "apimartyrdf8/nano-banana-2.1-prompts",
       "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/06-illustration-layered-paper.jpg",
-      "image": "/prompt-gallery/b5736341be11fe-d815345acb6ae009.webp",
+      "image": "images/b5736341be11fe-d815345acb6ae009.webp",
       "provenance": {
         "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
         "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/06-illustration-layered-paper.jpg",
@@ -1284,7 +1333,8 @@
         "imageHash": "d815345acb6ae00968c951af803427da7d4664dcd08612f54c144b7192d13ab7",
         "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
         "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
-      }
+      },
+      "projectdImage": "/prompt-gallery/b5736341be11fe-d815345acb6ae009.webp"
     },
     {
       "id": "a5907bb08b1e14",
@@ -1298,7 +1348,7 @@
       "author": "APIMart prompt contributors",
       "source": "apimartyrdf8/nano-banana-2.1-prompts",
       "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/05-fashion-editorial-studio.jpg",
-      "image": "/prompt-gallery/a5907bb08b1e14-53d9976b64bce57c.webp",
+      "image": "images/a5907bb08b1e14-53d9976b64bce57c.webp",
       "provenance": {
         "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
         "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/05-fashion-editorial-studio.jpg",
@@ -1306,7 +1356,8 @@
         "imageHash": "53d9976b64bce57cc743a740ee45eb40c6f641cc0a588189cb37e41d766272b3",
         "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
         "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
-      }
+      },
+      "projectdImage": "/prompt-gallery/a5907bb08b1e14-53d9976b64bce57c.webp"
     },
     {
       "id": "6c6350fe849e54",
@@ -1320,7 +1371,7 @@
       "author": "APIMart prompt contributors",
       "source": "apimartyrdf8/nano-banana-2.1-prompts",
       "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/08-macro-botanical-detail.jpg",
-      "image": "/prompt-gallery/6c6350fe849e54-118857f1178ac9c5.webp",
+      "image": "images/6c6350fe849e54-118857f1178ac9c5.webp",
       "provenance": {
         "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
         "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/08-macro-botanical-detail.jpg",
@@ -1328,7 +1379,8 @@
         "imageHash": "118857f1178ac9c5a2e633df84f74c34973014d94e8bfb060b5f02ca98a009b9",
         "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
         "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
-      }
+      },
+      "projectdImage": "/prompt-gallery/6c6350fe849e54-118857f1178ac9c5.webp"
     },
     {
       "id": "2ec2766afafad8",
@@ -1342,7 +1394,7 @@
       "author": "APIMart prompt contributors",
       "source": "apimartyrdf8/nano-banana-2.1-prompts",
       "sourceUrl": "https://github.com/apimartyrdf8/nano-banana-2.1-prompts/blob/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/07-infographic-dashboard.jpg",
-      "image": "/prompt-gallery/2ec2766afafad8-3a01d1bcebfab6c6.webp",
+      "image": "images/2ec2766afafad8-3a01d1bcebfab6c6.webp",
       "provenance": {
         "sourceCommit": "b3ad0db06be4105e36b86f17274ba9a87e55004e",
         "originalImageUrl": "https://raw.githubusercontent.com/apimartyrdf8/nano-banana-2.1-prompts/b3ad0db06be4105e36b86f17274ba9a87e55004e/assets/07-infographic-dashboard.jpg",
@@ -1350,7 +1402,8 @@
         "imageHash": "3a01d1bcebfab6c6147635c9a5ea8a5a8e9818343d14c455859b2a01b9711b62",
         "modelEvidence": "Pinned data/prompts.json identifies gemini-nano-banana-2.1-ext and corresponding slug output; repository reports real API renders. Source-attested generation, not an independently verified API receipt.",
         "promptLicense": "MIT License\n\nCopyright (c) 2026 apimart pricing-comparison contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nModel names, prices and vendor documentation remain subject to their owners' terms.\n"
-      }
+      },
+      "projectdImage": "/prompt-gallery/2ec2766afafad8-3a01d1bcebfab6c6.webp"
     }
   ]
 }

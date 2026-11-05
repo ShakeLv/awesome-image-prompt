@@ -1137,9 +1137,10 @@
         "https://pbs.twimg.com/media/HWUrkFiXMAAmGRv?format=webp&name=large"
       ],
       "modelEvidence": "Original post explicitly labels left/first output GPT Image 2.6 and right/second output GPT Image 2.5. Only first output is indexed. Exact variant unspecified.",
-      "reviewStatus": "original-post-read-pending-visual-review",
-      "mediaRights": "Original creator retains rights; no explicit reuse license found.",
-      "projectdStatus": "not-imported"
+      "reviewStatus": "approved-attributed-short-quotation",
+      "mediaRights": "Original creator rights retained. Complete 14-word prompt attributed; no blanket license asserted.",
+      "projectdStatus": "reviewed-not-published",
+      "fullPairArchive": "cases/gpt-image-2.6/creator-vert-tea/"
     }
   ]
 }

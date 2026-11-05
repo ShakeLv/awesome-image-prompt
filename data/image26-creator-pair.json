@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "eda0661851daaf",
+    "title": "A cup of tea at home — creator example (variant unspecified)",
+    "prompt": "a realistic photo of a woman holding a cup of tea inside her home",
+    "model": "GPT Image 2.6",
+    "language": "en",
+    "categories": [
+      "Photography"
+    ],
+    "purposes": [
+      "profile"
+    ],
+    "author": "Vert (@v3rt0x_)",
+    "source": "Original creator labels the first image GPT Image 2.6 and the second GPT Image 2.5. Only the first image is retained. Exact variant and API settings are unspecified; model is source-attested and has not been independently reproduced. Complete short prompt quoted with attribution. Original rights retained; no blanket redistribution license claimed.",
+    "sourceUrl": "https://x.com/v3rt0x_/status/2118147596891901957",
+    "image": "/prompt-gallery/eda0661851daaf-0519eb93e18464c8.webp",
+    "provenance": {
+      "sourceSnapshotHash": "e69ab5b4cb94e816bcc4bb81fcb148bacd1c6af699beb5136cb789afce704e12",
+      "sourceCapturedAt": "2026-11-05T13:23:44.293638+00:00",
+      "originalImageUrl": "https://pbs.twimg.com/media/HWUrkFiXMAAmGRv?format=webp&name=large",
+      "originalImageHash": "0519eb93e18464c8b33c27248e3c89d101d52d5779e3d30a36476c7ead510653",
+      "imageHash": "0519eb93e18464c8b33c27248e3c89d101d52d5779e3d30a36476c7ead510653",
+      "modelEvidence": "Original post explicitly identifies first/left attachment as GPT Image 2.6 and second/right as GPT Image 2.5. Only photo/1 is imported; no Flare/Sunburst variant inferred.",
+      "promptLicense": "Complete 14-word source prompt quoted with attribution to Vert (@v3rt0x_), https://x.com/v3rt0x_/status/2118147596891901957. Original creator rights retained. This is an attributed short quotation, not a general reuse grant.",
+      "imageCopyright": "Original creator/platform rights retained; attributed original example, no blanket image license asserted.",
+      "nativeWidth": 2048,
+      "nativeHeight": 1152,
+      "conversion": "No conversion, crop, resizing or upscaling; exact publicly served native WebP rendition.",
+      "sourceReportedVariant": "unspecified",
+      "reviewNote": "Image visually inspected; original tea-at-home prompt and first attachment match. Source displays a rendition, not a verified raw API output."
+    }
+  },
+  "imageFile": "cases/gpt-image-2.6/creator-vert-tea/tea-at-home.webp",
+  "promptFile": "cases/gpt-image-2.6/creator-vert-tea/prompt.txt",
+  "projectdStatus": "reviewed-not-published"
+}
