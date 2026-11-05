@@ -1,0 +1,14 @@
+Scene:
+A square dramatic weather variant of the same biome, framed around the landmark tower under approaching storm clouds, lateral rain bands, and colder metallic highlights. The camera remains wide enough to preserve environment layout, but the sky grows heavier and the water channels darken, making the landmark feel more dangerous and sacred without losing spatial clarity.
+
+Subject:
+The exact same mangrove canyon biome from the reference model, with the same collapsed observatory-reactor, cable routes, cliff forms, root systems, and water network. Shift the weather into an incoming stormfront: brighter lightning far in the distance, stronger wind in banners of mist, and slicker surfaces across rock and metal, while the landmark remains the unmistakable center of the region.
+
+Important details:
+Preserve the reference silhouette and route logic with zero landmark drift. Weather should amplify mood, not hide the level design. Keep bridge positions, canyon profile, and tower anatomy aligned to the reference while increasing contrast between wet stone, cold steel, rain haze, and luminous emergency lights tucked into the architecture. The result should read like a chapter-page hero image for the same playable biome.
+
+Use case:
+Biome Pack series study 3/9, preserving the same biome while transforming the atmosphere into a stormfront showcase.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact landmarks from the reference model, no characters, no tornado spectacle, no unreadable signage, no lightning striking the camera, no muddy blur

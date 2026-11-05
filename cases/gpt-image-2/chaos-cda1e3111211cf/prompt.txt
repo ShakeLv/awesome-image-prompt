@@ -1,0 +1,14 @@
+Scene:
+A square night-time version of the same biome, viewed from a mid-wide angle that still reveals the landmark tower, lower bridges, and water channels while replacing the dawn palette with deep blue darkness, warm watchfire pools, and reflected lantern trails. Fog sits low in the canyon, allowing lights to sketch the route structure without flattening the space.
+
+Subject:
+The exact same mangrove canyon biome from the reference model, with identical landmark placement, bridge rhythm, root-covered tower silhouette, and traversal routes. The scene now depicts an operational night watch state: signal braziers or enclosed work lights along the catwalks, dim service lamps around the tower base, and calm water reflecting the route network.
+
+Important details:
+Preserve the reference geometry and world identity precisely. Night readability depends on disciplined lighting hierarchy, not random glow. Use warm route lights, cool moonlit rock faces, selective reflections, and crisp silhouette edges to keep pathing legible. The scene should feel suitable for a loading screen or chapter backdrop that still belongs unmistakably to the same biome established in image 01.
+
+Use case:
+Biome Pack series study 4/9, preserving the same biome in a readable night-state atmosphere.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact landmarks from the reference model, no characters, no readable signs, no neon city clutter, no star-filled fantasy sky, no overexposed bloom

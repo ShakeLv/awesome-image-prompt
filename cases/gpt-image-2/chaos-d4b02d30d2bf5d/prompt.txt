@@ -1,0 +1,14 @@
+Scene:
+Create a square retail image with bright aisle or checkout light, organized product stacks, and a polished family-shopping atmosphere. The frame should feel like a campaign image for school-season purchasing rather than a supermarket snapshot. Use cart geometry, shelf rhythm, and clear object hierarchy to communicate efficient preparation and family-oriented buying behavior.
+
+Subject:
+Show a cart with school supplies, tech accessories, storage items, lunch or apparel forms, and a few checkout cues that remain non-legible. People can be implied or partly present, but the purchasing structure should stay central. The subject should communicate bulk preparation, care, and efficient decision-making for the new term.
+
+Important details:
+Retail clarity matters most. Make cart metal, packaging forms, plastic, paper, and polished floor reflections all feel real. Keep the scene commercially neat and useful for retail, education, or parent-targeted promotions. Avoid discount-chaos energy; this is organized, capable preparation. Keep the frame precise enough for gallery, research, and campaign reuse, with believable materials and a strong thumbnail read.
+
+Use case:
+Back to School single study 7/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable price labels, no store logos, no chaotic crowd, no mascot packaging, no messy bargain-bin feel, no readable receipts, no neon promo signs, no graduation décor.

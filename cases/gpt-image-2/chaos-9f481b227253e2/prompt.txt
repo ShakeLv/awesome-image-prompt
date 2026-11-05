@@ -1,0 +1,14 @@
+Scene:
+Create a square cinematic still for Aurora Glacier Silent Theatre. Use production-grade photoreal lighting, disciplined lens behavior, and a composition that feels like a finished key frame from an original film rather than a casual snapshot. An Arctic glacier plain opens under a sweeping aurora curtain, with deep night sky, luminous green and faint violet ribbons overhead, fractured ice catching reflected color, and a breath-frozen atmosphere that feels almost soundless. Keep the camera in a disciplined anchor position so the full lighting event and the main spatial structure are immediately legible from edge to edge.
+
+Subject:
+Build a coherent original scene whose emotional center comes from atmosphere, light physics, and spatial clarity. Avoid relying on celebrity likeness, franchise iconography, or stylized illustration shortcuts. A solitary human figure in a red parka should appear tiny against the glacier geometry, while crevasses, wind-scoured snow, and ice walls provide a strong sense of scale without cluttering the frame. This frame should lock the canonical arrangement, scale relationship, and emotional tone that the later dependent images inherit.
+
+Important details:
+Preserve a believable physical world with strong depth layering, careful color separation, and premium image discipline. Keep the aurora soft and physically plausible rather than graphic, with believable ice reflectance, low-angle moonless ambient light, and careful contrast so the red parka remains a scale marker rather than a fashion focal point. Use this image to establish the authoritative direction of light, atmospheric density, and structural silhouette for the package.
+
+Use case:
+Aurora Glacier series study 1/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no tents, no readable expedition logos, no fantasy animals, no saturated nightclub colors, no fireworks effect.

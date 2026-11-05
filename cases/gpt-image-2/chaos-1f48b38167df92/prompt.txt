@@ -1,0 +1,14 @@
+Scene:
+A square conservation-table view of a vintage poster laid on gray felt under raking light, with visible fold lines, softened corners, and subtle aging that still preserves the integrity of the image. The poster should express strict geometric modernism built from circles, bars, triangles, squares, and measured negative space, using cobalt blue, mustard yellow, cadmium red, black, and warm paper white and a tactile surface appropriate to the medium.
+
+Subject:
+Present the poster as an archive copy that has been stored, unfolded, and carefully documented, letting age and handling reveal how the design holds up across time. Use modular furniture silhouettes, workshop tools, compass arcs, ruler lines, and architecture-school diagrams as the main visual ingredients, and organize them with geometric sans-serif blocks and numerals treated purely as non-readable forms. For the contemporary-subject axis, thread in a bike-share docking station and urban wayfinding elements reduced into pure geometry. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Aging must stay believable rather than theatrical: slight yellowing, fold memory, edge wear, and pigment variation should support the historical or crafted feeling of the style. Preserve mathematical spacing, flat planes, hard edges, exact weight distribution, and clean asymmetry. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no decorative flourishes, no gradients, no photoreal portraits, no soft painterly blending.
+
+Use case:
+Bauhaus Poster single study 5/9, testing archival endurance and age character.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

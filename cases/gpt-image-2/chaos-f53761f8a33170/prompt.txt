@@ -1,0 +1,14 @@
+Scene:
+A square environment material board arranged like a premium art-direction review, with macro close-ups of bark roots, wet stone, corroded metal, shallow water, moss, and rope fibers surrounding one small biome silhouette. Lighting is controlled and descriptive, avoiding harsh glamor in favor of legible texture and palette relationships.
+
+Subject:
+The subject is the tactile language of the canyon biome rather than a full vista. Show giant mangrove bark, red sediment stone, slick steel, mineral crust, damp rope bridges, teal water ripples, and lantern-warmed metal as a family of surfaces that all belong to one environment.
+
+Important details:
+This board should help a viewer understand why the biome feels cohesive. Emphasize scale clues, wear patterns, mineral staining, root invasion, corrosion edges, and moisture behavior. Layout can use abstract dividers and chips but no readable labels. The overall tone should feel like a production surface guide ready for concept, level art, and marketing teams to share.
+
+Use case:
+Biome Pack single study 7/9, summarizing the core flora and material language behind the biome.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no characters, no random unrelated plants, no plastic-looking surfaces, no overprocessed macro blur, no logo marks

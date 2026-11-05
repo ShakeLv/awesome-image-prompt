@@ -1,0 +1,14 @@
+Scene:
+A square dusk street photograph of a backlit transit poster glowing inside glass, with faint rain reflections, soft city blur in the distance, and the poster remaining fully legible as a composition. The poster should express strict geometric modernism built from circles, bars, triangles, squares, and measured negative space, using cobalt blue, mustard yellow, cadmium red, black, and warm paper white and a tactile surface appropriate to the medium.
+
+Subject:
+Adapt the poster into a public-facing lightbox version that still honors the original style grammar while feeling bold enough to stop a passerby from several meters away. Use modular furniture silhouettes, workshop tools, compass arcs, ruler lines, and architecture-school diagrams as the main visual ingredients, and organize them with geometric sans-serif blocks and numerals treated purely as non-readable forms. For the contemporary-subject axis, thread in a bike-share docking station and urban wayfinding elements reduced into pure geometry. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Let the style survive the illumination test: color blocking, silhouette contrast, and abstract lettering should stay controlled under bright internal light and reflective glass. Preserve mathematical spacing, flat planes, hard edges, exact weight distribution, and clean asymmetry. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no decorative flourishes, no gradients, no photoreal portraits, no soft painterly blending.
+
+Use case:
+Bauhaus Poster single study 3/9, testing distance readability in public display.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

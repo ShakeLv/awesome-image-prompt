@@ -1,0 +1,14 @@
+Scene:
+Create a square classroom environment image with bright morning light, colorful but disciplined educational materials, and a sense of readiness before students arrive. The frame should feel polished and optimistic, suitable for school marketing or enrollment support. Keep the setting real and inviting rather than theatrical or childish, with enough depth to read as a true environment.
+
+Subject:
+Show desks or tables, seating, supplies, display surfaces with no readable text, and a few personal comfort cues that make the classroom feel welcoming. The subject should communicate structure, care, and the start of a new term. Focus on material order and atmosphere rather than on people or slogans.
+
+Important details:
+The room should feel alive but not messy. Wood, plastic, paper, and daylight should all behave convincingly. Use color to support youthful energy without becoming loud. The result should work for school campaigns, enrollment pages, or retail partnerships around classroom readiness.
+
+Use case:
+Back to School single study 6/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable posters, no school logo, no mascot decorations, no crowded student scene, no chalkboard text, no messy art project spill, no graduation cues, no cartoon classroom theme.

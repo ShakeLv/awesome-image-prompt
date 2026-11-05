@@ -1,0 +1,14 @@
+Scene:
+A square profile portrait in a dark controlled studio, lit by one deep blue gel and one narrow amber edge light so the face contours feel sculptural and campaign-ready. The frame should feel like a social-campaign extension of the press kit, with dramatic color but still enough restraint to remain usable.
+
+Subject:
+Preserve the exact same artist from the reference image, keeping the identical face shape, hair base, skin tone, and body proportions. The subject turns into profile while staying recognizably the same person, wearing the same core tailoring language with only subtle styling shifts in collar and jewelry placement.
+
+Important details:
+This variation should add mood, not replace the brand system. Keep skin detail real, highlights controlled, and the background simple. Abstract emblem cues can appear as colored light bars or shadow panels, but there should be no literal logo. The primary test is whether the portrait still reads as the same artist while the campaign expands into a richer emotional register.
+
+Use case:
+Artist Kit series study 4/9 for the Artist Identity Portrait and Brand Kit Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no hard beauty-retouch look, no smoky nightclub crowd, no costume-level wardrobe change, no extreme close crop, no colored text elements

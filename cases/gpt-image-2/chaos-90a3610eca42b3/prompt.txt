@@ -1,0 +1,14 @@
+Scene:
+Create a square dependent image inside the same bright academic environment, preserving the exact light quality, palette, desk materials, and organized spacing from the reference image, but orient the composition toward a student-tech bundle. The frame should remain clearly part of the anchor campaign while becoming more device and accessory centered.
+
+Subject:
+Show device-like forms, headphones, charger or cable organization, notebook support, bag, and academic accessories arranged into a polished back-to-school technology scene. Preserve exact campaign identity from the reference model while shifting emphasis toward connected study tools. The setup should feel realistic and commercially suitable for electronics retail, campus bundles, or parent-focused promotions.
+
+Important details:
+Keep structure and optimism intact. Readability must come from layout and object hierarchy, never from screens or readable labels. Make metals, plastics, textiles, and paper all feel credible. The final image should serve as a modern back-to-school asset for tech and education brands without drifting into generic office or gaming aesthetics.
+
+Use case:
+Back to School series study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no readable screens, no logos, no gaming neon, no classroom chaos, no mascot visuals, no cluttered cables, no chalkboard text, no corporate office vibe.

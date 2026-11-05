@@ -1,0 +1,14 @@
+Scene:
+Create a square dependent sale image with the identical midnight-black world, white structural bars, yellow accents, and sharp luminous edges from the reference image, but organize the space into a cleaner product tableau suited to beauty-bundle promotion. Keep the composition clearly connected to the anchor, with the same urgency and conversion pressure, while letting packaging rhythm and repetition create a more curated sale presentation.
+
+Subject:
+Show a bundle of premium beauty-like products, trays, cartons, and abstract promotion chips layered into a dense but disciplined Black Friday layout. Preserve exact spacing logic, high-contrast panel behavior, and lighting direction from the reference model while changing the category emphasis. The viewer should read this as the same sale campaign translated to a different assortment, not a new campaign language.
+
+Important details:
+Keep hierarchy and urgency intact. Sale-readability must come from bold shape contrast, placement, and scale, never from actual words. Product forms should be original, polished, and plausible, with reflective packaging and sharp edges that support the premium-aggressive tone. The overall effect should feel fit for beauty retail, social promo tiles, and e-commerce hero banners under the same Black Friday system.
+
+Use case:
+Black Friday series study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no readable labels, no soft pastel drift, no luxury magazine glamour, no logos, no random confetti, no broken packaging, no beauty model.

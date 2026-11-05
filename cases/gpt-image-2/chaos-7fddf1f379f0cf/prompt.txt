@@ -1,0 +1,14 @@
+Scene:
+A square comparison board showing three atmosphere states of the same biome across a disciplined triptych-like layout, with each window focusing on the same landmark zone under clear dawn, hard rain, and dense fog. The background remains quiet and graphic so the environment variations read immediately.
+
+Subject:
+The subject is one consistent landmark composition repeated across multiple weather states, proving that the biome remains recognizable through climate shifts. The observatory tower, bridge route, cliff shape, and water channel should remain constant while visibility, moisture, and light quality change.
+
+Important details:
+Make the comparison logic visual rather than textual. Weather must affect contrast, reflections, surface wetness, fog density, and sky color, but never erase the location identity. The board should feel useful for chapter-page planning, loading-screen art direction, and event variant discussion, while remaining polished enough to stand alone as a gallery image.
+
+Use case:
+Biome Pack single study 8/9, comparing multiple weather states while preserving the same biome identity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no character inserts, no chaotic split-screen effects, no landmark drift between states, no poster slogans, no off-topic props

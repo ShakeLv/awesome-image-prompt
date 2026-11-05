@@ -1,0 +1,14 @@
+Scene:
+A square rehearsal-space portrait shot in a clean room with acoustic panels, a folded chair, muted practical lighting, and shallow depth that hints at instruments without turning them into clutter. The image should feel grounded and human, like a credible press-kit portrait made during production downtime.
+
+Subject:
+Preserve the exact same artist from the reference image with identical face structure, hair base, skin tone, and body proportions. The artist sits on a simple chair with shoulders relaxed, hands resting naturally, and a tailored dark outfit that still matches the broader identity grammar established in the studio portrait.
+
+Important details:
+Use the room only to reinforce musician context, not to overwhelm the portrait. Subtle instrument silhouettes, cable loops, and acoustic textures are acceptable if they stay secondary. The true continuity comes from the artist face, grooming, wardrobe silhouette, and abstract emblem logic carried through lighting and layout. This should feel like a practical extension of a real artist brand kit.
+
+Use case:
+Artist Kit series study 3/9 for the Artist Identity Portrait and Brand Kit Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no loud instrument performance pose, no cluttered gear stacks, no audience, no casual hoodie swap, no readable posters on the wall

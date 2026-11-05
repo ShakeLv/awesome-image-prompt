@@ -1,0 +1,14 @@
+Scene:
+Create a square reference-dependent architecture still for Boutique Guestroom Editorial Suite. Use a camera angle that links the bedroom threshold to the stone vanity zone while keeping the same lens discipline, editorial polish, and material believability established by the reference image. The lighting can shift to support the intended mood, but the space must still feel like the same authored project with a stable viewpoint logic, convincing depth separation, and clean commercial-photography finish. Keep warm plaster white, walnut brown, muted clay, brushed bronze, and soft morning gray as the governing tonal range even when the emphasis changes.
+
+Subject:
+Show a boutique hotel suite with limewashed plaster walls, walnut millwork, tailored linen bedding, bronze reading lights, textured drapery, and a quietly lived-in premium mood. Focus on the exact same suite from the reference image, now emphasizing vanity materials, mirror glow, and spatial continuity. Preserve exact architectural identity, plan logic, material palette, fixture family, and circulation cues from the reference image while changing only the intended emphasis described here. The viewer should immediately recognize the same project, not a loose cousin, with matching silhouette logic, aligned detailing, and consistent brand atmosphere.
+
+Important details:
+Preserve the bed proportions, walnut joinery, plaster texture, bronze hardware, linen styling, and restrained resort palette. Any abstract wayfinding, menu, wall-label, or packaging zones must stay unreadable and subordinate to the spatial image. Joinery, edges, reflections, and lighting should remain realistic enough for an operator or design team to treat the image as a credible reference. The variation should feel deliberate and commercially useful, proving that one locked spatial language can flex across multiple campaign or editorial surfaces.
+
+Use case:
+Boutique Guestroom Editorial Suite series study 3/9, extending the bath-to-bedroom transition in the same boutique language.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact architectural identity from the reference image, no people, no messy luggage spill, no cheap decor, no hard flash, no exaggerated luxury clichés, no readable amenity labels.

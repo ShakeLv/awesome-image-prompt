@@ -1,0 +1,12 @@
+# Emblem Wall Study
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/artist-identity-portrait-and-brand-kit/packages/single-brand-surfaces/images/emblem-wall-study/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/2a21e67e483b79b6c1ac5b9a6297b3049e9fc69d9d6bfc3e6d79ebaf434513ca.webp)
+- SHA-256:2a21e67e483b79b6c1ac5b9a6297b3049e9fc69d9d6bfc3e6d79ebaf434513ca
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

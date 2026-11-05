@@ -1,0 +1,14 @@
+Scene:
+A square portrait staged in a dark chamber lit by candles, embers, or a single hidden lantern, with heavy shadows, warm ochre skin tones, black velvet darkness, and a painterly yet physically believable material presence. The frame should feel ceremonial, intimate, and heavy with air, fabric, and oil-rich color. Use a narrow crimson drape backdrop and a side candle that carves the neck and beak from darkness.
+
+Subject:
+The subject is a fantastical humanoid beast presented with aristocratic gravity: horned, feathered, scaled, furred, or antlered, dressed in ornate garments and posed as if for an old court portrait. The creature should feel specific, dignified, and psychologically readable rather than monstrous chaos. A long-necked heron-like cleric in layered red robes holds a rosary-like string of carved seeds, projecting austere spiritual authority.
+
+Important details:
+The visual law is baroque portrait discipline fused with invented natural history. Preserve luxurious fabric folds, worn metal embroidery, candle smoke, skin texture, fur detail, and solemn hand placement. Avoid cartoon exaggeration, playful fantasy tropes, or bright modern polish. Keep the beak elegant, the robe folds weighty, and the candle edge light thin enough to preserve mystery.
+
+Use case:
+Baroque Bestiary Candlelight single study 2/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no crowns copied from real regalia, no readable heraldic text, no slapstick fantasy, no modern makeup styling, no glossy digital sheen, no broken anatomy, no low-detail background, no accidental text fragments.

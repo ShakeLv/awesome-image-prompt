@@ -1,0 +1,14 @@
+Scene:
+A square rooftop portrait at overcast dusk, framed with clean city blur in the distance and a cooler, more editorial monochrome lighting scheme. The composition remains simple and press-usable, with enough empty edge space for later campaign use but a more atmospheric setting than the studio reference.
+
+Subject:
+Preserve the exact same artist from the reference image, including face shape, hair base, skin tone, and body proportions. The subject leans lightly against a concrete parapet in the same tailored jacket family, with the gaze turned slightly off-camera and the same calm authority carried into a more documentary urban setting.
+
+Important details:
+The image should widen the artist kit without breaking identity lock. Keep the portrait realistic, the geometry disciplined, and the palette nearly monochrome with only minimal metallic highlights. Abstract emblem cues can appear as architectural shadows or reflective inserts, but the artist must remain the undeniable center and must read as the exact same person from the reference portrait.
+
+Use case:
+Artist Kit series study 2/9 for the Artist Identity Portrait and Brand Kit Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no sunset orange explosion, no rooftop party extras, no hats hiding the hair, no lens gimmicks, no streetwear brand graphics

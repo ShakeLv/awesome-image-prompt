@@ -1,0 +1,14 @@
+Scene:
+Create a square cinematic still for Blue Hour Metropolis Long Exposure. Use production-grade photoreal lighting, disciplined lens behavior, and a composition that feels like a finished key frame from an original film rather than a casual snapshot. A dense riverside metropolis is captured at the exact transition of blue hour, where the sky holds deep cobalt, windows begin to glow warm gold, traffic turns into elegant light trails, and water reflects both cool atmosphere and neon accents. Compose an independent frame where one human, animal, or object silhouette negotiates with the atmospheric light event in a clean, readable way.
+
+Subject:
+Build a coherent original scene whose emotional center comes from atmosphere, light physics, and spatial clarity. Avoid relying on celebrity likeness, franchise iconography, or stylized illustration shortcuts. Skyscrapers, bridges, riverbanks, layered roads, and a few boats or ferries should form a coherent urban rhythm, with architecture believable and anonymous rather than tied to any one landmark identity. The silhouette should supply scale and emotional orientation, but the environment still needs to carry most of the storytelling weight.
+
+Important details:
+Preserve a believable physical world with strong depth layering, careful color separation, and premium image discipline. Control color temperature precisely, keeping the cool ambient sky separate from warm occupancy lights, with long-exposure motion on roads and water that feels polished, metropolitan, and technically disciplined. Keep the silhouette simple and believable, avoiding poster-like graphic flattening while preserving strong contrast.
+
+Use case:
+Blue Hour City single study 6/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable billboards, no famous landmark mimicry, no fireworks, no science-fiction holograms, no empty skyline.

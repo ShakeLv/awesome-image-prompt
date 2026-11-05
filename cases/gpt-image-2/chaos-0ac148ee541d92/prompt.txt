@@ -1,0 +1,14 @@
+Scene:
+Create a square front-facing promo board with dark UI-like panels, bright white product cards, yellow accent badges, and crisp spacing. The image should look like a premium app campaign translated into a physical concept board, with strong grid logic and a direct thumbnail read. Keep everything non-legible but obviously optimized for discounts, bundles, and rapid browsing behavior.
+
+Subject:
+Build a layered system of cards, chips, tiles, product silhouettes, and checkout cues arranged into one coherent Black Friday visual board. The subject should feel like a high-pressure app surface for major promotions, but rendered as a refined campaign mockup without actual interface text. Use clear hierarchy, card grouping, and a confident retail rhythm that signals urgency and value.
+
+Important details:
+Structured layout is the main challenge. Keep spacing disciplined, contrast strong, and abstract text blocks consistent enough that the eye reads sale information even though nothing is readable. Materials can be semi-gloss panels, matte cards, and subtle reflections. The final frame should be suitable for promo strategy decks, sale-landing hero images, or social countdown creatives.
+
+Use case:
+Black Friday single study 8/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable app text, no currency symbols, no logo icons, no random 3D emoji elements, no broken grid, no pastel drift, no fake screenshots, no cluttered background.

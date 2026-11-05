@@ -1,0 +1,14 @@
+Scene:
+A square hero image designed for a museum wall graphic or flagship magazine cover, but without any actual typography. Use strong focal hierarchy, refined contrast, and a polished finish that still feels rooted in archaeological evidence. The frame should look complete on its own and communicate why this civilization remains visually unforgettable.
+
+Subject:
+Build the image around a premium speculative archaeology hero image that treats Atlantis as disciplined underwater evidence rather than fantasy adventure. Present architecture, artifacts, environment, and atmosphere as one coherent statement. The composition can be more distilled than a field snapshot, but it must remain culturally specific, materially persuasive, and free of fantasy shorthand. Nothing should feel like a movie poster or commercial franchise imitation.
+
+Important details:
+Keep the city logic disciplined and archaeological even though it is speculative: ring geometry, civic axes, hydrodynamic wear, and material aging should feel plausible rather than mythic excess. Distill the site or cultural world into one decisive visual argument: place, craft, weathering, engineering, and memory. Use the strongest material signatures from this civilization and let them sit in a believable environment with controlled dramatic weight. Keep any carved or painted symbols non-readable. The result should look like responsible high-end visual storytelling for research and public interpretation, not a spectacle-first matte painting.
+
+Use case:
+Atlantis Underwater Plaza single study 9/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no mermaids, no glowing crystals, no submarines, no futuristic domes, no movie-poster tropes, no overdesigned framing devices, no collage layout, no brand-like iconography.

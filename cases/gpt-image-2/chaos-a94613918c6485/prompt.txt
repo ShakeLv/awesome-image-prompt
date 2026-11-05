@@ -1,0 +1,14 @@
+Scene:
+Create a square dependent sale image in the exact same midnight retail world, with the same black field, white hierarchy, yellow urgency accents, and aggressive edge lighting from the reference. Adjust the camera slightly to favor stacked devices and cleaner shelving geometry, but preserve the same visual pressure and campaign polish. The viewer should feel obvious continuity with the anchor image at first glance.
+
+Subject:
+Feature electronics-like product silhouettes, carton structures, charging accessories, and abstract price-chip panels arranged into a powerful deal-drop composition. Preserve the exact sale-chip grammar, panel spacing, light direction, and reflective material logic from the reference image while shifting the category emphasis toward tech. Everything should remain brand-neutral and original while still reading as a major high-demand sale moment.
+
+Important details:
+Preserve exact campaign identity from the reference image: same contrast ratio, same accent placement, same motion diagonals, and the same clean-aggressive digital-retail logic. Product clarity must come from shape and hierarchy, not labels. Keep the scene premium and tightly art-directed, avoiding discount-chaos cliché. The final result should feel like a conversion-focused hero asset for a serious marketplace or electronics retailer.
+
+Use case:
+Black Friday series study 2/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no readable product screens, no brand marks, no currency signs, no explosion effects, no crowd, no random cyberpunk elements, no broken device anatomy.

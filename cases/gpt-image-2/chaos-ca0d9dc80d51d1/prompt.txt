@@ -1,0 +1,14 @@
+Scene:
+A square independent archaeology study composed from a slightly elevated fieldwork viewpoint. Use balanced natural light, crisp evidence hierarchy, and practical site organization so the image feels publishable in a museum report and still visually strong enough for a gallery wall. The frame should explain where excavation is happening without relying on readable markers or diagrams.
+
+Subject:
+Show an underwater survey lane with marker floats above, careful sediment disturbance, and divers documenting concentric masonry beneath clear water. Include grounded human traces such as ladders, trays, brushes, baskets, light rigs, or measuring tools only when they support archaeological realism and remain visually secondary. The site should stay culturally specific, with architecture, surface treatment, sediment, and environmental context all belonging to the correct civilization rather than a generic dig.
+
+Important details:
+Keep the city logic disciplined and archaeological even though it is speculative: ring geometry, civic axes, hydrodynamic wear, and material aging should feel plausible rather than mythic excess. Prioritize evidence relationships: exposed layers, cleaned edges, protected surfaces, loose fragments, and transitions between buried and revealed material. Let color, wear, and composition explain what has just been uncovered. The image must feel methodical rather than adventurous. Keep any site tags, notes, or markers abstract and unreadable. Avoid sensational treasure imagery and keep the atmosphere scholarly, patient, and materially convincing.
+
+Use case:
+Atlantis Underwater Plaza single study 5/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no mermaids, no glowing crystals, no submarines, no futuristic domes, no treasure-chest clichés, no action-movie posing, no arbitrary props, no infographic overlay.

@@ -1,0 +1,14 @@
+Scene:
+Create a square digital-retail campaign image with a midnight black base, sharp white highlights, acidic yellow accents, and electric edge lighting. The composition should feel like a premium e-commerce hero surface translated into a physical merch world: aggressive, layered, and urgent, yet still controlled enough for a real campaign. Use bold blocks, sale-chip silhouettes, and product staging that imply heavy discount hierarchy without relying on readable typography.
+
+Subject:
+Center a stack of premium consumer products and abstract pricing surfaces arranged into a forceful Black Friday composition. Include cartons, devices or lifestyle goods, glowing panels, sticker-like geometric shapes, and motion cues that suggest countdown urgency and deal density. The subject must feel original and brand-neutral, but instantly legible as a high-pressure sale environment designed for digital retail conversion.
+
+Important details:
+Lock the system here: black field, white contrast bars, yellow urgency accents, metallic reflections, diagonal momentum, and non-legible sale-card geometry. Readability should come from hierarchy, spacing, and scale, not from actual words. The image must feel sharp, tactical, and commercially viable for Black Friday landing pages, promo carousels, and marketplace hero placements. Avoid chaotic bargain-bin mess; make the aggression intentional and premium.
+
+Use case:
+Black Friday series study 1/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable numbers or words, no logos, no random neon rainbow, no crowd stampede, no broken perspective, no cheap clip-art burst shapes, no currency symbols, no generic mall scene.

@@ -1,0 +1,14 @@
+Scene:
+A square wide reveal of the same site under a slightly different environmental condition, with more surrounding geography or architecture visible while keeping the anchor landmark dominant. Use disciplined composition, atmospheric perspective, and natural light behavior so the image feels like a patient field photograph captured after the reference shot rather than a different fantasy set.
+
+Subject:
+Show the same site identity with broader context: approaches, terraces, ring walls, canyon slot, canopy volume, quarry slope, or chamber boundaries depending on the location. The anchor structure must remain instantly recognizable. Environmental scale should deepen understanding of why the site is placed here and how people, water, topography, or vegetation shape the experience of the monument.
+
+Important details:
+Preserve the exact landmark, materials, and civilizational cues from the reference model while allowing wider framing and a different atmospheric emphasis. Keep the city logic disciplined and archaeological even though it is speculative: ring geometry, civic axes, hydrodynamic wear, and material aging should feel plausible rather than mythic excess. Use geography and environmental systems to add meaning: drainage, mist, current, valley depth, roots, irrigation, or enclosure logic. The image should feel both beautiful and evidentiary, with no compositional tricks that break continuity with the established site.
+
+Use case:
+Atlantis Underwater Plaza series study 4/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact site identity from the reference image, no mermaids, no glowing crystals, no submarines, no futuristic domes, no unrelated landmarks, no speculative mashup architecture, no posterized grading.

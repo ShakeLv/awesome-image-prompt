@@ -1,0 +1,14 @@
+Scene:
+A square photographic image with intentional lens choice, coherent light, and a subject that feels observed rather than merely decorated. Build the frame around a dusk, night, or low-light frame with disciplined exposure. Keep the lighting, camera distance, and spatial organization tuned for a high-signal research image rather than a casual snapshot. The image belongs to the Audubon Specimen Atlas theme and should feel immediately legible as a prompt atlas theme for audubon specimen atlas, testing structured-layout, technical-diagram with gpt image 2..
+
+Subject:
+Center the study on a dusk, night, or low-light frame with disciplined exposure. Translate the theme into a concrete visual statement instead of an abstract mood board: the viewer should understand what kind of image this is, what is being tested, and why the composition is difficult. Use the slug idea of audubon specimen atlas as a literal guide for subject matter, materials, and staging. If helpful, borrow the broad visual cues suggested by John James Audubon, Maria Sibylla Merian, but keep the result original and specific to this study.
+
+Important details:
+The realism should come from timing, optics, and material response: atmosphere, contrast, depth, motion, and tiny physical cues all need to agree. Preserve a disciplined square composition, clear focal hierarchy, and enough secondary information to make the image feel complete rather than underspecified. The image should look polished, novel, and exhibition-ready, with topic-specific credibility coming from the way surfaces, structure, and visual language reinforce Audubon Specimen Atlas. Avoid generic filler elements that do not serve the main concept.
+
+Use case:
+Audubon Specimen Atlas single study 5/8, testing structured-layout, technical-diagram through the low-light atlas variation.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.

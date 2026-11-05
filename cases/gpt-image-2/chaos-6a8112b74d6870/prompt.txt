@@ -1,0 +1,14 @@
+Scene:
+Create a square doorstep delivery image at dawn or dusk with crisp exterior light, stacked parcel volume, and a strong sense of recent motion. The frame should feel like a campaign visual for shipping success during peak sale season. Use architecture, package placement, and directional shadow to make the image organized and credible, not comedic or messy.
+
+Subject:
+Show a residential or apartment threshold where multiple parcels have just been placed in a tidy but high-volume arrangement. Use varied box sizes, tape, soft weather cues, and subtle motion traces, but keep labels blank and brand-neutral. The subject should communicate the scale of demand and the excitement of arrival without showing faces or readable shipping details.
+
+Important details:
+The story is volume under control. Make cardboard, tape, stone, metal, and ambient light feel real. Keep the scene visually simple enough for campaign use while still conveying a flood of deals arriving at home. Avoid sentimentality. This is about the aftershock of a major sale and the physical evidence of successful fulfillment.
+
+Use case:
+Black Friday single study 9/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no courier logos, no house-number text, no holiday gift wrapping, no comedic overspill of boxes, no vehicles, no people posing, no damaged parcels.

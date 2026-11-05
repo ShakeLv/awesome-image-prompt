@@ -1,0 +1,14 @@
+Scene:
+Create a square concept board for one biomechanical entity, balancing orthographic clarity, material close-ups, and enough dramatic lighting to feel like a finished poster. The layout should feel structured, with a dominant hero view supported by sections, parts, or alternate poses rather than scattered fragments. Keep the same board language but rotate the main pose into a dynamic deployment stance with one limb extended and panel articulation exposed.
+
+Subject:
+Center the image on a coherent organism-machine fusion where anatomy, exoskeletal plating, powered joints, sensors, and functional appendages belong to one design family. The being should feel purposeful, with visible load paths, movement logic, and enough biological cues to avoid looking like a plain robot. Preserve the reference torso, limb proportions, and joint design while revealing protective shutters, bracing behavior, and threat posture.
+
+Important details:
+Control noise aggressively. Use clear mass hierarchy, disciplined materials, and selective cross-section or inset views to explain how organic tissue and mechanical systems cooperate. The board should remain commercially useful for design review, poster, or worldbuilding deck surfaces. Action should never overwhelm clarity; the viewer must still read the same original body family immediately. Preserve the exact structural language established by the reference image, especially the torso silhouette, joint language, plated musculature, and board hierarchy.
+
+Use case:
+Biomech Board series study 2/4, designed as a reusable core-system image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore splatter, no random wires everywhere, no superhero costume cues, no readable labels, no superhero jump pose.

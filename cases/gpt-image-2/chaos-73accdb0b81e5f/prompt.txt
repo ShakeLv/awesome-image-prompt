@@ -1,0 +1,14 @@
+Scene:
+A square wide interior hero from the driver-side rear seat with balanced daylight, polished highlights, and calm premium contrast. Compose the frame as a square key visual with disciplined camera placement, premium lighting control, and believable real-world scale. The tonal range should feel polished and intentional, with enough atmosphere to create depth without obscuring form. Keep contrast calibrated for launch, catalog, or research presentation use rather than casual snapshot aesthetics.
+
+Subject:
+Center an original premium electric crossover interior with a sculpted steering wheel, floating instrument panel, thin vent architecture, integrated ambient light band, perforated leather seats, and a panoramic roof. Make the subject feel original, production-aware, and clearly grounded in Automotive Interior Cockpit UI Hero. For this series image, preserve exact core subject identity, proportions, base geometry, and material language from the reference image whenever continuity matters. The focal hierarchy should be immediate: primary form first, then material behavior, then supporting environmental cues that clarify use context and difficulty.
+
+Important details:
+Make the dashboard, steering wheel, center console, seats, and displays legible as one cohesive cabin design. The frame should feel like a launch-grade interior asset rather than a documentary snapshot. Preserve exact steering-wheel geometry, seat shape, dashboard architecture, screen proportions, ambient light path, and material palette across the series. The UI must feel believable but contain no readable text. Cabin ergonomics should feel manufacturable and premium. Use believable materials, engineering logic, and professional composition discipline. Reflections, shadows, edge breaks, texture scale, interface density, and small physical joints must all support realism. Avoid filler props, vague mood-board clutter, or any element that weakens the sense of a purpose-built industrial or automotive image.
+
+Use case:
+Cockpit UI series study 1/9 for Automotive Interior Cockpit UI Hero, built as image 01-reference-anchor.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable UI labels, no logos, no passengers, no fantasy holograms, no steering-wheel badge text, no cheap plastic sheen.

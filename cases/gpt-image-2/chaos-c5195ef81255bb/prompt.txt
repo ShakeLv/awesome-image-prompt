@@ -1,0 +1,14 @@
+Scene:
+A square studio installation image showing a wall of mounted panels, each carrying an abstract emblem fragment, muted portrait crop, or textured metallic field. The camera is frontal and balanced so the wall reads like a serious campaign language board, not a gallery gimmick.
+
+Subject:
+The subject is the emblem system itself: circles, bars, profile fragments, and tonal fields arranged into a coherent non-verbal identity for a fictional musician. One or two portrait glimpses can appear, but the primary purpose is to show the ownership of a visual mark system without relying on typography.
+
+Important details:
+The installation should feel refined, presentable, and music-industry credible. Use material contrast such as brushed metal, matte board, smoked acrylic, and soft shadow. The panel arrangement must feel intentional and branded, suggesting how an artist identity could extend into sets, packaging, and publicity without needing literal words.
+
+Use case:
+Artist Kit single study 8/9 for the Artist Identity Portrait and Brand Kit Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no museum labels, no visible screws dominating the frame, no random colors, no graffiti feel, no decorative flourishes unrelated to the emblem system
