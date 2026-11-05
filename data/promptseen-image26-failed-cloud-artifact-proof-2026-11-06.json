@@ -1,0 +1,14 @@
+{
+  "artifactId": 13449237454,
+  "runId": "42099350132",
+  "remoteZipBytes": 286888934,
+  "entireCentralDirectoryRead": true,
+  "memberBytesFullyReadAndDecoded": true,
+  "members": [
+    {
+      "artifactPath": "artifacts/cloud-daily-report.json",
+      "bytes": 999,
+      "sha256": "803f76458dc449d3a5f948c9369130e00242e12bfaccc39b41a3f5bdfdff0cf5"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "runId": "42099350132",
+  "cycleDate": "2026-11-05",
+  "finishedAt": "2026-11-05T20:10:00.600Z",
+  "status": "needs-retry",
+  "retryCount": 0,
+  "nextAttemptAt": "2026-11-05T20:20:00.600Z",
+  "sourcesOnly": false,
+  "retryAreas": [],
+  "stages": [
+    {
+      "stage": "restore-accepted-state-for-reviewed-update",
+      "status": "passed",
+      "finishedAt": "2026-11-05T20:05:31.544Z"
+    },
+    {
+      "stage": "plan-incremental-publication",
+      "status": "passed",
+      "finishedAt": "2026-11-05T20:05:51.903Z"
+    },
+    {
+      "stage": "publish-incremental-catalog",
+      "status": "failed",
+      "finishedAt": "2026-11-05T20:09:59.728Z"
+    },
+    {
+      "stage": "restore-before-failed-publication",
+      "status": "passed",
+      "finishedAt": "2026-11-05T20:10:00.386Z"
+    }
+  ],
+  "failures": [
+    {
+      "stage": "publish-incremental-catalog",
+      "reason": "scripts/cloud-catalog-publication.ts: exit 1"
+    }
+  ],
+  "warnings": [],
+  "fullFrameworkDeploy": false
+}

@@ -1,0 +1,13 @@
+{
+  "recordedAt": "2026-11-05T20:17:26.815059+00:00",
+  "failedRunId": "42099350132",
+  "sourceMerge": "958223ced9352b5245058b7e0c76f8121d21ddd9",
+  "failure": "Cloud runner fetch/connect timeout while preparing runtime catalog; ETIMEDOUT/ENETUNREACH to remote Cloudflare service.",
+  "manifestProduced": false,
+  "restoreStage": "passed",
+  "publicTotalBeforeAndAfter": 9164,
+  "status": "reviewed-27-awaiting-bounded-existing-publisher-retry",
+  "nextAttemptAt": "2026-11-05T20:20:00.600Z",
+  "recoveryScope": "27 exact reviewed Image2.6 IDs; may coalesce the next exact464 individually reviewed GPTImage2 IDs after their local acceptance/merge. No mixed editorial queue or application deployment.",
+  "originalFailedReceipt": "data/promptseen-image26-failed-cloud-receipt-2026-11-06.json"
+}
