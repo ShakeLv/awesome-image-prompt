@@ -1,0 +1,14 @@
+Scene:
+A square urban streetwear try-on board set against a clean concrete wall with soft overcast light and a faint painted color field that contains no letters. The composition uses a 3 by 3 contact-sheet rhythm: one baseline outfit and eight layered variations, all full-body and aligned to the same floor line. The visual style is sharp, photoreal, and youth-fashion editorial.
+
+Subject:
+A synthetic adult model with medium-dark skin, shoulder-length twists, rectangular face, wide-set eyes, small nose ring, average build, and easy relaxed posture. The baseline is a blank white tee, black jeans, and plain sneakers. Layered variations include oversized hoodie, cropped bomber, long plaid overshirt, denim jacket, technical vest, puffer coat, cargo trousers with knit, and monochrome layered streetwear. The same face, twists, nose ring, skin tone, shoulder width, torso length, and sneaker scale must remain fixed.
+
+Important details:
+Streetwear layering creates strong silhouette changes, but identity cannot drift. Preserve facial landmarks, hair texture and length, nose ring position, ear visibility, neck, hand size, body mass, hip height, and leg proportions. Garments may be oversized, stacked, or cropped, but should drape over the same underlying person. Keep fabric edges, hoods, sleeves, cuffs, pockets, and hems crisp without covering the face in a way that hides identity.
+
+Use case:
+Virtual Try-On Identity Lock single study 8/8, testing layered streetwear variation while maintaining one locked identity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no graffiti letters, no brand marks, no changed face, no changed hair, no removed nose ring, no body resizing, no extra people, no masked face, no distorted pockets or shoes.

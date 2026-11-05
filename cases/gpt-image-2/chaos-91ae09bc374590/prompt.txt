@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic urban transit interior, viewed from a wide concourse corner with strong one-point perspective. The lighting is bright but slightly metallic, with tiled floors, ceiling panels, stainless railings, and colored line bands guiding passengers through a large underground transfer hall. The composition should be dense, legible, and architecturally plausible.
+
+Subject:
+The subject is a major East Asian subway transfer station reconstructed from real-world transit logic without showing any real operator marks. Include platform stairs, escalators, tactile paving strips, fare-gate banks, overhead sign boxes with unreadable symbols, route color bands, wall-mounted map panels as abstract diagrams, emergency equipment boxes, vending machines, and commuters moving through separated flows. The image should capture how a transfer space works, not just how it looks.
+
+Important details:
+Preserve circulation hierarchy: gates lead to paid area, escalators align with directional signage, tactile paving follows walk paths, colored route bands remain consistent, and crowd movement leaves clear lanes. Surfaces should feel like public infrastructure: durable tile, metal, glass, fluorescent panels, and modular maintenance access doors. Avoid airport terminals, shopping malls, fantasy train halls, or generic tunnels. All textual information must be pseudo-text; legibility comes from layout, icons, and color coding.
+
+Use case:
+World Knowledge Reconstruction single study 5/8, testing transit architecture, wayfinding structure, and culturally specific public-infrastructure knowledge.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real subway brand, no impossible stairs, no disconnected escalators, no overcrowding that hides wayfinding, no luxury mall styling, no outdoor train tracks.

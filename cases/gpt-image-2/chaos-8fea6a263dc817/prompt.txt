@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic architectural interior at night, viewed from a slightly elevated corner like a polished design-magazine photograph. The space is a vast Scandinavian flat-pack furniture warehouse converted into a temporary nightclub, with cool blue ceiling structure, warm yellow wayfinding bands, polished concrete floors, and theatrical beams of light cutting through haze. The camera should reveal both the original retail circulation logic and the new event atmosphere.
+
+Subject:
+The main subject is a recognizable big-box furniture store interior transformed after hours: staged living-room islands become lounge booths, modular kitchen displays become cocktail counters, warehouse pallet racks become balcony-like DJ platforms, and the original one-way showroom path becomes a dance route. Keep the architecture disciplined: high grid ceiling, exposed ducts, sample room vignettes, flat-pack shelf bays, carts, lighting rails, and simple Nordic furniture silhouettes.
+
+Important details:
+World-knowledge reconstruction is the test. The scene must feel like a real flat-pack furniture megastore, not a generic club. Preserve the scale, aisle widths, maze-like showroom sequence, product staging, cafeteria-like practicality, and blue-yellow commercial color logic while avoiding any actual brand marks. Crowd silhouettes may be present but secondary; furniture, signage shapes, warehouse structure, and retail navigation must remain readable.
+
+Use case:
+World Knowledge Reconstruction single study 1/8, testing retail architecture, commercial mockup logic, and photoreal after-hours transformation.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no actual brand name, no luxury nightclub cliche replacing the store architecture, no chaotic crowd hiding the retail layout, no fantasy props.

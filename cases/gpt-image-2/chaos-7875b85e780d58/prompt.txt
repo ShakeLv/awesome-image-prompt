@@ -1,0 +1,14 @@
+Scene:
+A square runway-season comparison board with a dark graphite backstage floor, soft rim light, and a subtle reflective runway strip running horizontally through the composition. Eight evenly spaced full-body panels show the same model under consistent fashion-show lighting, with a larger central pose and smaller surrounding seasonal looks. The image should feel like a polished designer fitting review, not a catalog with labels.
+
+Subject:
+A synthetic adult model with copper-brown skin, close-cropped natural hair, high cheekbones, almond eyes, long neck, narrow shoulders, and an elegant upright stance. The identity is identical across all looks. Outfits move through four seasons: sheer spring organza coat, summer linen suit, autumn wool cape, winter quilted parka, plus four runway variations with sculptural sleeves, layered skirts, tailored trousers, and monochrome boots. The garments may be bold, but the person must remain the same.
+
+Important details:
+Lock the model identity harder than the clothing. Preserve facial structure, skin undertone, hairline, ear shape, neck, collarbone, limb length, and hand pose across every panel. Clothing may alter silhouette around the body through fabric volume, but the underlying body proportions must stay readable. Avoid creating a different model for dramatic fashion effects. Keep camera angle, head scale, and foot placement consistent.
+
+Use case:
+Virtual Try-On Identity Lock single study 2/8, testing seasonal runway garment changes while preserving one stable model identity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand signage, no face morphing, no skin-lightening, no body resizing, no swapped hairstyle, no crowd, no backstage clutter, no distorted limbs.

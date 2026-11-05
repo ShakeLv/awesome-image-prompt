@@ -1,0 +1,14 @@
+Scene:
+Create a square achievement share card for Progress Cards, using a polished mobile-share fitness world with clean gradients, progress rings, bright accents, and premium app-like framing. The frame should feel commercial, polished, and immediately useful for a real client deliverable rather than a one-off art experiment. Keep the composition readable at thumbnail scale while still rewarding a closer look with layered depth, clean negative space, and strong directional light. Build the image so it clearly supports sports communication, with enough modular structure to imply information architecture without relying on literal words.
+
+Subject:
+Center the image on one original fitness user or athlete shown in a credible post-workout portrait with approachable confidence, arranged as single user portrait with badges. Treat the subject as original and brandless, with believable apparel construction, realistic body proportions, and strong emotional legibility. Surround the subject with supporting environmental cues that reinforce the category but never overpower the main figure. All secondary objects, props, and background elements should strengthen the same professional sports or fitness context.
+
+Important details:
+This first image must establish the full reference system for later derivatives: reward-card geometry, non-readable metric modules, and badge-driven social sharing structure. The emotional tone should read as rewarding optimism. Make the visual language reusable, disciplined, and commercially credible, with clean edges, coherent light behavior, and obvious hierarchy. Abstract panels, diagram bands, or stat-like modules are welcome, but they must remain non-readable and subordinate to the main visual message. The result should feel original, specific, and ready to anchor a larger package.
+
+Use case:
+Progress Cards series study 1/9, the reference image for the package.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no copied famous team or product identity, no generic stock-photo stiffness, no cluttered background noise, no celebrity likenesses.

@@ -1,0 +1,14 @@
+Scene:
+Design a square atlas or legend sheet that stands alone as a worldbuilding artifact. The layout should feel publishable, with clear map priority, supporting insets, and believable information density. Compose a route-focused board where one pilgrimage path crosses mountains, water, settlements, and symbolic waystations inside a quiet cartographic frame.
+
+Subject:
+Show a map-driven system such as district boundaries, migration routes, underground rails, climate zones, pilgrimage paths, or maritime networks. The cartography should imply social, political, or environmental logic beyond pure decoration. The sheet should reveal social and geographic structure through the route itself, not through text or figures.
+
+Important details:
+Favor disciplined line work, restrained palette coding, and coherent terrain abstraction. The board should communicate world structure even though no readable labels are present. Use rhythm, inset details, and terrain abstraction to make the journey read clearly across the square. Preserve cartographic causality so routes, borders, resources, and environmental features all make sense together.
+
+Use case:
+Atlas Set single study 4/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no game-minimap UI, no random decorative monsters, no travel-brochure icons, no religious icon illustration overload.

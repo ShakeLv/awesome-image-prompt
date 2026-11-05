@@ -1,0 +1,14 @@
+Scene:
+Design a square atlas or legend sheet that stands alone as a worldbuilding artifact. The layout should feel publishable, with clear map priority, supporting insets, and believable information density. Compose an inset-style district atlas where radial roads, civic precincts, water systems, and neighborhood fabrics are mapped within one square board.
+
+Subject:
+Show a map-driven system such as district boundaries, migration routes, underground rails, climate zones, pilgrimage paths, or maritime networks. The cartography should imply social, political, or environmental logic beyond pure decoration. The map should read as a functioning capital region, revealing hierarchy between ceremonial center, service zones, and dense urban edges.
+
+Important details:
+Favor disciplined line work, restrained palette coding, and coherent terrain abstraction. The board should communicate world structure even though no readable labels are present. Let line discipline and inset logic do the storytelling instead of decorative icon overload. Preserve cartographic causality so routes, borders, resources, and environmental features all make sense together.
+
+Use case:
+Atlas Set single study 1/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no game-minimap UI, no random decorative monsters, no travel-brochure icons, no fantasy castle postcard framing.

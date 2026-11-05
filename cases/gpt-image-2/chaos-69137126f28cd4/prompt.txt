@@ -1,0 +1,14 @@
+Scene:
+A square frontal breakfast room overlooking a fictional orbital launch pad, staged with strict central symmetry. The camera looks across a long cafeteria table toward one round window where a small rocket stands on the horizon, centered like a tabletop ornament. The room is softly lit before dawn, using powder blue shadows, apricot walls, mint tableware, cream uniforms, cherry red switch caps, and warm yellow pastry tones.
+
+Subject:
+At the center of the table sits a mission director eating breakfast alone, facing the camera with a calm, unreadable expression. The director wears a simple cream jumpsuit with a blank patch and a neat headset. On the table, mirrored objects form a ceremonial still life: two boiled eggs, two coffee cups, two folded napkins, two analog countdown clocks with blank faces, two stacks of toast, and two small control panels showing only dots and colored bars. The rocket beyond the window is tiny, vertical, and quiet.
+
+Important details:
+This image should merge launch-control world knowledge with a deadpan pastel film-poster language: central axis, frontal gaze, miniature set design, carefully balanced props, analog equipment, and dry humor from the breakfast ritual before a huge event. The rocket launch must be understood through architecture, consoles, window view, headset, and mission-room details, not through readable labels or corporate branding. Keep the mood gentle, precise, and strangely domestic.
+
+Use case:
+Wes Anderson Language single study 7/8, independent transfer into a fictional orbital launch breakfast scene.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no celebrity likeness, no named film references, no real space-company branding, no explosion, no dramatic smoke plume, no dark futuristic control room, no busy unreadable screens.

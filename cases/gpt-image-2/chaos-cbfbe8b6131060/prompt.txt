@@ -1,0 +1,14 @@
+Scene:
+A tall 9:16 short-drama poster in a 1930s republic-era study lit by window blinds and amber desk lamps, with lacquer furniture, cigarette haze, rain on the glass, and a refined palette of sepia, forest green, black, and old gold. The composition must feel engineered for a vertical streaming cover, with a strong top silhouette, dense middle intrigue, and a quieter lower register that could support future title blocks or episode tabs without readable text.
+
+Subject:
+Create a republican-intrigue cover centered on a female code clerk holding a sealed telegram and a military officer in shadow standing beside a radio cabinet. A third figure, a wealthy young widow in a qipao, appears only through a reflected dressing-table mirror high in frame, hinting at betrayal. The mood should be tense, elegant, and serialized rather than nostalgic costume display. Make the hook legible through glance direction, telegram silhouette, and layered doorways.
+
+Important details:
+The visual grammar should mimic premium platform marketing for a period thriller. Preserve tactile wood, silk, brass, and rain textures, but do not overload the narrow frame with props. The poster must imply a space for unreadable title and episode graphics while remaining visually balanced on its own. Suspense should come from pose and composition, not from gunfire or loud action.
+
+Use case:
+Vertical Drama Poster System single study 7/9, testing a republic-era conspiracy premise in a disciplined mobile-cover layout.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 9:16 aspect ratio, no war battlefield, no propaganda posters, no crowded extras, no exaggerated vintage filter, no cosplay stiffness, no comic action pose, no interface chrome.

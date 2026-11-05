@@ -1,0 +1,14 @@
+Scene:
+A square textile-focused try-on board photographed like a museum fashion archive, with soft daylight, muted clay background, woven floor mat, and close enough detail to inspect fabric without losing full-body identity. The layout has one central source-like standing figure and six surrounding garment variations, each in the same calm pose and scale.
+
+Subject:
+A synthetic adult model with golden-brown skin, long straight dark hair parted in the center, round cheeks, straight brows, medium height, soft body, and gentle neutral expression. Clothing changes explore heritage-inspired textiles without copying any specific sacred or ceremonial dress: handwoven jacket, embroidered long coat, pleated wrap skirt, indigo resist-dye tunic, quilted vest, patterned shawl over simple trousers, and textured wool dress. The model's face, hair part, skin tone, body softness, hand shape, and stance must stay identical.
+
+Important details:
+Keep cultural textile cues respectful and generalized: craft detail, weave, embroidery, dye, quilting, fringe, and layered cloth, with no readable symbols or official insignia. Identity lock must survive dense patterning. Preserve eye shape, nose, lips, chin, cheek volume, shoulder curve, waist location, leg length, and hair length. Patterns may change garment surfaces but must not crawl onto skin or alter facial features.
+
+Use case:
+Virtual Try-On Identity Lock single study 7/8, testing ornate textile replacement while preserving one model identity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no sacred symbols, no national flags, no costume caricature, no changed face, no changed body, no altered hair part, no extra people, no pattern bleeding onto skin.

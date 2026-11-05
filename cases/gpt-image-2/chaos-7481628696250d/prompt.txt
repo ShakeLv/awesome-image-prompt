@@ -1,0 +1,14 @@
+Scene:
+A square wildlife conservation poster or public education board that combines a compelling animal image with clean infographic zones, awareness framing, and campaign-ready hierarchy. The scene should feel useful for museums, nonprofits, school outreach, social campaigns, or public-service posters. Lead with real animal beauty and habitat credibility, then support it with disciplined layout space for future messaging outside the generated image. Show a real riverbank or shallow stream with stones, ripples, and organized poster framing that suggests an educational public campaign.
+
+Subject:
+Focus on one species and one conservation pressure such as habitat loss, migration disruption, reef decline, clean water, pollinator collapse, canopy protection, or coastal restoration. The animal must remain real and ecologically grounded, with species-appropriate environment, body language, and scale. Avoid sensational wildlife photography tricks that overshadow the educational purpose. Feature one or more river otters behaving naturally in clean moving water, with alert posture and slick coat realism.
+
+Important details:
+Use structured public communication cues like chart bars, map shapes, data windows, species badges, or campaign modules, but keep all text abstract and unreadable. The image should feel urgent yet credible, emotional yet educational. Make the layout clean enough for actual advocacy use and the habitat specific enough that the poster teaches through composition alone. The board should make freshwater quality emotionally intuitive and visually organized without becoming a generic cute animal poster.
+
+Use case:
+Wildlife Conservation Poster Family single study 8/9, river otter clean water board for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable slogans, no brand logos, no disaster movie spectacle, no species mixing errors, no fantasy habitat mashups, no anthropomorphic activism props, no aquarium look, no urban trash pile shock tactics, no cartoon play pose.

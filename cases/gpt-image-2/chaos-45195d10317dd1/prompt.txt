@@ -1,0 +1,14 @@
+Scene:
+Design a square atlas or legend sheet that stands alone as a worldbuilding artifact. The layout should feel publishable, with clear map priority, supporting insets, and believable information density. Design a square chart where sea routes, wind belts, storm spirals, and safe harbors are composed into a disciplined navigation board.
+
+Subject:
+Show a map-driven system such as district boundaries, migration routes, underground rails, climate zones, pilgrimage paths, or maritime networks. The cartography should imply social, political, or environmental logic beyond pure decoration. The map should explain how travel adapts to weather cycles and hazardous zones across one region.
+
+Important details:
+Favor disciplined line work, restrained palette coding, and coherent terrain abstraction. The board should communicate world structure even though no readable labels are present. Make atmospheric risk legible through pattern and route behavior, not through decorative weather painting. Preserve cartographic causality so routes, borders, resources, and environmental features all make sense together.
+
+Use case:
+Atlas Set single study 3/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no game-minimap UI, no random decorative monsters, no travel-brochure icons, no pirate fantasy motifs.

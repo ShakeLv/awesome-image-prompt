@@ -1,0 +1,14 @@
+Scene:
+A square athletic try-on analysis board in a bright training studio with matte rubber flooring, white walls, and clean overhead light. The layout uses one large center figure and six smaller motion-adjacent outfit poses around it, all kept close to the same body angle so identity comparison is possible. The board feels like a sportswear fit test, not an action poster.
+
+Subject:
+A synthetic adult model with tan skin, long black hair tied in a low ponytail, heart-shaped face, strong eyebrows, compact muscular build, and confident neutral expression. The baseline is a plain black fitted tank and shorts. Outfit changes include running kit, yoga set, cycling jacket and leggings, tennis dress, hiking shell, compression recovery layer, and warm-up tracksuit. The same face, ponytail placement, muscle definition, shoulder width, hip width, and limb length must appear in every variant.
+
+Important details:
+Preserve identity during fitted garment changes, where body drift is easy to see. Keep the same jawline, brow, eye shape, nose, mouth, neck tendons, collarbones, hand structure, thigh shape, and calf proportion. Sportswear should show believable stretch, compression, seam placement, breathable mesh, and fabric tension without painting new anatomy. Do not let dynamic clothing or pose changes create a different athlete.
+
+Use case:
+Virtual Try-On Identity Lock single study 5/8, testing activewear edits while preserving one athletic model.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no changed muscles, no face swap, no skin tone shift, no ponytail change, no extra athlete, no impossible joints, no oversexualized styling, no floating garments.

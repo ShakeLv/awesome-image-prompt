@@ -1,0 +1,14 @@
+Scene:
+A square group-program schedule board for Wellness Retreat and Therapy Campaign Kit. Compose it as a modular board of session tiles, place imagery, and rhythm-oriented time blocks. Use a palette of stone white, eucalyptus green, mist gray, warm sand, and muted clay, soft natural light with restorative atmosphere, and a mood of calm, restorative, and emotionally safe. The frame should feel like a real healthcare communication asset art-directed for professional delivery, not a stock photo, speculative concept render, or generic corporate template. Keep the camera distance, negative space, and depth cues disciplined so the image reads immediately even at thumbnail size.
+
+Subject:
+Center on a calm group-wellness offering with recurring classes, therapy circles, journaling sessions, and meal or rest periods represented visually. Show enough surrounding context that the viewer understands the intended service surface, user situation, and institutional setting. Every object, person, diagram, device crop, or spatial cue should support clarity, trust, and practical use. If people appear, keep them anonymous, natural, privacy-safe, and grounded in believable body language rather than promotional posing.
+
+Important details:
+Maintain wellness and therapy communication built from serene spaces, grounded human presence, gentle editorial structure, and service clarity instead of vague luxury-spa imagery. The calendar should feel structured enough to be useful while still holding a restorative emotional tone. Use abstract icon shapes, color blocks, chart bars, interface modules, or non-legible placeholder microcopy whenever information structure is needed, but never readable text. Materials, spacing, lighting, and hierarchy should feel production-ready and healthcare-specific. Avoid generic lifestyle filler, decorative noise, or design gestures that do not reinforce the communication goal.
+
+Use case:
+Wellness Retreat single study 5/9 for a retreat or therapy schedule overview.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no pseudo-spiritual cliches, no resort-luxury excess, no influencer posing, no mystical healing props, no readable timetable text, no conference-event vibe.

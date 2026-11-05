@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic museum gallery interior, viewed from the center of a dim but carefully lit ancient Egypt exhibition hall. The atmosphere is quiet, scholarly, and realistic: dark neutral walls, warm spotlights, glass vitrines, polished floor reflections, wide visitor paths, and clear object groupings. The camera should show the entire display system, not just one artifact.
+
+Subject:
+The subject is a reconstructed major-museum Egypt gallery without any real museum branding. Include a central stone sarcophagus case, wall relief fragments, small ushabti-like figures in vitrines, pottery, canopic-jar-like silhouettes, a seated statue, papyrus-colored panels rendered as unreadable texture, conservation mounts, label rails as blank blocks, low barriers, and controlled lighting. Visitors are sparse and small so the artifact layout remains dominant.
+
+Important details:
+World knowledge must appear through curatorial logic: objects grouped by type and scale, fragile pieces behind glass, large stone items on plinths, neutral conservation lighting, accessible circulation, and restrained museum architecture. The gallery should avoid theme-park spectacle, treasure-room fantasy, glowing curses, incorrect pyramid interiors, or random gold overload. Text panels may exist as design blocks but cannot contain readable words; the image must communicate museum organization through display placement and material accuracy.
+
+Use case:
+World Knowledge Reconstruction single study 8/8, testing museum display systems, archaeological object knowledge, and photoreal cultural-space reconstruction.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real museum name, no fantasy magic effects, no tomb tunnel, no piles of gold, no crowded tourists blocking cases, no distorted artifact scale.

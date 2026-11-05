@@ -1,0 +1,14 @@
+Scene:
+A tall 9:16 exile-melodrama poster on the edge of a desert checkpoint at sunset, with windblown canvas, pale dust, military trucks reduced to distant shapes, and a narrow shaft of orange light against a storm-blue sky. The cover must read strongly on mobile: a striking upper sky band, a center human hook, and a lower area that could hold future unreadable title and badge elements. Use ochre, indigo, weathered khaki, and muted skin tones.
+
+Subject:
+Create a dramatic cover featuring a disgraced former diplomat in a torn linen suit standing beside a young translator wrapped in a desert scarf. They are separated from a convoy by a chain-link gate and one suitcase lying open in the dust. The relationship should be ambiguous: survival alliance, buried resentment, possible romance. Their silhouettes need to stay simple and legible in the narrow vertical frame, while the checkpoint world suggests political stakes without overpowering the human story.
+
+Important details:
+The image must feel like real platform packaging for a serialized exile drama, not a war-film poster. Keep the frame uncluttered, the wind and dust physically believable, and the emotional hook concentrated in posture, gaze, and the open suitcase. Suggest title and episode-chip zones through composition, but never render readable text. The cover should stay elegant even with harsh weather elements.
+
+Use case:
+Vertical Drama Poster System single study 8/9, testing an exile-road melodrama hook in a streamlined 9:16 poster system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 9:16 aspect ratio, no battlefield explosions, no crowded convoy action, no national flags, no heroic action pose, no documentary photo chaos, no giant desert vista swallowing the leads, no app UI screenshot.

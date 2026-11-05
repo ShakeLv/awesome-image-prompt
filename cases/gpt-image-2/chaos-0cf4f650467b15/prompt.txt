@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic commercial interior in soft morning light, viewed from just inside a glass-front flagship electronics store. The space is calm, minimalist, and precisely organized: pale stone floor, large glass facade, thin metal frames, warm wood tables, hidden lighting, and a few customers spaced naturally through the room. The visual tone should be premium but not branded.
+
+Subject:
+The subject is a reconstructed contemporary flagship consumer-electronics retail store without any actual logos. Show long wooden display tables arranged in a strict grid, tablets and laptops as slim dark rectangles, phone stands with charging tethers, wall display niches, accessory shelving, a support counter at the back, ceiling tracks, product demo stools, and a transparent staircase or mezzanine hinted in the background. Staff may be visible as understated figures in plain shirts, secondary to the space.
+
+Important details:
+This is a commercial world-knowledge test: the store should feel like a real global flagship, with disciplined product spacing, museum-like table placement, clean glass envelope, hidden service logic, and high-end material restraint. Avoid mall kiosk clutter, visible brand marks, bargain retail signage, futuristic holograms, or generic furniture showroom. Devices must be plausible in scale and layout; the interior should work as a functioning store with customer circulation and service zones.
+
+Use case:
+World Knowledge Reconstruction single study 6/8, testing premium retail memory, commercial mockup discipline, and photoreal spatial organization.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no actual technology brand, no giant glowing product names, no cluttered sale signs, no sci-fi interface projections, no impossible glass reflections.

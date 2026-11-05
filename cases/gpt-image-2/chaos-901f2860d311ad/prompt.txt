@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic interior view inside a Japanese convenience store at late evening, camera at standing eye level looking diagonally down a narrow aisle. The lighting is bright, cool, and fluorescent, with glossy floor reflections, dense shelf rhythm, and a glass storefront glow visible in the background. The image should feel ordinary, specific, and operational rather than staged.
+
+Subject:
+The subject is a meticulously reconstructed konbini aisle: bento and onigiri refrigerators along one side, hot snack warmer near the counter, magazine rack, drink coolers, umbrella stand by the entrance, small trash and recycling station, compact checkout counter, payment terminal, tiny baskets, and seasonal promotional shelf islands. Include product rows as colored packages and price-card shapes, but keep all writing as unreadable blocks and strokes.
+
+Important details:
+Real-world knowledge matters more than decoration. Maintain Japanese convenience-store density, clean modular shelving, vertical cooler doors, small aisle widths, careful product category grouping, bright ceiling panels, tiled or polished floor, and the sense that every object has a practical retail purpose. Avoid generic supermarket scale, American gas-station clutter, luxury boutique styling, or fantasy signage. The scene should be culturally legible through layout and objects without relying on readable labels.
+
+Use case:
+World Knowledge Reconstruction single study 3/8, testing cultural retail detail, photoreal interior layout, and dense merchandise organization.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real store brand, no manga illustration style, no oversized supermarket aisles, no random Asian stereotypes, no empty shelves, no distorted product rows.

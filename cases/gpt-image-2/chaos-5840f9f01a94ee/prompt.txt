@@ -1,0 +1,14 @@
+Scene:
+A square wildlife conservation poster or public education board that combines a compelling animal image with clean infographic zones, awareness framing, and campaign-ready hierarchy. The scene should feel useful for museums, nonprofits, school outreach, social campaigns, or public-service posters. Lead with real animal beauty and habitat credibility, then support it with disciplined layout space for future messaging outside the generated image. Create a marsh or wetland scene with layered grasses, calm water, and clear poster geometry integrated into the sky or side margins.
+
+Subject:
+Focus on one species and one conservation pressure such as habitat loss, migration disruption, reef decline, clean water, pollinator collapse, canopy protection, or coastal restoration. The animal must remain real and ecologically grounded, with species-appropriate environment, body language, and scale. Avoid sensational wildlife photography tricks that overshadow the educational purpose. Feature one or several migratory birds landing or wading, with accurate posture and habitat cues that clearly distinguish a migration stopover.
+
+Important details:
+Use structured public communication cues like chart bars, map shapes, data windows, species badges, or campaign modules, but keep all text abstract and unreadable. The image should feel urgent yet credible, emotional yet educational. Make the layout clean enough for actual advocacy use and the habitat specific enough that the poster teaches through composition alone. The poster should feel ecological and public-facing, suitable for seasonal awareness campaigns and school outreach.
+
+Use case:
+Wildlife Conservation Poster Family single study 3/9, migratory bird wetland poster for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable slogans, no brand logos, no disaster movie spectacle, no species mixing errors, no fantasy habitat mashups, no anthropomorphic activism props, no hunting motif, no decorative fantasy flock pattern, no generic lake postcard look.

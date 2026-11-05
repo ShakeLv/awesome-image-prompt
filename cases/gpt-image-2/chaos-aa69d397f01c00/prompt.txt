@@ -1,0 +1,14 @@
+Scene:
+A square editorial architectural cutaway of a Parisian Haussmann apartment building, shown in refined semi-photoreal illustration with soft daylight and precise construction detail. The facade is opened like a section model so the viewer can see multiple floors at once, but the exterior street frontage, mansard roof, wrought-iron balconies, cream limestone, and tall windows remain recognizable.
+
+Subject:
+The subject is a reconstructed classic Paris apartment block: ground-floor shopfront rhythm rendered without readable signs, piano nobile with taller ceilings, stacked apartments with fireplaces and parquet floors, narrow service stair, inner courtyard glimpse, attic chambres under the mansard roof, zinc roof planes, dormer windows, chimneys, balcony railings, and street-level stone base. Each room should contain plausible furniture and daily-life traces without becoming cluttered.
+
+Important details:
+The challenge is architectural and cultural knowledge, not fantasy dollhouse decoration. Preserve vertical hierarchy, facade proportions, French window spacing, wrought iron, herringbone parquet, marble fireplaces, ceiling moldings, and service-core logic. The section should be spatially coherent: floors align, walls have thickness, stairs connect levels, and the roof geometry matches the facade. Avoid generic European castle elements, modern glass towers, suburban house layouts, or impossible room stacking.
+
+Use case:
+World Knowledge Reconstruction single study 7/8, testing historic architecture memory, structured cutaway reasoning, and culturally specific interior detail.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fantasy palace decor, no disconnected rooms, no impossible staircases, no modern luxury penthouse replacing the historic building, no oversized people.

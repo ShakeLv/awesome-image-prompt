@@ -1,0 +1,14 @@
+Scene:
+A square eveningwear virtual fitting board in a softly lit atelier with charcoal drapes, a polished concrete floor, and warm pin lights catching fabric surfaces. Seven full-body garment states are arranged in a graceful arc around a central baseline figure. The image is elegant and controlled, with enough negative space to compare silhouette and identity.
+
+Subject:
+A synthetic adult model with light brown skin, silver-gray pixie haircut, angular cheekbones, narrow nose, fine mouth, tall lean body, and poised hands. The baseline outfit is a simple black slip dress. Try-on looks include velvet column gown, satin tuxedo, sequined long-sleeve dress, sculptural taffeta skirt, sheer cape over tailored jumpsuit, beadwork cocktail dress, and minimalist white evening suit. The same mature face, hair shape, skin tone, height, arm length, hand pose, and composed expression must carry through all looks.
+
+Important details:
+Eveningwear often changes the perceived body; prevent that drift. Preserve cheekbone angle, eye spacing, hairline, ear visibility, neck length, clavicle placement, wrist scale, waist height, and foot stance. Let garments create volume through fabric only, not by resizing the person. Show realistic reflective materials: velvet absorbs light, satin glows, sequins sparkle, taffeta holds crisp folds. Avoid glamour retouching that makes the model younger or changes identity.
+
+Use case:
+Virtual Try-On Identity Lock single study 6/8, testing formalwear transformation with stable age, face, and body.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no age change, no face smoothing, no body elongation, no changed haircut, no extra guests, no stage signage, no impossible fabric clipping.

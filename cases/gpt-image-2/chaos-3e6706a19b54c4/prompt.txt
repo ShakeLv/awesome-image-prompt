@@ -1,0 +1,14 @@
+Scene:
+A square film-poster composition inside a fictional municipal capsule hotel lobby, photographed straight-on with a perfectly centered vanishing point and no camera tilt. The room is built like a miniature stage set: flat even lighting, powder pink walls, mint green floor tiles, mustard trim, and shallow theatrical depth. The central desk divides the image horizontally, with identical key cubbies, lamps, potted plants, and elevator doors mirrored on both sides.
+
+Subject:
+One young lobby clerk stands exactly on the center axis behind the counter, facing the camera with a calm deadpan expression. The clerk wears a neatly pressed coral uniform, a tiny round cap, white gloves, and polished shoes visible below the counter gap. Around the clerk are symmetrical props: brass bell, stacked envelopes, room keys, a ledger with blank pages, two rotary phones, and two matching suitcases placed like punctuation marks.
+
+Important details:
+This is the reference image for the series visual language. Preserve centered-axis geometry, bilateral symmetry, pastel candy color, flat frontal staging, precise prop alignment, handcrafted set texture, and a quiet cinematic mood. All signs, ledgers, key tags, and wall labels must be blank or abstract blocks, never readable words. The image should feel like a complete fictional movie poster without typography.
+
+Use case:
+Wes Anderson Language series study 1/8, establishing the reference grammar for the institutional fanout.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no celebrity likeness, no named film references, no messy asymmetry, no modern glossy corporate lobby, no dramatic shadows, no extra characters.

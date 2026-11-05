@@ -1,0 +1,14 @@
+Scene:
+A square isometric game-world view at golden hour, high enough to read a whole voxel coastal settlement while still showing individual block materials. The mood is adventurous and crisp, with warm sunlight, square shadows, blue water, and a clean horizon. The image should resemble a familiar block-building sandbox world but must avoid any official branding or UI overlays.
+
+Subject:
+The subject is a reconstructed voxel port town built from world knowledge of block logic: stepped wooden docks, cube-plank houses, cobblestone paths, lantern posts, farm plots with grid crops, blocky cliffs, simple boats, a small watchtower, mine entrance, glass-paned greenhouse, and terraced roofs. Water should be composed of square reflective surfaces, trees should use cubic leaves and trunk blocks, and terrain should reveal layered dirt, grass, sand, and stone.
+
+Important details:
+The test is style-transfer plus spatial reasoning. Everything must obey block scale and axis-aligned construction: no smooth curved architecture, no photoreal materials, no triangular roofs unless made from stair-like blocks, and no arbitrary fantasy shapes. The town needs believable game-play logic: paths connect houses to docks, farms sit on flat terraces, storage chests and crafting-like work areas are implied as block objects, and the mine entrance aligns with exposed stone.
+
+Use case:
+World Knowledge Reconstruction single study 4/8, testing voxel world knowledge, style-transfer, and navigable settlement layout.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no official game title, no UI inventory bar, no round realistic objects, no non-block architecture, no chaotic floating islands, no extra branded characters.

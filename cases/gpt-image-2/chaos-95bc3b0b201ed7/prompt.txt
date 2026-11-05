@@ -1,0 +1,14 @@
+Scene:
+A square close-up of a late-1990s desktop computer screen photographed in a quiet archive room, straight-on with mild CRT glow, tiny scanline softness, and neutral gray ambient light. The image should feel like a carefully preserved operating-system interface study, not a fantasy screen. Keep the composition clean enough to inspect window chrome, taskbar structure, icon grid spacing, and desktop hierarchy.
+
+Subject:
+The subject is a Windows-like classic desktop environment reconstructed from world knowledge without using protected logos or readable brand text. Show a teal-blue desktop field, a bottom taskbar with a left start-style button shape, small quick-launch icons, rectangular program buttons, and a right-side clock area rendered as unreadable marks. Several overlapping windows demonstrate old UI conventions: gray title bars, bevelled borders, minimize and close buttons, scrollbars, folder panes, small pixel icons, and a control-panel-like grid.
+
+Important details:
+The challenge is pixel-level layout memory: consistent bevels, 3D button shadows, square icon cadence, default gray panels, nested dialog boxes, menu bars as pseudo-text lines, and careful hierarchy between desktop, windows, and taskbar. The screen should look operational and historically plausible, but all text must be unreadable symbolic strokes. Avoid modern flat UI, glassmorphism, phone-app aesthetics, and generic cyberpunk screens.
+
+Use case:
+World Knowledge Reconstruction single study 2/8, testing operating-system interface memory, structured layout, and historic desktop visual logic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real operating system logo, no modern rounded app dashboard, no browser webpage, no neon hacker terminal, no distorted taskbar.

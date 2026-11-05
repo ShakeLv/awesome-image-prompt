@@ -1,0 +1,14 @@
+Scene:
+A tall 9:16 mobile-first drama poster set on a luxury high-rise rooftop at night, with wet black stone, distant city bokeh, cold wind, and a narrow beam of white light cutting between rooftop structures. The composition must read instantly on a phone screen: strong top hook image, clear center relationship tension, and a calmer lower zone where a platform title block and episode badge could later sit without requiring real readable text. Keep the palette black, silver, burgundy, and muted skin tones.
+
+Subject:
+Establish the lead pair for a serialized vertical romance-revenge drama. A sharp-featured heiress in a fitted dark coat stands near the ledge with one hand on a legal envelope; behind her, half protective and half threatening, stands her bodyguard in a rain-marked black suit. Their faces should be close enough to imply contract intimacy yet far enough to preserve distrust. The city below should feel wealthy and dangerous, but the focus stays on their emotional geometry, costume clarity, and the sense that this image can anchor later episode-cover variants.
+
+Important details:
+This is the reference image for the series, so identity lock matters. Keep hair shape, height difference, coat silhouettes, and gaze pattern easy to preserve in later posters. The vertical layout should feel like a real app cover: clean upper silhouette, mid-frame emotional collision, subtle lower gradient for interface overlay, and decorative but unreadable label zones. Avoid stuffing the narrow frame. The poster should feel premium and addictive, not loud or trashy.
+
+Use case:
+Vertical Drama Poster System series study 1/9, establishing the lead couple and mobile-first poster grammar for a reference-dependent short-drama arc.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 9:16 aspect ratio, no crowded skyline collage, no action fight pose, no extra side characters, no gaudy neon nightclub mood, no cartoon expressions, no broken anatomy, no platform UI screenshots.

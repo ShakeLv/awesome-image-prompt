@@ -1,0 +1,14 @@
+Scene:
+A square professional wardrobe try-on board inside a quiet modern office lobby with pale terrazzo flooring, glass reflections, and soft daylight from one side. Six full-body outfit states are arranged in two rows of three, with the same camera angle and a thin visual rhythm from the lobby columns. The composition is precise and useful, like a corporate styling review without written labels.
+
+Subject:
+A synthetic adult model with deep brown skin, shaved head, round face, broad nose, full lips, sturdy build, and calm direct gaze. The baseline look is a plain charcoal tee and dark trousers. The try-on variants include a navy suit, relaxed beige blazer, pleated midi skirt with shirt, structured vest and wide-leg pants, long wool coat, and smart-casual knit polo with cropped trousers. The model's face, head shape, skin tone, torso width, arm length, and stance must remain constant.
+
+Important details:
+Identity lock is the main visual rule. Keep the same facial geometry, scalp line, smile restraint, shoulder slope, waist position, knee height, hand shape, and shoe size in all panels. Clothing can signal different workplace dress codes, but must not make the model thinner, taller, younger, or more conventionally retouched. Maintain realistic garment seams, natural drape, office-appropriate colors, and consistent shadow direction.
+
+Use case:
+Virtual Try-On Identity Lock single study 4/8, testing workplace outfit edits while preserving face, body, and posture.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no company marks, no changed skin tone, no altered head shape, no body reshaping, no extra models, no mirror duplicate faces, no distorted tailoring, no unreadable labels.
