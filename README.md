@@ -1,6 +1,6 @@
 # awesome-image-prompt
 
-**5,734 complete source-bound image/prompt pairs archived.** Original attribution, actual generation models, reference requirements and per-item provenance are retained.
+**5,761 complete source-bound image/prompt pairs archived.** Original attribution, actual generation models, reference requirements and per-item provenance are retained.
 
 [Remote archive verification](data/github-gallery-remote-acceptance-2026-11-06.json) compares1,427 new media/prompt Git blobs against the actual GitHub tree. This archive count is separate from ProjectD publication.
 
@@ -8,8 +8,9 @@
 
 ## GPT Image 2.6 — current focus
 
-**40 complete output/prompt pairs, representing 24 distinct prompt texts.** Images and full prompts are stored in this repository with original attribution and per-item rights notes.
+**67 complete output/prompt pairs archived.** The original40 represent24 distinct prompt texts;27 further Prompt Seen working prompts and original outputs are now archived, with visual review and ProjectD publication separate. Images and full prompts are stored in this repository with original attribution and per-item rights notes.
 
+- [27 original Prompt Seen demonstrations](GPT-IMAGE-2.6-PROMPTSEEN.md), including15 PNGs and12 composed GIFs, with full recorded working prompts and per-output CC BY4.0 notices. ProjectD acceptance pending.
 - [21 official example pairs](GPT-IMAGE-2.6-FULL.md), already published on ProjectD.
 - [15 official comparison outputs](GPT-IMAGE-2.6-COMPARISONS.md): 13 Flare + 2 Sunburst complexity variants; zero additional prompt recipes.
 - [3 more independent editing outputs, 2 distinct prompts](GPT-IMAGE-2.6-INDEPENDENT.md): Night Lab mug recoloring and Lightlyn sofa edits.

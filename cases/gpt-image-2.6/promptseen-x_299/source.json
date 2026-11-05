@@ -1,0 +1,256 @@
+{
+  "id": "x_299",
+  "promptId": "p_235",
+  "slug": "image26-g12-animated-notebook-owl",
+  "prompt": "制作一张供后期裁帧合成 GIF 的动画精灵图，PNG 静态画布，宽 1536 高 1024 像素，精确三列两行，共六个等大的 512×512 正方形帧。每格是独立完整画面，按从左到右、从上到下依次播放。无外边距、无格线、无分隔条、无编号。角色不要跨越格子边界。所有格子中角色尺寸、脚下基线、镜头、背景与光照必须固定一致，只有动作姿态逐步变化。请把以下动画描述转成六个清晰不同的连续姿态；最后一格回到第一格姿态，以便循环。本次交付的是完整六格精灵图，不要只画一个姿势。\n\n动作与主题：\n使用输入笔记本照片，让纸上的猫头鹰铅笔涂鸦轻轻动起来。先眨眼，再把两侧翅膀各抬起一点，最后恢复起始姿势。只改变涂鸦内部的线条姿态，保持纸张、桌面、笔触风格、光线和机位不变，不变成三维实体，不飞离纸面，不新增文字。输出短循环 GIF。\n",
+  "promptFile": "content/examples/x_299/prompt.txt",
+  "promptFileSha256": "ddce94b6a4e4825136712425169795c46cc526dfbe29b903509627ae78f840c7",
+  "recordedRunPromptSha256": "86d14e6f1c75a1b77106d8f904774329592be02cc76183aec4dda4454ab64858",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_299",
+    "promptId": "p_235",
+    "template": null,
+    "promptSha256": "86d14e6f1c75a1b77106d8f904774329592be02cc76183aec4dda4454ab64858",
+    "referenceAssetIds": [
+      "a_398"
+    ],
+    "referenceBindings": [
+      {
+        "slotId": "reference",
+        "referenceIndex": 0
+      }
+    ],
+    "outputAssetIds": [
+      "a_397"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Pencil owl blinks and lifts its wings while remaining a drawing on the notebook page. Six-frame composed GIF preserves the paper setting with small page and line drift between frames.",
+      "zh-Hans": "笔记本上的铅笔猫头鹰眨眼并抬起翅膀，保持纸上涂鸦形态；纸张和线条在各帧间有小幅位移。"
+    }
+  },
+  "entry": {
+    "id": "p_235",
+    "slug": "image26-g12-animated-notebook-owl",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "social-post"
+    ],
+    "coverAssetId": "a_397",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "required",
+      "instructions": {
+        "en": "Use the independently generated reference assets in the displayed order. Do not use the official or social source images.",
+        "zh-Hans": "按展示顺序使用原创生成底图；不使用官方或社交作者原图。"
+      },
+      "slots": [
+        {
+          "id": "reference",
+          "labels": {
+            "en": "Original synthetic reference",
+            "zh-Hans": "原创生成参考图"
+          },
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "showcaseExampleId": "x_299",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-g12",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方发布页",
+        "url": "https://openai.com/index/introducing-images-2-6/#animate-your-ideas-with-gifs",
+        "publishedAt": null,
+        "metricObjectUrl": "https://openai.com/index/introducing-images-2-6/#animate-your-ideas-with-gifs",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://openai.com/index/introducing-images-2-6/#animate-your-ideas-with-gifs",
+        "sourcePromptStatus": {
+          "en": "The original prompt was not found. This is an independently inferred prompt.",
+          "zh-Hans": "未取得原提示词，本次为独立推导方案。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_397",
+      "contentHash": "sha256:425000388bd5de01fe4ef8d31e599d15994cb4a8f29d627760072c2ac5b1b69b",
+      "mimeType": "image/gif",
+      "byteSize": 1299076,
+      "animation": {
+        "frameCount": 6,
+        "durationMs": 1800,
+        "loopCount": 0
+      },
+      "width": 512,
+      "height": 512,
+      "original": {
+        "key": "media/a_397/image26-g12-animated-notebook-owl-original-425000388bd5.gif"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_397/image26-g12-animated-notebook-owl-thumbnail-0e4196134081.webp",
+          "width": 480,
+          "height": 480,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_397/image26-g12-animated-notebook-owl-card-55abc970f790.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_397/image26-g12-animated-notebook-owl-detail-1a3345815638.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_397/image26-g12-animated-notebook-owl-og-e8f6215607d0.jpg",
+          "width": 512,
+          "height": 269,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "placeholder": {
+        "color": "#D8C8B8"
+      },
+      "alt": {
+        "en": "Pencil owl blinks and lifts its wings while remaining a drawing on the notebook page.",
+        "zh-Hans": "笔记本上的铅笔猫头鹰眨眼并抬起翅膀，保持纸上涂鸦形态；纸张和线条在各帧间有小幅位移。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    },
+    {
+      "id": "a_398",
+      "contentHash": "sha256:eb9b1e79b6f98d68aa822bddc401632a5fb4763b39fe397540f628aee6b95d63",
+      "mimeType": "image/png",
+      "byteSize": 2341024,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_398/image26-g12-animated-notebook-owl-reference-original-eb9b1e79b6f9.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_398/image26-g12-animated-notebook-owl-reference-thumbnail-1dcc078b1011.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_398/image26-g12-animated-notebook-owl-reference-card-3ae516f9a0d2.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_398/image26-g12-animated-notebook-owl-reference-detail-c7a4281284ef.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_398/image26-g12-animated-notebook-owl-reference-og-451feb9267cd.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.156,
+        "y": 0
+      },
+      "placeholder": {
+        "color": "#D8C8B8"
+      },
+      "alt": {
+        "en": "Original synthetic reference",
+        "zh-Hans": "原创生成参考图"
+      },
+      "caption": {},
+      "credit": {
+        "creator": null,
+        "creditText": null,
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": null,
+        "licenseUrl": null,
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_397-425000388bd5de01.gif",
+  "nativeSha256": "425000388bd5de01fe4ef8d31e599d15994cb4a8f29d627760072c2ac5b1b69b",
+  "sourceGitBlob": "6b2e50ef69afa03fb301722a43c90f32b603fd26",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_397/image26-g12-animated-notebook-owl-original-425000388bd5.gif",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_299/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

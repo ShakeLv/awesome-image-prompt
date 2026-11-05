@@ -1,0 +1,169 @@
+{
+  "id": "x_276",
+  "promptId": "p_212",
+  "slug": "image26-s04-bakery-logo",
+  "prompt": "为虚构面包店“Field & Flour”设计一个简洁标志：一只圆面包与一根麦穗组成紧凑图形，搭配清晰的店名字标。采用暖棕单色，平面矢量视觉，适合印在小尺寸纸袋上。图形和字标置于透明背景，输出 PNG，不要店面效果图、纸张纹理或投影。\n",
+  "promptFile": "content/examples/x_276/prompt.txt",
+  "promptFileSha256": "a5cca996b25016bbffb971604ff9b3c1c26f9686db4e2fa836b1e786f4f12b2d",
+  "recordedRunPromptSha256": "bfa924a43b32ee215d630dc133cfc41d4d9bb3c446866a2c0b486e47be2252fe",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_276",
+    "promptId": "p_212",
+    "template": null,
+    "promptSha256": "bfa924a43b32ee215d630dc133cfc41d4d9bb3c446866a2c0b486e47be2252fe",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_366"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Bread and wheat mark with correctly spelled Field & Flour. Verified PNG alpha and inspected against white; warm brown vector-like raster with slight tonal variation.",
+      "zh-Hans": "暖棕色面包与麦穗图形搭配 Field & Flour 字标，拼写正确，PNG 保留真实透明通道。"
+    }
+  },
+  "entry": {
+    "id": "p_212",
+    "slug": "image26-s04-bakery-logo",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_366",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_276",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s04",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方指南",
+        "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+        "publishedAt": null,
+        "metricObjectUrl": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_366",
+      "contentHash": "sha256:3cac1a60a6c797fff3e2ddf1c749ed5eadb9fb0efcee9d3676a0a9fdab9a8ae1",
+      "mimeType": "image/png",
+      "byteSize": 1136990,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_366/image26-s04-bakery-logo-original-3cac1a60a6c7.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_366/image26-s04-bakery-logo-thumbnail-7b149e0e560c.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_366/image26-s04-bakery-logo-card-250059c29492.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_366/image26-s04-bakery-logo-detail-7e93a2baffdd.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_366/image26-s04-bakery-logo-og-6551f4755e0b.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "placeholder": {
+        "color": "#080808"
+      },
+      "alt": {
+        "en": "Bread and wheat mark with correctly spelled Field & Flour.",
+        "zh-Hans": "暖棕色面包与麦穗图形搭配 Field & Flour 字标，拼写正确，PNG 保留真实透明通道。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_366-3cac1a60a6c797ff.png",
+  "nativeSha256": "3cac1a60a6c797fff3e2ddf1c749ed5eadb9fb0efcee9d3676a0a9fdab9a8ae1",
+  "sourceGitBlob": "2aea559c15dc15864e5e9eba6ac11212f3374b5d",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_366/image26-s04-bakery-logo-original-3cac1a60a6c7.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_276/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

@@ -1,0 +1,273 @@
+{
+  "id": "x_298",
+  "promptId": "p_234",
+  "slug": "image26-g11-cycling-pelican-loop",
+  "prompt": "制作一张供后期裁帧合成 GIF 的动画精灵图，PNG 静态画布，宽 1536 高 1024 像素，精确三列两行，共六个等大的 512×512 正方形帧。每格是独立完整画面，按从左到右、从上到下依次播放。无外边距、无格线、无分隔条、无编号。角色不要跨越格子边界。所有格子中角色尺寸、脚下基线、镜头、背景与光照必须固定一致，只有动作姿态逐步变化。请把以下动画描述转成六个清晰不同的连续姿态；最后一格回到第一格姿态，以便循环。本次交付的是完整六格精灵图，不要只画一个姿势。\n\n动作与主题：\n使用输入图片中的鹈鹕、红色自行车和海边木栈道，制作一个侧面跟拍循环 GIF。鹈鹕持续平稳踩踏，车轮转动，身体轻微上下起伏，主体保持画面中央。让木板与背景以可循环方式缓慢移动，保持自行车结构和鸟喙长度稳定，机位高度不变，不加入其他角色，结尾接回开头。\n",
+  "promptFile": "content/examples/x_298/prompt.txt",
+  "promptFileSha256": "98180b109cd1b9fe78f88c79d1c4e79423ead7e171b77fe6351361201c13bd25",
+  "recordedRunPromptSha256": "52eeeb1e23c1ee79ef0eb40253c8242bf66cdfe3ca1ada0752cdb12721061cb5",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_298",
+    "promptId": "p_234",
+    "template": null,
+    "promptSha256": "52eeeb1e23c1ee79ef0eb40253c8242bf66cdfe3ca1ada0752cdb12721061cb5",
+    "referenceAssetIds": [
+      "a_381"
+    ],
+    "referenceBindings": [
+      {
+        "slotId": "reference",
+        "referenceIndex": 0
+      }
+    ],
+    "outputAssetIds": [
+      "a_396"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Pelican and red bicycle preserve the sunset reference. Legs shift between pedaling poses with slight body bobbing. Composed GIF; pedal geometry and background alignment vary, and wheel rotation is not physically continuous.",
+      "zh-Hans": "鹈鹕与红色自行车沿用原创日落参考图，双腿切换踩踏姿势并轻微起伏。"
+    }
+  },
+  "entry": {
+    "id": "p_234",
+    "slug": "image26-g11-cycling-pelican-loop",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "social-post"
+    ],
+    "coverAssetId": "a_396",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "required",
+      "instructions": {
+        "en": "Use the independently generated reference assets in the displayed order. Do not use the official or social source images.",
+        "zh-Hans": "按展示顺序使用原创生成底图；不使用官方或社交作者原图。"
+      },
+      "slots": [
+        {
+          "id": "reference",
+          "labels": {
+            "en": "Original synthetic reference",
+            "zh-Hans": "原创生成参考图"
+          },
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "showcaseExampleId": "x_298",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-g11",
+        "platform": "X",
+        "author": "实践哥 Li；金木提供静态流程参考",
+        "url": "https://x.com/MinLiBuilds/status/2118138824673173569",
+        "publishedAt": null,
+        "metricObjectUrl": "https://x.com/MinLiBuilds/status/2118138824673173569",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://x.com/MinLiBuilds/status/2118138824673173569",
+        "sourcePromptStatus": {
+          "en": "The original prompt was not found. This is an independently inferred prompt.",
+          "zh-Hans": "未取得原提示词，本次为独立推导方案。"
+        },
+        "metrics": [
+          {
+            "key": "likes",
+            "value": 21,
+            "labels": {
+              "en": "Likes",
+              "zh-Hans": "点赞"
+            }
+          },
+          {
+            "key": "reposts",
+            "value": 1,
+            "labels": {
+              "en": "Reposts",
+              "zh-Hans": "转发"
+            }
+          }
+        ]
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_396",
+      "contentHash": "sha256:253ae2f8e6a30fe2f9bf20f30dd19c692c3edf28d4e529e9c466ed323c892581",
+      "mimeType": "image/gif",
+      "byteSize": 967356,
+      "animation": {
+        "frameCount": 6,
+        "durationMs": 1800,
+        "loopCount": 0
+      },
+      "width": 512,
+      "height": 512,
+      "original": {
+        "key": "media/a_396/image26-g11-cycling-pelican-loop-original-253ae2f8e6a3.gif"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_396/image26-g11-cycling-pelican-loop-thumbnail-9a8a214848e7.webp",
+          "width": 480,
+          "height": 480,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_396/image26-g11-cycling-pelican-loop-card-6dbaa781df89.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_396/image26-g11-cycling-pelican-loop-detail-7a704b51ab25.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_396/image26-g11-cycling-pelican-loop-og-b947908c7758.jpg",
+          "width": 512,
+          "height": 269,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "placeholder": {
+        "color": "#D88868"
+      },
+      "alt": {
+        "en": "Pelican and red bicycle preserve the sunset reference.",
+        "zh-Hans": "鹈鹕与红色自行车沿用原创日落参考图，双腿切换踩踏姿势并轻微起伏。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    },
+    {
+      "id": "a_381",
+      "contentHash": "sha256:10c33092faee23e30d739283bf0e6073c357cbbdd2acc7a7fdb3801477d6c159",
+      "mimeType": "image/png",
+      "byteSize": 2343713,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_381/image26-s15-pelican-on-a-red-bicycle-original-10c33092faee.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_381/image26-s15-pelican-on-a-red-bicycle-thumbnail-62a3026a41e0.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_381/image26-s15-pelican-on-a-red-bicycle-card-5f4e00ac16c5.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_381/image26-s15-pelican-on-a-red-bicycle-detail-3b4fb7b31945.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_381/image26-s15-pelican-on-a-red-bicycle-og-0d4d77844e59.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.844,
+        "y": 0.594
+      },
+      "placeholder": {
+        "color": "#D89878"
+      },
+      "alt": {
+        "en": "Pelican with complete beak rides a red bicycle beside the sea at sunset.",
+        "zh-Hans": "鹈鹕骑红色自行车经过落日海边木栈道，长喙与双轮完整，两只脚位于踏板上，翅膀靠近车把。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_396-253ae2f8e6a30fe2.gif",
+  "nativeSha256": "253ae2f8e6a30fe2f9bf20f30dd19c692c3edf28d4e529e9c466ed323c892581",
+  "sourceGitBlob": "08001bf44965e63272b5b8fb13c53eb7f1420907",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_396/image26-g11-cycling-pelican-loop-original-253ae2f8e6a3.gif",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_298/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

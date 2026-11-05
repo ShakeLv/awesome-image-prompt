@@ -1,0 +1,169 @@
+{
+  "id": "x_286",
+  "promptId": "p_222",
+  "slug": "image26-s14-orange-koi-in-pale-blue-water",
+  "prompt": "An orange koi swimming in pale blue water\n",
+  "promptFile": "content/examples/x_286/prompt.txt",
+  "promptFileSha256": "6c6f7b5814c396f433ea083f981b7dbdc5ca0eaef02eeb408f93614fd073f80e",
+  "recordedRunPromptSha256": "a923fc358623c2711862aaade001e207786ab46ec1542e3334415035d1019a43",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_286",
+    "promptId": "p_222",
+    "template": null,
+    "promptSha256": "a923fc358623c2711862aaade001e207786ab46ec1542e3334415035d1019a43",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_380"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Orange koi seen from above in pale blue water with light caustics; tail slightly cropped at left. Generated with the exact short source prompt.",
+      "zh-Hans": "橙色锦鲤在浅蓝水中游动，水面光纹清楚，尾部在左侧略有裁切。"
+    }
+  },
+  "entry": {
+    "id": "p_222",
+    "slug": "image26-s14-orange-koi-in-pale-blue-water",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "en"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_380",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_286",
+    "promptProvenance": "source-prompt",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s14",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方视频",
+        "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+        "publishedAt": null,
+        "metricObjectUrl": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+        "sourcePromptStatus": {
+          "en": "Exact short prompt transcribed from the official demonstration.",
+          "zh-Hans": "采用官方视频显示的完整短提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_380",
+      "contentHash": "sha256:05a55a4042cfc14565a596723df85872d8275d28c952623a32d889b9c6af0948",
+      "mimeType": "image/png",
+      "byteSize": 1805870,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_380/image26-s14-orange-koi-in-pale-blue-water-original-05a55a4042cf.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_380/image26-s14-orange-koi-in-pale-blue-water-thumbnail-4bc1862d2150.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_380/image26-s14-orange-koi-in-pale-blue-water-card-1d442dfa7ffb.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_380/image26-s14-orange-koi-in-pale-blue-water-detail-6748b4072c4b.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_380/image26-s14-orange-koi-in-pale-blue-water-og-b1258f5f93c0.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.625,
+        "y": 0.594
+      },
+      "placeholder": {
+        "color": "#78B8C8"
+      },
+      "alt": {
+        "en": "Orange koi seen from above in pale blue water with light caustics; tail slightly cropped at left.",
+        "zh-Hans": "橙色锦鲤在浅蓝水中游动，水面光纹清楚，尾部在左侧略有裁切。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_380-05a55a4042cfc145.png",
+  "nativeSha256": "05a55a4042cfc14565a596723df85872d8275d28c952623a32d889b9c6af0948",
+  "sourceGitBlob": "6e4cfb95878226a0cbd6ccb6f84e467bd1116fb9",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_380/image26-s14-orange-koi-in-pale-blue-water-original-05a55a4042cf.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_286/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

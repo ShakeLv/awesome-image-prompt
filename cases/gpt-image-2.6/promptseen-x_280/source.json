@@ -1,0 +1,169 @@
+{
+  "id": "x_280",
+  "promptId": "p_216",
+  "slug": "image26-s08-cellular-respiration-learning-diagram",
+  "prompt": "为高中生设计横版细胞呼吸概念图。以细胞轮廓和放大的线粒体作为主体，区分细胞质中的糖酵解、线粒体基质中的后续反应及内膜上的电子传递过程。用不同色带表示物质流与能量流，标注葡萄糖、氧气、二氧化碳、水和 ATP。控制文字密度，中文术语清楚，配色一致，避免装饰遮挡流程。\n",
+  "promptFile": "content/examples/x_280/prompt.txt",
+  "promptFileSha256": "bcc47e4df6fdec84a31dfd2241f3e7b553efe776b1f9162f449e7bd403ddcb76",
+  "recordedRunPromptSha256": "99b515895f67ddd3aabaeecca10a91be0ab41068ceb5d88f86247323f079d398",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_280",
+    "promptId": "p_216",
+    "template": null,
+    "promptSha256": "99b515895f67ddd3aabaeecca10a91be0ab41068ceb5d88f86247323f079d398",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_370"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Legible Chinese concept diagram distinguishes cytoplasm, mitochondrial matrix and inner membrane, with oxygen, water and ATP. Simplified: omits the acetyl-CoA transition and detailed chemiosmosis; not a complete biochemistry teaching reference.",
+      "zh-Hans": "中文概念图区分细胞质、线粒体基质与内膜，标出氧气、水和 ATP。"
+    }
+  },
+  "entry": {
+    "id": "p_216",
+    "slug": "image26-s08-cellular-respiration-learning-diagram",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_370",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_280",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s08",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方指南",
+        "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+        "publishedAt": null,
+        "metricObjectUrl": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_370",
+      "contentHash": "sha256:ea348935b35c2f972ff126324d80f223406d0955e05ad4e4f67cc002aac336fb",
+      "mimeType": "image/png",
+      "byteSize": 1927917,
+      "width": 1672,
+      "height": 941,
+      "original": {
+        "key": "media/a_370/image26-s08-cellular-respiration-learning-diagram-original-ea348935b35c.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_370/image26-s08-cellular-respiration-learning-diagram-thumbnail-fb6ad98b2266.webp",
+          "width": 480,
+          "height": 270,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_370/image26-s08-cellular-respiration-learning-diagram-card-797bcf642c02.webp",
+          "width": 960,
+          "height": 540,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_370/image26-s08-cellular-respiration-learning-diagram-detail-c9f08eaf3e92.webp",
+          "width": 1600,
+          "height": 900,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_370/image26-s08-cellular-respiration-learning-diagram-og-5fc17f3da681.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.218,
+        "y": 0.969
+      },
+      "placeholder": {
+        "color": "#F8F8F8"
+      },
+      "alt": {
+        "en": "Legible Chinese concept diagram distinguishes cytoplasm, mitochondrial matrix and inner membrane, with oxygen, water and ATP.",
+        "zh-Hans": "中文概念图区分细胞质、线粒体基质与内膜，标出氧气、水和 ATP。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_370-ea348935b35c2f97.png",
+  "nativeSha256": "ea348935b35c2f972ff126324d80f223406d0955e05ad4e4f67cc002aac336fb",
+  "sourceGitBlob": "f8a0d7354a6acd98438358cd58c141ba3a455bbe",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_370/image26-s08-cellular-respiration-learning-diagram-original-ea348935b35c.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_280/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

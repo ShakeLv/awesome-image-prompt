@@ -1,0 +1,251 @@
+{
+  "id": "x_283",
+  "promptId": "p_219",
+  "slug": "image26-s11-pixel-art-motorcycle-rider",
+  "prompt": "参考输入图的像素颗粒、有限色板、硬边轮廓和阴影方式，创作一位戴头盔的成年骑手驾驶复古摩托车的侧面全身图。主体完整居中，车轮均可见，白色背景，保持像素风，不照搬参考图人物和车辆，不加入文字、商标或渐变光效。\n",
+  "promptFile": "content/examples/x_283/prompt.txt",
+  "promptFileSha256": "d30817ac66b15f7647bd65c8aa9921deacd9bd774fff1ce3ccf017d8ab680eb0",
+  "recordedRunPromptSha256": "21539ecfe4ee9e95f49ac079a4f910199358e6c2aed9e9c5dcc60aa68a8d7788",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_283",
+    "promptId": "p_219",
+    "template": null,
+    "promptSha256": "21539ecfe4ee9e95f49ac079a4f910199358e6c2aed9e9c5dcc60aa68a8d7788",
+    "referenceAssetIds": [
+      "a_376"
+    ],
+    "referenceBindings": [
+      {
+        "slotId": "reference",
+        "referenceIndex": 0
+      }
+    ],
+    "outputAssetIds": [
+      "a_375"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Side-view motorcycle rider adapts the synthetic reference palette and blocky outline while changing the vehicle and clothing. More detailed pixels than the source; both wheels visible.",
+      "zh-Hans": "摩托骑士沿用原创参考图的配色和块状轮廓，同时更换车辆与服装。"
+    }
+  },
+  "entry": {
+    "id": "p_219",
+    "slug": "image26-s11-pixel-art-motorcycle-rider",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_375",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "required",
+      "instructions": {
+        "en": "Use the independently generated reference assets in the displayed order. Do not use the official or social source images.",
+        "zh-Hans": "按展示顺序使用原创生成底图；不使用官方或社交作者原图。"
+      },
+      "slots": [
+        {
+          "id": "reference",
+          "labels": {
+            "en": "Original synthetic reference",
+            "zh-Hans": "原创生成参考图"
+          },
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "showcaseExampleId": "x_283",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s11",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方指南",
+        "url": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style",
+        "publishedAt": null,
+        "metricObjectUrl": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_375",
+      "contentHash": "sha256:a817817ed1dc39259344da5ab73ffb7f11e47373f906cb4f95e65120f5cb131d",
+      "mimeType": "image/png",
+      "byteSize": 1291035,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_375/image26-s11-pixel-art-motorcycle-rider-original-a817817ed1dc.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_375/image26-s11-pixel-art-motorcycle-rider-thumbnail-07344ac6aceb.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_375/image26-s11-pixel-art-motorcycle-rider-card-b5522901aeac.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_375/image26-s11-pixel-art-motorcycle-rider-detail-c9fb6a35840a.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_375/image26-s11-pixel-art-motorcycle-rider-og-d7d6323b46fe.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.375
+      },
+      "placeholder": {
+        "color": "#F8F8F8"
+      },
+      "alt": {
+        "en": "Side-view motorcycle rider adapts the synthetic reference palette and blocky outline while changing the vehicle and clothing.",
+        "zh-Hans": "摩托骑士沿用原创参考图的配色和块状轮廓，同时更换车辆与服装。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    },
+    {
+      "id": "a_376",
+      "contentHash": "sha256:a1d3b483d26713cd964761a4ae4c34e092ac3f729a933925274a1b87f2e69740",
+      "mimeType": "image/png",
+      "byteSize": 1161254,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_376/image26-s11-pixel-art-motorcycle-rider-reference-original-a1d3b483d267.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_376/image26-s11-pixel-art-motorcycle-rider-reference-thumbnail-bf09428f15c7.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_376/image26-s11-pixel-art-motorcycle-rider-reference-card-f0b1a2ee0755.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_376/image26-s11-pixel-art-motorcycle-rider-reference-detail-80234926a113.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_376/image26-s11-pixel-art-motorcycle-rider-reference-og-8be083031146.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.375
+      },
+      "placeholder": {
+        "color": "#F8F8E8"
+      },
+      "alt": {
+        "en": "Original synthetic reference",
+        "zh-Hans": "原创生成参考图"
+      },
+      "caption": {},
+      "credit": {
+        "creator": null,
+        "creditText": null,
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": null,
+        "licenseUrl": null,
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_375-a817817ed1dc3925.png",
+  "nativeSha256": "a817817ed1dc39259344da5ab73ffb7f11e47373f906cb4f95e65120f5cb131d",
+  "sourceGitBlob": "8eeeab466f8225f0c9d3a7f51645c9059b2ebd03",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_375/image26-s11-pixel-art-motorcycle-rider-original-a817817ed1dc.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_283/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

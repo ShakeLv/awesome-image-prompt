@@ -1,0 +1,169 @@
+{
+  "id": "x_273",
+  "promptId": "p_209",
+  "slug": "image26-s01-sailor-and-dog-documentary-portrait",
+  "prompt": "拍摄一张竖幅纪实人像：一位虚构的年长渔民坐在海港修网棚门口，一只小型杂毛犬靠着他的靴子休息。阴天柔光，视线与人物平齐，自然皮肤纹理，衣服有盐渍与使用痕迹，色彩克制，轻微胶片颗粒，背景能看见虚焦的渔网。避免摆拍姿势和过度磨皮。\n",
+  "promptFile": "content/examples/x_273/prompt.txt",
+  "promptFileSha256": "1696d2ff31916f1d4dbf292b900bfd432a4e58c32b5218c40043517627f8bd7a",
+  "recordedRunPromptSha256": "341bcd373aa62f8cffafc5a07b3dab5d4fb3c6cfdb6c772e8e73c283cf88c8ac",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_273",
+    "promptId": "p_209",
+    "template": null,
+    "promptSha256": "341bcd373aa62f8cffafc5a07b3dab5d4fb3c6cfdb6c772e8e73c283cf88c8ac",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_363"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "An older fisherman repairs a net with a small dog resting beside his boot. Natural skin and fabric detail, subdued light; the dog is close to the lower edge.",
+      "zh-Hans": "年长渔民在渔港修网，小狗靠着靴子休息。"
+    }
+  },
+  "entry": {
+    "id": "p_209",
+    "slug": "image26-s01-sailor-and-dog-documentary-portrait",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "portrait",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_363",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_273",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s01",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方指南",
+        "url": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting",
+        "publishedAt": null,
+        "metricObjectUrl": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_363",
+      "contentHash": "sha256:e0e9ff2eed61d05cc9ff16e6a32170b5ce7865edafa526d4486cbcd72954521e",
+      "mimeType": "image/png",
+      "byteSize": 2946808,
+      "width": 1024,
+      "height": 1536,
+      "original": {
+        "key": "media/a_363/image26-s01-sailor-and-dog-documentary-portrait-original-e0e9ff2eed61.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_363/image26-s01-sailor-and-dog-documentary-portrait-thumbnail-663b0ded1f26.webp",
+          "width": 320,
+          "height": 480,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_363/image26-s01-sailor-and-dog-documentary-portrait-card-bc904826bf4d.webp",
+          "width": 640,
+          "height": 960,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_363/image26-s01-sailor-and-dog-documentary-portrait-detail-d3b3a4d8c369.webp",
+          "width": 1024,
+          "height": 1536,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_363/image26-s01-sailor-and-dog-documentary-portrait-og-74a5d5e4c5e3.jpg",
+          "width": 1024,
+          "height": 538,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.844,
+        "y": 0.281
+      },
+      "placeholder": {
+        "color": "#181818"
+      },
+      "alt": {
+        "en": "An older fisherman repairs a net with a small dog resting beside his boot.",
+        "zh-Hans": "年长渔民在渔港修网，小狗靠着靴子休息。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_363-e0e9ff2eed61d05c.png",
+  "nativeSha256": "e0e9ff2eed61d05cc9ff16e6a32170b5ce7865edafa526d4486cbcd72954521e",
+  "sourceGitBlob": "fbec231402ffed0b9e98e2006388d7607e319813",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_363/image26-s01-sailor-and-dog-documentary-portrait-original-e0e9ff2eed61.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_273/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

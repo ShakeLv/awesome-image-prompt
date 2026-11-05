@@ -1,0 +1,169 @@
+{
+  "id": "x_278",
+  "promptId": "p_214",
+  "slug": "image26-s06-pet-home-alone-comic-strip",
+  "prompt": "画一张二乘二四格漫画，四格始终是同一只戴红项圈的小狗和同一间客厅。第一格主人穿外套离家；第二格小狗一本正经坐上沙发；第三格它把靠垫垒成堡垒；第四格门锁响起，小狗恢复乖巧坐姿，背后堡垒露出一角。柔和手绘风，每格边距一致，靠表情叙事，不加对白。\n",
+  "promptFile": "content/examples/x_278/prompt.txt",
+  "promptFileSha256": "915bde66b20f1c5c81b37f80ed04c0df13099029cd3bd34b00005d09f0dceb77",
+  "recordedRunPromptSha256": "3323501a6546e0dad6446171bf0ed95bf468e07cc7b2739ae7cb7f0927f61ddd",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_278",
+    "promptId": "p_214",
+    "template": null,
+    "promptSha256": "3323501a6546e0dad6446171bf0ed95bf468e07cc7b2739ae7cb7f0927f61ddd",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_368"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Four-panel comic preserves the red-collared dog and living room. Departure, sofa pose, cushion-building and innocent return pose are readable; final cushion fort is mostly collapsed.",
+      "zh-Hans": "四格保留同一只红项圈小狗与客厅，展示主人离家、占据沙发、搭靠垫和恢复乖巧姿态。"
+    }
+  },
+  "entry": {
+    "id": "p_214",
+    "slug": "image26-s06-pet-home-alone-comic-strip",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_368",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_278",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s06",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方指南",
+        "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip",
+        "publishedAt": null,
+        "metricObjectUrl": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_368",
+      "contentHash": "sha256:4aefa4546814f2ea8d8b4971fb683eee5078668555f6a3b9e6a23aa7aebd9155",
+      "mimeType": "image/png",
+      "byteSize": 2963770,
+      "width": 1286,
+      "height": 1223,
+      "original": {
+        "key": "media/a_368/image26-s06-pet-home-alone-comic-strip-original-4aefa4546814.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_368/image26-s06-pet-home-alone-comic-strip-thumbnail-77d05acbdff6.webp",
+          "width": 480,
+          "height": 456,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_368/image26-s06-pet-home-alone-comic-strip-card-f35611e85830.webp",
+          "width": 960,
+          "height": 913,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_368/image26-s06-pet-home-alone-comic-strip-detail-1ab396755192.webp",
+          "width": 1286,
+          "height": 1223,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_368/image26-s06-pet-home-alone-comic-strip-og-19808bbbb5b0.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0,
+        "y": 0
+      },
+      "placeholder": {
+        "color": "#C8A898"
+      },
+      "alt": {
+        "en": "Four-panel comic preserves the red-collared dog and living room.",
+        "zh-Hans": "四格保留同一只红项圈小狗与客厅，展示主人离家、占据沙发、搭靠垫和恢复乖巧姿态。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_368-4aefa4546814f2ea.png",
+  "nativeSha256": "4aefa4546814f2ea8d8b4971fb683eee5078668555f6a3b9e6a23aa7aebd9155",
+  "sourceGitBlob": "55496bcf6a6f941530bfdb23fd29f2c47ef29229",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_368/image26-s06-pet-home-alone-comic-strip-original-4aefa4546814.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_278/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

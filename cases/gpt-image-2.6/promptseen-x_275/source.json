@@ -1,0 +1,169 @@
+{
+  "id": "x_275",
+  "promptId": "p_211",
+  "slug": "image26-s03-streetwear-campaign-poster",
+  "prompt": "设计一个虚构街头服装品牌的竖版广告。三位成年朋友站在城市天桥上，穿米白、炭灰和橄榄绿的宽松服装，自然互动，清晨侧光，摄影感。顶部准确显示“THREAD”，中间留出清晰的产品轮廓，底部准确显示“MOVE YOUR WAY”。只出现这两组文字，字号清晰，避免文字遮住人脸。\n",
+  "promptFile": "content/examples/x_275/prompt.txt",
+  "promptFileSha256": "1b212b3d3278f274d8870b65257671983e0c4b3d072c6f242f07018385277e22",
+  "recordedRunPromptSha256": "e817ed23f7817814667d149e4250131790a682f6ae5a1e9e53cdc06209b8564a",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_275",
+    "promptId": "p_211",
+    "template": null,
+    "promptSha256": "e817ed23f7817814667d149e4250131790a682f6ae5a1e9e53cdc06209b8564a",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_365"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Three adults on an urban footbridge, cream charcoal and olive outfits. THREAD and MOVE YOUR WAY are spelled correctly and do not cover faces.",
+      "zh-Hans": "三位成年人穿米白、炭灰和橄榄绿服饰站在城市天桥上。"
+    }
+  },
+  "entry": {
+    "id": "p_211",
+    "slug": "image26-s03-streetwear-campaign-poster",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "poster",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_365",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_275",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s03",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方指南",
+        "url": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text",
+        "publishedAt": null,
+        "metricObjectUrl": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_365",
+      "contentHash": "sha256:ea8f2397fef55aa2a33a505734686ec3b025620cf010cf5e7a68e82571658755",
+      "mimeType": "image/png",
+      "byteSize": 2337455,
+      "width": 1024,
+      "height": 1536,
+      "original": {
+        "key": "media/a_365/image26-s03-streetwear-campaign-poster-original-ea8f2397fef5.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_365/image26-s03-streetwear-campaign-poster-thumbnail-d8c364ed310e.webp",
+          "width": 320,
+          "height": 480,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_365/image26-s03-streetwear-campaign-poster-card-b634784ee5d9.webp",
+          "width": 640,
+          "height": 960,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_365/image26-s03-streetwear-campaign-poster-detail-df8cdd077971.webp",
+          "width": 1024,
+          "height": 1536,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_365/image26-s03-streetwear-campaign-poster-og-98bb995c5a8f.jpg",
+          "width": 1024,
+          "height": 538,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0,
+        "y": 0.094
+      },
+      "placeholder": {
+        "color": "#585858"
+      },
+      "alt": {
+        "en": "Three adults on an urban footbridge, cream charcoal and olive outfits.",
+        "zh-Hans": "三位成年人穿米白、炭灰和橄榄绿服饰站在城市天桥上。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_365-ea8f2397fef55aa2.png",
+  "nativeSha256": "ea8f2397fef55aa2a33a505734686ec3b025620cf010cf5e7a68e82571658755",
+  "sourceGitBlob": "1c40a9bcb94451981d2a7c964dff2c01dee9f499",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_365/image26-s03-streetwear-campaign-poster-original-ea8f2397fef5.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_275/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

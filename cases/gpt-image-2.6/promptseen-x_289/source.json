@@ -1,0 +1,174 @@
+{
+  "id": "x_289",
+  "promptId": "p_225",
+  "slug": "image26-g02-falling-stock-reaction-loop",
+  "prompt": "制作一张供后期裁帧合成 GIF 的动画精灵图，PNG 静态画布，宽 1536 高 1024 像素，精确三列两行，共六个等大的 512×512 正方形帧。每格是独立完整画面，按从左到右、从上到下依次播放。无外边距、无格线、无分隔条、无编号。角色不要跨越格子边界。所有格子中角色尺寸、脚下基线、镜头、背景与光照必须固定一致，只有动作姿态逐步变化。请把以下动画描述转成六个清晰不同的连续姿态；最后一格回到第一格姿态，以便循环。本次交付的是完整六格精灵图，不要只画一个姿势。\n\n动作与主题：\n为 GIF 制作一张三列两行、共六格的连续动作分镜图。角色是一位原创成年 Q 版办公室职员，坐在同一张桌子和显示器前。六格动作依次为：期待地看屏幕、注意到向下的折线、瞪大眼睛、低头哭泣、擦泪、恢复起始坐姿。固定正面三分之四镜头，角色外形、服装、场景、光线和每格尺寸一致；不加文字、格号或格线。按从左到右、从上到下顺序排列，首尾姿势衔接。\n",
+  "promptFile": "content/examples/x_289/prompt.txt",
+  "promptFileSha256": "0a4242cf62ab3bf11551b07c566d058c9f7dbdd1f0dcaee2540de43c0a50e2c2",
+  "recordedRunPromptSha256": "866bb8a3544deb358b06de169a1968f43b0f98ade427146db5fc2ee3eed9dfac",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_289",
+    "promptId": "p_225",
+    "template": null,
+    "promptSha256": "866bb8a3544deb358b06de169a1968f43b0f98ade427146db5fc2ee3eed9dfac",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_384"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Six-frame office reaction progresses from hope to shock, crying and wiping tears, then returns to the starting pose. Falling chart stays visible. Encoded as a 1.8-second looping GIF from the generated sheet.",
+      "zh-Hans": "办公室角色从期待转为震惊、哭泣和擦泪，再回到初始姿态；屏幕上的下跌曲线持续可见。"
+    }
+  },
+  "entry": {
+    "id": "p_225",
+    "slug": "image26-g02-falling-stock-reaction-loop",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "social-post"
+    ],
+    "coverAssetId": "a_384",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_289",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-g02",
+        "platform": "OpenAI",
+        "author": "OpenAI 发布页中的 OpenArt 合作演示",
+        "url": "https://openai.com/index/introducing-images-2-6/#animate-your-ideas-with-gifs",
+        "publishedAt": null,
+        "metricObjectUrl": "https://openai.com/index/introducing-images-2-6/#animate-your-ideas-with-gifs",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://openai.com/index/introducing-images-2-6/#animate-your-ideas-with-gifs",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_384",
+      "contentHash": "sha256:9e4b6c2f3e61fbf344d29e0c8b86275c1b7343cd699f19d7b3bc96cef6055759",
+      "mimeType": "image/gif",
+      "byteSize": 835824,
+      "animation": {
+        "frameCount": 6,
+        "durationMs": 1800,
+        "loopCount": 0
+      },
+      "width": 512,
+      "height": 512,
+      "original": {
+        "key": "media/a_384/image26-g02-falling-stock-reaction-loop-original-9e4b6c2f3e61.gif"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_384/image26-g02-falling-stock-reaction-loop-thumbnail-60e5e5c71cd0.webp",
+          "width": 480,
+          "height": 480,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_384/image26-g02-falling-stock-reaction-loop-card-4ec7904fb80c.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_384/image26-g02-falling-stock-reaction-loop-detail-53acaf1b2948.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_384/image26-g02-falling-stock-reaction-loop-og-e15cdf8d5826.jpg",
+          "width": 512,
+          "height": 269,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "placeholder": {
+        "color": "#483838"
+      },
+      "alt": {
+        "en": "Six-frame office reaction progresses from hope to shock, crying and wiping tears, then returns to the starting pose.",
+        "zh-Hans": "办公室角色从期待转为震惊、哭泣和擦泪，再回到初始姿态；屏幕上的下跌曲线持续可见。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_384-9e4b6c2f3e61fbf3.gif",
+  "nativeSha256": "9e4b6c2f3e61fbf344d29e0c8b86275c1b7343cd699f19d7b3bc96cef6055759",
+  "sourceGitBlob": "bf779417e4d0826aff762a0bed83accd71e0f6bf",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_384/image26-g02-falling-stock-reaction-loop-original-9e4b6c2f3e61.gif",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_289/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

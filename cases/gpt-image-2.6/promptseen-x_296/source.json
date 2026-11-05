@@ -1,0 +1,191 @@
+{
+  "id": "x_296",
+  "promptId": "p_232",
+  "slug": "image26-g09-standing-backflip-loop",
+  "prompt": "制作一张供后期裁帧合成 GIF 的动画精灵图，PNG 静态画布，宽 1536 高 1024 像素，精确三列两行，共六个等大的 512×512 正方形帧。每格是独立完整画面，按从左到右、从上到下依次播放。无外边距、无格线、无分隔条、无编号。角色不要跨越格子边界。所有格子中角色尺寸、脚下基线、镜头、背景与光照必须固定一致，只有动作姿态逐步变化。请把以下动画描述转成六个清晰不同的连续姿态；最后一格回到第一格姿态，以便循环。本次交付的是完整六格精灵图，不要只画一个姿势。\n\n动作与主题：\n生成一段固定侧面机位的循环 GIF：一位虚构的成年体操运动员站在宽阔浅灰训练垫中央，屈膝蓄力，完成一次原地后空翻，双脚落回原来位置，再站直回到起始姿势。全身始终可见，训练服颜色固定，背景无其他人物，动作节奏连贯，落地有短暂停顿，避免肢体重复和身体穿过地面。\n",
+  "promptFile": "content/examples/x_296/prompt.txt",
+  "promptFileSha256": "41b891feead211af69e0b2b39ce162922f9a7c1947efcb1d6ac38ad429cfbc69",
+  "recordedRunPromptSha256": "6745b828085d66d1b2888642cf21e3bd72b06a0df2f3e844140381e9fef7945b",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_296",
+    "promptId": "p_232",
+    "template": null,
+    "promptSha256": "6745b828085d66d1b2888642cf21e3bd72b06a0df2f3e844140381e9fef7945b",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_393"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "A female adult gymnast shows crouch, takeoff, tucked rotation and landing across six poses. The written prompt specified an adult without gender. Composed GIF; six-step motion is coarse and the first crouch differs from the final standing pose.",
+      "zh-Hans": "成年女性体操运动员展示下蹲、起跳、团身旋转和落地。"
+    }
+  },
+  "entry": {
+    "id": "p_232",
+    "slug": "image26-g09-standing-backflip-loop",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "social-post"
+    ],
+    "coverAssetId": "a_393",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_296",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-g09",
+        "platform": "X",
+        "author": "Gabriel Chua",
+        "url": "https://x.com/gabrielchua/status/2118135343354720648",
+        "publishedAt": null,
+        "metricObjectUrl": "https://x.com/gabrielchua/status/2118135343354720648",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://x.com/gabrielchua/status/2118135343354720648",
+        "sourcePromptStatus": {
+          "en": "The original prompt was not found. This is an independently inferred prompt.",
+          "zh-Hans": "未取得原提示词，本次为独立推导方案。"
+        },
+        "metrics": [
+          {
+            "key": "likes",
+            "value": 132,
+            "labels": {
+              "en": "Likes",
+              "zh-Hans": "点赞"
+            }
+          },
+          {
+            "key": "reposts",
+            "value": 15,
+            "labels": {
+              "en": "Reposts",
+              "zh-Hans": "转发"
+            }
+          }
+        ]
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_393",
+      "contentHash": "sha256:45400bf590b073fa37086741d9761d2c308c06efc3994c1710fc6122cf411771",
+      "mimeType": "image/gif",
+      "byteSize": 826212,
+      "animation": {
+        "frameCount": 6,
+        "durationMs": 1800,
+        "loopCount": 0
+      },
+      "width": 512,
+      "height": 512,
+      "original": {
+        "key": "media/a_393/image26-g09-standing-backflip-loop-original-45400bf590b0.gif"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_393/image26-g09-standing-backflip-loop-thumbnail-c75efc4e6fa7.webp",
+          "width": 480,
+          "height": 480,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_393/image26-g09-standing-backflip-loop-card-53293192b678.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_393/image26-g09-standing-backflip-loop-detail-5b18a3b62168.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_393/image26-g09-standing-backflip-loop-og-80458265becb.jpg",
+          "width": 512,
+          "height": 269,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "placeholder": {
+        "color": "#989898"
+      },
+      "alt": {
+        "en": "A female adult gymnast shows crouch, takeoff, tucked rotation and landing across six poses.",
+        "zh-Hans": "成年女性体操运动员展示下蹲、起跳、团身旋转和落地。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_393-45400bf590b073fa.gif",
+  "nativeSha256": "45400bf590b073fa37086741d9761d2c308c06efc3994c1710fc6122cf411771",
+  "sourceGitBlob": "86feb6aa231b95a2fa233e377ba26130737181d6",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_393/image26-g09-standing-backflip-loop-original-45400bf590b0.gif",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_296/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

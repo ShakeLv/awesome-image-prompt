@@ -1,0 +1,186 @@
+{
+  "id": "x_285",
+  "promptId": "p_221",
+  "slug": "image26-s13-orange-office-cat-sticker-sheet",
+  "prompt": "画一张三列四行的职场表情合集，角色统一为胖橘猫，佩戴深蓝领带，手绘蜡笔风，浅米色背景。十二格依次配短语“早上好”“开工了”“收到”“我想想”“马上来”“辛苦了”“午饭时间”“继续努力”“有点困”“完成了”“下班啦”“明天见”。动作与文字呼应，猫的脸型和颜色保持一致，文字清晰，格子间隔相同。\n",
+  "promptFile": "content/examples/x_285/prompt.txt",
+  "promptFileSha256": "db65378b366317d2e0261a027863f694777c3bd6ec214cba282e9bf43d9e3a1c",
+  "recordedRunPromptSha256": "f00e33a24a30f198419c4ca8dc59c4c7ca0db486fd6c7d60dc451589a83cfe5c",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_285",
+    "promptId": "p_221",
+    "template": null,
+    "promptSha256": "f00e33a24a30f198419c4ca8dc59c4c7ca0db486fd6c7d60dc451589a83cfe5c",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_379"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Twelve orange-cat workplace stickers in three columns and four rows. All twelve requested Chinese captions are legible and match the prompt; navy ties and crayon style remain consistent.",
+      "zh-Hans": "三列四行共十二个橘猫职场表情，十二条指定中文短句均可读，蓝领带与蜡笔画风保持一致。"
+    }
+  },
+  "entry": {
+    "id": "p_221",
+    "slug": "image26-s13-orange-office-cat-sticker-sheet",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_379",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_285",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s13",
+        "platform": "X",
+        "author": "零点 Drift",
+        "url": "https://x.com/karanwithai/status/2118156092865994837/photo/1",
+        "publishedAt": null,
+        "metricObjectUrl": "https://x.com/karanwithai/status/2118156092865994837/photo/1",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://x.com/karanwithai/status/2118156317034693026",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": [
+          {
+            "key": "likes",
+            "value": 1,
+            "labels": {
+              "en": "Likes",
+              "zh-Hans": "点赞"
+            }
+          },
+          {
+            "key": "reposts",
+            "value": 1,
+            "labels": {
+              "en": "Reposts",
+              "zh-Hans": "转发"
+            }
+          }
+        ]
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_379",
+      "contentHash": "sha256:9b1fb9d2da955bd6335d2ed2d5ddb9bb764752638433e5089ca2df7c0c02d08d",
+      "mimeType": "image/png",
+      "byteSize": 2813601,
+      "width": 1199,
+      "height": 1312,
+      "original": {
+        "key": "media/a_379/image26-s13-orange-office-cat-sticker-sheet-original-9b1fb9d2da95.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_379/image26-s13-orange-office-cat-sticker-sheet-thumbnail-c2e58fb72bc4.webp",
+          "width": 439,
+          "height": 480,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_379/image26-s13-orange-office-cat-sticker-sheet-card-42b54bb8f290.webp",
+          "width": 877,
+          "height": 960,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_379/image26-s13-orange-office-cat-sticker-sheet-detail-07d7db6ede64.webp",
+          "width": 1199,
+          "height": 1312,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_379/image26-s13-orange-office-cat-sticker-sheet-og-9bcd5bb2f15e.jpg",
+          "width": 1199,
+          "height": 629,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.25,
+        "y": 0.25
+      },
+      "placeholder": {
+        "color": "#F8E8D8"
+      },
+      "alt": {
+        "en": "Twelve orange-cat workplace stickers in three columns and four rows.",
+        "zh-Hans": "三列四行共十二个橘猫职场表情，十二条指定中文短句均可读，蓝领带与蜡笔画风保持一致。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_379-9b1fb9d2da955bd6.png",
+  "nativeSha256": "9b1fb9d2da955bd6335d2ed2d5ddb9bb764752638433e5089ca2df7c0c02d08d",
+  "sourceGitBlob": "b7db0df2d2c503b16aa558a4d522e92771c959cf",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_379/image26-s13-orange-office-cat-sticker-sheet-original-9b1fb9d2da95.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_285/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

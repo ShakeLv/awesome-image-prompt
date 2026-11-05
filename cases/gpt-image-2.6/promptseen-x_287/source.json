@@ -1,0 +1,186 @@
+{
+  "id": "x_287",
+  "promptId": "p_223",
+  "slug": "image26-s15-pelican-on-a-red-bicycle",
+  "prompt": "画一只写实又略带幽默感的鹈鹕骑着红色城市自行车，沿海边木栈道前进。侧面全身构图，两只爪子分别踩在踏板上，翅膀自然搭在车把附近，车架和两只车轮结构清楚。日落金光，海面在后方，水平线平直，鹈鹕喙完整可见，没有文字。\n",
+  "promptFile": "content/examples/x_287/prompt.txt",
+  "promptFileSha256": "c5b53248d3bdc517414e20fa1ffe56925abe3c4a7889b7ab3154c2d3631ca325",
+  "recordedRunPromptSha256": "a5991330744f4f92d6883ae7c55960507be9be20d56ce8abe1f40528f0da9fdd",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_287",
+    "promptId": "p_223",
+    "template": null,
+    "promptSha256": "a5991330744f4f92d6883ae7c55960507be9be20d56ce8abe1f40528f0da9fdd",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_381"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Pelican with complete beak rides a red bicycle beside the sea at sunset. Both wheels visible, two feet on pedals, wings near handlebar; suitable synthetic animation reference.",
+      "zh-Hans": "鹈鹕骑红色自行车经过落日海边木栈道，长喙与双轮完整，两只脚位于踏板上，翅膀靠近车把。"
+    }
+  },
+  "entry": {
+    "id": "p_223",
+    "slug": "image26-s15-pelican-on-a-red-bicycle",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_381",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_287",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s15",
+        "platform": "X",
+        "author": "金木",
+        "url": "https://x.com/zzjinmu/status/2118148465444450421",
+        "publishedAt": null,
+        "metricObjectUrl": "https://x.com/zzjinmu/status/2118148465444450421",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://x.com/zzjinmu/status/2118148465444450421",
+        "sourcePromptStatus": {
+          "en": "The original prompt was not found. This is an independently inferred prompt.",
+          "zh-Hans": "未取得原提示词，本次为独立推导方案。"
+        },
+        "metrics": [
+          {
+            "key": "likes",
+            "value": 0,
+            "labels": {
+              "en": "Likes",
+              "zh-Hans": "点赞"
+            }
+          },
+          {
+            "key": "reposts",
+            "value": 0,
+            "labels": {
+              "en": "Reposts",
+              "zh-Hans": "转发"
+            }
+          }
+        ]
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_381",
+      "contentHash": "sha256:10c33092faee23e30d739283bf0e6073c357cbbdd2acc7a7fdb3801477d6c159",
+      "mimeType": "image/png",
+      "byteSize": 2343713,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_381/image26-s15-pelican-on-a-red-bicycle-original-10c33092faee.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_381/image26-s15-pelican-on-a-red-bicycle-thumbnail-62a3026a41e0.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_381/image26-s15-pelican-on-a-red-bicycle-card-5f4e00ac16c5.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_381/image26-s15-pelican-on-a-red-bicycle-detail-3b4fb7b31945.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_381/image26-s15-pelican-on-a-red-bicycle-og-0d4d77844e59.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.844,
+        "y": 0.594
+      },
+      "placeholder": {
+        "color": "#D89878"
+      },
+      "alt": {
+        "en": "Pelican with complete beak rides a red bicycle beside the sea at sunset.",
+        "zh-Hans": "鹈鹕骑红色自行车经过落日海边木栈道，长喙与双轮完整，两只脚位于踏板上，翅膀靠近车把。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_381-10c33092faee23e3.png",
+  "nativeSha256": "10c33092faee23e30d739283bf0e6073c357cbbdd2acc7a7fdb3801477d6c159",
+  "sourceGitBlob": "843057a008116f5d4d6d76f2d1928535b5f1aade",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_381/image26-s15-pelican-on-a-red-bicycle-original-10c33092faee.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_287/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

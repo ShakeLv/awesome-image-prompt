@@ -1,0 +1,169 @@
+{
+  "id": "x_277",
+  "promptId": "p_213",
+  "slug": "image26-s05-1969-outdoor-music-festival",
+  "prompt": "创作一张历史题材的虚构纪实照片，描绘 1969 年夏天美国户外音乐节的观众，广角视角，中景有坐在草地上的年轻成年人，远处是舞台与帐篷。服装、发型、相机和交通工具符合时代，避免智能手机和现代标识。午后薄雾、褪色胶片色彩，人物自然，不复制任何现存历史照片。\n",
+  "promptFile": "content/examples/x_277/prompt.txt",
+  "promptFileSha256": "ccaa3fde4b07fc44908b676283d8d7a53a655c6418f77e32705022ae7b21d61a",
+  "recordedRunPromptSha256": "2d19c424d151a36c2688ad1072d9c4af2958c6f2dacb7c21335840a98a466f05",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_277",
+    "promptId": "p_213",
+    "template": null,
+    "promptSha256": "2d19c424d151a36c2688ad1072d9c4af2958c6f2dacb7c21335840a98a466f05",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_367"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Fictional period-style outdoor festival scene: seated adults, vintage camera and vehicles, distant stage, faded film texture. Not an archival photograph or a verified reconstruction.",
+      "zh-Hans": "虚构音乐节场景包含草地观众、旧相机、复古车辆和远处舞台，采用褪色胶片质感。"
+    }
+  },
+  "entry": {
+    "id": "p_213",
+    "slug": "image26-s05-1969-outdoor-music-festival",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "portrait",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_367",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_277",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s05",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方指南",
+        "url": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context",
+        "publishedAt": null,
+        "metricObjectUrl": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_367",
+      "contentHash": "sha256:b79e4f0591d4c3bbf6724ab219e302b4890aef73db2078fa18c5391ecf6b37b0",
+      "mimeType": "image/png",
+      "byteSize": 2669890,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_367/image26-s05-1969-outdoor-music-festival-original-b79e4f0591d4.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_367/image26-s05-1969-outdoor-music-festival-thumbnail-063f14d76daf.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_367/image26-s05-1969-outdoor-music-festival-card-e718e13e712b.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_367/image26-s05-1969-outdoor-music-festival-detail-141cdc017a4c.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_367/image26-s05-1969-outdoor-music-festival-og-d40dcb1aaa1d.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.656,
+        "y": 0.531
+      },
+      "placeholder": {
+        "color": "#685848"
+      },
+      "alt": {
+        "en": "Fictional period-style outdoor festival scene: seated adults, vintage camera and vehicles, distant stage, faded film texture.",
+        "zh-Hans": "虚构音乐节场景包含草地观众、旧相机、复古车辆和远处舞台，采用褪色胶片质感。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_367-b79e4f0591d4c3bb.png",
+  "nativeSha256": "b79e4f0591d4c3bbf6724ab219e302b4890aef73db2078fa18c5391ecf6b37b0",
+  "sourceGitBlob": "7235cde173e15d2b1bd7a3fd6d3315468004b637",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_367/image26-s05-1969-outdoor-music-festival-original-b79e4f0591d4.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_277/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

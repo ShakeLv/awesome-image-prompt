@@ -1,0 +1,191 @@
+{
+  "id": "x_293",
+  "promptId": "p_229",
+  "slug": "image26-g06-chicken-practicing-tai-chi",
+  "prompt": "制作一张供后期裁帧合成 GIF 的动画精灵图，PNG 静态画布，宽 1536 高 1024 像素，精确三列两行，共六个等大的 512×512 正方形帧。每格是独立完整画面，按从左到右、从上到下依次播放。无外边距、无格线、无分隔条、无编号。角色不要跨越格子边界。所有格子中角色尺寸、脚下基线、镜头、背景与光照必须固定一致，只有动作姿态逐步变化。请把以下动画描述转成六个清晰不同的连续姿态；最后一格回到第一格姿态，以便循环。本次交付的是完整六格精灵图，不要只画一个姿势。\n\n动作与主题：\n生成一段循环 GIF：一只白羽鸡在简洁的庭院石地上缓慢打太极，双翅从胸前向两侧画弧，身体轻轻左右转移重心，然后双翅收回原位。正面全身、固定镜头、背景静止，鸡冠和脚的数量稳定，动作舒展，最后一帧与第一帧衔接。\n",
+  "promptFile": "content/examples/x_293/prompt.txt",
+  "promptFileSha256": "573a587f6b4be5c51b4bca4192cde64a91925ceabfd672f957c0a1d1ef9af603",
+  "recordedRunPromptSha256": "40468af74aaa9b2d26fcf68b944661d9c700e76ce3c9aae15db4c007f41b06d8",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_293",
+    "promptId": "p_229",
+    "template": null,
+    "promptSha256": "40468af74aaa9b2d26fcf68b944661d9c700e76ce3c9aae15db4c007f41b06d8",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_389"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "White chicken opens and closes its wings across six tai-chi-inspired poses in a courtyard. Full body and two feet remain visible; gesture is stylized rather than accurate martial-arts instruction. Composed GIF.",
+      "zh-Hans": "白羽鸡在庭院中张开、收回双翅，形成太极风格动作。"
+    }
+  },
+  "entry": {
+    "id": "p_229",
+    "slug": "image26-g06-chicken-practicing-tai-chi",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "social-post"
+    ],
+    "coverAssetId": "a_389",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_293",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-g06",
+        "platform": "X",
+        "author": "Jason 数字生活",
+        "url": "https://x.com/HurJax131/status/2118158102688399690",
+        "publishedAt": null,
+        "metricObjectUrl": "https://x.com/HurJax131/status/2118158102688399690",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://x.com/HurJax131/status/2118158102688399690",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": [
+          {
+            "key": "likes",
+            "value": 1,
+            "labels": {
+              "en": "Likes",
+              "zh-Hans": "点赞"
+            }
+          },
+          {
+            "key": "reposts",
+            "value": 1,
+            "labels": {
+              "en": "Reposts",
+              "zh-Hans": "转发"
+            }
+          }
+        ]
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_389",
+      "contentHash": "sha256:ff333b2320cce19a5625f758c71c7691fcbd2d09ea03ff2a287ce254ff68b2b3",
+      "mimeType": "image/gif",
+      "byteSize": 1072760,
+      "animation": {
+        "frameCount": 6,
+        "durationMs": 1800,
+        "loopCount": 0
+      },
+      "width": 512,
+      "height": 512,
+      "original": {
+        "key": "media/a_389/image26-g06-chicken-practicing-tai-chi-original-ff333b2320cc.gif"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_389/image26-g06-chicken-practicing-tai-chi-thumbnail-1bd43c49b2e7.webp",
+          "width": 480,
+          "height": 480,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_389/image26-g06-chicken-practicing-tai-chi-card-4e5d6fe5b6f9.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_389/image26-g06-chicken-practicing-tai-chi-detail-fb6f4186a3ca.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_389/image26-g06-chicken-practicing-tai-chi-og-945ce526d54c.jpg",
+          "width": 512,
+          "height": 269,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "placeholder": {
+        "color": "#787878"
+      },
+      "alt": {
+        "en": "White chicken opens and closes its wings across six tai-chi-inspired poses in a courtyard.",
+        "zh-Hans": "白羽鸡在庭院中张开、收回双翅，形成太极风格动作。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_389-ff333b2320cce19a.gif",
+  "nativeSha256": "ff333b2320cce19a5625f758c71c7691fcbd2d09ea03ff2a287ce254ff68b2b3",
+  "sourceGitBlob": "c8e68835afbeedc8052a8e84795bb8761bb8af1f",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_389/image26-g06-chicken-practicing-tai-chi-original-ff333b2320cc.gif",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_293/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

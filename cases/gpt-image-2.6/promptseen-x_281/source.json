@@ -1,0 +1,169 @@
+{
+  "id": "x_281",
+  "promptId": "p_217",
+  "slug": "image26-s09-market-opportunity-pitch-slide",
+  "prompt": "设计一页横向 16:9 的虚构创业融资幻灯片，标题“城市骑行服务的市场机会”。左侧三层同心圆解释总市场、可服务市场与首期目标市场；右侧用三根柱形图展示演示数据 2026 年 10、2027 年 14、2028 年 19。统一蓝绿色，数字对齐，底部清晰注明“示意数据，不用于投资决策”。不要编造真实机构来源。\n",
+  "promptFile": "content/examples/x_281/prompt.txt",
+  "promptFileSha256": "ead82d8a0f10e81e6c6af02b0dc10b81a83e8a72b35a4fc1ff84957dd7da2d66",
+  "recordedRunPromptSha256": "93d1935bceeb22c35679f63d6b4f95ce04b2858e704a2c47270a68c738681b4d",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_281",
+    "promptId": "p_217",
+    "template": null,
+    "promptSha256": "93d1935bceeb22c35679f63d6b4f95ce04b2858e704a2c47270a68c738681b4d",
+    "referenceAssetIds": [],
+    "referenceBindings": [],
+    "outputAssetIds": [
+      "a_371"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Fictional market slide has 2026/2027/2028 bars of 10/14/19 and visible illustrative-data disclaimer. The model added fictional market sizes 1000/320/80 and a 37.8 percent CAGR; nested circles are not concentric.",
+      "zh-Hans": "融资页显示 2026、2027、2028 年的 10、14、19 三根柱形数据和示意数据说明。"
+    }
+  },
+  "entry": {
+    "id": "p_217",
+    "slug": "image26-s09-market-opportunity-pitch-slide",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "poster",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_371",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "none",
+      "instructions": {},
+      "slots": []
+    },
+    "showcaseExampleId": "x_281",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s09",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方指南",
+        "url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+        "publishedAt": null,
+        "metricObjectUrl": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_371",
+      "contentHash": "sha256:565380cd48cfa938224a494958ac87fe0f7beb4e3011388d4e7922d2046e6265",
+      "mimeType": "image/png",
+      "byteSize": 1630063,
+      "width": 1672,
+      "height": 941,
+      "original": {
+        "key": "media/a_371/image26-s09-market-opportunity-pitch-slide-original-565380cd48cf.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_371/image26-s09-market-opportunity-pitch-slide-thumbnail-1efb4a9e2c6d.webp",
+          "width": 480,
+          "height": 270,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_371/image26-s09-market-opportunity-pitch-slide-card-044cc9330257.webp",
+          "width": 960,
+          "height": 540,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_371/image26-s09-market-opportunity-pitch-slide-detail-bc7df75f0774.webp",
+          "width": 1600,
+          "height": 900,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_371/image26-s09-market-opportunity-pitch-slide-og-3d47d4a83492.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.967,
+        "y": 0.563
+      },
+      "placeholder": {
+        "color": "#F8F8F8"
+      },
+      "alt": {
+        "en": "Fictional market slide has 2026/2027/2028 bars of 10/14/19 and visible illustrative-data disclaimer.",
+        "zh-Hans": "融资页显示 2026、2027、2028 年的 10、14、19 三根柱形数据和示意数据说明。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_371-565380cd48cfa938.png",
+  "nativeSha256": "565380cd48cfa938224a494958ac87fe0f7beb4e3011388d4e7922d2046e6265",
+  "sourceGitBlob": "549952077f727e5e82b7a22abd250cba7c0a434d",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_371/image26-s09-market-opportunity-pitch-slide-original-565380cd48cf.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_281/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

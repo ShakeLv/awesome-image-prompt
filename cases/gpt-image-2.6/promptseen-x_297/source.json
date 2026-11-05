@@ -1,0 +1,273 @@
+{
+  "id": "x_297",
+  "promptId": "p_233",
+  "slug": "image26-g10-two-dancing-robots",
+  "prompt": "制作一张供后期裁帧合成 GIF 的动画精灵图，PNG 静态画布，宽 1536 高 1024 像素，精确三列两行，共六个等大的 512×512 正方形帧。每格是独立完整画面，按从左到右、从上到下依次播放。无外边距、无格线、无分隔条、无编号。角色不要跨越格子边界。所有格子中角色尺寸、脚下基线、镜头、背景与光照必须固定一致，只有动作姿态逐步变化。请把以下动画描述转成六个清晰不同的连续姿态；最后一格回到第一格姿态，以便循环。本次交付的是完整六格精灵图，不要只画一个姿势。\n\n动作与主题：\n让输入图中的两个机器人跳一段同步循环舞。保持左绿右橙、体型与颜色一致，两者先向外侧踏步并挥手，再向内侧踏步拍手，最后回到初始站姿。固定正面镜头，完整身体可见，彼此保持间距，不交换位置，不融合肢体。白色背景，落地阴影稳定，不加文字。\n",
+  "promptFile": "content/examples/x_297/prompt.txt",
+  "promptFileSha256": "6b619ea8537acd11fb550c4dd9e47ee7d7f211686b99c6533980474f8c6d4073",
+  "recordedRunPromptSha256": "f3fd6a3abde64de601cb62518ca94deaf67ca2248b440f7c31ace21e53141a4b",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_297",
+    "promptId": "p_233",
+    "template": null,
+    "promptSha256": "f3fd6a3abde64de601cb62518ca94deaf67ca2248b440f7c31ace21e53141a4b",
+    "referenceAssetIds": [
+      "a_395"
+    ],
+    "referenceBindings": [
+      {
+        "slotId": "reference",
+        "referenceIndex": 0
+      }
+    ],
+    "outputAssetIds": [
+      "a_394"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Green and orange robots retain their left-right positions and identities while stepping, waving and bringing hands together. Full bodies stay inside each cell. Six-frame composed GIF with white background.",
+      "zh-Hans": "绿色与橙色机器人保持左右顺序，完成迈步、挥手和双手靠拢，身体始终完整。"
+    }
+  },
+  "entry": {
+    "id": "p_233",
+    "slug": "image26-g10-two-dancing-robots",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "social-post"
+    ],
+    "coverAssetId": "a_394",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "required",
+      "instructions": {
+        "en": "Use the independently generated reference assets in the displayed order. Do not use the official or social source images.",
+        "zh-Hans": "按展示顺序使用原创生成底图；不使用官方或社交作者原图。"
+      },
+      "slots": [
+        {
+          "id": "reference",
+          "labels": {
+            "en": "Original synthetic reference",
+            "zh-Hans": "原创生成参考图"
+          },
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "showcaseExampleId": "x_297",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-g10",
+        "platform": "X",
+        "author": "Gangban",
+        "url": "https://x.com/798145343h/status/2118164732989608405",
+        "publishedAt": null,
+        "metricObjectUrl": "https://x.com/798145343h/status/2118164732989608405",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://x.com/798145343h/status/2118164732989608405",
+        "sourcePromptStatus": {
+          "en": "The original prompt was not found. This is an independently inferred prompt.",
+          "zh-Hans": "未取得原提示词，本次为独立推导方案。"
+        },
+        "metrics": [
+          {
+            "key": "likes",
+            "value": 53,
+            "labels": {
+              "en": "Likes",
+              "zh-Hans": "点赞"
+            }
+          },
+          {
+            "key": "reposts",
+            "value": 1,
+            "labels": {
+              "en": "Reposts",
+              "zh-Hans": "转发"
+            }
+          }
+        ]
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_394",
+      "contentHash": "sha256:2781082629c84398c0fbe35477ba99e0ce234b517f2a695cef211650d7e27fb7",
+      "mimeType": "image/gif",
+      "byteSize": 623956,
+      "animation": {
+        "frameCount": 6,
+        "durationMs": 1800,
+        "loopCount": 0
+      },
+      "width": 512,
+      "height": 512,
+      "original": {
+        "key": "media/a_394/image26-g10-two-dancing-robots-original-2781082629c8.gif"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_394/image26-g10-two-dancing-robots-thumbnail-d7cfdf014425.webp",
+          "width": 480,
+          "height": 480,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_394/image26-g10-two-dancing-robots-card-0e989dee04d7.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_394/image26-g10-two-dancing-robots-detail-31d3468647f2.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_394/image26-g10-two-dancing-robots-og-3999082a415e.jpg",
+          "width": 512,
+          "height": 269,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "placeholder": {
+        "color": "#F8F8F8"
+      },
+      "alt": {
+        "en": "Green and orange robots retain their left-right positions and identities while stepping, waving and bringing hands together.",
+        "zh-Hans": "绿色与橙色机器人保持左右顺序，完成迈步、挥手和双手靠拢，身体始终完整。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    },
+    {
+      "id": "a_395",
+      "contentHash": "sha256:1eaa6d447eb987282cc6c55a484ab6341f0b057b7b3c253cc8112c9b13ac6850",
+      "mimeType": "image/png",
+      "byteSize": 1395526,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_395/image26-g10-two-dancing-robots-reference-original-1eaa6d447eb9.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_395/image26-g10-two-dancing-robots-reference-thumbnail-9fb174746c9c.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_395/image26-g10-two-dancing-robots-reference-card-b46699b9bb24.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_395/image26-g10-two-dancing-robots-reference-detail-813e74498672.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_395/image26-g10-two-dancing-robots-reference-og-efd6a4974adc.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.719,
+        "y": 0.719
+      },
+      "placeholder": {
+        "color": "#F8F8F8"
+      },
+      "alt": {
+        "en": "Original synthetic reference",
+        "zh-Hans": "原创生成参考图"
+      },
+      "caption": {},
+      "credit": {
+        "creator": null,
+        "creditText": null,
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": null,
+        "licenseUrl": null,
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_394-2781082629c84398.gif",
+  "nativeSha256": "2781082629c84398c0fbe35477ba99e0ce234b517f2a695cef211650d7e27fb7",
+  "sourceGitBlob": "e0c51185fa386df349575d40d195beae05f1ef03",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_394/image26-g10-two-dancing-robots-original-2781082629c8.gif",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_297/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

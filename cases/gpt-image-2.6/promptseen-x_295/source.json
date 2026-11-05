@@ -1,0 +1,273 @@
+{
+  "id": "x_295",
+  "promptId": "p_231",
+  "slug": "image26-g08-round-fish-reaction-loop",
+  "prompt": "制作一张供后期裁帧合成 GIF 的动画精灵图，PNG 静态画布，宽 1536 高 1024 像素，精确三列两行，共六个等大的 512×512 正方形帧。每格是独立完整画面，按从左到右、从上到下依次播放。无外边距、无格线、无分隔条、无编号。角色不要跨越格子边界。所有格子中角色尺寸、脚下基线、镜头、背景与光照必须固定一致，只有动作姿态逐步变化。请把以下动画描述转成六个清晰不同的连续姿态；最后一格回到第一格姿态，以便循环。本次交付的是完整六格精灵图，不要只画一个姿势。\n\n动作与主题：\n使用输入圆鱼角色制作一个“开心点头”的循环 GIF。保持帽子、体型、配色和鱼鳍一致，角色先微笑，轻轻点头两次，再摆一下尾鳍并回到正面起始姿势。白色背景，完整角色居中，固定镜头，不新增手脚或道具，不加文字，首尾动作衔接。\n",
+  "promptFile": "content/examples/x_295/prompt.txt",
+  "promptFileSha256": "e851e0bc807fff326e0a0cdc623e91c80915101abbe5af363a3de199bdf61dd5",
+  "recordedRunPromptSha256": "df493a38b90242a340fd1ed780a0aff7dd282cb191ad18b4621efdb4ae960cdd",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_295",
+    "promptId": "p_231",
+    "template": null,
+    "promptSha256": "df493a38b90242a340fd1ed780a0aff7dd282cb191ad18b4621efdb4ae960cdd",
+    "referenceAssetIds": [
+      "a_392"
+    ],
+    "referenceBindings": [
+      {
+        "slotId": "reference",
+        "referenceIndex": 0
+      }
+    ],
+    "outputAssetIds": [
+      "a_391"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Original round fish retains its yellow hat, mint body and coral fins. Six poses produce a small bob and tail shift; the two requested nods are subtle rather than strongly separated. Composed looping GIF.",
+      "zh-Hans": "原创圆鱼保持黄色帽子、薄荷色身体和珊瑚色鱼鳍，产生轻微点头及摆尾；两次点头的区分不强。"
+    }
+  },
+  "entry": {
+    "id": "p_231",
+    "slug": "image26-g08-round-fish-reaction-loop",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "illustration",
+    "styleIds": [],
+    "useCaseIds": [
+      "social-post"
+    ],
+    "coverAssetId": "a_391",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "required",
+      "instructions": {
+        "en": "Use the independently generated reference assets in the displayed order. Do not use the official or social source images.",
+        "zh-Hans": "按展示顺序使用原创生成底图；不使用官方或社交作者原图。"
+      },
+      "slots": [
+        {
+          "id": "reference",
+          "labels": {
+            "en": "Original synthetic reference",
+            "zh-Hans": "原创生成参考图"
+          },
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "showcaseExampleId": "x_295",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-g08",
+        "platform": "X",
+        "author": "Maxthon 汤川学；歸藏模板补充",
+        "url": "https://x.com/maxthon_zx/status/2118162629613302085",
+        "publishedAt": null,
+        "metricObjectUrl": "https://x.com/maxthon_zx/status/2118162629613302085",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://x.com/maxthon_zx/status/2118162629613302085",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": [
+          {
+            "key": "likes",
+            "value": 0,
+            "labels": {
+              "en": "Likes",
+              "zh-Hans": "点赞"
+            }
+          },
+          {
+            "key": "reposts",
+            "value": 0,
+            "labels": {
+              "en": "Reposts",
+              "zh-Hans": "转发"
+            }
+          }
+        ]
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_391",
+      "contentHash": "sha256:a97106290531fbfeb13c48d03747e93ab21942fb78fb4a4ebcbb7ff7c25a56a8",
+      "mimeType": "image/gif",
+      "byteSize": 583913,
+      "animation": {
+        "frameCount": 6,
+        "durationMs": 1800,
+        "loopCount": 0
+      },
+      "width": 512,
+      "height": 512,
+      "original": {
+        "key": "media/a_391/image26-g08-round-fish-reaction-loop-original-a97106290531.gif"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_391/image26-g08-round-fish-reaction-loop-thumbnail-9b66b4d1fdbd.webp",
+          "width": 480,
+          "height": 480,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_391/image26-g08-round-fish-reaction-loop-card-07eb0cc7c72f.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_391/image26-g08-round-fish-reaction-loop-detail-22a43c1ff605.webp",
+          "width": 512,
+          "height": 512,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_391/image26-g08-round-fish-reaction-loop-og-3e4a3191713b.jpg",
+          "width": 512,
+          "height": 269,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "placeholder": {
+        "color": "#F8F8F8"
+      },
+      "alt": {
+        "en": "Original round fish retains its yellow hat, mint body and coral fins.",
+        "zh-Hans": "原创圆鱼保持黄色帽子、薄荷色身体和珊瑚色鱼鳍，产生轻微点头及摆尾；两次点头的区分不强。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    },
+    {
+      "id": "a_392",
+      "contentHash": "sha256:a127ae56e6d47365533d61d7d01739446e026f62ca148466bafd08c3f44255b2",
+      "mimeType": "image/png",
+      "byteSize": 1661353,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_392/image26-g08-round-fish-reaction-loop-reference-original-a127ae56e6d4.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_392/image26-g08-round-fish-reaction-loop-reference-thumbnail-5ecc777659d8.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_392/image26-g08-round-fish-reaction-loop-reference-card-ebc7b421baed.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_392/image26-g08-round-fish-reaction-loop-reference-detail-b5a424afb238.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_392/image26-g08-round-fish-reaction-loop-reference-og-a083ec0a7671.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0.375,
+        "y": 0.313
+      },
+      "placeholder": {
+        "color": "#F8F8F8"
+      },
+      "alt": {
+        "en": "Original synthetic reference",
+        "zh-Hans": "原创生成参考图"
+      },
+      "caption": {},
+      "credit": {
+        "creator": null,
+        "creditText": null,
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": null,
+        "licenseUrl": null,
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_391-a97106290531fbfe.gif",
+  "nativeSha256": "a97106290531fbfeb13c48d03747e93ab21942fb78fb4a4ebcbb7ff7c25a56a8",
+  "sourceGitBlob": "bff794ed1aad6524181c5613b02ce59cd7c21189",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_391/image26-g08-round-fish-reaction-loop-original-a97106290531.gif",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_295/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}

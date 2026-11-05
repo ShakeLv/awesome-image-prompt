@@ -1,0 +1,251 @@
+{
+  "id": "x_284",
+  "promptId": "p_220",
+  "slug": "image26-s12-river-valley-sketch-to-photograph",
+  "prompt": "把输入河谷线稿转成可信的自然风景照片。严格沿用新线稿中的河道走向、木桥位置、松树数量与山脊比例，补充岩石、草地、河水和树皮的真实材质。采用清晨柔光，阴影方向一致。去除纸张和笔触，但不要重新设计构图或增加建筑。\n",
+  "promptFile": "content/examples/x_284/prompt.txt",
+  "promptFileSha256": "aeac4d62af4bb8272ae8420395e2a22b48a3b1f23ddedfec5c559b479b8c74b7",
+  "recordedRunPromptSha256": "d5ef2e635fcf5d04ea8b26edc51fde768de0defecaf1510b99819d8d898b3dc9",
+  "hashNormalization": "Source run hash uses trimmed outer file whitespace; exact prompt file bytes retained.",
+  "run": {
+    "id": "x_284",
+    "promptId": "p_220",
+    "template": null,
+    "promptSha256": "d5ef2e635fcf5d04ea8b26edc51fde768de0defecaf1510b99819d8d898b3dc9",
+    "referenceAssetIds": [
+      "a_378"
+    ],
+    "referenceBindings": [
+      {
+        "slotId": "reference",
+        "referenceIndex": 0
+      }
+    ],
+    "outputAssetIds": [
+      "a_377"
+    ],
+    "provider": "OpenAI",
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null
+    },
+    "recordedAt": "2026-11-04",
+    "parameters": {},
+    "notes": {
+      "en": "Preserves the sketch river curve, three foreground pines and right-side bridge. Adds realistic grass, water and timber texture; overall finish remains slightly painterly.",
+      "zh-Hans": "保留线稿的河流走向、三棵前景松树及右侧木桥，添加草地、水流和木材质感。"
+    }
+  },
+  "entry": {
+    "id": "p_220",
+    "slug": "image26-s12-river-valley-sketch-to-photograph",
+    "createdAt": "2026-11-04",
+    "updatedAt": "2026-11-04",
+    "promptSource": {
+      "type": "literal",
+      "file": "prompt.txt",
+      "language": "zh-Hans"
+    },
+    "categoryId": "landscape",
+    "styleIds": [],
+    "useCaseIds": [
+      "editorial"
+    ],
+    "coverAssetId": "a_377",
+    "relatedTemplateIds": [],
+    "model": {
+      "displayName": "GPT Image 2.6",
+      "providerModelId": null,
+      "verification": "verified"
+    },
+    "inputRequirements": {
+      "referenceImage": "required",
+      "instructions": {
+        "en": "Use the independently generated reference assets in the displayed order. Do not use the official or social source images.",
+        "zh-Hans": "按展示顺序使用原创生成底图；不使用官方或社交作者原图。"
+      },
+      "slots": [
+        {
+          "id": "reference",
+          "labels": {
+            "en": "Original synthetic reference",
+            "zh-Hans": "原创生成参考图"
+          },
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "showcaseExampleId": "x_284",
+    "promptProvenance": "independent-adaptation",
+    "inspirationSources": [
+      {
+        "candidateId": "image26-s12",
+        "platform": "OpenAI",
+        "author": "OpenAI 官方指南",
+        "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+        "publishedAt": null,
+        "metricObjectUrl": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+        "metricObjectPublishedAt": null,
+        "metricScope": {
+          "en": "Original source post; not this new generated output. Multiple cases from one post share the metrics.",
+          "zh-Hans": "原始来源帖，非本次新生成成品；同帖多个任务共用指标。"
+        },
+        "observedAt": "2026-11-04",
+        "cacheTimestampKnown": false,
+        "evidenceMethod": {
+          "en": "Prior research: direct page and visual review. Counts have not been refreshed.",
+          "zh-Hans": "此前调研的原站页面及视觉核对，未刷新互动数。"
+        },
+        "evidenceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+        "sourcePromptStatus": {
+          "en": "The source provides an original prompt; this production uses the separately recorded working prompt.",
+          "zh-Hans": "来源公开原提示词；本次使用单独记录的制作提示词。"
+        },
+        "metrics": []
+      }
+    ],
+    "source": {
+      "author": "Prompt Seen",
+      "url": null,
+      "license": "CC BY 4.0"
+    },
+    "annotations": []
+  },
+  "assets": [
+    {
+      "id": "a_377",
+      "contentHash": "sha256:d2f725d263d19ee9d3bd1e21d1813cdf12e6633fd0de43b0aa9aee98ce7f29bd",
+      "mimeType": "image/png",
+      "byteSize": 3627457,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_377/image26-s12-river-valley-sketch-to-photograph-original-d2f725d263d1.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_377/image26-s12-river-valley-sketch-to-photograph-thumbnail-c0f6aa77869c.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_377/image26-s12-river-valley-sketch-to-photograph-card-95bbdd04d0a4.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_377/image26-s12-river-valley-sketch-to-photograph-detail-b1cca4277d1e.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_377/image26-s12-river-valley-sketch-to-photograph-og-85640d8baacf.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0,
+        "y": 0.188
+      },
+      "placeholder": {
+        "color": "#98B8D8"
+      },
+      "alt": {
+        "en": "Preserves the sketch river curve, three foreground pines and right-side bridge.",
+        "zh-Hans": "保留线稿的河流走向、三棵前景松树及右侧木桥，添加草地、水流和木材质感。"
+      },
+      "caption": {},
+      "credit": {
+        "creator": "Prompt Seen",
+        "creditText": "AI-generated demonstration · Prompt Seen",
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    },
+    {
+      "id": "a_378",
+      "contentHash": "sha256:552b6f4de0f996ceafcf37903cec5fb47e46a88a3cce1105775e78700ffcbc26",
+      "mimeType": "image/png",
+      "byteSize": 2323023,
+      "width": 1536,
+      "height": 1024,
+      "original": {
+        "key": "media/a_378/image26-s12-river-valley-sketch-to-photograph-reference-original-552b6f4de0f9.png"
+      },
+      "variants": {
+        "thumbnail": {
+          "key": "media/a_378/image26-s12-river-valley-sketch-to-photograph-reference-thumbnail-6063876a3106.webp",
+          "width": 480,
+          "height": 320,
+          "mimeType": "image/webp"
+        },
+        "card": {
+          "key": "media/a_378/image26-s12-river-valley-sketch-to-photograph-reference-card-d8103ac79d20.webp",
+          "width": 960,
+          "height": 640,
+          "mimeType": "image/webp"
+        },
+        "detail": {
+          "key": "media/a_378/image26-s12-river-valley-sketch-to-photograph-reference-detail-bfc981e6bb12.webp",
+          "width": 1536,
+          "height": 1024,
+          "mimeType": "image/webp"
+        },
+        "og": {
+          "key": "media/a_378/image26-s12-river-valley-sketch-to-photograph-reference-og-6e61f391237c.jpg",
+          "width": 1200,
+          "height": 630,
+          "mimeType": "image/jpeg"
+        }
+      },
+      "focalPoint": {
+        "x": 0,
+        "y": 0.406
+      },
+      "placeholder": {
+        "color": "#F8F8F8"
+      },
+      "alt": {
+        "en": "Original synthetic reference",
+        "zh-Hans": "原创生成参考图"
+      },
+      "caption": {},
+      "credit": {
+        "creator": null,
+        "creditText": null,
+        "copyrightNotice": null,
+        "sourceUrl": null,
+        "license": null,
+        "licenseUrl": null,
+        "acquireLicenseUrl": null
+      },
+      "provenance": {
+        "digitalSourceType": "trainedAlgorithmicMedia",
+        "contentCredentials": "unknown"
+      }
+    }
+  ],
+  "status": "source-verified-pending-full-visual-review",
+  "sourceRepository": "https://github.com/picontapLab/prompt-seen",
+  "sourceCommit": "272bd41645f21c4d07c3c06625904932609a613a",
+  "imageFile": "images/promptseen-image26/a_377-d2f725d263d19ee9.png",
+  "nativeSha256": "d2f725d263d19ee9d3bd1e21d1813cdf12e6633fd0de43b0aa9aee98ce7f29bd",
+  "sourceGitBlob": "8d7420714ce6618836679bfc0b6c8bb1a7225fdc",
+  "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_377/image26-s12-river-valley-sketch-to-photograph-original-d2f725d263d1.png",
+  "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_284/run.yaml",
+  "archiveStatus": "complete-native-output-and-recorded-prompt",
+  "projectdStatus": "pending-individual-visual-review"
+}
