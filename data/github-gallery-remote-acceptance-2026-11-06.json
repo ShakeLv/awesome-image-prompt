@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-11-05T16:43:29.947937+00:00",
+  "remoteTree": "b0866f5036744ec8f6f16fc56fb310c35f53e805",
+  "verifiedGitBlobs": 1427,
+  "newSourcePairs": 489,
+  "nativeMediaVerified": 489,
+  "archivedHistoricalPairs": 1574,
+  "archivedImage26Pairs": 40,
+  "totalCompletePairs": 2103,
+  "newProjectDReviewedNotPublished": 440,
+  "heldNewPairs": 49,
+  "scope": "Full native media/prompt bytes compared to actual remote Git tree. Not a ProjectD publication receipt."
+}

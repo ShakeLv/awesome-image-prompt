@@ -1,0 +1,309 @@
+{
+  "sourceCommit": "b681bcc916f78a824de87591389b4dc21a840c61",
+  "cases": 43,
+  "promptTemplates": 0,
+  "approvedNewPairs": 0,
+  "items": [
+    {
+      "id": "docs-complexity",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity",
+      "promptAvailability": "source-only",
+      "mediaCount": 3,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-bakery-svg",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-lantern-gif",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif",
+      "promptAvailability": "source-only",
+      "mediaCount": 1,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-sailor",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-coffee-diagram",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-streetwear",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-bakery-raster",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-historical-crowd",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-pet-comic",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-market-ui",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-cell-respiration",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-pitch-slide",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-vase-markup",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup",
+      "promptAvailability": "source-only",
+      "mediaCount": 3,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-spanish-edit",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-pixel-style",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style",
+      "promptAvailability": "source-only",
+      "mediaCount": 3,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-outfit",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing",
+      "promptAvailability": "source-only",
+      "mediaCount": 6,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-dog-composite",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+      "promptAvailability": "source-only",
+      "mediaCount": 4,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-product-cutout",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+      "promptAvailability": "source-only",
+      "mediaCount": 3,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-sketch-render",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+      "promptAvailability": "source-only",
+      "mediaCount": 3,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-remove-flower",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+      "promptAvailability": "source-only",
+      "mediaCount": 3,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-person-scene",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-billboard",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+      "promptAvailability": "source-only",
+      "mediaCount": 3,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-snow-edit",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-character-start",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-character-story",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-room-chairs",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+      "promptAvailability": "source-only",
+      "mediaCount": 3,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-holiday-card",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "docs-toy-package",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "launch-openart-down",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6/",
+      "promptAvailability": "source-only",
+      "mediaCount": 1,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "launch-openart-up",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6/",
+      "promptAvailability": "source-only",
+      "mediaCount": 1,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "launch-owl",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6/",
+      "promptAvailability": "not-public",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "launch-town",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6/",
+      "promptAvailability": "not-public",
+      "mediaCount": 1,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "launch-picsart",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "promptAvailability": "not-public",
+      "mediaCount": 1,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "launch-fal",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "promptAvailability": "source-only",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "launch-sable",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "promptAvailability": "source-only",
+      "mediaCount": 1,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "launch-higgsfield",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "promptAvailability": "source-only",
+      "mediaCount": 3,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "launch-travel",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6/",
+      "promptAvailability": "not-public",
+      "mediaCount": 1,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "community-malfoid",
+      "sourceUrl": "https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/",
+      "promptAvailability": "not-public",
+      "mediaCount": 0,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "community-gifts",
+      "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/",
+      "promptAvailability": "not-public",
+      "mediaCount": 0,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "community-bear-svg-comparison",
+      "sourceUrl": "https://x.com/pixexid/status/2118153375464505689",
+      "promptAvailability": "not-public",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "community-boxing-tiger",
+      "sourceUrl": "https://x.com/baiji57165/status/2118176730079007145",
+      "promptAvailability": "not-public",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "community-hummingbird-variants",
+      "sourceUrl": "https://x.com/Dheepanratnam/status/2118138765487100027",
+      "promptAvailability": "not-public",
+      "mediaCount": 5,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    },
+    {
+      "id": "community-rosebud-animation",
+      "sourceUrl": "https://x.com/Michaelzsguo/status/2118134837357744435",
+      "promptAvailability": "not-public",
+      "mediaCount": 2,
+      "outcome": "Source links only or prompt not public; official examples overlap existing collection. No complete new full-prompt pair approved; original third-party rights remain."
+    }
+  ]
+}

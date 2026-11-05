@@ -1,6 +1,8 @@
 # awesome-image-prompt
 
-Image and prompt pairs with original author, source, actual generation model, reference inputs, and per-item provenance.
+**2,103 complete image/prompt pairs archived.** Original attribution, actual generation models, reference requirements and per-item provenance are retained.
+
+[Remote archive verification](data/github-gallery-remote-acceptance-2026-11-06.json) compares1,427 new media/prompt Git blobs against the actual GitHub tree. This archive count is separate from ProjectD publication.
 
 ## GPT Image 2.6 — current focus
 
