@@ -1,0 +1,180 @@
+{
+  "checkedAt": "2026-11-05T19:22:12.187932+00:00",
+  "sourceUrl": "https://orylia.ai/ai-models/gpt-image-2-6",
+  "studyDataUrl": "https://orylia.ai/research/gpt-image-2-6-studies.json",
+  "termsUrl": "https://orylia.ai/terms",
+  "studySha256": "d028cac78172bc6cdafe66b3a97f168069e44ce1b7754dad460d21ca877c6f47",
+  "sourceCount": 13,
+  "approvedPairs": 0,
+  "reason": "First-party complete prompts and original output URLs exist. FAQ allows reuse of prompts/settings, but no matching redistribution grant for publisher-owned example images was found. Terms reserve website/material rights and restrict mass extraction; do not rehost source media or treat thumbnails as original animation. Retain source-only candidates. Generic modelId gpt-image-2.6 is not independently a Flare model ID even where page labels say Flare.",
+  "items": [
+    {
+      "sourceId": "flare-poster",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/3819935b-410e-42e0-ab50-3d02afd01128.png",
+      "width": 880,
+      "height": 1184,
+      "promptSha256": "521488c0ea107106eb0007a76eaebd1823811e7f17fb25ff131a70c556f7721f",
+      "promptCharacters": 525,
+      "sourceModelId": "gpt-image-2.6",
+      "referenceImages": [],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "sunburst-product",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/346de9aa-1a1a-4a7b-851a-872ab3467e99.png",
+      "width": 1184,
+      "height": 880,
+      "promptSha256": "bb8b0b0f273b7b84b0641cf3e8fb57ceaa4f862012692f5fad26c03037f24ca3",
+      "promptCharacters": 497,
+      "sourceModelId": "gpt-image-2.6-sunburst",
+      "referenceImages": [],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "mascot-loop",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/dd7f66db-147a-42ff-9583-dd267b9644a6.gif",
+      "width": 512,
+      "height": 512,
+      "promptSha256": "f0055667e70c875e70638fea052d54ccc98e91e99e7f5568a65ebb5592a57025",
+      "promptCharacters": 437,
+      "sourceModelId": "gpt-image-2.6",
+      "referenceImages": [],
+      "outputFormat": "gif",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "sunburst-revision",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/87185308-1d0e-41c6-a19c-3a182c1da65c.png",
+      "width": 1184,
+      "height": 880,
+      "promptSha256": "ab8eb441bfc4992f513b83da96f2a8cec5cb7b6a0e7676292054e7c738d78448",
+      "promptCharacters": 385,
+      "sourceModelId": "gpt-image-2.6-sunburst",
+      "referenceImages": [
+        "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/346de9aa-1a1a-4a7b-851a-872ab3467e99.png"
+      ],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "product-loop",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/6db44679-3895-495d-9974-77a7f8a4e5a2.gif",
+      "width": 512,
+      "height": 512,
+      "promptSha256": "76954765a140e462ea0be3f654d3a3761c86d0e071ff10501c8ee5deb28a456b",
+      "promptCharacters": 440,
+      "sourceModelId": "gpt-image-2.6",
+      "referenceImages": [
+        "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/346de9aa-1a1a-4a7b-851a-872ab3467e99.png"
+      ],
+      "outputFormat": "gif",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "planning-high",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/a7ae14ce-2d7a-4e07-8fc6-d8b4bbbbd00f.png",
+      "width": 1184,
+      "height": 880,
+      "promptSha256": "d4977f276a64829cf02cbacd1167c35f3863336bdda4dc6f9e1d02abcf68b416",
+      "promptCharacters": 760,
+      "sourceModelId": "gpt-image-2.6",
+      "referenceImages": [],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "planning-low",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/d3646842-f1a7-4e08-acce-d38198896d5d.png",
+      "width": 1184,
+      "height": 880,
+      "promptSha256": "d4977f276a64829cf02cbacd1167c35f3863336bdda4dc6f9e1d02abcf68b416",
+      "promptCharacters": 760,
+      "sourceModelId": "gpt-image-2.6",
+      "referenceImages": [],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "portrait-source",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/ff7f6cba-62ff-4502-aabd-8bf40a27fbd6.png",
+      "width": 880,
+      "height": 1184,
+      "promptSha256": "c2f54989ccaa030b4442271b26560b85bc5ada2d461eff84e7820b2e3fa0d435",
+      "promptCharacters": 566,
+      "sourceModelId": "gpt-image-2.6-sunburst",
+      "referenceImages": [],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "multilingual-menu",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/b5fb7ef1-ccee-4e5a-ae10-9828494bee1a.png",
+      "width": 880,
+      "height": 1184,
+      "promptSha256": "b5651aa90a72d968ddd3c513e57b469549c44d6ba44d89cfa20b500212d79a21",
+      "promptCharacters": 657,
+      "sourceModelId": "gpt-image-2.6",
+      "referenceImages": [],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "portrait-flare-edit",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/d25d9746-c676-4dfd-9e14-9a72722aa0ce.png",
+      "width": 880,
+      "height": 1184,
+      "promptSha256": "41ea42aa78cb241836872a5f20e796f8fe3e42ab2fd4474d058c33fb664c4f68",
+      "promptCharacters": 559,
+      "sourceModelId": "gpt-image-2.6",
+      "referenceImages": [
+        "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/ff7f6cba-62ff-4502-aabd-8bf40a27fbd6.png"
+      ],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "portrait-sunburst-edit",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/96540d3c-d2b0-4878-a1ef-a99e0f8314e9.png",
+      "width": 880,
+      "height": 1184,
+      "promptSha256": "41ea42aa78cb241836872a5f20e796f8fe3e42ab2fd4474d058c33fb664c4f68",
+      "promptCharacters": 559,
+      "sourceModelId": "gpt-image-2.6-sunburst",
+      "referenceImages": [
+        "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/ff7f6cba-62ff-4502-aabd-8bf40a27fbd6.png"
+      ],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "portrait-second-edit",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/6c4e4706-42c7-407c-b3d7-b18fe03d0e02.png",
+      "width": 880,
+      "height": 1184,
+      "promptSha256": "a87eb7fedf8a2c0cba26e1238a59ef9696983bb3d73f9f0681a572abd62c21bb",
+      "promptCharacters": 349,
+      "sourceModelId": "gpt-image-2.6-sunburst",
+      "referenceImages": [
+        "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/96540d3c-d2b0-4878-a1ef-a99e0f8314e9.png"
+      ],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    },
+    {
+      "sourceId": "product-second-edit",
+      "imageUrl": "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/premium/96bab238-e015-4a4e-84c4-cda87985cc48.png",
+      "width": 1184,
+      "height": 880,
+      "promptSha256": "5aae071f58fb29b3cd3a260b4fcaee0b7f7aef0f86803eb96e4a42ee59da22a6",
+      "promptCharacters": 571,
+      "sourceModelId": "gpt-image-2.6-sunburst",
+      "referenceImages": [
+        "https://cdn.orylia.ai/seo/landing/cases/gpt-image-2-6/87185308-1d0e-41c6-a19c-3a182c1da65c.png"
+      ],
+      "outputFormat": "png",
+      "outcome": "hold-media-redistribution-scope-unresolved"
+    }
+  ]
+}
