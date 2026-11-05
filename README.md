@@ -4,7 +4,7 @@
 
 [Remote archive verification](data/github-gallery-remote-acceptance-2026-11-06.json) compares1,427 new media/prompt Git blobs against the actual GitHub tree. This archive count is separate from ProjectD publication.
 
-[3,631 additional ChaosRealmsAI GPT Image2 source pairs](GPT-IMAGE-2-CHAOS.md) retain complete prompts, unchanged author-published renditions and source references. Individual ProjectD review is in progress:400 inspected,382 locally approved,18 held,3,231 unreviewed. Of the382 approvals,238 are imported in the ProjectD review branch and await merge/publication;144 remain locally reviewed. These3,631 source pairs are separate from newly published ProjectD entries.
+[3,631 additional ChaosRealmsAI GPT Image2 source pairs](GPT-IMAGE-2-CHAOS.md) retain complete prompts, unchanged author-published renditions and source references. Individual ProjectD review is in progress:768 inspected,731 locally approved,37 held,2,863 unreviewed. The first238 are publishing through ProjectD run42080135905; the next493 are locally imported and being validated. No additional public acceptance is asserted until verified. These3,631 source pairs are separate from newly published ProjectD entries.
 
 ## GPT Image 2.6 — current focus
 
