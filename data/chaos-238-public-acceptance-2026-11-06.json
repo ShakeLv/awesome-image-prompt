@@ -3870,5 +3870,14 @@
     "warnings": [],
     "fullFrameworkDeploy": false
   },
-  "finalCloudArtifactEvidence": "Download in progress; prompt-online-verification artifact will be attached separately."
+  "finalCloudArtifactEvidence": {
+    "status": "verified",
+    "artifactId": 13442253906,
+    "promptOnlineVerification": {
+      "releaseId": "2026-11-05T18:06:43.546Z-05b5aa42-aeb4-4684-994a-6a3ee2a3531c",
+      "total": 7689,
+      "verifiedAssets": 6566
+    },
+    "method": "Complete ZIP central directory and selected members fetched with HTTP byte ranges; decompressed entire members, parsed JSON, checked SHA256 and exact receipt-byte equality. Large full-archive transfer attempts failed; assertions retained."
+  }
 }

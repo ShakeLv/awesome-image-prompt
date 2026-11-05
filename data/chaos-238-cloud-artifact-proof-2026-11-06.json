@@ -1,0 +1,19 @@
+{
+  "artifactId": 13442253906,
+  "runId": "42080135905",
+  "remoteZipBytes": 287221994,
+  "entireCentralDirectoryRead": true,
+  "memberBytesFullyReadAndDecoded": true,
+  "members": [
+    {
+      "artifactPath": "artifacts/cloud-daily-report.json",
+      "bytes": 821,
+      "sha256": "9a52deaa4a7d5019db004bb9959b51eec15326214acf0b903387486a76a9eae2"
+    },
+    {
+      "artifactPath": "artifacts/prompt-online-verification.json",
+      "bytes": 126,
+      "sha256": "d56748a57390952e71213d3ae953b3872232835b8c12780e33919d4ab478bd8f"
+    }
+  ]
+}

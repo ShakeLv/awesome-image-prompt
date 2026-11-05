@@ -11556,6 +11556,1286 @@
       "nativeGitBlobVerified": "a7c4431125b59eac0f85ce4c25d7fb1954387c30",
       "nativeSha256": "ec9ae98f22c0517ed19ceb01427dacd3f96d1f869b8a3719036625151e3ba78f",
       "reason": "Generated production storyboard concept, not a completed film, verified action sequence, engineering simulation or real rescue procedure. Source-dependent market/rooftop/tunnel boards substantially repeat anchor alleys rather than fully changing locations; retain visible deviations and full briefs."
+    },
+    "film-storyboard-sequence/single-production-storyboards/04-kitchen-dolly-drama": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "e6246f1caa75ca11a01a4a31f9f6ff881c29dc22",
+      "nativeSha256": "27186a91cd8026b1a49333d12088fba12702552a37b7067f9706d3ca88a8d6ab",
+      "reason": "Generated kitchen-drama storyboard concept, not a completed film or recorded conversation. Preserve six-frame layout and camera arrows."
+    },
+    "finance-app-trust-and-clarity-interfaces/series-core-system/01-reference-anchor": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "1a1658eb4d187bc0b98f359fde3718b3cc3c4794",
+      "nativeSha256": "6a642d15fe3b306eac796bdfe99d3718088612270f15f375c51b8529188098ed",
+      "reason": "Fictional finance/game-art interface, not a real financial account, bank endorsement, security guarantee, investment return or working app. Chart values are abstract design placeholders."
+    },
+    "finance-app-trust-and-clarity-interfaces/series-core-system/02-variant-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "b11963e450eca2278c30404ef57f14a82774689b",
+      "nativeSha256": "11642ff8f226546278a2dfa2719867f68bac7822196f12798bdf37ff0d4098e4",
+      "reason": "Fictional finance/game-art interface, not a real financial account, bank endorsement, security guarantee, investment return or working app. Chart values are abstract design placeholders."
+    },
+    "finance-app-trust-and-clarity-interfaces/series-core-system/03-variant-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "2e597441e1f124230ffc1fd403abdc565505943f",
+      "nativeSha256": "adcf9baf6cf11f7496a01f42723eb3a7b0309a85e122a68d4c00e773ed915c19",
+      "reason": "Fictional finance/game-art interface, not a real financial account, bank endorsement, security guarantee, investment return or working app. Chart values are abstract design placeholders."
+    },
+    "finance-app-trust-and-clarity-interfaces/series-core-system/04-variant-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "25534f0283a212769f2dd8d1d9d31ff6a7512bbc",
+      "nativeSha256": "e3a21e91e7eec02896a22deb0f09bd8e3163c80d539676f6739033db8814d36d",
+      "reason": "Fictional finance/game-art interface, not a real financial account, bank endorsement, security guarantee, investment return or working app. Chart values are abstract design placeholders."
+    },
+    "finance-app-trust-and-clarity-interfaces/single-support-studies/support-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "34c0af850a140a275b3935c6bce1b50b6a5ad8c4",
+      "nativeSha256": "27b9dac63fe3dff0fb0d7292100697b3241797c34b70ee4a64762c8de090e0e7",
+      "reason": "Fictional finance/game-art interface, not a real financial account, bank endorsement, security guarantee, investment return or working app. Chart values are abstract design placeholders."
+    },
+    "finance-app-trust-and-clarity-interfaces/single-support-studies/support-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "170e002c84a9a80facb7bd255060ad6351258fbe",
+      "nativeSha256": "6b99347ed9224c78fd205b7502841a6a3c68ae99a01f66f427d1655ae2f7455b",
+      "reason": "Fictional finance/game-art interface, not a real financial account, bank endorsement, security guarantee, investment return or working app. Chart values are abstract design placeholders."
+    },
+    "finance-app-trust-and-clarity-interfaces/single-support-studies/support-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f9d0488b52a11bc753cb3730080f766ca9ba4062",
+      "nativeSha256": "f5432b1291d00dc3e6d6b633ef2faf923595f08765b192e41f69c2d328c7ee0e",
+      "reason": "Fictional finance/game-art interface, not a real financial account, bank endorsement, security guarantee, investment return or working app. Chart values are abstract design placeholders."
+    },
+    "finance-app-trust-and-clarity-interfaces/single-support-studies/support-four": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "aa146f172bc69692a6dd2983fd3b76be6fb3b0c4",
+      "nativeSha256": "40664e7a7f8d841425993cfb475d89e90becb7e52bf30e0ed8a7ef8c52b8f130",
+      "reason": "Fictional finance/game-art interface, not a real financial account, bank endorsement, security guarantee, investment return or working app. Chart values are abstract design placeholders."
+    },
+    "finance-app-trust-and-clarity-interfaces/single-support-studies/support-five": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "9ca97341bcd294869dd06f9e1f89dcda2e9cc30a",
+      "nativeSha256": "961b8701a6ba73f925f40551475138d7f3ecb684ef8be09f7d12b1aca083f4bc",
+      "reason": "Fictional finance/game-art interface, not a real financial account, bank endorsement, security guarantee, investment return or working app. Chart values are abstract design placeholders."
+    },
+    "fitness-program-launch-campaign/series-program-launch/01-reference-coach-hero": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "b8dc3667449b4511578401878ed836e568509193",
+      "nativeSha256": "fcbe49d385f4a7656df8456c8ef0e6b91d7ef1aac64fcccf10021cf42196d97f",
+      "reason": "Synthetic fictional coach/fitness campaign, not a real credential, client transformation, validated training program, safe exercise instruction or functional signup page. Reference-dependent variants retained without proof of health outcomes."
+    },
+    "fitness-program-launch-campaign/series-program-launch/02-transformation-promise-board": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "545be1b609913fe822c411dca4ef36d5c23ca94d",
+      "nativeSha256": "0fb627556ea1fd82e67610c823804d4cf676cd538668cfb39df07f18a936f2f0",
+      "reason": "Synthetic fictional coach/fitness campaign, not a real credential, client transformation, validated training program, safe exercise instruction or functional signup page. Reference-dependent variants retained without proof of health outcomes."
+    },
+    "fitness-program-launch-campaign/series-program-launch/03-weekly-plan-poster": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "551f8be8f22b9beaca4530d369be12496c2aa9e0",
+      "nativeSha256": "96e79f2066a7afb6383d91d646724d4e4200d7af180832ea62aad0c21824cf8e",
+      "reason": "Synthetic fictional coach/fitness campaign, not a real credential, client transformation, validated training program, safe exercise instruction or functional signup page. Reference-dependent variants retained without proof of health outcomes."
+    },
+    "fitness-program-launch-campaign/series-program-launch/04-mobile-signup-variant": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "1a35f93b957c3d43f921d6d91ef6b68dd60d1b71",
+      "nativeSha256": "ea04049b0ec09ce2429cc96be1b40b3ae8f8969ccc0a92f3216540b4f6c691b1",
+      "reason": "Synthetic fictional coach/fitness campaign, not a real credential, client transformation, validated training program, safe exercise instruction or functional signup page. Reference-dependent variants retained without proof of health outcomes."
+    },
+    "fitness-program-launch-campaign/single-support-studies/mobility-reset-card": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "3b881b4ef749394e338c167a5805158eba42f95c",
+      "nativeSha256": "a6ee3f9c14fe161dfc844aa3b450d5a587f384e2bbda7d3b97d59aa5e9e4b3e7",
+      "reason": "Synthetic fictional coach/fitness campaign, not a real credential, client transformation, validated training program, safe exercise instruction or functional signup page. Reference-dependent variants retained without proof of health outcomes."
+    },
+    "fitness-program-launch-campaign/single-support-studies/endurance-block-cover": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "sheet": 73,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "2c9d0388d1e7a843729c139bbd1c891dda0ad9a0",
+      "nativeSha256": "b36972e2bd96d3cbeae156dafe4ae04fb07bbe30b474d19a992bff1a4621eefc",
+      "reason": "Synthetic fictional coach/fitness campaign, not a real credential, client transformation, validated training program, safe exercise instruction or functional signup page. Reference-dependent variants retained without proof of health outcomes."
+    },
+    "fitness-program-launch-campaign/single-support-studies/nutrition-rhythm-board": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "b4130fc9a1aaa2a48ce61cd0437d4b52a57757b0",
+      "nativeSha256": "46f1c0dd86d3747b0118f66ca34cac63ac81cb1ffcc65b71e8505abb8bd454fb",
+      "reason": "Synthetic fitness campaign layout, not real client testimony, demonstrated transformation or nutritional/medical advice; data panels are fictional placeholders."
+    },
+    "fitness-program-launch-campaign/single-support-studies/testimonial-energy-layout": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "925bb7303bfe68e3870adc8d4743b1bd9be5cb86",
+      "nativeSha256": "022d3cff151d7387a2a3e09969568b5af3a8259367f811f85a0a7c70c18ca311",
+      "reason": "Synthetic fitness campaign layout, not real client testimony, demonstrated transformation or nutritional/medical advice; data panels are fictional placeholders."
+    },
+    "fitness-wellness-brand-portraits/series-fashion-campaign-sequence/01-reference-fashion-anchor": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "914cfdae67a294e9ad68f64c2b92be8d0d6ce493",
+      "nativeSha256": "4a9b081fb03be9f1faa5b513ccdae6123d6b4b3863adde37d3331a9a29219ad6",
+      "reason": "Generated fictional wellness founder/model fashion portrait, not a real founder, licensed coach or actual branded activewear product. Source reference dependencies retained; no independent biometric consistency guarantee."
+    },
+    "fitness-wellness-brand-portraits/series-fashion-campaign-sequence/02-campaign-hero-look": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "0dd76e42c9a849ef444ad455f961ab1bc0f6ec7f",
+      "nativeSha256": "d523a1d76268d65324312df61b88d564f929c6c69b87efc249dc062d5fa3a41b",
+      "reason": "Generated fictional wellness founder/model fashion portrait, not a real founder, licensed coach or actual branded activewear product. Source reference dependencies retained; no independent biometric consistency guarantee."
+    },
+    "fitness-wellness-brand-portraits/series-fashion-campaign-sequence/03-tailored-three-quarter": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "afa6c923b8df5c7870424e261cebafdf8e1203e3",
+      "nativeSha256": "2b6162b82003bbe097202b4bfbae2202f0f7d641b119cd895b7a67ac00c986e6",
+      "reason": "Generated fictional wellness founder/model fashion portrait, not a real founder, licensed coach or actual branded activewear product. Source reference dependencies retained; no independent biometric consistency guarantee."
+    },
+    "fitness-wellness-brand-portraits/series-fashion-campaign-sequence/04-full-body-runway": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "8bacdbed7e84c7fa932cac37b742d73a55b266e7",
+      "nativeSha256": "101b20ad817312e16d1fb99fa4e45d4f52e29d08cd027143ddde8420d830581e",
+      "reason": "Generated fictional wellness founder/model fashion portrait, not a real founder, licensed coach or actual branded activewear product. Source reference dependencies retained; no independent biometric consistency guarantee."
+    },
+    "fitness-wellness-brand-portraits/series-fashion-campaign-sequence/05-seated-lookbook-crop": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f3323dbfa34268b8b149fd81dc834b971624fc37",
+      "nativeSha256": "d4bd263cd21b3d63a44cdc0e12658fcefceb593adfea662e49be92a767c66d7c",
+      "reason": "Generated fictional wellness founder/model fashion portrait, not a real founder, licensed coach or actual branded activewear product. Source reference dependencies retained; no independent biometric consistency guarantee."
+    },
+    "fitness-wellness-brand-portraits/series-fashion-campaign-sequence/06-movement-editorial": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "09ea5513ae20df249a8e55868959f541a90337a2",
+      "nativeSha256": "d693c65057f9caedaa5c6eeed375b64266b6a0502f75a0a6db867b348819df8f",
+      "reason": "Generated fictional wellness founder/model fashion portrait, not a real founder, licensed coach or actual branded activewear product. Source reference dependencies retained; no independent biometric consistency guarantee."
+    },
+    "fitness-wellness-brand-portraits/series-fashion-campaign-sequence/07-closeup-fabric-beauty": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "7f6576377c4b1e067df6c6601df41ad8bb669799",
+      "nativeSha256": "c33d1f2ea5e1a2db06d2547bdd389e2eba4e78bebaa6c629c399ec9634c2cf95",
+      "reason": "Generated fictional wellness founder/model fashion portrait, not a real founder, licensed coach or actual branded activewear product. Source reference dependencies retained; no independent biometric consistency guarantee."
+    },
+    "fitness-wellness-brand-portraits/series-fashion-campaign-sequence/08-lighting-shift-portrait": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "1eea5a5a0e027fa6ef1925ae25223556019aa2d3",
+      "nativeSha256": "3630fb63d2a781b8d84dff8d0a99103f1a7fde99ffcf46ae8f2de7cab2a64f51",
+      "reason": "Generated fictional wellness founder/model fashion portrait, not a real founder, licensed coach or actual branded activewear product. Source reference dependencies retained; no independent biometric consistency guarantee."
+    },
+    "fitness-wellness-brand-portraits/series-fashion-campaign-sequence/09-finale-cover-portrait": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "83f679e4a16b5c6b2c50002f6538e44c21ef46a3",
+      "nativeSha256": "54810c612a2a816da05ed0013f8fdd1fefa4313de2da1b518f68669147f1a0c4",
+      "reason": "Generated fictional wellness founder/model fashion portrait, not a real founder, licensed coach or actual branded activewear product. Source reference dependencies retained; no independent biometric consistency guarantee."
+    },
+    "fjord-norway-deep-cut/single-landscape-studies/02-foreground-path": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "8de4cd81de1375d327164c90477884a5910de586",
+      "nativeSha256": "370ec416b0298677806d4a59dbeda8b3baaa942470c7133ef9161b1f21529125",
+      "reason": "Synthetic Norwegian-fjord-inspired landscape concept, not a geolocated field photograph, real route, measured cliff height, verified map or geological record."
+    },
+    "fjord-norway-deep-cut/single-landscape-studies/03-aerial-geometry": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "5a2179f3568555384a8e1d8d8f6a5cd39fb757cb",
+      "nativeSha256": "3ab0991020430e528889704cfa2224160c3948ad7729f02a3304405e514f686e",
+      "reason": "Synthetic Norwegian-fjord-inspired landscape concept, not a geolocated field photograph, real route, measured cliff height, verified map or geological record."
+    },
+    "fjord-norway-deep-cut/single-landscape-studies/04-atmosphere-event": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "10736a5237ab3cd5999acaae931931dc108b433d",
+      "nativeSha256": "ca2ce9ac265bc7cc49fdb6b27452eb17e1677750eb1e84c3a78fcdff07cb2a7b",
+      "reason": "Synthetic Norwegian-fjord-inspired landscape concept, not a geolocated field photograph, real route, measured cliff height, verified map or geological record."
+    },
+    "fjord-norway-deep-cut/single-landscape-studies/05-light-contrast": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "0cb23e480c930f3ac7a340524c0f28973e4c3ed7",
+      "nativeSha256": "9dec3ecba669b323b089d495609551ff8f3f4f26f53dabbf62462574ae23583c",
+      "reason": "Synthetic Norwegian-fjord-inspired landscape concept, not a geolocated field photograph, real route, measured cliff height, verified map or geological record."
+    },
+    "fjord-norway-deep-cut/single-landscape-studies/06-material-close": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "sheet": 74,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "42c78e2dc4c08455910f3cbf4b3f7c466b5b73c9",
+      "nativeSha256": "555fd4557738da92e98b51f363046b9e8a2c314be4df8d76b5a7a1a6e17f7f37",
+      "reason": "Synthetic Norwegian-fjord-inspired landscape concept, not a geolocated field photograph, real route, measured cliff height, verified map or geological record."
+    },
+    "fjord-norway-deep-cut/single-landscape-studies/07-scale-witness": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "ce8975a19d0e7e73cd2d5588d1e8579df59ef304",
+      "nativeSha256": "de89a5cfb437ad223d1994da61af6b2e25335c69bd2accc78ca4d9b2c554701b",
+      "reason": "Synthetic fjord-inspired landscape, not actual field capture, a geolocated route or measured physical scale."
+    },
+    "fjord-norway-deep-cut/single-landscape-studies/08-abstract-rhythm": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "fa5e734499abe1cf48ebec9cdedf7aa8eed4b04b",
+      "nativeSha256": "d1a476850677aa92d1a75945fceff68bc6700acf9ac983655c838ffa030dda0b",
+      "reason": "Synthetic fjord-inspired landscape, not actual field capture, a geolocated route or measured physical scale."
+    },
+    "fjord-norway-deep-cut/single-landscape-studies/09-final-iconic": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "9c0dcb373734e43c396fd4643d5e5ff5d164c750",
+      "nativeSha256": "85052ab4378445427fc35d1d2b6a2401a6d6c9eecc2300f69d716021e7b602b4",
+      "reason": "Synthetic fjord-inspired landscape, not actual field capture, a geolocated route or measured physical scale."
+    },
+    "flavor-family-packaging-line/series-core-system/01-reference-anchor": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "e19c42ae73d2956ff56796d0d95a17c00e25f06e",
+      "nativeSha256": "0c58b59926ca40ef2177b7f9e173908a06e0d5004c63edd39603d8b3a261bf3c",
+      "reason": "Fictional flavor packaging/game-art study, not an actual food product, nutrition statement, licensed brand or manufacture-ready dieline. Reference-dependent variants preserved."
+    },
+    "flavor-family-packaging-line/series-core-system/02-variant-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "a44efbfb1c6c740a2fc582652aea874915402d66",
+      "nativeSha256": "ff61564f24c46c3d2b048238f7383a18753e547caa3e93fcc7ae03241c87a928",
+      "reason": "Fictional flavor packaging/game-art study, not an actual food product, nutrition statement, licensed brand or manufacture-ready dieline. Reference-dependent variants preserved."
+    },
+    "flavor-family-packaging-line/series-core-system/03-variant-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "8128fa1455b5126f7ab7e3b1bf8b63447d00946d",
+      "nativeSha256": "2a998f8ec91f84f3832957b49742ecff12d23bff87981c745e4e9515591bbedd",
+      "reason": "Fictional flavor packaging/game-art study, not an actual food product, nutrition statement, licensed brand or manufacture-ready dieline. Reference-dependent variants preserved."
+    },
+    "flavor-family-packaging-line/series-core-system/04-variant-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "a730a3631f2919a8e8f93b737ce365d8b17a4fe8",
+      "nativeSha256": "31666fb66cc1c51b97377f6c70d9afba66f6c4e0acf34eaee8fb1c801337324a",
+      "reason": "Fictional flavor packaging/game-art study, not an actual food product, nutrition statement, licensed brand or manufacture-ready dieline. Reference-dependent variants preserved."
+    },
+    "flavor-family-packaging-line/single-support-studies/support-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "71ed3fa78a8a50530a975ef674ea676e41819dd1",
+      "nativeSha256": "7967a0e48c27deea4c155827dd39c36425b8986c3f8c4dcf8585b4a042712711",
+      "reason": "Fictional flavor packaging/game-art study, not an actual food product, nutrition statement, licensed brand or manufacture-ready dieline. Reference-dependent variants preserved."
+    },
+    "flavor-family-packaging-line/single-support-studies/support-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "b3a26b8921ab09c4bc58238ed821058053d88722",
+      "nativeSha256": "68191c43adae5a95fac259f53237342d25828b3967b5de24e6315ddcfbf69df2",
+      "reason": "Fictional flavor packaging/game-art study, not an actual food product, nutrition statement, licensed brand or manufacture-ready dieline. Reference-dependent variants preserved."
+    },
+    "flavor-family-packaging-line/single-support-studies/support-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "17974689b60f8befb7efd4e6958307fc765d477b",
+      "nativeSha256": "80e120d6dd2b57fba3331242349816fe632330adeb1227ede99b96397aeb7796",
+      "reason": "Fictional flavor packaging/game-art study, not an actual food product, nutrition statement, licensed brand or manufacture-ready dieline. Reference-dependent variants preserved."
+    },
+    "flavor-family-packaging-line/single-support-studies/support-four": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "9374f6aa6e3602a563d465a5c09329646f9f11ad",
+      "nativeSha256": "b13b673975a50928865a393c2fd8de7570cd1d7d9a51b0f88d3ad225c0f1c9da",
+      "reason": "Fictional flavor packaging/game-art study, not an actual food product, nutrition statement, licensed brand or manufacture-ready dieline. Reference-dependent variants preserved."
+    },
+    "flavor-family-packaging-line/single-support-studies/support-five": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "82405323e9a5ceca9d44c031a0f424e0c51620c5",
+      "nativeSha256": "cdceb65891f00fcb3738b53d8508132bf2509ba03b1f8f9cb2de81344b214477",
+      "reason": "Fictional flavor packaging/game-art study, not an actual food product, nutrition statement, licensed brand or manufacture-ready dieline. Reference-dependent variants preserved."
+    },
+    "flower-of-life-quantum-field/single-quantum-flower-studies/01-goldline-foundation": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "6b318d89f5b11275e759788e2c9641acd1061c5b",
+      "nativeSha256": "28cc019b8886b7c385a37ad3858e559dadb708f0c2026f52ec9ef247a00b2433",
+      "reason": "Decorative sacred-geometry and art-science concept. Not a real quantum field, measured interference pattern, physical-energy map or mathematically certified circle construction. Preserve actual lines and source aspirations without scientific validation claims."
+    },
+    "flower-of-life-quantum-field/single-quantum-flower-studies/02-cyan-interference-chamber": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "fc22ffdc869c9b2518a6d1d39c80feb92ba6f57c",
+      "nativeSha256": "ba11d33d18215299dcc009c6642dc15cc8a6ea640c2d9805342ed41009b4e456",
+      "reason": "Decorative sacred-geometry and art-science concept. Not a real quantum field, measured interference pattern, physical-energy map or mathematically certified circle construction. Preserve actual lines and source aspirations without scientific validation claims."
+    },
+    "flower-of-life-quantum-field/single-quantum-flower-studies/03-blackboard-energy-map": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "529df21e8e743f60305cd9772f66a35dcc57f3bf",
+      "nativeSha256": "47e7611e1445fe3327d1115dcb023cdd7f0a92567982b61d69d48ed7284c525d",
+      "reason": "Decorative sacred-geometry and art-science concept. Not a real quantum field, measured interference pattern, physical-energy map or mathematically certified circle construction. Preserve actual lines and source aspirations without scientific validation claims."
+    },
+    "flower-of-life-quantum-field/single-quantum-flower-studies/04-glass-hologram-lab": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "sheet": 75,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "3f5f9db5353bec1d17487f5f33b26b410975a954",
+      "nativeSha256": "0168d9d6ac6b50966001ef27c15834a1b35d8953a3286157f2377b4157c0a19c",
+      "reason": "Decorative sacred-geometry and art-science concept. Not a real quantum field, measured interference pattern, physical-energy map or mathematically certified circle construction. Preserve actual lines and source aspirations without scientific validation claims."
+    },
+    "flower-of-life-quantum-field/single-quantum-flower-studies/05-aurora-oscillation-disc": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "ba62b4753f8e18871ecc4f36121670e9ca8711de",
+      "nativeSha256": "54b489fb7eb540e9fc063e316539225f8bf47e8e3f10592279660e0bb5dca5f6",
+      "reason": "Decorative art-science sacred geometry, not measured quantum physics, genuine energy fields, a historic scientific artifact or certified exact circle construction."
+    },
+    "flower-of-life-quantum-field/single-quantum-flower-studies/06-copper-engraving-plate": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "9eec88adb4035f35490a363fdf04d0abcdffadc0",
+      "nativeSha256": "269879e65c0496a1d9d182cb708b0a1a7473ada1b737bb7639442af217033681",
+      "reason": "Decorative art-science sacred geometry, not measured quantum physics, genuine energy fields, a historic scientific artifact or certified exact circle construction."
+    },
+    "flower-of-life-quantum-field/single-quantum-flower-studies/07-darkroom-particle-orbit": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "6a46550eee66d5549635fdf624c5c66a1359adfd",
+      "nativeSha256": "1fe2874123d8e230bb1cda37ab4d562930dcbb76b27c021a5b8b1ee198466723",
+      "reason": "Decorative art-science sacred geometry, not measured quantum physics, genuine energy fields, a historic scientific artifact or certified exact circle construction."
+    },
+    "flower-of-life-quantum-field/single-quantum-flower-studies/08-parchment-ratio-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "ae656bf3d607dc8a0786a543302e3a4215ef27c7",
+      "nativeSha256": "3d7d0cf96d2dbce29e977a5a5a75a56e87f9f7ad2ec4fce298dad23f53f200ae",
+      "reason": "Decorative art-science sacred geometry, not measured quantum physics, genuine energy fields, a historic scientific artifact or certified exact circle construction."
+    },
+    "flower-of-life-quantum-field/single-quantum-flower-studies/09-deep-ocean-field": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "97bb7456e592dbf3847d00d2ee93c4bad186cd23",
+      "nativeSha256": "e939d5cfef983b0a292abafe54fb399ea7cb71366bd6b4af4900a0b024b539c9",
+      "reason": "Decorative art-science sacred geometry, not measured quantum physics, genuine energy fields, a historic scientific artifact or certified exact circle construction."
+    },
+    "fluid-smoke-explosion/single-fluid-smoke-explosion-studies/macro-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "6a6f707d392d105525c6aa192750f9176c0ca809",
+      "nativeSha256": "67212c720ddc4fd27bd061496654073f85a55e4ddefd0ca4ee408eda219e3b29",
+      "reason": "Generated fluid/smoke visual-effects still, not real high-speed photography, an experiment, validated fluid simulation or physical explosion documentation."
+    },
+    "fluid-smoke-explosion/single-fluid-smoke-explosion-studies/side-light-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "5aaf0d0afd31778eddcd0d798b9899f74535e83e",
+      "nativeSha256": "088e587fe0b3d514f9d6b112672f3e7244ee1b34be4b4716d0bcd76085c05fd2",
+      "reason": "Generated fluid/smoke visual-effects still, not real high-speed photography, an experiment, validated fluid simulation or physical explosion documentation."
+    },
+    "fluid-smoke-explosion/single-fluid-smoke-explosion-studies/motion-moment": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "44a9e865b72c819ad353e19899381db2e331c34c",
+      "nativeSha256": "b49b4f58fcd1c57ae3a7c52e0b8af804ad05ae2d3075c1919972746db66d9fd3",
+      "reason": "Generated fluid/smoke visual-effects still, not real high-speed photography, an experiment, validated fluid simulation or physical explosion documentation."
+    },
+    "fluid-smoke-explosion/single-fluid-smoke-explosion-studies/low-light-atlas": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "9b115fc12116499ac65c604d99d8b0a2cbb4fc30",
+      "nativeSha256": "626d7330fcc174d6b9b63947a1c11c528d33a27dd7e70ff2b2847caffb089d79",
+      "reason": "Generated fluid/smoke visual-effects still, not real high-speed photography, an experiment, validated fluid simulation or physical explosion documentation."
+    },
+    "fluid-smoke-explosion/single-fluid-smoke-explosion-studies/specimen-table": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "2fbdda8bc78c64afa5b5ec26e28855da3cd50cd1",
+      "nativeSha256": "e459d0a50331f531212d64da82896427808df2b9a76a812ecee1e65e3f22494e",
+      "reason": "Generated fluid/smoke visual-effects still, not real high-speed photography, an experiment, validated fluid simulation or physical explosion documentation."
+    },
+    "fluid-smoke-explosion/single-fluid-smoke-explosion-studies/atmospheric-view": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "9e15009411f842457ccf55182a77c47e979cfe81",
+      "nativeSha256": "e12b1a772b6d5c6fd9e05b118b160e99c1d55dda7115eb9ba2e6bce9a0c1b8c6",
+      "reason": "Generated fluid/smoke visual-effects still, not real high-speed photography, an experiment, validated fluid simulation or physical explosion documentation."
+    },
+    "fluid-smoke-explosion/single-fluid-smoke-explosion-studies/signature-frame": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "a627cd61b4ac064d2296adc542e80db66e044f38",
+      "nativeSha256": "b12fef0b10924d6d986301f037b712fe9fc4c5156192f25b99367990eb134c56",
+      "reason": "Generated fluid/smoke visual-effects still, not real high-speed photography, an experiment, validated fluid simulation or physical explosion documentation."
+    },
+    "food-cross-section-atlas/single-food-cross-section-studies/macro-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "6616ff5c6abb8c1bf9ad64fbf38fd15d82af42b9",
+      "nativeSha256": "dd8c25871864600e5e777fb162eb8da95b9cef908873dcc9072adbd1fdbd7ee9",
+      "reason": "Synthetic food cross-section editorial image, not a real dissected specimen, verified botanical anatomy, recipe or edibility/safety evidence. No inference that the generated mushroom is safe to eat."
+    },
+    "food-cross-section-atlas/single-food-cross-section-studies/side-light-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "4200c7aa47a23d555401fdebf9ca209424ab2f51",
+      "nativeSha256": "f362e42392e8cc079c90ee56fd44a278191216b05fe19ee1649cae619cb8152d",
+      "reason": "Synthetic food cross-section editorial image, not a real dissected specimen, verified botanical anatomy, recipe or edibility/safety evidence. No inference that the generated mushroom is safe to eat."
+    },
+    "food-cross-section-atlas/single-food-cross-section-studies/motion-moment": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "e7cf07b1df752fbf10b7ff7a049e72bf0a1e959e",
+      "nativeSha256": "340e80fcfcef2dee3e7a964fbb770b8e232a0f7e2a54a5549b278f4def3c41eb",
+      "reason": "Synthetic food cross-section editorial image, not a real dissected specimen, verified botanical anatomy, recipe or edibility/safety evidence. No inference that the generated mushroom is safe to eat."
+    },
+    "food-cross-section-atlas/single-food-cross-section-studies/low-light-atlas": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "sheet": 76,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "7b91756eac1ee0ad7d34d82f85ee80522aea8ad4",
+      "nativeSha256": "8304f15edd0c7b7558f2a03a1cacfc153b1a304276a92c69283e85410758146a",
+      "reason": "Synthetic food cross-section editorial image, not a real dissected specimen, verified botanical anatomy, recipe or edibility/safety evidence. No inference that the generated mushroom is safe to eat."
+    },
+    "food-cross-section-atlas/single-food-cross-section-studies/specimen-table": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d90bf387e1c29e6d2c8f0bb6fdb7a8e26c2eb147",
+      "nativeSha256": "37cffde84c41f264abcea22a81f33b8be9c97c98d254a487c65ec03ae3d918c9",
+      "reason": "Synthetic food cross-section atlas, not an actual specimen, verified recipe, exact biological diagram or cooking/food-safety standard."
+    },
+    "food-cross-section-atlas/single-food-cross-section-studies/atmospheric-view": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "8e6f317812b7a38cb458cd954deb605658c2a651",
+      "nativeSha256": "a097cccf9f92d560a15d66e3160a043e2517484128fd2deb8691cbfa39f4a3c4",
+      "reason": "Synthetic food cross-section atlas, not an actual specimen, verified recipe, exact biological diagram or cooking/food-safety standard."
+    },
+    "food-cross-section-atlas/single-food-cross-section-studies/signature-frame": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f077e3cd7790393aaeeb0ef5769c3f43d9688e4e",
+      "nativeSha256": "bfc8a006ba62d259c28830503709b8734993f38da833fcd73e831c37508fd3ef",
+      "reason": "Synthetic food cross-section atlas, not an actual specimen, verified recipe, exact biological diagram or cooking/food-safety standard."
+    },
+    "forensic-scene-reconstruction/single-forensic-scene-reconstruction-studies/scene-overview": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "815bf5cc141daaa6409bde33c46c5dfb5e225008",
+      "nativeSha256": "acdf75cd1fd3d02888b47b58b1d74b109ced5921a99c6bfbb7bbafc25c01de22",
+      "reason": "Generated fictional forensic-scene visualization; no actual crime, victim, suspect, evidence, causal inference or real investigation. This is an illustrative concept, not validated blood-spatter/ballistics science or a reconstruction to use as evidence."
+    },
+    "forensic-scene-reconstruction/single-forensic-scene-reconstruction-studies/object-cluster": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "3d36334f0140e5f2316e7bae870b7a8725d2761b",
+      "nativeSha256": "744d2f60c544206c87dfb0543233ae93092d78e091860572d987f12cd4dd0e54",
+      "reason": "Generated fictional forensic-scene visualization; no actual crime, victim, suspect, evidence, causal inference or real investigation. This is an illustrative concept, not validated blood-spatter/ballistics science or a reconstruction to use as evidence."
+    },
+    "forensic-scene-reconstruction/single-forensic-scene-reconstruction-studies/timeline-board": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "c676a855c8a9c84718cc71fe316a7a5c15511c07",
+      "nativeSha256": "18472faec65cfeb46ff3a38cdd48da1c59ca213523982835d95450f2fc73a8de",
+      "reason": "Generated fictional forensic-scene visualization; no actual crime, victim, suspect, evidence, causal inference or real investigation. This is an illustrative concept, not validated blood-spatter/ballistics science or a reconstruction to use as evidence."
+    },
+    "forensic-scene-reconstruction/single-forensic-scene-reconstruction-studies/entry-angle": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "a15aef37f1a47d2a70bdb5be0f0a7373ec680d50",
+      "nativeSha256": "c1a1deb6958d3a58ad19a3558c85d8238468dfba0370e56c989ce17dd0245ac2",
+      "reason": "Generated fictional forensic-scene visualization; no actual crime, victim, suspect, evidence, causal inference or real investigation. This is an illustrative concept, not validated blood-spatter/ballistics science or a reconstruction to use as evidence."
+    },
+    "forensic-scene-reconstruction/single-forensic-scene-reconstruction-studies/evidence-table": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "b888bd05807bc6c8e1c7e9257b1fd983b4726d55",
+      "nativeSha256": "73441507520a13239525ebc70467bef8885e09e31f4463e78c046365c982a7ef",
+      "reason": "Generated fictional forensic-scene visualization; no actual crime, victim, suspect, evidence, causal inference or real investigation. This is an illustrative concept, not validated blood-spatter/ballistics science or a reconstruction to use as evidence."
+    },
+    "forensic-scene-reconstruction/single-forensic-scene-reconstruction-studies/detail-callout": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "4422dc7295b289c458cc095e989d9ab700e6fe9e",
+      "nativeSha256": "b64355405b873dc1fccc9c3d45d3c322859929faf6bf6b8b097f9df40a0a15e0",
+      "reason": "Generated fictional forensic-scene visualization; no actual crime, victim, suspect, evidence, causal inference or real investigation. This is an illustrative concept, not validated blood-spatter/ballistics science or a reconstruction to use as evidence."
+    },
+    "forensic-scene-reconstruction/single-forensic-scene-reconstruction-studies/spatial-model": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "1238b327ae1f19b67077434fd2ab003960ee97e1",
+      "nativeSha256": "9ed9417aac0fc6579c36602b6651e55294fd5a3e25dbbe55e9dd198df5afcd6b",
+      "reason": "Generated fictional forensic-scene visualization; no actual crime, victim, suspect, evidence, causal inference or real investigation. This is an illustrative concept, not validated blood-spatter/ballistics science or a reconstruction to use as evidence."
+    },
+    "forensic-scene-reconstruction/single-forensic-scene-reconstruction-studies/final-reconstruction": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "0bfa523f167e19628c6f4aab4857e482b089f1eb",
+      "nativeSha256": "3733dcf43c6b856ccf5ead3d933c0726ad4c89389c724b2c744ee05f2ecb5ca4",
+      "reason": "Generated fictional forensic-scene visualization; no actual crime, victim, suspect, evidence, causal inference or real investigation. This is an illustrative concept, not validated blood-spatter/ballistics science or a reconstruction to use as evidence."
+    },
+    "forest-fog-morning-reverie/series-core-system/01-reference-anchor": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "5739024442fe112b3bab14673802a4bed8797795",
+      "nativeSha256": "d894705f628f4e1b71210ef6114c1b2d2d0a2a6de0adbf82672dd845188cbb06",
+      "reason": "Generated forest/deer atmosphere still, not real wildlife capture, measured fog physics or a geolocated landscape. Native dark tones and declared reference dependencies retained."
+    },
+    "forest-fog-morning-reverie/series-core-system/02-closer-frame": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "e695bb4f224b32b8a28584730f537bc4892d00a8",
+      "nativeSha256": "992146993bd0510d740a16fb2306048938e8f3847ae769cf80ad00884fd05b55",
+      "reason": "Generated forest/deer atmosphere still, not real wildlife capture, measured fog physics or a geolocated landscape. Native dark tones and declared reference dependencies retained."
+    },
+    "forest-fog-morning-reverie/series-core-system/03-spatial-counterpoint": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d7fe93c577e0fee98609aff68ae0f7cffdfeab03",
+      "nativeSha256": "7e2ae7155055fd29240edb18511d98b8ddf20d181074de0fe4d6d6e097b08ded",
+      "reason": "Generated forest/deer atmosphere still, not real wildlife capture, measured fog physics or a geolocated landscape. Native dark tones and declared reference dependencies retained."
+    },
+    "forest-fog-morning-reverie/series-core-system/04-climax-frame": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "a302456eb11e591a6b6b578d83ea6cb01603ac95",
+      "nativeSha256": "ae4ea88d38bf54e803d19865579ee15bc96bbf33854e8acf685e99a2ccc624b5",
+      "reason": "Generated forest/deer atmosphere still, not real wildlife capture, measured fog physics or a geolocated landscape. Native dark tones and declared reference dependencies retained."
+    },
+    "forest-fog-morning-reverie/single-support-studies/surface-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "sheet": 77,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "0260ccbdfa991724a4285a4d5d8c2c4e967e57e7",
+      "nativeSha256": "3abde41c1bb6201eb877d21ff5a33180628a1afbd91e51312fa9a917b63be4d9",
+      "reason": "Generated forest/deer atmosphere still, not real wildlife capture, measured fog physics or a geolocated landscape. Native dark tones and declared reference dependencies retained."
+    },
+    "forest-fog-morning-reverie/single-support-studies/silhouette-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "80d7ecf144592e5f53d6f091127ffd30d75c2fd3",
+      "nativeSha256": "dfb641200941a1128c6bb8584f7ee15705d3e407db84ab775d3a270dead8925a",
+      "reason": "Synthetic forest/deer atmosphere study, not actual wildlife reportage, measured fog simulation or geolocated terrain."
+    },
+    "forest-fog-morning-reverie/single-support-studies/transition-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "c5cc8e71dd0a0de8663caaaedcaaad6080637d9a",
+      "nativeSha256": "dbfc5e68017eeb6dd6290b220905f600fe344f1aed76bd8e0bc8f860a5e06667",
+      "reason": "Synthetic forest/deer atmosphere study, not actual wildlife reportage, measured fog simulation or geolocated terrain."
+    },
+    "forest-fog-morning-reverie/single-support-studies/wide-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "5f43ed8b13be727f28a8209c52fc143a7323829f",
+      "nativeSha256": "90de290ea7ea19f1e171c8c3498949fd34d7cddbe7455c8489d64aecc899bfdf",
+      "reason": "Synthetic forest/deer atmosphere study, not actual wildlife reportage, measured fog simulation or geolocated terrain."
+    },
+    "forest-fog-morning-reverie/single-support-studies/afterglow-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "446016036fc09b5371cb6b57411cd75190f2306a",
+      "nativeSha256": "6405b9e01311aadaa0d3b3b7229fd43ec8d87ee2ad9657d052dc84968b85be56",
+      "reason": "Synthetic forest/deer atmosphere study, not actual wildlife reportage, measured fog simulation or geolocated terrain."
+    },
+    "founder-headshot-lighting-matrix/series-identity-lock/01-identity-reference": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "cb6b9f31512df74969567b0dd67729fc4423a045",
+      "nativeSha256": "25ff77de6bf9ff52f8728dfe7d0aade19884a9d084f581db086a1c492b9782dd",
+      "reason": "Generated fictional founder headshot matrix, not identified real executive, genuine company portrait session or verified biometric consistency test. Preserve source references and actual tailoring/lighting variations."
+    },
+    "founder-headshot-lighting-matrix/series-identity-lock/02-clean-white-studio": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "b8d1bf64fc921f1d25635ac5e7c0f61d417940a1",
+      "nativeSha256": "dddf9766fbfc5a67c6b45c9d6fcd2a7106123db6d6fb2212511eb40c5f282429",
+      "reason": "Generated fictional founder headshot matrix, not identified real executive, genuine company portrait session or verified biometric consistency test. Preserve source references and actual tailoring/lighting variations."
+    },
+    "founder-headshot-lighting-matrix/series-identity-lock/03-dark-tech-rim-light": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "5ec57e091c7ba2d7fd75c0cf1ef67d09cd395e88",
+      "nativeSha256": "c52b401f8df6642421aa7f4227dec751fb47d836502d99527069d4b9d007cb85",
+      "reason": "Generated fictional founder headshot matrix, not identified real executive, genuine company portrait session or verified biometric consistency test. Preserve source references and actual tailoring/lighting variations."
+    },
+    "founder-headshot-lighting-matrix/series-identity-lock/04-warm-hospitality-portrait": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "71f50638e21f165f41793f4f7df76c59e29b644d",
+      "nativeSha256": "04d59a612d4e5cc14f50a6802e0bfe9ee7f86aed39411b8374a9788721ab7bf4",
+      "reason": "Generated fictional founder headshot matrix, not identified real executive, genuine company portrait session or verified biometric consistency test. Preserve source references and actual tailoring/lighting variations."
+    },
+    "founder-headshot-lighting-matrix/series-identity-lock/05-editorial-black-backdrop": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "2e08df094bacd9a0068f0d0e2ebcd8b53056381a",
+      "nativeSha256": "7ffe691631c3707248dcb1824986688e5e2bb0ddb0dbf875b197bb7e565cb3df",
+      "reason": "Generated fictional founder headshot matrix, not identified real executive, genuine company portrait session or verified biometric consistency test. Preserve source references and actual tailoring/lighting variations."
+    },
+    "founder-headshot-lighting-matrix/series-identity-lock/06-soft-window-office": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "2c38df5754356e107829c82d9c36d5db20974612",
+      "nativeSha256": "2ccf5a91763aef65d5bb2d000fc3e591056c8142e572c8f6b11193d4f51657a7",
+      "reason": "Generated fictional founder headshot matrix, not identified real executive, genuine company portrait session or verified biometric consistency test. Preserve source references and actual tailoring/lighting variations."
+    },
+    "founder-headshot-lighting-matrix/series-identity-lock/07-seated-thought-leader": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "116df2478f3116eb804baae6a760060cabc182de",
+      "nativeSha256": "c93af22e77d84e213eab13ed130fe50747d733661f11fb0ca6021127deef450b",
+      "reason": "Generated fictional founder headshot matrix, not identified real executive, genuine company portrait session or verified biometric consistency test. Preserve source references and actual tailoring/lighting variations."
+    },
+    "founder-headshot-lighting-matrix/series-identity-lock/08-profile-confidence": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "756a6969744bac0b6e9afe144650408b1de90c8c",
+      "nativeSha256": "18049429fc06055904d811874227aadd63c779a9c3ea36a9fe78277f6f3f3fae",
+      "reason": "Generated fictional founder headshot matrix, not identified real executive, genuine company portrait session or verified biometric consistency test. Preserve source references and actual tailoring/lighting variations."
+    },
+    "founder-headshot-lighting-matrix/series-identity-lock/09-founder-casual-finish": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "95206e04edc24810805939a90cd636f0ee9e9ea7",
+      "nativeSha256": "675309dff97898af0dd772931d6c3298e7e6609124ef1a9922d17318b3a53185",
+      "reason": "Generated fictional founder headshot matrix, not identified real executive, genuine company portrait session or verified biometric consistency test. Preserve source references and actual tailoring/lighting variations."
+    },
+    "four-panel-gag-sequence/series-core-system/01-reference-anchor": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "0c96b63d9bac60bfb56b6725ea7eca43801f3e2c",
+      "nativeSha256": "74610c28cece2a4639a72119c8b43a29013dadce243188fc7b5e5cc3d360e5c9",
+      "reason": "Source Four-Panel Gag title yields a four-slot game-art frame with empty panels, corresponding to its generic modular-board brief. No completed comic, readable joke, sequential story or functional game is claimed."
+    },
+    "four-panel-gag-sequence/series-core-system/02-variant-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "7399478d33685cb9b39cffb0eaefe47a4afa4ed8",
+      "nativeSha256": "6f40ccbb1a452b07e71afb6f136c52586721c7413ae42116179f97fe681c90cc",
+      "reason": "Source Four-Panel Gag title yields a four-slot game-art frame with empty panels, corresponding to its generic modular-board brief. No completed comic, readable joke, sequential story or functional game is claimed."
+    },
+    "four-panel-gag-sequence/series-core-system/03-variant-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "sheet": 78,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "3b1fdc2d4343e56e0f209b6853e0170650acde82",
+      "nativeSha256": "9b07c2ae1bdbbede7c35c0f22c19db27fd6114405532a36b434d348699d018bd",
+      "reason": "Source Four-Panel Gag title yields a four-slot game-art frame with empty panels, corresponding to its generic modular-board brief. No completed comic, readable joke, sequential story or functional game is claimed."
+    },
+    "four-panel-gag-sequence/series-core-system/04-variant-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "2968820fa839b22b735b2fed67986494c1350d89",
+      "nativeSha256": "534c038d3417f53c606b955e5628a14616456381daa787d8034ca024e4cdd350",
+      "reason": "Four-panel game-art layout/illustrated gag study. Empty slots and abstract buttons retained, not a finished readable comic, functional interface or animation. Incidental panel numbers in support-four remain source deviations."
+    },
+    "four-panel-gag-sequence/single-support-studies/support-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "90405a644b8810047ac1c3b3db09adb868800ed3",
+      "nativeSha256": "f380edf7d77c6b8cccb321b001de5e64a9f4311a8725454d7d34b451e30ebe0e",
+      "reason": "Four-panel game-art layout/illustrated gag study. Empty slots and abstract buttons retained, not a finished readable comic, functional interface or animation. Incidental panel numbers in support-four remain source deviations."
+    },
+    "four-panel-gag-sequence/single-support-studies/support-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f5ffbdbf6c7bc27a712010efa60715cebe7431e6",
+      "nativeSha256": "48c1e6dfb86d2cc0c43175ec3d723fecb8d1193e89a990ab39462f45f98255bf",
+      "reason": "Four-panel game-art layout/illustrated gag study. Empty slots and abstract buttons retained, not a finished readable comic, functional interface or animation. Incidental panel numbers in support-four remain source deviations."
+    },
+    "four-panel-gag-sequence/single-support-studies/support-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d20cb6ebd12edb41bb45659e2a9fbfe218c5e7b9",
+      "nativeSha256": "806c4d2873ec531269598ba55073e0d040db4b44355f7ecac8e8fa219dd1119f",
+      "reason": "Four-panel game-art layout/illustrated gag study. Empty slots and abstract buttons retained, not a finished readable comic, functional interface or animation. Incidental panel numbers in support-four remain source deviations."
+    },
+    "four-panel-gag-sequence/single-support-studies/support-four": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "248436039e8a1947c6ab98afdd4f28f09fc5b583",
+      "nativeSha256": "e38673b117ccf850ca5faf3ff3104cbbe17e903e9d14b7577eb33a609d3f4356",
+      "reason": "Four-panel game-art layout/illustrated gag study. Empty slots and abstract buttons retained, not a finished readable comic, functional interface or animation. Incidental panel numbers in support-four remain source deviations."
+    },
+    "four-panel-gag-sequence/single-support-studies/support-five": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "b3ab79c702992b0dbbd7d2f3dbd6f55f8a705d71",
+      "nativeSha256": "823e44bb8ed6f9124c22250909c41ecd2c9b380fa74bee6f569800e516a750d1",
+      "reason": "Four-panel game-art layout/illustrated gag study. Empty slots and abstract buttons retained, not a finished readable comic, functional interface or animation. Incidental panel numbers in support-four remain source deviations."
+    },
+    "fractal-generative-art/single-fractal-generative-art-studies/hero-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "0c2db399884d15d9ab9628d43d1e28a822028af7",
+      "nativeSha256": "4504fdc992e401efeef14fb7980376023d861485f4852238673383c8b1fc81a1",
+      "reason": "Fractal-inspired generated art, not mathematically calculated Mandelbrot/Voronoi/L-system output, a real generative algorithm execution or demonstrated recursive proof. Original art/texture/comparison panels retained."
+    },
+    "fractal-generative-art/single-fractal-generative-art-studies/variant-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d4daf56a9a701374890179b62482d947ad1cb9cb",
+      "nativeSha256": "23de4299f41fcef6ad4f0dda40e3ad96ab7a31b372c3242f86ce97034ae3bb62",
+      "reason": "Fractal-inspired generated art, not mathematically calculated Mandelbrot/Voronoi/L-system output, a real generative algorithm execution or demonstrated recursive proof. Original art/texture/comparison panels retained."
+    },
+    "fractal-generative-art/single-fractal-generative-art-studies/process-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d236adb67485f777412f41c81714f99e68e33371",
+      "nativeSha256": "975a7c2ef55f68a8fdd5e50275c189255d177686088e8359c83b4aeee6b361cb",
+      "reason": "Fractal-inspired generated art, not mathematically calculated Mandelbrot/Voronoi/L-system output, a real generative algorithm execution or demonstrated recursive proof. Original art/texture/comparison panels retained."
+    },
+    "fractal-generative-art/single-fractal-generative-art-studies/detail-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d53748ac3d157232fe023c0f9535f86943f62b10",
+      "nativeSha256": "cf2499427e5df5762b5adf129360d1ea3a8e792c3b6f5c3209122f20118e4ff9",
+      "reason": "Fractal-inspired generated art, not mathematically calculated Mandelbrot/Voronoi/L-system output, a real generative algorithm execution or demonstrated recursive proof. Original art/texture/comparison panels retained."
+    },
+    "fractal-generative-art/single-fractal-generative-art-studies/environment-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "c437e592cc6c12a832eca177c63ef5ad7feaf4d2",
+      "nativeSha256": "c8c9c4ce9b63473149d3c245366b23f123a85f59febcf18ec199809a18cda803",
+      "reason": "Fractal-inspired generated art, not mathematically calculated Mandelbrot/Voronoi/L-system output, a real generative algorithm execution or demonstrated recursive proof. Original art/texture/comparison panels retained."
+    },
+    "fractal-generative-art/single-fractal-generative-art-studies/comparison-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "3e92aab978621a43e834abfa311d05bccc92b0a7",
+      "nativeSha256": "f91bf41490745958a7df544fb20bf7546e02593c6ed7b7b7200228aee808931c",
+      "reason": "Fractal-inspired generated art, not mathematically calculated Mandelbrot/Voronoi/L-system output, a real generative algorithm execution or demonstrated recursive proof. Original art/texture/comparison panels retained."
+    },
+    "fractal-generative-art/single-fractal-generative-art-studies/system-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "709ba4c2115dcae78620c5ca96704edb959f37c2",
+      "nativeSha256": "7c57dcbf5969f9b645a9aa2ccfe16d6f98e4ffd2e8d3071054f1e41e9f8b7ce9",
+      "reason": "Fractal-inspired generated art, not mathematically calculated Mandelbrot/Voronoi/L-system output, a real generative algorithm execution or demonstrated recursive proof. Original art/texture/comparison panels retained."
+    },
+    "fractal-generative-art/single-fractal-generative-art-studies/signature-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d3d20258db79cf2a29080f06d52060f18e45d864",
+      "nativeSha256": "02607ee19eadb8c1c986a2deebca53f1a8e77e788bd5282c06e326891fd8adee",
+      "reason": "Fractal-inspired generated art, not mathematically calculated Mandelbrot/Voronoi/L-system output, a real generative algorithm execution or demonstrated recursive proof. Original art/texture/comparison panels retained."
+    },
+    "fractal-mandelbrot-manuscript/single-fractal-manuscript-studies/01-illuminated-core-folio": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "bea983f999ac1e9aaab0b5abcc24be70e2c71b54",
+      "nativeSha256": "f15d9340282f93e67aaa44eeb046e985d5710f4d5ae1d589eed10f954cc75255",
+      "reason": "Fictional illuminated Mandelbrot-like manuscript artwork, not a historical folio or mathematically verified fractal computation. Source uses like/inspired structure; decorative recursion retained without a numerical accuracy claim."
+    },
+    "fractal-mandelbrot-manuscript/single-fractal-manuscript-studies/02-seahorse-marginalia": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "sheet": 79,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "5ee52036a8f935a5ada408088c15829d2986a072",
+      "nativeSha256": "17857842c215cc2b7ce7b2d7a55d9b08faccd3d3072917f03dd5dc383b1066c3",
+      "reason": "Fictional illuminated Mandelbrot-like manuscript artwork, not a historical folio or mathematically verified fractal computation. Source uses like/inspired structure; decorative recursion retained without a numerical accuracy claim."
+    },
+    "fractal-mandelbrot-manuscript/single-fractal-manuscript-studies/03-gilded-border-recursion": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "ba32ee4515b6da122aa064f1e818207cf178804c",
+      "nativeSha256": "1faac89814635c9e01b1a69152505c19dc765290d6ad24b86642ec9c0c80d5ac",
+      "reason": "Fictional illuminated fractal manuscript art, not an actual historic folio, true computed Mandelbrot sequence or astronomical measurement. Preserve decorative recursion without mathematical certification."
+    },
+    "fractal-mandelbrot-manuscript/single-fractal-manuscript-studies/04-ink-bloom-zoom": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "74385e15283a4b568d2c36000b240cb29e19b0fc",
+      "nativeSha256": "ac3a79d87eee80062bb68bc91d1b2067c8795cc7875599cb653a64530e3ac6b4",
+      "reason": "Fictional illuminated fractal manuscript art, not an actual historic folio, true computed Mandelbrot sequence or astronomical measurement. Preserve decorative recursion without mathematical certification."
+    },
+    "fractal-mandelbrot-manuscript/single-fractal-manuscript-studies/05-astronomical-scriptorium": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "75008cab299eb0e1f9780035d0c916839df1cde1",
+      "nativeSha256": "9b59904c1cd41ceca4ae1dcc00206de3566be4670376f0526518bdf78e5aa8c9",
+      "reason": "Fictional illuminated fractal manuscript art, not an actual historic folio, true computed Mandelbrot sequence or astronomical measurement. Preserve decorative recursion without mathematical certification."
+    },
+    "fractal-mandelbrot-manuscript/single-fractal-manuscript-studies/06-lapis-initial-page": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "11b832e663f564e82210cc3d5bf4f222737bd019",
+      "nativeSha256": "dbc88c8226db5eb8bc00bfb3e564e89493af65ba483327ab616589581223316e",
+      "reason": "Fictional illuminated fractal manuscript art, not an actual historic folio, true computed Mandelbrot sequence or astronomical measurement. Preserve decorative recursion without mathematical certification."
+    },
+    "fractal-mandelbrot-manuscript/single-fractal-manuscript-studies/07-candle-smoke-archive": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "3cdac88d9d6e192e8c9a08e63d83d0977c98fd4f",
+      "nativeSha256": "4b29c2bbcbfefd1f4749318ae731e8221bdaefc6a40e4317d4da9847596a818b",
+      "reason": "Fictional illuminated fractal manuscript art, not an actual historic folio, true computed Mandelbrot sequence or astronomical measurement. Preserve decorative recursion without mathematical certification."
+    },
+    "fractal-mandelbrot-manuscript/single-fractal-manuscript-studies/08-red-black-diagram": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "03997bb6311a916080a3ef1ce8bea4c37257fc4e",
+      "nativeSha256": "2c43be541d1e7461c6c4a908844f1387b2aebc9079c4d9c9edb0a9fda6760717",
+      "reason": "Fictional illuminated fractal manuscript art, not an actual historic folio, true computed Mandelbrot sequence or astronomical measurement. Preserve decorative recursion without mathematical certification."
+    },
+    "fractal-mandelbrot-manuscript/single-fractal-manuscript-studies/09-velvet-frontispiece": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d120651bd77b0d6d6522142f6eca61993bc5f225",
+      "nativeSha256": "b1cf51dcfd57ed452c791a8c76ac79c5656909e397cae4e38a96104ee9da5a17",
+      "reason": "Fictional illuminated fractal manuscript art, not an actual historic folio, true computed Mandelbrot sequence or astronomical measurement. Preserve decorative recursion without mathematical certification."
+    },
+    "french-bistro-print-and-table-culture/series-core-system/01-reference-anchor": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "9aee4d5bfa8c1fcab1352986e78b63e87f68c20f",
+      "nativeSha256": "a04bd9f79d826692554acda280a524cdff19dd03c27f7607099ab71adb5a8123",
+      "reason": "Fictional French-bistro tableware/print and game-art mood board, not a real restaurant identity, manufacturer product, licensed porcelain pattern or finished software. Full generic source brief and reference requirements preserved."
+    },
+    "french-bistro-print-and-table-culture/series-core-system/02-variant-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "75bc6a689a8c6bbd22fb803ef6bfa95a8f272ae4",
+      "nativeSha256": "71672b0c9e310916bded363039c95157c39cb671f009bf95eae294611b14a520",
+      "reason": "Fictional French-bistro tableware/print and game-art mood board, not a real restaurant identity, manufacturer product, licensed porcelain pattern or finished software. Full generic source brief and reference requirements preserved."
+    },
+    "french-bistro-print-and-table-culture/series-core-system/03-variant-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "15eca5474ccd845a59123ae8d122315fea554efe",
+      "nativeSha256": "bca31f3d29716172019967ec000ced41b9374910e4ac0a29826fbe31fff3f172",
+      "reason": "Fictional French-bistro tableware/print and game-art mood board, not a real restaurant identity, manufacturer product, licensed porcelain pattern or finished software. Full generic source brief and reference requirements preserved."
+    },
+    "french-bistro-print-and-table-culture/series-core-system/04-variant-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "566aff923c784e8cecc4be1465089e81fe9552cd",
+      "nativeSha256": "d046b69a60d090fb708dcb308fdc0f335dd7b8a386ee5e44f9d282b9a5b5d98f",
+      "reason": "Fictional French-bistro tableware/print and game-art mood board, not a real restaurant identity, manufacturer product, licensed porcelain pattern or finished software. Full generic source brief and reference requirements preserved."
+    },
+    "french-bistro-print-and-table-culture/single-support-studies/support-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "5d74da0aa3e1c6cb5758a81363ad8acfe092061e",
+      "nativeSha256": "1fe1e928121ee353fa7c3c03c9e5d1c52feb530e80b717e5ed451a7f8158c2a7",
+      "reason": "Fictional French-bistro tableware/print and game-art mood board, not a real restaurant identity, manufacturer product, licensed porcelain pattern or finished software. Full generic source brief and reference requirements preserved."
+    },
+    "french-bistro-print-and-table-culture/single-support-studies/support-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "7f261a2256f32b9ea3b4c968499804cbea58a89b",
+      "nativeSha256": "64806e7c903991c3ae8848f23826bbdfc83d09807e8b475a1624e64379da8e46",
+      "reason": "Fictional French-bistro tableware/print and game-art mood board, not a real restaurant identity, manufacturer product, licensed porcelain pattern or finished software. Full generic source brief and reference requirements preserved."
+    },
+    "french-bistro-print-and-table-culture/single-support-studies/support-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "5e91ebd2126d4121de86370a44bb7edddce8a6c8",
+      "nativeSha256": "8a14287301b5b4f69d9e7a074777d14fc83d150cefaeb2b4d146cfd2173ddbfa",
+      "reason": "Fictional French-bistro tableware/print and game-art mood board, not a real restaurant identity, manufacturer product, licensed porcelain pattern or finished software. Full generic source brief and reference requirements preserved."
+    },
+    "french-bistro-print-and-table-culture/single-support-studies/support-four": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "b605f8e4ff6d0b4205accc1d8fcaa2a1b4e4f129",
+      "nativeSha256": "eb4d697b3a93076c628815d8f387d019f38f663decad38bf70b44f4b580cba0a",
+      "reason": "Fictional French-bistro tableware/print and game-art mood board, not a real restaurant identity, manufacturer product, licensed porcelain pattern or finished software. Full generic source brief and reference requirements preserved."
+    },
+    "french-bistro-print-and-table-culture/single-support-studies/support-five": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
+      "sheet": 80,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "534b699c578009b45a99ef4ad4e72a41cf825859",
+      "nativeSha256": "50e72ae8bc3abc31154e3a47db8d765f6e93c92c31e2ad05bbe11cd90eb28fdb",
+      "reason": "Fictional French-bistro tableware/print and game-art mood board, not a real restaurant identity, manufacturer product, licensed porcelain pattern or finished software. Full generic source brief and reference requirements preserved."
     }
   },
   "sheets": {
@@ -11916,6 +13196,46 @@
     },
     "72": {
       "reviewedAt": "2026-11-05T18:27:09.320360+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "73": {
+      "reviewedAt": "2026-11-05T18:31:29.932540+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "74": {
+      "reviewedAt": "2026-11-05T18:32:20.797848+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "75": {
+      "reviewedAt": "2026-11-05T18:32:56.834821+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "76": {
+      "reviewedAt": "2026-11-05T18:33:46.651919+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "77": {
+      "reviewedAt": "2026-11-05T18:34:43.452390+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "78": {
+      "reviewedAt": "2026-11-05T18:36:22.212238+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "79": {
+      "reviewedAt": "2026-11-05T18:38:02.270788+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "80": {
+      "reviewedAt": "2026-11-05T18:38:41.751159+00:00",
       "cases": 16,
       "held": 0
     }
