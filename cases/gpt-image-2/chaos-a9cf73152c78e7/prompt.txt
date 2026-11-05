@@ -1,0 +1,14 @@
+Scene:
+Create a square reference-dependent architecture still for Pop-up Shop and Event Installation Kit. Use a view focused on the modular counter and shelving system within the pop-up while keeping the same lens discipline, editorial polish, and material believability established by the reference image. The lighting can shift to support the intended mood, but the space must still feel like the same authored project with a stable viewpoint logic, convincing depth separation, and clean commercial-photography finish. Keep soft neutral base with one strong accent color, translucent whites, brushed metal, and controlled event lighting as the governing tonal range even when the emphasis changes.
+
+Subject:
+Show a modular pop-up and event installation built from tubular frames, translucent panels, bold but refined color blocks, sculpted counters, photo-op arches, and a circulation path designed for sharing and recall. Focus on the exact same pop-up from the reference image, now emphasizing transaction surfaces and product handling zones. Preserve exact architectural identity, plan logic, material palette, fixture family, and circulation cues from the reference image while changing only the intended emphasis described here. The viewer should immediately recognize the same project, not a loose cousin, with matching silhouette logic, aligned detailing, and consistent brand atmosphere.
+
+Important details:
+Preserve the tubular frame language, translucent panel system, accent-color blocking, modular counters, and camera-friendly circulation. Any abstract wayfinding, menu, wall-label, or packaging zones must stay unreadable and subordinate to the spatial image. Joinery, edges, reflections, and lighting should remain realistic enough for an operator or design team to treat the image as a credible reference. The variation should feel deliberate and commercially useful, proving that one locked spatial language can flex across multiple campaign or editorial surfaces.
+
+Use case:
+Pop-up Shop and Event Installation Kit series study 3/9, extending sell-through functionality within the same event language.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact architectural identity from the reference image, no crowds, no branded slogans, no cheap balloon decor, no stage truss overload, no festival chaos, no payment terminal UI.

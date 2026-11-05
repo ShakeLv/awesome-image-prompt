@@ -1,0 +1,14 @@
+Scene:
+A square conservation-table view of a vintage poster laid on gray felt under raking light, with visible fold lines, softened corners, and subtle aging that still preserves the integrity of the image. The poster should express dry surreal theatre-poster logic using one impossible symbol, large mute fields, and an intellectual deadpan mood, using ash gray, olive, umber, bone, and a single acid orange or neon pink accent and a tactile surface appropriate to the medium.
+
+Subject:
+Present the poster as an archive copy that has been stored, unfolded, and carefully documented, letting age and handling reveal how the design holds up across time. Use elongated limbs, bird cages, eggs, microphones, masks, curtains, keys, and impossible body-object hybrids as the main visual ingredients, and organize them with quiet hand-drawn title blocks used as texture and spacing devices rather than readable type. For the contemporary-subject axis, thread in remote-work objects, earbuds, and subway handles fused into a deadpan surreal theatre metaphor. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Aging must stay believable rather than theatrical: slight yellowing, fold memory, edge wear, and pigment variation should support the historical or crafted feeling of the style. Preserve symbolic compression, painterly paper tooth, sparse composition, and one decisive accent color. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no crowded collage, no glamour sheen, no literal plot illustration, no cheerful advertising tone.
+
+Use case:
+Polish Surrealist single study 5/9, testing archival endurance and age character.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

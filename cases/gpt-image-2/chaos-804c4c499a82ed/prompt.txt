@@ -1,0 +1,14 @@
+Scene:
+Create a square 1:1 portrait image for Personal Brand Portrait System. Use a square layout that still reads as photography first, with restrained panel logic, tidy spacing, and agency-grade presentation cues but no readable text. The frame should feel like a finished professional deliverable rather than a casual snapshot, with clear lens discipline, believable light falloff, and a palette that directly supports Create a full portrait system for creators, consultants, and public-facing professionals across profile photos, website hero images, and keynote promos.. Keep enough surrounding space and compositional control for gallery, research, campaign, or approval-board reuse while staying photoreal and human-scaled.
+
+Subject:
+Center one creator-founder in their thirties with light brown skin, long dark hair tucked behind one ear, intelligent eyes, and an approachable but polished posture. Combine the same identity into a structured final board or polished hero frame that implies contact-sheet usability, campaign approval, or press-kit readiness. Keep the subject dominant and recognizable within the layout. Use the example direction from the brief as grounding context: Create a full portrait system for creators, consultants, and public-facing professionals across profile photos, website hero images, and keynote promos.. Wardrobe, lighting, environment, and pose may shift to serve this variation, but the viewer must immediately understand that the same reference identity is still in front of the camera.
+
+Important details:
+This backlog line is difficult because Create a full portrait system for creators, consultants, and public-facing professionals across profile photos, website hero images, and keynote promos.. Preserve skin tone family, bone structure, eye spacing, nose shape, mouth shape, hairline logic, shoulder width, and overall body read across the entire series. preserve exact face / hair base / body proportions from the reference model. Structured presentation is allowed, but the face must still be the star. Preserve exact face / hair base / body proportions from the reference model while making the overall page logic convincing. Avoid the common failure described in the brief: ordinary image models often lose likeness once styling, lighting, or layout changes enter the frame. Success should feel like the result should feel professionally usable, coherent, and clearly built around one stable human identity.
+
+Use case:
+Personal Brand Portrait System series study 9/9, a polished approval-sheet or press-sheet finish.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no readable names, no slate numbers, no fake logos, no broken grid logic.

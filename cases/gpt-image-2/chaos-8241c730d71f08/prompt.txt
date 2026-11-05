@@ -1,0 +1,14 @@
+Scene:
+A square nighttime city view with the poster wrapping part of a cylindrical kiosk, wet pavement reflecting nearby light, and the composition holding together under moody urban illumination. The poster should express dry surreal theatre-poster logic using one impossible symbol, large mute fields, and an intellectual deadpan mood, using ash gray, olive, umber, bone, and a single acid orange or neon pink accent and a tactile surface appropriate to the medium.
+
+Subject:
+Reframe the design for a dramatic street-placement context, where the poster has to project style and mood through reflection, curvature, and surrounding darkness. Use elongated limbs, bird cages, eggs, microphones, masks, curtains, keys, and impossible body-object hybrids as the main visual ingredients, and organize them with quiet hand-drawn title blocks used as texture and spacing devices rather than readable type. For the contemporary-subject axis, thread in remote-work objects, earbuds, and subway handles fused into a deadpan surreal theatre metaphor. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+The design should remain instantly recognizable despite the cylindrical wrap. Preserve major blocks, symbolic shapes, and abstract title forms so the style still feels authoritative at night. Preserve symbolic compression, painterly paper tooth, sparse composition, and one decisive accent color. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no crowded collage, no glamour sheen, no literal plot illustration, no cheerful advertising tone.
+
+Use case:
+Polish Surrealist single study 8/9, testing atmospheric display under rain and glow.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

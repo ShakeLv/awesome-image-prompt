@@ -1,0 +1,14 @@
+Scene:
+A square commercial pet portrait built like a premium asset from a modern animal lifestyle brand. Use controlled studio or window light, accurate fur rendering, and a clean background with enough breathing room for avatar, packaging, and merch crops. The frame should feel intentionally art directed, with believable lens depth and restrained color grading rather than sentimental snapshot energy. Set the dog against a matte oatmeal backdrop with gentle side light and a faint grounded floor shadow so the portrait feels premium but approachable.
+
+Subject:
+Photograph one pet as the clear hero and let its personality read through posture, eye expression, ear position, and grooming detail. The animal must feel real, well cared for, and emotionally specific, with anatomy, coat pattern, and whisker detail treated seriously. Avoid clownish costume logic; the character comes from attitude, styling restraint, and portrait craft. The Labrador sits upright with chest forward, glossy coat detail, relaxed mouth, alert ears, and a gaze that signals dependable friendliness.
+
+Important details:
+Keep the image commercially reusable: crisp edges, clean separation from the background, subtle brand polish, and enough negative space for later design systems. Props may appear only when they reinforce the personality cue. Maintain trustworthy realism, elegant light falloff, and a finish that could sit on a profile card, tote bag, clinic brochure, or premium social post without redesigning the core image. Allow one slim olive neck scarf as the only styling element, simple enough to remain useful for packaging cutouts and profile icons.
+
+Use case:
+Pet Portrait Personality System single study 1/9, confident labrador brand hero for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no chaotic home interiors, no novelty meme expressions, no distorted anatomy, no extra animals, no cluttered props, no cropped off ears unless intentionally close, no playful party props, no open mouth panting, no muddy paws.

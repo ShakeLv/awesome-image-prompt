@@ -1,0 +1,14 @@
+Scene:
+A square pet holiday promo tile designed for brand campaigns, combining believable costume styling with feed friendly layout control and polished product marketing energy. The framing should feel commercial and celebratory rather than amateur party photography. Use clean seasonal props, soft placeholder graphic zones, and strong central subject clarity so the image can function across ads, organic social, and shop features. Compose a square tabletop set with wrapped boxes, tissue textures, soft ribbon forms, and one clear portrait space for the animal hero.
+
+Subject:
+Center one pet in a holiday outfit or themed accessory that looks comfortable, well fitted, and genuinely photographable. The animal must remain the hero, not the prop pile. Expression, posture, and styling should communicate the seasonal mood while preserving real anatomy, fur detail, and a sense of animal comfort. Avoid parody or heavy anthropomorphic comedy. Show a pet beside the gift arrangement, wearing a simple coordinated accessory and maintaining calm gift guide worthy eye contact.
+
+Important details:
+Treat each image like a campaign key tile with a disciplined palette, controlled set dressing, and enough compositional breathing room for future text overlays outside the image generation. Holiday atmosphere can come from color, lighting, and a few strong props. Keep the tone premium, charming, and retailer ready. The result should feel useful for product pages, promo banners, and carousel campaigns. The board should suggest a curated holiday bundle and premium gifting potential while keeping props secondary to the pet.
+
+Use case:
+Pet Holiday Costume Promo Set single study 9/9, gift box bundle holiday board for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable sale text, no oversized mascots, no heavy human costume parody, no chaotic party clutter, no unsafe accessories, no generic stock holiday card vibe, no brand packaging, no excessive ribbon tangle, no crowded retail shelf.

@@ -1,0 +1,14 @@
+Scene:
+A square prestige-streaming key art image set in a monumental ancestral council chamber with polished stone floors, candlelike side lighting, and towering carved walls that imply dynastic history without turning into fantasy spectacle. The palette is restrained: black, deep oxblood, parchment ivory, and muted brass. The frame should feel ceremonial, cold, and platform-ready, with a polished photographic finish rather than a painted tableau.
+
+Subject:
+Create a fictional ensemble of five heirs competing for control of an old empire. A stern eldest daughter sits in the central chair as the implied lead. Around her stand four rivals: a military brother in severe uniform, a scholar-sister holding a sealed document, a charming reformist cousin half turned away, and an elderly advisor whose presence is quiet but destabilizing. Arrange them so hierarchy is instantly readable: the lead is central and calm, the others orbit with distinct amounts of threat, resentment, and opportunism. Their faces and costumes should feel specific and believable, not generic fantasy cosplay.
+
+Important details:
+The key challenge is prestige-TV ensemble grammar applied to a historical power struggle. Use spacing, gaze direction, and subtle prop logic to show alliances and succession pressure. Keep the environment luxurious but understated so the cast remains the focus. This should feel like official campaign art for a serious serialized drama, not an adventure poster. Facial realism, wardrobe finish, and negative space discipline are critical.
+
+Use case:
+Prestige TV Key Art Remix single study 5/9, testing a dynastic council ensemble in premium streaming campaign language.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no swords drawn, no fantasy creature elements, no cluttered throne-room excess, no camp theatricality, no chaotic crowd scene.

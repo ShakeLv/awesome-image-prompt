@@ -1,0 +1,14 @@
+Scene:
+A square launch board for a pet lifestyle accessory brand, combining product hero presentation, tactile material realism, and polished commercial hierarchy. The image should feel ready for a launch drop, lookbook grid, or ecommerce campaign, with a disciplined palette and enough structure to support future text overlays outside the generated image. Keep the styling modern, giftable, and design conscious rather than generic pet store clutter. Stage a soft interior corner with one bed, folded textile samples, and a tidy palette story built into the square composition.
+
+Subject:
+Focus on one accessory story at a time: collars, bowls, carriers, apparel, charms, bedding, or matching human pet lifestyle pieces. Products must feel usable and materially believable. If a pet appears, the animal should reinforce scale, personality, and desirability without overshadowing the merchandise. The overall mood should balance warmth, quality, and retail polish. Show a pet comfortably resting on the bed, with enough visible product structure to communicate shape, cushioning, and fabric quality.
+
+Important details:
+Show material cues clearly such as leather grain, nylon webbing, ceramic glaze, coated canvas, quilted textiles, matte buckles, or brushed metal hardware. Use graphic framing only lightly so the product remains the hero. The result should look like something a modern direct-to-consumer brand could ship across social launches, product pages, collection decks, and campaign tiles. The mood should feel restful, tactile, and home-worthy, suitable for collection pages or nurture-focused campaign content.
+
+Use case:
+Pet Brand Merch and Accessory Drop single study 6/9, sleep bed textile line for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable logos, no overstuffed retail shelf clutter, no novelty toy overload, no unsafe pet styling, no generic discount store vibe, no fake luxury monogram, no messy bedroom, no blanket mountain, no sleepy blur.

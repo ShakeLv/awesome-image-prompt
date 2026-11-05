@@ -1,0 +1,14 @@
+Scene:
+Create a square planetary-outpost image with harsh environment readability and grounded survival engineering. The frame should capture both the base architecture and the environmental pressure around it, using dust, ice, darkness, or glare only as support for spatial clarity. Keep the camera near enough to read pipes, locks, and utility surfaces, but far enough to show how the base organizes itself against the landscape. Keep the same habitat cluster but cover the scene with disciplined blowing dust and storm light so the shields and route markers become more visible.
+
+Subject:
+Center the composition on a coherent frontier base language: pressure habitats, greenhouses, landing pads, drills, storage berms, utility corridors, rover access, and sheltered work zones. The base should feel assembled by necessity and maintained daily by real crews, not staged as a decorative movie backdrop. Retain the exact module arrangement from the reference while showing storm shutters, tethered equipment, and emergency circulation paths in operation.
+
+Important details:
+Prioritize survivability, logistics, and modular continuity. Material weathering, suit-scale doors, thermal lighting, and utility routing should all help explain how the installation stays alive in a hostile world. Use disciplined industrial colors with one environmental accent so the package remains reusable across concept posters and design sheets. This should feel like a prepared survival system under stress, not a disaster image, with visibility managed through lighting and structural continuity. Preserve the exact structural language established by the reference image, especially the habitat module proportions, airlock language, utility pipe routing, and survival-first lighting hierarchy.
+
+Use case:
+Frontier Base series study 2/4, designed as a reusable core-system image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fantasy ruins, no military battle explosions, no giant heroic poses, no magical sky anomalies, no collapsing structures, no panic crowd scene.

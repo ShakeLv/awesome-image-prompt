@@ -1,0 +1,14 @@
+Scene:
+A square premium-series key art composition inside a circular orbital negotiation chamber overlooking Earth. Use dim cobalt light, brushed titanium, soft screen glow without readable interface text, and a large observation window that gives the frame depth and status. The image must feel like campaign photography for a cerebral sci-fi drama, not an action blockbuster.
+
+Subject:
+Create a fictional ensemble of six diplomats and security figures during a fragile interplanetary treaty. At the center stands a composed female envoy in a sharply tailored pale suit, clearly the protagonist. To her left is an aging admiral whose medals and rigid stance imply old power; to her right is a young rival ambassador with concealed ambition. Behind them stand a translator with augmented eyes, a corporate observer in immaculate dark clothing, and a bodyguard whose stillness adds pressure. Their arrangement should communicate protocol, suspicion, and strategic dependency. Every face should be distinct and believable, with subtle differences in age, nationality cues, and professional role.
+
+Important details:
+The visual problem is ensemble diplomacy, not spectacle. Use spacing, eye lines, and glass reflections to suggest political tension. Keep the sci-fi design expensive but spare, with no crowded control room clutter. The campaign grammar must remain prestige-streaming: clear lead, supporting hierarchy, quiet menace, and a unified polished finish suitable for platform thumbnails, banners, and awards-season ads.
+
+Use case:
+Prestige TV Key Art Remix single study 6/9, testing orbital diplomacy as a premium ensemble key art system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no battle damage, no laser action, no generic spaceship cockpit clutter, no comic-book exaggeration, no extra background crew.

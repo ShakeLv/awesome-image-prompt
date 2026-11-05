@@ -1,0 +1,14 @@
+Scene:
+A square pet holiday promo tile designed for brand campaigns, combining believable costume styling with feed friendly layout control and polished product marketing energy. The framing should feel commercial and celebratory rather than amateur party photography. Use clean seasonal props, soft placeholder graphic zones, and strong central subject clarity so the image can function across ads, organic social, and shop features. Use warm neutral light with restrained red and gold props, matte paper textures, and a balanced portrait crop on a quiet backdrop.
+
+Subject:
+Center one pet in a holiday outfit or themed accessory that looks comfortable, well fitted, and genuinely photographable. The animal must remain the hero, not the prop pile. Expression, posture, and styling should communicate the seasonal mood while preserving real anatomy, fur detail, and a sense of animal comfort. Avoid parody or heavy anthropomorphic comedy. Feature a pet wearing a red scarf or collar ribbon, posed calmly with alert eyes and strong color separation from the background.
+
+Important details:
+Treat each image like a campaign key tile with a disciplined palette, controlled set dressing, and enough compositional breathing room for future text overlays outside the image generation. Holiday atmosphere can come from color, lighting, and a few strong props. Keep the tone premium, charming, and retailer ready. The result should feel useful for product pages, promo banners, and carousel campaigns. Let the color symbolism and polished portrait craft carry the festive mood; keep it respectful, clean, and widely reusable.
+
+Use case:
+Pet Holiday Costume Promo Set single study 4/9, lunar red scarf portrait for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable sale text, no oversized mascots, no heavy human costume parody, no chaotic party clutter, no unsafe accessories, no generic stock holiday card vibe, no fireworks, no readable banners, no crowded banquet setting.

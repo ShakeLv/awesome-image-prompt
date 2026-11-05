@@ -1,0 +1,14 @@
+Scene:
+Use the reference ensemble key art as the campaign identity source. Create a square night variant inside the same penthouse world, now lit by rain-streaked windows, distant city bokeh, and a narrow pool of tungsten light across dark flooring. The atmosphere is tense and intimate, with most of the frame held in deep shadow so faces and posture carry the drama.
+
+Subject:
+Show the same six characters from image 01 with preserved identities, tailoring, and rank order, arranged around the window line as if a temporary truce is being negotiated. The matriarch remains dominant near the center, still the brightest face. The heir stands close but slightly behind, ready to step in. The daughter and outsider son-in-law occupy opposite sides of the frame, creating a visual split through opposing gazes. The fixer hovers between camps, while the bodyguard is almost absorbed into shadow yet still structurally important. Keep gestures minimal: a hand on a chair back, a chin tilt, a slight lean toward or away from the others.
+
+Important details:
+This image tests whether the same prestige ensemble can survive a darker, moodier campaign treatment without losing clarity. Preserve the recognizable faces, hairstyle outlines, and wardrobe tones from image 01. Use reflections and rain only as atmosphere, never as distraction. The power dynamics must remain legible in silhouette, spacing, and light hierarchy. The result should feel like a premium streaming finale poster cropped to a square social key art format.
+
+Use case:
+Prestige TV Key Art Remix series study 4/9, turning the same fictional dynasty cast into a darker night-truce campaign variant.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no action-scene chaos, no lightning theatrics, no extra weapons, no horror styling, no obscure faces hidden beyond recognition.

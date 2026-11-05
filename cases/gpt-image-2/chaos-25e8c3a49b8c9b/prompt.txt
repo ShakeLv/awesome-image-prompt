@@ -1,0 +1,14 @@
+Scene:
+A square launch board for a pet lifestyle accessory brand, combining product hero presentation, tactile material realism, and polished commercial hierarchy. The image should feel ready for a launch drop, lookbook grid, or ecommerce campaign, with a disciplined palette and enough structure to support future text overlays outside the generated image. Keep the styling modern, giftable, and design conscious rather than generic pet store clutter. Compose a clean front-facing grid of collars, leashes, bowls, or apparel swatches on a neutral studio background with disciplined shadows.
+
+Subject:
+Focus on one accessory story at a time: collars, bowls, carriers, apparel, charms, bedding, or matching human pet lifestyle pieces. Products must feel usable and materially believable. If a pet appears, the animal should reinforce scale, personality, and desirability without overshadowing the merchandise. The overall mood should balance warmth, quality, and retail polish. Highlight coordinated product variants across four to six seasonal colors while a minimal pet cue keeps the category instantly recognizable.
+
+Important details:
+Show material cues clearly such as leather grain, nylon webbing, ceramic glaze, coated canvas, quilted textiles, matte buckles, or brushed metal hardware. Use graphic framing only lightly so the product remains the hero. The result should look like something a modern direct-to-consumer brand could ship across social launches, product pages, collection decks, and campaign tiles. The image is about system thinking: coherent palette families, repeatable materials, and brand-level assortment planning.
+
+Use case:
+Pet Brand Merch and Accessory Drop single study 8/9, seasonal colorway grid for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable logos, no overstuffed retail shelf clutter, no novelty toy overload, no unsafe pet styling, no generic discount store vibe, no fake luxury monogram, no rainbow overload, no readable collection labels, no cheap product packshot lighting.

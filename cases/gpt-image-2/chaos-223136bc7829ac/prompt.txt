@@ -1,0 +1,14 @@
+Scene:
+A square launch board for a pet lifestyle accessory brand, combining product hero presentation, tactile material realism, and polished commercial hierarchy. The image should feel ready for a launch drop, lookbook grid, or ecommerce campaign, with a disciplined palette and enough structure to support future text overlays outside the generated image. Keep the styling modern, giftable, and design conscious rather than generic pet store clutter. Use a soft neutral studio setup with floating shadow cards, one collar laid flat, and one dog portrait wearing the collar as the main proof point.
+
+Subject:
+Focus on one accessory story at a time: collars, bowls, carriers, apparel, charms, bedding, or matching human pet lifestyle pieces. Products must feel usable and materially believable. If a pet appears, the animal should reinforce scale, personality, and desirability without overshadowing the merchandise. The overall mood should balance warmth, quality, and retail polish. The collar should show leather or woven detail, clean buckle construction, and tasteful color blocking that feels premium but practical.
+
+Important details:
+Show material cues clearly such as leather grain, nylon webbing, ceramic glaze, coated canvas, quilted textiles, matte buckles, or brushed metal hardware. Use graphic framing only lightly so the product remains the hero. The result should look like something a modern direct-to-consumer brand could ship across social launches, product pages, collection decks, and campaign tiles. Balance fashion appeal with product clarity so the board works equally well for launch announcements, PDP crops, and brand feed storytelling.
+
+Use case:
+Pet Brand Merch and Accessory Drop single study 1/9, collar launch hero for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable logos, no overstuffed retail shelf clutter, no novelty toy overload, no unsafe pet styling, no generic discount store vibe, no fake luxury monogram, no studded punk cliché, no giant charms, no human fashion editorial overload.

@@ -1,0 +1,14 @@
+Scene:
+A square launch-page still for a premium handheld gaming console, framed like a polished web campaign rather than a store listing. The page uses a deep charcoal-to-graphite background with controlled pools of light, clean module spacing, and a dramatic but disciplined contrast structure. The composition should read as a hero banner at the top flowing into performance, ergonomics, and portability sections below, all within one coherent square crop.
+
+Subject:
+Place a premium handheld console in the center, angled slightly to reveal its screen, analog sticks, shoulder curve, vents, and finely machined frame. The screen may show non-readable geometric game imagery, but the device body should remain the main subject. Around it, design a believable landing-page system with abstract headline bars, performance cards, small benchmark-style panels, ergonomic callout zones, and one lower strip showing the console docked beside a slim case or charging cradle. Keep every supporting element subordinate to the hero hardware render.
+
+Important details:
+The image should feel like a proposal for a luxury consumer-electronics launch page. Industrial design must be credible: balanced proportions, tactile buttons, realistic screen glass, subtle venting, and premium surface finishes. The web layout needs a strong hierarchy from hero to feature tiles to compact spec grid, using generous spacing, crisp edge alignment, and a visually persuasive cadence. Avoid generic gamer chaos; keep it premium, mature, and art directed.
+
+Use case:
+Premium Product Landing Page single study 4/9, testing premium gaming-device presentation with strong hero hardware and supporting feature modules.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no chaotic esports graphics, no anime characters on screen, no RGB overload, no toy-like proportions, no messy accessory pile, no distorted controls.

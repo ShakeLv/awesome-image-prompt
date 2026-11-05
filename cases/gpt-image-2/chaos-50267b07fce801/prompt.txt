@@ -1,0 +1,14 @@
+Scene:
+A square pet food marketing board that combines believable packaging forms, food texture realism, bowl presentation, and feeding context. The composition should feel useful for shelf mockups, product detail pages, retail social posts, and launch decks. Keep surfaces clean, lighting appetizing but not glossy in a human food luxury way, and layout structured enough to communicate trust even without readable labels. Use a front facing retail shelf or studio shelf simulation with four or five package variants arranged in a disciplined grid.
+
+Subject:
+Anchor each image around one pet nutrition scenario: dry food, wet food, treats, toppers, life stage feeding, or ingredient reassurance. Packaging should look generic but premium, using abstract label blocks instead of text. Bowl scenes must feel species appropriate, portion realistic, and visually clean. Any pet presence should reinforce feeding trust and appetite rather than dominate the composition. The package colors should vary in a controlled system while shape, material, and overall design language remain coherent across the set.
+
+Important details:
+Use real category cues such as pouch stands, tray seals, scoop shapes, freeze dried pieces, feeding mats, ingredient bowls, and veterinary-adjacent cleanliness where relevant. The overall tone should signal industry knowledge and commercial usefulness. Avoid fake luxury extremes or cartoon kibble. Make the board easy to scan, with clear hero focus and believable product hierarchy across package, food, and setting. This image is about product family logic and aisle readability, so keep the layout clear, premium, and generic enough for many brands.
+
+Use case:
+Pet Food Packaging and Bowl Scene System single study 8/9, multi flavor shelf family for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable package copy, no brand logos, no unrealistic human gourmet plating, no overflowing portions, no unsafe ingredients, no messy floor spills, no supermarket clutter, no loud price stickers, no readable flavor names.

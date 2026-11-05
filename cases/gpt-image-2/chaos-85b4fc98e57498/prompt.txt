@@ -1,0 +1,14 @@
+Scene:
+A square plate or board viewed straight-on, with crisp organization, disciplined spacing, and premium print clarity. Build the frame around components separated clearly enough to reveal construction and dependency. Keep the lighting, camera distance, and spatial organization tuned for a high-signal research image rather than a casual snapshot. The image belongs to the PCB Board Layout theme and should feel immediately legible as a prompt atlas theme for pcb board layout, testing structured-layout, photorealism, style-transfer, commercial-mockup with gpt image 2..
+
+Subject:
+Center the study on components separated clearly enough to reveal construction and dependency. Translate the theme into a concrete visual statement instead of an abstract mood board: the viewer should understand what kind of image this is, what is being tested, and why the composition is difficult. Use the slug idea of pcb board layout as a literal guide for subject matter, materials, and staging. If helpful, borrow the broad visual cues suggested by PCB, schematic, Arduino, but keep the result original and specific to this study.
+
+Important details:
+The image should communicate logic through grouping, hierarchy, callouts, insets, and believable professional layout discipline rather than decorative noise. Preserve a disciplined square composition, clear focal hierarchy, and enough secondary information to make the image feel complete rather than underspecified. The image should look polished, novel, and exhibition-ready, with topic-specific credibility coming from the way surfaces, structure, and visual language reinforce PCB Board Layout. Avoid generic filler elements that do not serve the main concept.
+
+Use case:
+PCB Board Layout single study 7/8, testing structured-layout, photorealism, style-transfer, commercial-mockup through the exploded system variation.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no messy arrows, no random infographic decoration, no fake UI chrome unless the topic calls for it, no broken alignment, no meaningless clutter.

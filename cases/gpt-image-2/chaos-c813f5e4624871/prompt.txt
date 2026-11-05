@@ -1,0 +1,14 @@
+Scene:
+A square pet holiday promo tile designed for brand campaigns, combining believable costume styling with feed friendly layout control and polished product marketing energy. The framing should feel commercial and celebratory rather than amateur party photography. Use clean seasonal props, soft placeholder graphic zones, and strong central subject clarity so the image can function across ads, organic social, and shop features. Use pastel cream, soft coral, and tidy confetti graphics arranged around a simple pedestal for a premium birthday drop feel.
+
+Subject:
+Center one pet in a holiday outfit or themed accessory that looks comfortable, well fitted, and genuinely photographable. The animal must remain the hero, not the prop pile. Expression, posture, and styling should communicate the seasonal mood while preserving real anatomy, fur detail, and a sense of animal comfort. Avoid parody or heavy anthropomorphic comedy. Show a calm pet wearing a tiny crown or party band, sitting proudly with direct eye contact and polished fur detail.
+
+Important details:
+Treat each image like a campaign key tile with a disciplined palette, controlled set dressing, and enough compositional breathing room for future text overlays outside the image generation. Holiday atmosphere can come from color, lighting, and a few strong props. Keep the tone premium, charming, and retailer ready. The result should feel useful for product pages, promo banners, and carousel campaigns. The image should feel milestone ready, giftable, and clean enough for subscription perks, birthday reminders, and social promos.
+
+Use case:
+Pet Holiday Costume Promo Set single study 3/9, birthday crown celebration tile for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable sale text, no oversized mascots, no heavy human costume parody, no chaotic party clutter, no unsafe accessories, no generic stock holiday card vibe, no messy cake smash, no clown palette, no oversized helium balloons.

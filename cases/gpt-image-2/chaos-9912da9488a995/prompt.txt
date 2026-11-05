@@ -1,0 +1,14 @@
+Scene:
+Create a square planetary-outpost image with harsh environment readability and grounded survival engineering. The frame should capture both the base architecture and the environmental pressure around it, using dust, ice, darkness, or glare only as support for spatial clarity. Keep the camera near enough to read pipes, locks, and utility surfaces, but far enough to show how the base organizes itself against the landscape. Render the same outpost at deep night with cold terrain, warm windows, and one reactor service zone softly lighting the exterior paths.
+
+Subject:
+Center the composition on a coherent frontier base language: pressure habitats, greenhouses, landing pads, drills, storage berms, utility corridors, rover access, and sheltered work zones. The base should feel assembled by necessity and maintained daily by real crews, not staged as a decorative movie backdrop. Preserve the anchor base silhouette while emphasizing maintenance ladders, cable runs, reactor shielding, and a few tiny crew suits conducting routine work.
+
+Important details:
+Prioritize survivability, logistics, and modular continuity. Material weathering, suit-scale doors, thermal lighting, and utility routing should all help explain how the installation stays alive in a hostile world. Use disciplined industrial colors with one environmental accent so the package remains reusable across concept posters and design sheets. Night lighting should clarify function rather than create mystery, showing exactly how the installation stays alive after dark. Preserve the exact structural language established by the reference image, especially the habitat module proportions, airlock language, utility pipe routing, and survival-first lighting hierarchy.
+
+Use case:
+Frontier Base series study 3/4, designed as a reusable core-system image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fantasy ruins, no military battle explosions, no giant heroic poses, no magical sky anomalies, no horror lighting, no emergency meltdown cues.

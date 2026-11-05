@@ -1,0 +1,14 @@
+Scene:
+A square launch board for a pet lifestyle accessory brand, combining product hero presentation, tactile material realism, and polished commercial hierarchy. The image should feel ready for a launch drop, lookbook grid, or ecommerce campaign, with a disciplined palette and enough structure to support future text overlays outside the generated image. Keep the styling modern, giftable, and design conscious rather than generic pet store clutter. Use an airport-adjacent or studio travel set with rolling handle hints, clean flooring, and a balanced square layout centered on the carrier.
+
+Subject:
+Focus on one accessory story at a time: collars, bowls, carriers, apparel, charms, bedding, or matching human pet lifestyle pieces. Products must feel usable and materially believable. If a pet appears, the animal should reinforce scale, personality, and desirability without overshadowing the merchandise. The overall mood should balance warmth, quality, and retail polish. Show the carrier open and closed, with one pet comfortably visible to confirm size, ventilation, and calm use context.
+
+Important details:
+Show material cues clearly such as leather grain, nylon webbing, ceramic glaze, coated canvas, quilted textiles, matte buckles, or brushed metal hardware. Use graphic framing only lightly so the product remains the hero. The result should look like something a modern direct-to-consumer brand could ship across social launches, product pages, collection decks, and campaign tiles. The board should suggest urban mobility and premium utility, not frantic travel stress or luggage chaos.
+
+Use case:
+Pet Brand Merch and Accessory Drop single study 3/9, travel carrier lookbook board for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable logos, no overstuffed retail shelf clutter, no novelty toy overload, no unsafe pet styling, no generic discount store vibe, no fake luxury monogram, no airport crowd, no readable tags, no cramped uncomfortable posture.

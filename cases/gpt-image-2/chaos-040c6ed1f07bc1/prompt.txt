@@ -1,0 +1,14 @@
+Scene:
+Create a square planetary-outpost image with harsh environment readability and grounded survival engineering. The frame should capture both the base architecture and the environmental pressure around it, using dust, ice, darkness, or glare only as support for spatial clarity. Keep the camera near enough to read pipes, locks, and utility surfaces, but far enough to show how the base organizes itself against the landscape. Frame a modular desert outpost at late afternoon with one landing pad, one greenhouse spine, and layered dust ridges surrounding the main habitat cluster.
+
+Subject:
+Center the composition on a coherent frontier base language: pressure habitats, greenhouses, landing pads, drills, storage berms, utility corridors, rover access, and sheltered work zones. The base should feel assembled by necessity and maintained daily by real crews, not staged as a decorative movie backdrop. Establish the reference language through pressure modules, rover bays, solar berms, and exposed utility lines arranged in a clear survival hierarchy.
+
+Important details:
+Prioritize survivability, logistics, and modular continuity. Material weathering, suit-scale doors, thermal lighting, and utility routing should all help explain how the installation stays alive in a hostile world. Use disciplined industrial colors with one environmental accent so the package remains reusable across concept posters and design sheets. The first image must define proportions, material wear, and lighting discipline so later variants can preserve the same base family under changing conditions. Resolve the anchor rules that later reference-dependent variants must inherit, especially the habitat module proportions, airlock language, utility pipe routing, and survival-first lighting hierarchy.
+
+Use case:
+Frontier Base series study 1/4, designed as a reusable core-system image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fantasy ruins, no military battle explosions, no giant heroic poses, no magical sky anomalies, no giant cinematic hero figure.
