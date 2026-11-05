@@ -6,6 +6,11 @@
   "memberBytesFullyReadAndDecoded": true,
   "members": [
     {
+      "artifactPath": "artifacts/catalog-online-verification.json",
+      "bytes": 180,
+      "sha256": "07fd6043fb8b045a804f6b4eb9e77201aed796d340885a993f6fcdec2ab22679"
+    },
+    {
       "artifactPath": "artifacts/cloud-daily-report.json",
       "bytes": 821,
       "sha256": "9a52deaa4a7d5019db004bb9959b51eec15326214acf0b903387486a76a9eae2"
@@ -14,6 +19,16 @@
       "artifactPath": "artifacts/prompt-online-verification.json",
       "bytes": 126,
       "sha256": "d56748a57390952e71213d3ae953b3872232835b8c12780e33919d4ab478bd8f"
+    },
+    {
+      "artifactPath": "artifacts/runtime-catalog-acceptance.json",
+      "bytes": 10023,
+      "sha256": "e5d8efe28be062d1a48bee0c8c03f67463626ce5b2d57f1b999d2348765c9f33"
+    },
+    {
+      "artifactPath": "artifacts/sitemap-publication-report.json",
+      "bytes": 5659,
+      "sha256": "6e2475473da2a2fbce10633f94e1a314703129dc36d65aa3067af1235a3c4c19"
     }
   ]
 }
