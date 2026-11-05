@@ -2,7 +2,7 @@
 
 **5,761 complete source-bound image/prompt pairs archived.** Original attribution, actual generation models, reference requirements and per-item provenance are retained.
 
-[Remote archive verification](data/github-gallery-remote-acceptance-2026-11-06.json) compares1,427 new media/prompt Git blobs against the actual GitHub tree. This archive count is separate from ProjectD publication.
+[Complete remote archive verification](data/github-all5761-complete-pairs-acceptance-2026-11-06.json) verifies all5,761 complete image/prompt pairs against the actual GitHub tree:9,972 full local files match remote Git blobs, including complete prompts and archived media. Image-only held candidates are excluded from the pair count. Archive count is separate from ProjectD publication.
 
 [3,631 additional ChaosRealmsAI GPT Image2 source pairs](GPT-IMAGE-2-CHAOS.md) retain complete prompts, unchanged author-published renditions and source references. All3,631 individually reviewed:3,472 locally approved,159 held,zero unreviewed. The first2,675 completed ProjectD publication and ordinary public full-prompt/image/ten-locale checks; latest run42111414636. ProjectD now contains10,153 records. Final797 selected for the next reviewed batch. Archive totals are separate from public acceptance.
 
@@ -10,20 +10,20 @@
 
 **67 complete output/prompt pairs archived.** The original40 represent24 distinct prompt texts;27 further Prompt Seen working prompts and original outputs are now archived, with visual review and ProjectD publication separate. Images and full prompts are stored in this repository with original attribution and per-item rights notes.
 
-- [27 original Prompt Seen demonstrations](GPT-IMAGE-2.6-PROMPTSEEN.md), including15 PNGs and12 composed GIFs, with full recorded working prompts and per-output CC BY4.0 notices. ProjectD acceptance pending.
+- [27 original Prompt Seen demonstrations](GPT-IMAGE-2.6-PROMPTSEEN.md), including15 PNGs and12 composed GIFs, with full recorded working prompts and per-output CC BY4.0 notices. All27 published and accepted through run42104580114; full prompts, native output files and converted animation playback verified.
 - [21 official example pairs](GPT-IMAGE-2.6-FULL.md), already published on ProjectD.
 - [15 official comparison outputs](GPT-IMAGE-2.6-COMPARISONS.md): 13 Flare + 2 Sunburst complexity variants; zero additional prompt recipes.
 - [3 more independent editing outputs, 2 distinct prompts](GPT-IMAGE-2.6-INDEPENDENT.md): Night Lab mug recoloring and Lightlyn sofa edits.
 - [1 independent creator recipe](GPT-IMAGE-2.6-CREATOR.md), with the original 14-word prompt and actual 2.6 attachment. Variant unspecified.
 - [50-group original source index](GPT-IMAGE-2.6.md) and [additional research outcomes](data/image26-research-expansion.json). Source-linked candidates are not automatically approved pairs.
 
-All 40 pairs have ProjectD publication receipts. All40 ordinary public details, full clipboard text and entire media hashes pass, along with ten-locale frames/pagination. The final ordinary HTTP/1 model-filter/history/visible-image pass also succeeds; previous failed attempts remain recorded.
+All67 pairs have ProjectD publication receipts. The original40 checks are recorded below; the additional27 include15 static images and12 animations with complete working prompts and playback checks. All40 ordinary public details, full clipboard text and entire media hashes pass, along with ten-locale frames/pagination. The final ordinary HTTP/1 model-filter/history/visible-image pass also succeeds; previous failed attempts remain recorded.
 
 ## GitHub gallery expansion
 
 [All40 Beatra Qwen Image3.0 cases](QWEN-IMAGE-3-BEATRA.md), with complete prompts and exact local images.38 now published and accepted on ProjectD; two original previews remain below its minimum dimensions. [449 additional APIModels GPT Image 2 pairs](GPT-IMAGE-2-APIMODELS.md) have full prompts and native PNGs: 402 now published and accepted on ProjectD, 47 held with individual reasons. The 955-record source was reconciled against 491 already present and 15 previous holds.
 
-The new440 reviewed GitHub pairs have [completed publication and exact public acceptance](data/github-gallery-public-acceptance-2026-11-06.json). ProjectD now contains7,451 pairs.
+The new440 reviewed GitHub pairs have [completed publication and exact public acceptance](data/github-gallery-public-acceptance-2026-11-06.json). That earlier cohort brought ProjectD to7,451 pairs; current accepted inventory is10,153.
 
 ## ProjectD historical backfill
 
