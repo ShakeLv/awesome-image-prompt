@@ -1,0 +1,14 @@
+Scene:
+A square black-and-white architectural engraving of a silent courtyard, viewed from a high oblique angle. The paper is ivory, the ink is deep black, and all shadows are made with fine cross-hatching. The space should feel like a precise mathematical study rather than a fantasy castle, with clean stone walls and tiled landings.
+
+Subject:
+Construct an endless ascending staircase loop around a square courtyard. Four flights of stairs connect four landings, and each flight appears to climb upward, yet the final landing returns to the starting height. Small identical archways, railings, and floor tiles repeat around the loop so the contradiction becomes visible. The viewer should feel that walking forward always goes upstairs but somehow arrives back at the same level.
+
+Important details:
+The illusion depends on disciplined perspective. Each staircase segment must be locally convincing, with equal step counts, consistent risers, and believable railing shadows. The global loop must be impossible, not merely circular. Use small human-scale objects like empty benches or planters only if they clarify scale, not as distractions. Keep the center courtyard open so the eye can trace the full loop.
+
+Use case:
+Escher Impossible Geometry single study 2/8, testing an eternal ascending stair loop with verifiable perspective contradiction.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no color, no random spiral staircase, no broken step rhythm, no crowded figures, no labels, no blurred geometry.

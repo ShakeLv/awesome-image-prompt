@@ -1,0 +1,14 @@
+Scene:
+Same square eight-panel manga page format as the reference image, exactly eight panels in a 2 by 4 grid, same line art, screen tones, limited cyan, magenta, black, and cream palette, and polished product-launch energy.
+
+Subject:
+Use the same protagonist from the reference image with identical silver hair, round glasses, black cropped jacket, white hoodie, cyan scarf, and magenta sneakers. The same glowing glass orb with GPT-IMAGE-2 inside sits on a studio table, then floats, projects sketch thumbnails, and becomes the focus of a demo sequence across eight panels.
+
+Important details:
+Preserve protagonist identity and prop design from the reference. The studio has simple lights, a drawing table, camera tripod silhouettes, and clean product-demo staging. Keep speech bubbles as pseudo-text, with only GPT-IMAGE-2 readable on the orb. Each panel should advance the demo story while keeping the character model consistent.
+
+Use case:
+Third image in a reference-dependent comic consistency series, testing product demo storytelling with the same hero and prop.
+
+Constraints:
+PRESERVE the reference protagonist, outfit, orb, page style, panel count, and square crop. Exactly eight panels, no real logos, no watermark, no extra main character, no photorealistic UI, no readable dialogue except GPT-IMAGE-2, preserve exact 1:1 aspect ratio.

@@ -1,0 +1,14 @@
+Scene:
+Create a square museum-atlas photograph of dim sum presented on natural linen or pale neutral textile, lit with calm daylight and restrained shadow. The composition should feel archival, specimen-like, and quietly luxurious rather than crowded or banquet-style. Blank museum tabs, bamboo details, and shallow steam are acceptable so long as no readable characters appear anywhere. Maintain the exact overhead museum framing, linen tone, and calm daylight established by the reference image so the series still reads as one archive sheet. Subtle steam and tiny shadows should keep the dumplings dimensional without breaking the quiet tone.
+
+Subject:
+Show several carefully formed open-crown dumplings with yellow wrappers, textured minced filling, and tiny decorative tops such as roe or mushroom dice. The forms should feel hand-made and consistent, with slight natural irregularity that proves they are real food. The image should celebrate repetition and craftsmanship.
+
+Important details:
+Make the dumplings feel handcrafted and specific: pleat count, skin thickness, translucency, filling pressure, steam moisture, and wrapper folds all need to be believable. The museum treatment should elevate the food without turning it into abstraction. Every item should still look edible, warm, and tactile. Preserve exact spacing, fabric atmosphere, and specimen-tab language from the reference model while shifting the focus to open wrapper structure and textured tops. Wrapper folds, filling granularity, and moisture need to remain highly believable.
+
+Use case:
+Dim sum miniature atlas series study 3/9, translating the anchor atlas into structured open-crown dumplings.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no banquet table clutter, no readable calligraphy, no sauce spills, no glossy menu styling, no plastic steamer look, no buffet tray context, no plastic shine on wrappers, no readable tags.

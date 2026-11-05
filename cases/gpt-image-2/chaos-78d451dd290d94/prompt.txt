@@ -1,0 +1,14 @@
+Scene:
+A square black-and-white engraving of an open stone plaza with arches, stair ramps, tiled ground, and two visible horizon cues that contradict each other. The view is architectural and exact, with strong ink lines and delicate cross-hatching. The plaza is mostly empty so the geometry can be read clearly.
+
+Subject:
+Design a dual-gravity plaza where the left half treats the central wall as a vertical facade, while the right half treats that same wall as a floor. Two stair ramps meet at the central edge, and both appear to lead downward from their own gravity direction. A few small robed figures may walk on different planes to clarify orientation, but no figure should dominate. Arches, tiles, and shadows should reveal the contradiction without written labels.
+
+Important details:
+The optical rule must be strict: each local area should make sense, with believable stair direction, shadows, and upright figures, while the shared central geometry cannot exist in normal space. Use tiled grids to make the shift in gravity visible. Keep the composition balanced and calm, like a formal proof in architectural engraving. Avoid hiding the paradox behind decoration.
+
+Use case:
+Escher Impossible Geometry single study 8/8, testing a dual-gravity public plaza where two directions are both logically down.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no color, no chaotic crowd, no fantasy portals, no floating figures, no inconsistent tile grid, no labels, no painterly blur.

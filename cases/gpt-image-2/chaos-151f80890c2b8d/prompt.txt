@@ -1,0 +1,14 @@
+Scene:
+A square eight-panel character consistency comic page, exactly eight panels in a balanced 2 by 4 grid. The style is clean anime production art mixed with manga panel storytelling, cream paper, black ink, and blue accent shadows.
+
+Subject:
+One consistent mascot courier appears in all eight panels: bobbed blue hair, star hairpin, oversized white delivery jacket, red backpack, black shorts, and white boots. The panels show front view, side run, close-up reaction, lifting a glowing parcel, jumping over a puddle, checking a tiny map, handing off the parcel, and final thumbs-up pose.
+
+Important details:
+The main test is identity consistency: same face, hair, outfit, backpack, boots, and parcel shape in every panel. Use different poses and camera angles while keeping the character recognizable. Add pseudo-dialogue balloons, action lines, and simple background cues, but keep the panel grid clean.
+
+Use case:
+Independent comic single image, testing character identity lock across eight panels without reference images.
+
+Constraints:
+Exactly eight panels, one main character only, no readable text, no logos, no watermark, no broken panel borders, no photorealism, no outfit changes, preserve exact 1:1 aspect ratio.

@@ -1,0 +1,14 @@
+Scene:
+A 2:1 equirectangular VR panorama from inside a deep undersea observatory, cinematic but calm, with blue-green filtered light, bioluminescent accents, and dark water fading into distance. The viewer stands at the center of a round glass viewing chamber. The horizon line remains at the exact midpoint of the panorama, and the top of the image shows the glass dome and water column while the bottom shows a continuous metal floor ring.
+
+Subject:
+A complete underwater research habitat surrounds the viewer: curved acrylic windows, radial support ribs, soft floor lighting, equipment alcoves without readable labels, and panoramic ocean beyond. Outside the windows are coral towers, slow manta rays, jellyfish constellations, tiny maintenance drones, and one distant volcanic vent field glowing orange. The observatory should feel habitable and scientifically grounded, not like a fantasy palace.
+
+Important details:
+Design the room as a true 360-degree cylinder that can wrap left-to-right with no visual jump. Window ribs must continue evenly across the seam, and exterior reef structures should not be cut in half at the edges. Use equirectangular logic: broad horizontal continuity, centered eye level, plausible zenith dome, and coherent nadir floor. Keep highlights soft enough that the panorama remains readable in a headset.
+
+Use case:
+Equirectangular VR Panorama single study 2/8, testing photorealistic scientific immersion in a seamless underwater 360 scene.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 2:1 aspect ratio, no circular fisheye, no tiny-planet projection, no flooded interior, no horror mood, no broken window geometry, no black frame, no blank water-only half.

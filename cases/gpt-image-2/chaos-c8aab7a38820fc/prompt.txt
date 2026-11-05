@@ -1,0 +1,14 @@
+Scene:
+A 2:1 equirectangular VR panorama of a moonlit temple courtyard built on a quiet lunar ridge, painted in refined fantasy realism with silver light, deep indigo shadows, and pale stone. The viewer stands in the exact center of a circular courtyard. The horizon is centered and wraps into a complete 360-degree ring: mountains, stars, and temple walls must connect smoothly from the far left edge to the far right edge.
+
+Subject:
+Four low temple halls, a ring of carved columns, shallow reflecting pools, stone lanterns, and suspended prayer ribbons surround the viewer. Above the rear half of the panorama, a large moon hangs low over distant crater mountains. In the front half, a patterned stone floor circles the camera with radial inlays and small water channels. The architecture blends East Asian courtyard balance with lunar geology, but contains no readable inscriptions.
+
+Important details:
+This must feel like an actual equirectangular environment map: left and right edges are adjacent, the courtyard paving continues through the nadir, and the zenith contains coherent night sky rather than a flat ceiling. Place visual anchors at every quarter turn: moon gate, bell pavilion, reflecting pool, and stairway to the ridge. Maintain calm symmetry without making the whole image a repeated wallpaper strip.
+
+Use case:
+Equirectangular VR Panorama single study 3/8, testing poetic architectural continuity and celestial lighting across a headset-ready 360 scene.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 2:1 aspect ratio, no circular planet projection, no panel borders, no warped duplicated moon, no unreadable clutter, no hard seam, no cropped roof at the left-right wrap.

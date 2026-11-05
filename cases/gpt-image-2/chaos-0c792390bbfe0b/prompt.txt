@@ -1,0 +1,14 @@
+Scene:
+A 2:1 equirectangular VR panorama of a bioluminescent crystal forest clearing at twilight, with cool violet shadows, teal moss light, and transparent mineral highlights. The viewer stands in the middle of a circular clearing. The horizon is centered and visible through rings of trees and crystal formations, while the top of the panorama opens into a deep blue canopy and the bottom shows a coherent mossy ground plane.
+
+Subject:
+Crystalline tree trunks, ferns, glowing mushrooms, shallow pools, and faceted stone arches surround the viewer in a full 360-degree environment. Some crystals are embedded in bark; others rise from the ground like natural prisms. Small firefly-like particles trace gentle paths around the clearing. The scene should feel magical but physically walkable, with one path entering from the front, another leaving at the rear, and side landmarks that keep orientation clear.
+
+Important details:
+Maintain equirectangular projection discipline: no fisheye globe, no pinched center, no empty stretched sides. The left and right panorama edges should share matching tree density, ground height, and lighting so they can join invisibly. Put the brightest crystals away from the seam to avoid a cut artifact. The nadir should show moss, roots, and water reflections; the zenith should show canopy gaps and twilight sky.
+
+Use case:
+Equirectangular VR Panorama single study 5/8, testing dense organic detail and material highlights in a seamless 360-degree fantasy environment.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 2:1 aspect ratio, no circular tiny-planet view, no kaleidoscope symmetry, no random wallpaper repetition, no broken left-right seam, no harsh neon glow, no flat poster framing.

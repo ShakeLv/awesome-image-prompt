@@ -1,0 +1,14 @@
+Scene:
+A square black-and-white engraving of a quiet archive hall crossed by an impossible bridge. The view is orthographic enough to read the structure but still has deep architectural space. Use ivory paper, crisp black ink, fine shelf textures, and disciplined shadow hatching. The setting is scholarly, silent, and mathematical.
+
+Subject:
+Build a stone bridge that crosses the archive from left balcony to right balcony, but its underside becomes its top surface halfway across. The bridge appears to twist without twisting: handrails remain upright locally, walkway tiles stay flat underfoot, yet the near end and far end cannot connect in real three-dimensional space. Bookshelves, ladders, and columns provide a stable reference grid around the paradox.
+
+Important details:
+This illusion should be verifiable by tracing railings and floor tiles. The bridge must not look like a normal spiral ramp; it should be locally straight and rectangular, with impossible transitions hidden in perspective overlaps. Keep the surrounding archive realistic and consistent so the impossible bridge is the only contradiction. Avoid using text on book spines or signs.
+
+Use case:
+Escher Impossible Geometry single study 5/8, testing an impossible bridge inside a stable architectural reference grid.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no color, no book-spine words, no ordinary spiral bridge, no broken railings, no excessive clutter, no labels.

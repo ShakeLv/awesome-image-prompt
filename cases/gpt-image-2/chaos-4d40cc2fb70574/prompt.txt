@@ -1,0 +1,14 @@
+Scene:
+A square black-and-white line engraving in the spirit of mathematical impossible-geometry prints, viewed as a gallery plate with crisp ink, ivory paper grain, and controlled cross-hatching. The camera is straight-on with no frame text. The composition is bright enough to inspect every line, but the shadows are precise and architectural.
+
+Subject:
+Create a monumental Penrose triangle as an outdoor stone terrace. Three thick rectangular beams form a triangular loop that appears locally plausible at every corner but globally impossible. Tiny stairs, tiled paving, and low railings sit on the beams to emphasize scale. Each beam face should have consistent stone texture and engraved shadow, while the corners join in a way that tricks the eye into accepting an impossible loop.
+
+Important details:
+The illusion must be geometrically disciplined: each beam has believable thickness, clean parallel edges, consistent light direction, and precise corner overlaps. The viewer should be able to trace the triangle and discover that front, back, up, and down relationships contradict one another. Keep the scene austere and mathematical, with no decorative clutter masking the optical rule.
+
+Use case:
+Escher Impossible Geometry single study 1/8, testing a readable Penrose triangle terrace in black-and-white engraving.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no color, no random fantasy architecture, no broken triangle loop, no soft painterly blur, no perspective noise, no hidden labels.

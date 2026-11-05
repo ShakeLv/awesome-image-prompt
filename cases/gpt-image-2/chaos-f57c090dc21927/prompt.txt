@@ -1,0 +1,14 @@
+Scene:
+A square black-and-white engraved landscape showing a stone watermill built into impossible geometry. The view is slightly elevated, with crisp river channels, dark hatch shadows, and pale open sky. The image should feel like a museum-quality mathematical print: calm, exact, and visually paradoxical.
+
+Subject:
+Create a waterfall loop where water pours down from a high aqueduct into a wheel, then follows a channel that seems to rise step by step back to the same high point. The water path should form a closed visual circuit: wheel basin, stepped canal, overhead trough, falling stream, and back to the wheel. The stone channels are locally level or gently sloped, but globally impossible. The mill wheel should be turning in the only place where water visibly falls.
+
+Important details:
+The viewer must be able to trace the entire water route without confusion. Use consistent masonry texture, clean channel edges, and believable water reflections. The impossibility should come from perspective and height contradiction, not from magical floating water. Avoid excessive landscape detail; the loop, wheel, and aqueduct must dominate the composition.
+
+Use case:
+Escher Impossible Geometry single study 3/8, testing a waterfall cycle that returns uphill through impossible perspective.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no color, no random river branches, no broken water loop, no fantasy glow, no messy foliage hiding geometry, no labels.

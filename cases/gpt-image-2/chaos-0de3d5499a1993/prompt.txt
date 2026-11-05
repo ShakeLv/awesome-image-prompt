@@ -1,0 +1,14 @@
+Scene:
+Create a square cinematic still for Desert Dusk Monolith. Use production-grade photoreal lighting, disciplined lens behavior, and a composition that feels like a finished key frame from an original film rather than a casual snapshot. A severe desert dune field stretches to the horizon at sunset, where the last light turns the crests copper and rose, the far sky cools toward violet, and one dark monolith stands with absolute stillness above the wind-shaped sand. Compose an independent frame where one human, animal, or object silhouette negotiates with the atmospheric light event in a clean, readable way.
+
+Subject:
+Build a coherent original scene whose emotional center comes from atmosphere, light physics, and spatial clarity. Avoid relying on celebrity likeness, franchise iconography, or stylized illustration shortcuts. The monolith, long shadow, dune ridges, and the empty horizon line should dominate, with no unnecessary props, because the image depends on scale tension between one silent object and an immense landscape. The silhouette should supply scale and emotional orientation, but the environment still needs to carry most of the storytelling weight.
+
+Important details:
+Preserve a believable physical world with strong depth layering, careful color separation, and premium image discipline. Keep the geometry minimal but not sterile, using precise shadow direction, tactile sand micro-relief, clean sky gradient, and disciplined negative space so the frame feels monumental rather than decorative. Keep the silhouette simple and believable, avoiding poster-like graphic flattening while preserving strong contrast.
+
+Use case:
+Desert Monolith single study 6/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no ruins, no spaceships, no readable markings on the monolith, no crowds, no surreal floating objects.

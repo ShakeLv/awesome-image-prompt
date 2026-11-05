@@ -1,0 +1,14 @@
+Scene:
+A 2:1 equirectangular VR panorama inside an aurora-lit ice cavern, with luminous cyan, violet, and emerald reflections, deep blue shadows, and crisp realistic ice texture. The viewer stands on a safe frozen shelf in the center of a round cavern chamber. The horizon is centered at eye level; the upper half shows translucent ice arches and aurora glow filtering through cracks, while the lower half shows continuous snow, frozen water, and rock edges.
+
+Subject:
+The cavern surrounds the viewer with layered ice curtains, stalactites, frosted stone, small meltwater pools, and a narrow tunnel opening in each cardinal direction. Through a ceiling fissure, aurora light ripples across the ice. Tiny expedition lanterns sit on the ground as scale markers but contain no text. The scene should feel vast, cold, and physically plausible, with enough detail for close VR inspection.
+
+Important details:
+Left and right edges must connect as the same ice wall, with matching color temperature, ground height, and arch rhythm. Avoid putting a single dramatic tunnel at the seam. The zenith should have coherent ice ceiling structure; the nadir should not collapse into a blur, but show snow texture and reflected aurora. Reflections in the ice should follow surface direction and not create random mirror duplicates.
+
+Use case:
+Equirectangular VR Panorama single study 8/8, testing transparent material rendering and seamless cave geometry in a headset-ready 360 scene.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 2:1 aspect ratio, no circular fisheye, no tiny-planet image, no black void ceiling, no impossible floating ice shards, no broken panorama seam, no overexposed neon wash.

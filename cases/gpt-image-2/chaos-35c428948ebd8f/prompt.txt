@@ -1,0 +1,14 @@
+Scene:
+A 2:1 equirectangular VR panorama inside a retro space habitat greenhouse, combining optimistic 1970s space design with contemporary cinematic lighting. The viewer stands on a circular walkway at the center of a rotating orbital garden. The horizon sits on the midline, with windows and habitat walls wrapping continuously around the full panorama. Warm grow lights, pale aluminum, orange upholstery, and leafy greens create a balanced palette.
+
+Subject:
+The habitat contains curved glass windows showing Earth below, hydroponic planters, modular crew alcoves, rounded storage cabinets, exercise rails, small maintenance robots, and a ring-shaped garden path. Crops and flowering vines climb trellises around the viewer. The exterior view should appear through several window banks rather than one flat space wallpaper, and all equipment should feel functional but not cluttered.
+
+Important details:
+Build the room as a complete 360-degree interior: floor seams, ceiling ribs, handrails, and planter rows must line up across the left and right edges. The zenith should contain curved structural ribs and soft lights; the nadir should show the circular walkway and planter bases. Keep readable labels out; use color-coded shapes and abstract icons only. Avoid exaggerated lens distortion while preserving equirectangular spatial spread.
+
+Use case:
+Equirectangular VR Panorama single study 6/8, testing interior continuity, sci-fi worldbuilding, and style transfer in an extreme 2:1 VR environment.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 2:1 aspect ratio, no circular fisheye, no tiny-planet projection, no dark horror spaceship, no broken room seam, no floating disconnected furniture, no flat concept-art strip.

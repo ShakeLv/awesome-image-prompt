@@ -1,0 +1,14 @@
+Scene:
+Same square eight-panel manga page format as the reference image, exactly eight panels in a clean 2 by 4 grid, same ink line weight, screen-tone texture, limited cyan, magenta, black, and cream palette.
+
+Subject:
+Use the same protagonist from the reference image: short silver hair, round glasses, cropped black jacket, white hoodie, cyan scarf, magenta sneakers. Place them on a city rooftop at night, using the same glowing GPT-IMAGE-2 orb as the story prop. The eight panels show the character testing the orb, projecting images into the skyline, reacting, then presenting it toward the reader.
+
+Important details:
+Preserve identity, outfit, face shape, hair, scarf, sneakers, and orb design from the reference. Keep the exact eight-panel comic rhythm. Use speech balloons with pseudo-text only; the only intended readable text is GPT-IMAGE-2 on the orb. Add manga motion lines, rooftop railings, tiny skyline silhouettes, and glow reflections.
+
+Use case:
+Second image in a reference-dependent comic consistency series, testing whether the same character and product prop survive a new setting and story beat.
+
+Constraints:
+PRESERVE the reference protagonist, outfit, orb, page style, panel count, and square crop. Exactly eight panels, no real logos, no watermark, no extra main character, no photorealism, no readable dialogue other than GPT-IMAGE-2, preserve exact 1:1 aspect ratio.

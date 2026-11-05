@@ -1,0 +1,14 @@
+Scene:
+Create a square museum-atlas photograph of dim sum presented on natural linen or pale neutral textile, lit with calm daylight and restrained shadow. The composition should feel archival, specimen-like, and quietly luxurious rather than crowded or banquet-style. Blank museum tabs, bamboo details, and shallow steam are acceptable so long as no readable characters appear anywhere. Keep the exact overhead camera angle, linen field, daylight softness, and specimen spacing from the reference image so the atlas continuity remains obvious. The empty space around the dumpling should remain generous and calm.
+
+Subject:
+Feature a small family of shrimp dumplings with crisp pleats and semi-translucent skins that reveal a hint of pink filling beneath. One dumpling may be sliced or gently opened to show the interior texture, but the set should stay elegant and composed. Steam should hover faintly, not dramatically.
+
+Important details:
+Make the dumplings feel handcrafted and specific: pleat count, skin thickness, translucency, filling pressure, steam moisture, and wrapper folds all need to be believable. The museum treatment should elevate the food without turning it into abstraction. Every item should still look edible, warm, and tactile. Preserve exact specimen spacing, linen tone, and daylight behavior from the reference model while emphasizing translucency and pleat count. The wrapper should look delicate, elastic, and slightly glossy with heat, never plasticky.
+
+Use case:
+Dim sum miniature atlas series study 2/9, using the anchor system to study translucent shrimp dumplings.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no banquet table clutter, no readable calligraphy, no sauce spills, no glossy menu styling, no plastic steamer look, no chili oil splashes, no glossy plastic sheen, no crowded bamboo steamer.

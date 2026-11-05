@@ -1,0 +1,14 @@
+Scene:
+A 2:1 equirectangular VR panorama of a floating sky village, rendered as warm hand-painted storybook animation with soft morning light, pale blue atmosphere, and high-key clouds. The horizon stays exactly on the horizontal midline, with readable sky above and island undersides below so the image can wrap inside a VR viewer. The camera is standing on a circular wooden lookout platform near the village center, with a calm 360-degree view rather than a flat postcard composition.
+
+Subject:
+Floating islands encircle the viewer at different distances: tea houses on mossy rock shelves, rope bridges, small windmills, laundry lines, vegetable terraces, and hovering boats tied to carved posts. A broad cloud river crosses the back half of the panorama, while the front half shows railing, planters, and hanging lanterns that continue around the platform. No single building should dominate; the subject is the full inhabitable village ring.
+
+Important details:
+Make the left and right edges align seamlessly as one continuous sky-village loop. Place strong landmarks at front, left, rear, and right viewing directions, with scale fading naturally into cloud haze. Keep vertical lines gently curved only by equirectangular projection, not fisheye. The zenith should be open sky with drifting birds; the nadir should show coherent platform boards.
+
+Use case:
+Equirectangular VR Panorama single study 1/8, testing whether a stylized floating village can become a viewer-enterable 360 scene.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 2:1 aspect ratio, no circular tiny-planet view, no split panels, no black borders, no broken left-right seam, no empty panorama edges, no hard central poster framing.

@@ -1,0 +1,14 @@
+Scene:
+A square survey-oriented image that explains spatial logic with the clarity of an expert field overview while still reading as a finished artwork. Use a stable elevated vantage, clean depth layering, and enough visible terrain or architecture to make relationships legible without turning the frame into a literal map. The scene should feel analytical and cinematic at the same time.
+
+Subject:
+Show an axial chamber view showing wall relationships, ceiling bands, floor debris, and the logic of the painted interior as a coherent archaeological space. Organize the composition so paths, terraces, walls, courtyards, chambers, canals, root systems, or quarry clusters can be read as a coherent system. The image should reveal how the civilization used land, water, elevation, enclosure, or monumentality. Keep all architecture, materials, and environmental details consistent with the correct place and period.
+
+Important details:
+Keep the wall system recognizably Egyptian, with disciplined horizontal registers, profile figures, symbolic proportions, and pigment behavior that feels mineral and hand-applied rather than digitally printed. This image should reward close looking by showing infrastructural logic: how stone courses align, how water moves, how rooms connect, how carved masses sit inside geology, or how vegetation interacts with built form. Avoid explicit annotation. Let composition, light, and scale cues do the explanatory work. Keep any measuring elements generic and unreadable, and make the image feel like serious research made visually elegant.
+
+Use case:
+Egyptian Polychrome Wall Reconstruction single study 8/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror tropes, no movie traps, no laser beams, no undead figures, no infographic arrows, no split-screen layout, no impossible aerial geometry, no unrelated settlements.

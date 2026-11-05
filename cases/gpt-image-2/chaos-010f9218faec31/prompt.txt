@@ -1,0 +1,14 @@
+Scene:
+A square black-and-white engraving of a tall interior library with balconies, ladders, shelves, and arched openings, seen from a precise central perspective. The lighting is calm and museum-like, with pale paper, dark ink, and layered cross-hatching. The image should feel like a mathematical architectural print rather than a fantasy illustration.
+
+Subject:
+Create an impossible library where balconies repeat upward and downward but loop back into the same level. A ladder leaning upward reaches a balcony that also appears below the starting balcony. A reading table is seen from above on one plane and from below on another. Shelf rows create a grid that helps the viewer track the contradiction. The space should suggest infinity without relying on fog or blur.
+
+Important details:
+The illusion depends on architectural repetition and perspective continuity. Keep shelves, arches, balcony rails, and ladder rungs cleanly aligned. The loop should be visible: following one balcony around the room should lead to a level that cannot physically match the starting point. Do not fill shelves with readable titles; use abstract book textures only. Maintain clear negative space around the main loop.
+
+Use case:
+Escher Impossible Geometry single study 6/8, testing an infinite library balcony loop with clean black-and-white linework.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no color, no readable book titles, no random maze corridors, no broken ladder geometry, no soft blur, no labels.

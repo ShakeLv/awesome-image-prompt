@@ -1,0 +1,14 @@
+Scene:
+A 2:1 equirectangular VR panorama standing at the center of a vertical city crossroads at dusk, with crisp editorial realism, rain-wet pavement, soft signage-like glow without readable text, and layered towers rising in every direction. The viewer is at street level on a circular pedestrian island. The horizon is exactly centered, with street canyons wrapping into a continuous 360-degree urban ring.
+
+Subject:
+Elevated walkways, tram cables, market awnings, stacked balconies, rooftop gardens, delivery lifts, and glass elevators surround the viewer. Four main streets radiate toward different districts: a food arcade, a transit hub, a residential tower canyon, and a public garden stair. People can appear only as small anonymous silhouettes for scale. The city should feel dense and navigable, not chaotic.
+
+Important details:
+This is an equirectangular panorama, so the left and right edges must join as adjacent sides of the same street canyon. Keep building heights and vanishing logic compatible across the seam. Add overhead cables and rail lines that arc naturally through the zenith without becoming tangled scribbles. The nadir should be a continuous wet pavement island with reflected lights. Use abstract glowing panels and icons only, no readable words or brand marks.
+
+Use case:
+Equirectangular VR Panorama single study 7/8, testing high-density structured layout and urban wayfinding inside a seamless VR-ready city scene.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 2:1 aspect ratio, no circular fisheye, no tiny-planet projection, no impossible perspective collapse, no random duplicated buildings at the seam, no overstuffed illegible signage, no black borders.

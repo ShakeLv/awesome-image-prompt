@@ -1,0 +1,14 @@
+Scene:
+A 2:1 equirectangular VR panorama of a desert train station at golden hour, with cinematic realism, amber dust, long shadows, and a clear turquoise sky. The viewpoint is centered on the main platform between two curved tracks. The horizon stays at the midline, and the station must wrap left-to-right as a continuous rail yard instead of reading as a flat wide-angle photograph.
+
+Subject:
+Around the viewer are tiled platform edges, iron shade canopies, a water tower, signal posts with abstract marks only, luggage carts, wind-sculpted dunes, and a long silver train bending around the rear half of the scene. On the front half, sand has drifted across the platform in soft ridges. The station architecture feels slightly retro-futurist, with brass trim and practical desert engineering, but no brand identity.
+
+Important details:
+The two tracks should form believable arcs around the viewer and continue smoothly through both panorama edges. Keep the left and right boundaries visually compatible: same rail height, same dune horizon, same light direction. Add landmarks at quarter turns so a VR viewer has orientation cues: ticket hall, train nose, water tower, and distant canyon. Zenith should be open sky; nadir should be platform tile and sand, not a void.
+
+Use case:
+Equirectangular VR Panorama single study 4/8, testing whether transportation infrastructure can stay spatially coherent in a 360-degree extreme-aspect scene.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 2:1 aspect ratio, no circular fisheye, no miniature planet, no impossible rail intersections, no duplicated train nose at the seam, no black border, no poster-like centered composition.

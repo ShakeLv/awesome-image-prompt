@@ -1,0 +1,14 @@
+Scene:
+A square independent archaeology study composed from a slightly elevated fieldwork viewpoint. Use balanced natural light, crisp evidence hierarchy, and practical site organization so the image feels publishable in a museum report and still visually strong enough for a gallery wall. The frame should explain where excavation is happening without relying on readable markers or diagrams.
+
+Subject:
+Show a burial chamber threshold with conservators revealing painted plaster beneath dust and fallen chips, lit by neutral field lamps. Include grounded human traces such as ladders, trays, brushes, baskets, light rigs, or measuring tools only when they support archaeological realism and remain visually secondary. The site should stay culturally specific, with architecture, surface treatment, sediment, and environmental context all belonging to the correct civilization rather than a generic dig.
+
+Important details:
+Keep the wall system recognizably Egyptian, with disciplined horizontal registers, profile figures, symbolic proportions, and pigment behavior that feels mineral and hand-applied rather than digitally printed. Prioritize evidence relationships: exposed layers, cleaned edges, protected surfaces, loose fragments, and transitions between buried and revealed material. Let color, wear, and composition explain what has just been uncovered. The image must feel methodical rather than adventurous. Keep any site tags, notes, or markers abstract and unreadable. Avoid sensational treasure imagery and keep the atmosphere scholarly, patient, and materially convincing.
+
+Use case:
+Egyptian Polychrome Wall Reconstruction single study 5/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror tropes, no movie traps, no laser beams, no undead figures, no treasure-chest clichés, no action-movie posing, no arbitrary props, no infographic overlay.

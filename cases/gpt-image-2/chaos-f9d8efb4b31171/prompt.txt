@@ -1,0 +1,14 @@
+Scene:
+A premium square hero reveal frame in a stylized game lobby, lit with a confident rim light and balanced neutral background glow. Frame the composition like a premium game-production deliverable rather than generic concept art, with disciplined square balance, controlled highlight placement, and enough negative space to keep the focal structure easy to parse. Use lighting, value grouping, and depth layers to make the scene feel intentional, collectible, and immediately useful for internal review or outward-facing promotion.
+
+Subject:
+Present one original arena champion in a neutral but charismatic stance, showing the full costume set, signature prop, footwear, gloves, and facial markings with production-sheet clarity. Build the image around one dominant primary read, then support it with clearly organized secondary shapes, props, interface shells, or environment structures that reinforce gameplay context and commercial usefulness. Every object should look original, fully resolved, and designed to survive cropping for store, profile, patch, or gallery surfaces.
+
+Important details:
+This image is the master visual anchor for every later emote, sticker, and victory variation in the set. Keep the hero immediately recognizable at both full-body and sticker scale, with expressive hand language, sharp silhouette control, and a clean commercial finish suited to game UI surfaces. Treat this image as the root visual anchor: it must be especially stable, complete, and easy for later variations to inherit from.
+
+Use case:
+Emote Expression Victory Pose Pack series study 1/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unreadable chat bubbles pretending to be text, no extra characters, no mutated hands, no costume redesign, no muddy silhouette.

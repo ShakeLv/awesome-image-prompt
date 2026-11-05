@@ -1,0 +1,14 @@
+Scene:
+Same square eight-panel manga page format as the reference image, exactly eight panels in a clean 2 by 4 grid, same screen-tone texture, ink style, and limited cyan, magenta, black, and cream palette.
+
+Subject:
+Use the same protagonist from the reference image with the same silver hair, round glasses, cropped black jacket, white hoodie, cyan scarf, and magenta sneakers. The story takes place in a stylized subway station. The glowing GPT-IMAGE-2 orb reflects in train windows, lights up poster frames, and turns a waiting platform into a launch reveal across eight panels.
+
+Important details:
+Preserve the character identity and orb design from the reference. Keep panel rhythm clean and cinematic: establishing shot, close-up, reaction, action, reveal, quiet beat, wide platform glow, final hero pose. Speech balloons contain pseudo-text only; GPT-IMAGE-2 should appear on the orb. Use manga speed lines, train silhouettes, and reflected glow.
+
+Use case:
+Fourth image in a reference-dependent comic consistency series, testing identity and prop continuity in a public transit setting.
+
+Constraints:
+PRESERVE the reference protagonist, outfit, orb, page style, panel count, and square crop. Exactly eight panels, no real transit logos, no watermark, no extra main character, no photorealism, no readable dialogue except GPT-IMAGE-2, preserve exact 1:1 aspect ratio.

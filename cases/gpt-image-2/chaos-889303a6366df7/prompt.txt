@@ -1,0 +1,14 @@
+Scene:
+A square eight-panel storefront launch comic, exactly eight panels in a clean 2 by 4 grid. The style is polished commercial manga with crisp borders, bright but controlled colors, screen-tone shadows, and clear product-poster energy.
+
+Subject:
+A consistent shopkeeper character prepares a tiny pop-up storefront for an image-generation launch. The shopkeeper has a green apron, square glasses, rolled sleeves, and a small star-shaped badge. Across eight panels they hang posters, arrange sample cards, open the shutters, greet a small crowd, demonstrate a glowing display cube, and celebrate the launch.
+
+Important details:
+Maintain the same shopkeeper identity and outfit across all panels. The storefront, display cube, posters, and sample cards should be consistent props. Use pseudo-lettering and symbol marks only; no readable brand names. The page should feel like a commercial launch comic with strong layout clarity and cheerful pacing.
+
+Use case:
+Independent comic single image, testing multi-panel commercial storytelling and prop consistency in a self-contained prompt.
+
+Constraints:
+Exactly eight panels, no readable text, no real logos, no watermark, no extra main protagonist, no broken grid, no photorealism, no clutter that hides panel flow, preserve exact 1:1 aspect ratio.
