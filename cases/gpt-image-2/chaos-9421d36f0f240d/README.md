@@ -1,6 +1,6 @@
 # Varsity Layer
 
-Source-paired archive. **Pending individual ProjectD editorial review.**
+Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic streetwear campaign portrait, not actual talent or verified garment fit. Preserve reference dependencies and visible identity/framing variation rather than claiming biometric identity verification. Requested varsity/layer shift remains a dark jacket similar to anchor; retain weak styling variation.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)
@@ -10,3 +10,5 @@ Source-paired archive. **Pending individual ProjectD editorial review.**
 - Reference dependencies:1; full relationships retained in data/chaos-source-gallery.json.
 
 MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.
+
+[Current complete review ledger](../../../data/chaos-editorial-review-progress-2026-11-06.json) · [Accepted ProjectD membership](../../../data/chaos-projectd-accepted-membership-2026-11-06.json).

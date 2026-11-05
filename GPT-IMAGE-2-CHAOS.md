@@ -1,6 +1,6 @@
 # ChaosRealmsAI GPT Image2 — complete additional source archive
 
-3,631 source-bound image/full-prompt pairs.166 exact prompt pairs were already present in ProjectD; one additional source record lacks an image file. Individual ProjectD review:768 inspected,731 approved,37 held and2,863 unreviewed. The first238 are publishing in run42080135905; the next493 are locally imported and being validated. A merged/imported batch is not public acceptance. Repository content is explicitly MIT; full notice and per-case provenance are retained. No new2.6 cases are inferred.
+3,631 complete source-bound image/full-prompt pairs, all individually reviewed:3,472 approved,159 held,zero unreviewed. 2,675 are published and publicly accepted on ProjectD; 797 approved pairs await publication.166 exact pairs were already present before this archive expansion; one extra source record lacks its native image and is excluded. Complete prompts, unchanged author-published WebPs, pinned content notices and reference requirements retained. These are actual GPT Image2 outputs and are not relabeled2.6. Root repository description has a CC BY4.0 scope discrepancy; pinned public/llms.txt content MIT grant and LICENSE are retained. Outside trademark/character rights are not asserted.
 
 - [Source archive 1](GPT-IMAGE-2-CHAOS-01.md) — 200 pairs
 - [Source archive 2](GPT-IMAGE-2-CHAOS-02.md) — 200 pairs
