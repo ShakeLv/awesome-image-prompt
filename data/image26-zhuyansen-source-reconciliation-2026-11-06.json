@@ -1,0 +1,383 @@
+{
+  "reviewedAt": "2026-11-05T19:07:07.441782+00:00",
+  "sourceRepository": "https://github.com/zhuyansen/awesome-chatgpt-images-2.6",
+  "sourceCommit": "6b2079c73599d236e2921e37d2e479eb6ddac11d",
+  "sourceJsonSha256": "355dc7c9f1fce5f1344049c49260cee7a05ea220cb9ac2a92fad749bb96cba2c",
+  "sourceCount": 18,
+  "fullPromptMetadata": 3,
+  "approvedPairs": 0,
+  "items": [
+    {
+      "sourceId": "2118213172943577144",
+      "title": "Skincare salon landing pages: ChatGPT vs Gemini",
+      "originalPost": "https://x.com/hinakira_ai/status/2118213172943577144",
+      "creator": "hinakira_ai",
+      "prompt": null,
+      "media": [
+        {
+          "type": "photo",
+          "width": 1218,
+          "height": 340,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWVnpwHbcAA9WMO?format=jpg&name=small"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118263296520519786",
+      "title": "Surreal bouncing grayscale faces, looping GIF",
+      "originalPost": "https://x.com/tianmakibo/status/2118263296520519786",
+      "creator": "tianmakibo",
+      "prompt": null,
+      "media": [
+        {
+          "type": "photo",
+          "width": 1220,
+          "height": 2944,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWWVPNxbkAARj_K?format=jpg&name=small"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118235544459387112",
+      "title": "Chibi Chinese reaction stickers, animated set",
+      "originalPost": "https://x.com/0xluffy_eth/status/2118235544459387112",
+      "creator": "0xluffy_eth",
+      "prompt": {
+        "kind": "full",
+        "source": "author_reply",
+        "source_url": "https://x.com/0xluffy_eth/status/2118235547454083357",
+        "length": 171,
+        "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118235544459387112"
+      },
+      "media": [
+        {
+          "type": "gif",
+          "width": 418,
+          "height": 418,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWV7862aEAAFTz1.jpg"
+        },
+        {
+          "type": "gif",
+          "width": 412,
+          "height": 410,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWV7-cMaIAELqlf.jpg"
+        }
+      ],
+      "outcome": "hold-original-motion-media-reference-and-reuse-scope-unresolved",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118188273134915596",
+      "title": "Black one-piece fashion portrait in a studio",
+      "originalPost": "https://x.com/aisumeragi/status/2118188273134915596",
+      "creator": "aisumeragi",
+      "prompt": null,
+      "media": [
+        {
+          "type": "video",
+          "width": 1206,
+          "height": 2474,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118188156541652992/img/HxP3kMxixlZh66BM.jpg"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118135343354720648",
+      "title": "Standing backflip GIF at three complexity levels",
+      "originalPost": "https://x.com/gabrielchua/status/2118135343354720648",
+      "creator": "gabrielchua",
+      "prompt": {
+        "kind": "brief",
+        "source": "post",
+        "source_url": "https://x.com/gabrielchua/status/2118135343354720648",
+        "length": 47,
+        "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118135343354720648"
+      },
+      "media": [
+        {
+          "type": "video",
+          "width": 1200,
+          "height": 520,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118130005637308416/img/k0Px0jbGnj348cBm.jpg"
+        }
+      ],
+      "outcome": "hold-brief-not-confirmed-complete-input",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118150226330734787",
+      "title": "Woman spraying water in a sunny garden",
+      "originalPost": "https://x.com/nima2qisi2/status/2118150226330734787",
+      "creator": "nima2qisi2",
+      "prompt": {
+        "kind": "full",
+        "source": "author_reply",
+        "source_url": "https://x.com/nima2qisi2/status/2118150229811920912",
+        "length": 1424,
+        "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118150226330734787"
+      },
+      "media": [
+        {
+          "type": "photo",
+          "width": 1024,
+          "height": 1536,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWUs6utbwAAgLxv?format=jpg&name=small"
+        }
+      ],
+      "outcome": "hold-original-motion-media-reference-and-reuse-scope-unresolved",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118157265480122457",
+      "title": "Same portrait prompt: Sora vs GPT-Image-2.6",
+      "originalPost": "https://x.com/pigeon__s/status/2118157265480122457",
+      "creator": "pigeon__s",
+      "prompt": null,
+      "media": [
+        {
+          "type": "photo",
+          "width": 2437,
+          "height": 1216,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWU0xHAaAAAVUwZ?format=jpg&name=small"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118157743840469222",
+      "title": "Cream Puff daily-life sticker GIFs",
+      "originalPost": "https://x.com/Leviwoyun/status/2118157743840469222",
+      "creator": "Leviwoyun",
+      "prompt": null,
+      "media": [
+        {
+          "type": "video",
+          "width": 1440,
+          "height": 1058,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118157514001072128/img/LoQYN09Kcfkg3Ofd.jpg"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118181775688241456",
+      "title": "Blue-haired maid reaction sticker GIFs",
+      "originalPost": "https://x.com/op7418/status/2118181775688241456",
+      "creator": "op7418",
+      "prompt": {
+        "kind": "full",
+        "source": "author_reply",
+        "source_url": "https://x.com/op7418/status/2118181972451438662",
+        "length": 538,
+        "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118181775688241456"
+      },
+      "media": [
+        {
+          "type": "gif",
+          "width": 414,
+          "height": 408,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWVKFMFboAApgRC.jpg"
+        },
+        {
+          "type": "gif",
+          "width": 306,
+          "height": 308,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWVKFMMbIAA4Geo.jpg"
+        },
+        {
+          "type": "gif",
+          "width": 358,
+          "height": 352,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWVKFMIb0AA2teV.jpg"
+        },
+        {
+          "type": "gif",
+          "width": 308,
+          "height": 304,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWVKFMHawAEA-lR.jpg"
+        }
+      ],
+      "outcome": "hold-original-motion-media-reference-and-reuse-scope-unresolved",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118186638228816322",
+      "title": "Anime couple in a sunlit garden, repeated edits",
+      "originalPost": "https://x.com/k_matsumaru/status/2118186638228816322",
+      "creator": "k_matsumaru",
+      "prompt": null,
+      "media": [
+        {
+          "type": "video",
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118186331650359296/img/kT4CfsiTsFe2qEEs.jpg"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118166046175908016",
+      "title": "Blue-haired maid eating rice, reaction GIF",
+      "originalPost": "https://x.com/Gorden_Sun/status/2118166046175908016",
+      "creator": "Gorden_Sun",
+      "prompt": {
+        "kind": "brief",
+        "source": "post",
+        "source_url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+        "length": 36,
+        "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118166046175908016"
+      },
+      "media": [
+        {
+          "type": "photo",
+          "width": 1448,
+          "height": 1086,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWU8w0Wa8AAb9LS?format=jpg&name=small"
+        }
+      ],
+      "outcome": "hold-brief-not-confirmed-complete-input",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118173626424025414",
+      "title": "Pixel-art wizard and fighter action loop",
+      "originalPost": "https://x.com/LerSentAI/status/2118173626424025414",
+      "creator": "LerSentAI",
+      "prompt": null,
+      "media": [
+        {
+          "type": "gif",
+          "width": 768,
+          "height": 560,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWVDLuuW0AAM7SN.jpg"
+        },
+        {
+          "type": "gif",
+          "width": 768,
+          "height": 560,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWVDLupXUAAOXEv.jpg"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118271313764925886",
+      "title": "Bespectacled man with orange radial backdrop, looping GIF",
+      "originalPost": "https://x.com/CuiMao/status/2118271313764925886",
+      "creator": "CuiMao",
+      "prompt": null,
+      "media": [
+        {
+          "type": "gif",
+          "width": 308,
+          "height": 302,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWWcbLkbYAEgkF_.jpg"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118164732989608405",
+      "title": "Chibi horned girls in ornate dresses, dancing GIFs",
+      "originalPost": "https://x.com/798145343h/status/2118164732989608405",
+      "creator": "798145343h",
+      "prompt": null,
+      "media": [
+        {
+          "type": "gif",
+          "width": 400,
+          "height": 448,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWU7kWaacAAlQbq.jpg"
+        },
+        {
+          "type": "gif",
+          "width": 400,
+          "height": 448,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWU7le0a8AADU_R.jpg"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118138826212385225",
+      "title": "Green sombrero characters reading newspapers, looping GIF",
+      "originalPost": "https://x.com/testingcatalog/status/2118138826212385225",
+      "creator": "testingcatalog",
+      "prompt": null,
+      "media": [
+        {
+          "type": "gif",
+          "width": 414,
+          "height": 414,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWUjtfPWsAAJmrN.jpg"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118135257618657778",
+      "title": "Cartman character loop GIF",
+      "originalPost": "https://x.com/DeryaTR_/status/2118135257618657778",
+      "creator": "DeryaTR_",
+      "prompt": null,
+      "media": [
+        {
+          "type": "gif",
+          "width": 358,
+          "height": 356,
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWUgyYlWkAADWlz.jpg"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118128944058716210",
+      "title": "Pastel blossoms framing a promotional title card",
+      "originalPost": "https://x.com/vikktorrrre/status/2118128944058716210",
+      "creator": "vikktorrrre",
+      "prompt": null,
+      "media": [
+        {
+          "type": "photo",
+          "width": 1672,
+          "height": 941,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWUbBzPXUAE5YR5?format=jpg&name=small"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    },
+    {
+      "sourceId": "2118241781074862569",
+      "title": "Anime idol heartbeat dance, low/medium/high comparison",
+      "originalPost": "https://x.com/Mayz1169/status/2118241781074862569",
+      "creator": "Mayz1169",
+      "prompt": null,
+      "media": [
+        {
+          "type": "video",
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118233812392144896/img/fVNePRmjvUhk3tcZ.jpg"
+        }
+      ],
+      "outcome": "hold-no-public-full-prompt",
+      "note": "Repository supplies thumbnail URLs and prompt metadata, not downloadable original motion files or a media reuse license. Do not substitute video thumbnail for generated animation or infer actual input from a description."
+    }
+  ]
+}
