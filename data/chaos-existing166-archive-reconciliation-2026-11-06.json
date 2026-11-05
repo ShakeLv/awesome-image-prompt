@@ -1,0 +1,1502 @@
+{
+  "checkedAt": "2026-11-05T22:16:10.621982+00:00",
+  "total": 166,
+  "allAlreadyArchivedExactSourceNativeAndFullPrompt": true,
+  "sourceCommit": "5296db8c996e38776c83a0bc8c64f848dcd512b3",
+  "items": [
+    {
+      "sourceWorkId": "2d-3d-medium-collision/single-medium-collision-studies/chalk-dinosaur-egg",
+      "archived": true,
+      "id": "693e0cb1b85774",
+      "archiveImage": "images/693e0cb1b85774-694a8dbcf47f722b.webp",
+      "sourceImagePath": "works/topics/2d-3d-medium-collision/packages/single-medium-collision-studies/images/chalk-dinosaur-egg/image.w2400.webp",
+      "nativeGitBlob": "f66782ceb9a52fd3a0a107743a90d1c6af5fc606",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "abstract-expressionism-study/single-abstract-expressionism-studies/drip-constellation",
+      "archived": true,
+      "id": "a0a52190f22742",
+      "archiveImage": "images/a0a52190f22742-360036351f6acd01.webp",
+      "sourceImagePath": "works/topics/abstract-expressionism-study/packages/single-abstract-expressionism-studies/images/drip-constellation/image.w2400.webp",
+      "nativeGitBlob": "ddce94f8c8c8ca990e293a9771c0a365eaedb5bb",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/abyssal-estuary-wide",
+      "archived": true,
+      "id": "6fd79097186c0c",
+      "archiveImage": "images/6fd79097186c0c-39e6095c8a0d9db8.webp",
+      "sourceImagePath": "works/topics/abyssal-bioluminescent-ecosystem/packages/single-abyssal-bioluminescent-studies/images/abyssal-estuary-wide/image.w2400.webp",
+      "nativeGitBlob": "6d8872bf5f5aa31c85b40611ec780e384fa566e4",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "action-beat-comic-page/single-theme-extensions/hero-study",
+      "archived": true,
+      "id": "cb6a74ee1901b5",
+      "archiveImage": "images/cb6a74ee1901b5-e3e50a9a86daa9f9.webp",
+      "sourceImagePath": "works/topics/action-beat-comic-page/packages/single-theme-extensions/images/hero-study/image.w2400.webp",
+      "nativeGitBlob": "e5d28e4a14af024734303b96002e3b080b1921c8",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "adoption-and-rescue-awareness-kit/single-rescue-awareness-studies/01-hopeful-portrait-poster",
+      "archived": true,
+      "id": "f3ea7735ade6aa",
+      "archiveImage": "images/f3ea7735ade6aa-4cbada03c352eb78.webp",
+      "sourceImagePath": "works/topics/adoption-and-rescue-awareness-kit/packages/single-rescue-awareness-studies/images/01-hopeful-portrait-poster/image.w2400.webp",
+      "nativeGitBlob": "32698e6cc86a22f4316705df0a2c79f5646a69a1",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "album-cover-and-single-rollout-system/single-rollout-assets/gatefold-still-life",
+      "archived": true,
+      "id": "7b361b4e05e05a",
+      "archiveImage": "images/7b361b4e05e05a-2d75db8ddb06f154.webp",
+      "sourceImagePath": "works/topics/album-cover-and-single-rollout-system/packages/single-rollout-assets/images/gatefold-still-life/image.w2400.webp",
+      "nativeGitBlob": "7c91cda5d01d976c1d5292e7f4162fdb6b838d66",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "anamorphic-perspective-art/single-anamorphic-studies/rooftop-atlas-mark",
+      "archived": true,
+      "id": "a9aae7d438ffc6",
+      "archiveImage": "images/a9aae7d438ffc6-4ffa7da5e76eadc3.webp",
+      "sourceImagePath": "works/topics/anamorphic-perspective-art/packages/single-anamorphic-studies/images/rooftop-atlas-mark/image.w2400.webp",
+      "nativeGitBlob": "626430e237e93d890f2cc43c78e5d776fea81a81",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "ancient-book-restoration/single-ancient-book-restoration-studies/surface-hero",
+      "archived": true,
+      "id": "1d4c532f4bc3af",
+      "archiveImage": "images/1d4c532f4bc3af-35648b689c10a524.webp",
+      "sourceImagePath": "works/topics/ancient-book-restoration/packages/single-ancient-book-restoration-studies/images/surface-hero/image.w2400.webp",
+      "nativeGitBlob": "0acd31792e4f42da5becee85373ea92a01dc9c26",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "angkor-wat-overgrown/single-context-studies/excavation-overview",
+      "archived": true,
+      "id": "d4d318dddf7fdd",
+      "archiveImage": "images/d4d318dddf7fdd-4668d54600be7e85.webp",
+      "sourceImagePath": "works/topics/angkor-wat-overgrown/packages/single-context-studies/images/excavation-overview/image.w2400.webp",
+      "nativeGitBlob": "9a66defea2dba76c65c290159809497f42b6fa25",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "animal-character-editorial-spread-set/single-animal-editorial-studies/01-dog-column-opening-spread",
+      "archived": true,
+      "id": "f49b56db7b41e5",
+      "archiveImage": "images/f49b56db7b41e5-1c729326607688df.webp",
+      "sourceImagePath": "works/topics/animal-character-editorial-spread-set/packages/single-animal-editorial-studies/images/01-dog-column-opening-spread/image.w2400.webp",
+      "nativeGitBlob": "12de71f24279fa51af3683ffa8052a2549a3fef9",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "antarctic-tabular-iceberg/single-landscape-studies/01-main-panorama",
+      "archived": true,
+      "id": "08a2e6cf6819de",
+      "archiveImage": "images/08a2e6cf6819de-02b51ac4082c2db6.webp",
+      "sourceImagePath": "works/topics/antarctic-tabular-iceberg/packages/single-landscape-studies/images/01-main-panorama/image.w2400.webp",
+      "nativeGitBlob": "0eea43fd70f1171effd67393cd53ea217ca1516d",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "app-launch-hero-system/single-app-launch-hero-studies/01-ai-notebook-copilot",
+      "archived": true,
+      "id": "122ac49f488e5c",
+      "archiveImage": "images/122ac49f488e5c-fe363c309fe33040.webp",
+      "sourceImagePath": "works/topics/app-launch-hero-system/packages/single-app-launch-hero-studies/images/01-ai-notebook-copilot/image.w2400.webp",
+      "nativeGitBlob": "d699d4961f3531cae9f236de131c1b4e91f45baa",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "app-launch-marketing-page-kit/single-market-angle-studies/01-focusflow-productivity-board",
+      "archived": true,
+      "id": "f0ebe375cfe01a",
+      "archiveImage": "images/f0ebe375cfe01a-edf8b4ab878045c1.webp",
+      "sourceImagePath": "works/topics/app-launch-marketing-page-kit/packages/single-market-angle-studies/images/01-focusflow-productivity-board/image.w2400.webp",
+      "nativeGitBlob": "89e93876550be86068a43d0b276a4076d1108a14",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "architectural-facade-identity-system/single-support-studies/01-material-mockup-panel",
+      "archived": true,
+      "id": "93fdad0bf833af",
+      "archiveImage": "images/93fdad0bf833af-655a959f01a7d1ba.webp",
+      "sourceImagePath": "works/topics/architectural-facade-identity-system/packages/single-support-studies/images/01-material-mockup-panel/image.w2400.webp",
+      "nativeGitBlob": "27e4737e544fbc185476fa35ef59d5d1903aedbc",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "archive-aesthetic-file/single-archive-aesthetic-file-studies/hero-spread",
+      "archived": true,
+      "id": "59d38c9c78e360",
+      "archiveImage": "images/59d38c9c78e360-817ba37428214255.webp",
+      "sourceImagePath": "works/topics/archive-aesthetic-file/packages/single-archive-aesthetic-file-studies/images/hero-spread/image.w2400.webp",
+      "nativeGitBlob": "6012d83c631e16abd85538fe98b3cb6b251b7cfc",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "art-deco-gatsby-theatre/single-poster-studies/01-canonical-one-sheet",
+      "archived": true,
+      "id": "90d474fe2d4db4",
+      "archiveImage": "images/90d474fe2d4db4-c97df5fe817d02f8.webp",
+      "sourceImagePath": "works/topics/art-deco-gatsby-theatre/packages/single-poster-studies/images/01-canonical-one-sheet/image.w2400.webp",
+      "nativeGitBlob": "5c001815fba0a62676beb351e406803bec460a92",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "art-nouveau-poster/single-application-studies/01-editorial-study",
+      "archived": true,
+      "id": "fc7f80c550f73c",
+      "archiveImage": "images/fc7f80c550f73c-589bf02ed1c218e6.webp",
+      "sourceImagePath": "works/topics/art-nouveau-poster/packages/single-application-studies/images/01-editorial-study/image.w2400.webp",
+      "nativeGitBlob": "a30d4f09aab499475fe181acba7c04ee3c33191a",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "arthouse-one-sheet-anime-remake/single-arthouse-remix-studies/01-rain-window-solitude",
+      "archived": true,
+      "id": "35c4c902cf9c1b",
+      "archiveImage": "images/35c4c902cf9c1b-a6501c33627f7d7c.webp",
+      "sourceImagePath": "works/topics/arthouse-one-sheet-anime-remake/packages/single-arthouse-remix-studies/images/01-rain-window-solitude/image.w2400.webp",
+      "nativeGitBlob": "9175c7ffaf72f417041267708cacbef2461f17c1",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "artist-identity-portrait-and-brand-kit/single-brand-surfaces/press-folder-desk",
+      "archived": true,
+      "id": "032121c6a07d57",
+      "archiveImage": "images/032121c6a07d57-dc0c020317016a80.webp",
+      "sourceImagePath": "works/topics/artist-identity-portrait-and-brand-kit/packages/single-brand-surfaces/images/press-folder-desk/image.w2400.webp",
+      "nativeGitBlob": "3473b539df0789443a4b2a1e6b8d5dd716ee3665",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "athlete-spotlight-and-profile-card-family/single-support-studies/coach-profile-board",
+      "archived": true,
+      "id": "8a6294c77f54dc",
+      "archiveImage": "images/8a6294c77f54dc-91b3f8280f349394.webp",
+      "sourceImagePath": "works/topics/athlete-spotlight-and-profile-card-family/packages/single-support-studies/images/coach-profile-board/image.w2400.webp",
+      "nativeGitBlob": "0857d35d62b702f0f282506c694571cd52e99ed7",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "audubon-specimen-atlas/single-audubon-specimen-studies/hero-shot",
+      "archived": true,
+      "id": "3b69a7f9867714",
+      "archiveImage": "images/3b69a7f9867714-716d1b8ffee948ab.webp",
+      "sourceImagePath": "works/topics/audubon-specimen-atlas/packages/single-audubon-specimen-studies/images/hero-shot/image.w2400.webp",
+      "nativeGitBlob": "effbe22815d64917bf205fd58a6b1651dc629331",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "aurora-glacier-silent-theatre/single-support-studies/surface-study",
+      "archived": true,
+      "id": "4ea51e616e4bd1",
+      "archiveImage": "images/4ea51e616e4bd1-877727742690e216.webp",
+      "sourceImagePath": "works/topics/aurora-glacier-silent-theatre/packages/single-support-studies/images/surface-study/image.w2400.webp",
+      "nativeGitBlob": "0c300d91800eb62af15ab013d951ccad760ba67a",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "automotive-concept-art/single-automotive-concept-art-studies/hero-model",
+      "archived": true,
+      "id": "72ead3ace0666c",
+      "archiveImage": "images/72ead3ace0666c-bc8d25383f61371e.webp",
+      "sourceImagePath": "works/topics/automotive-concept-art/packages/single-automotive-concept-art-studies/images/hero-model/image.w2400.webp",
+      "nativeGitBlob": "80abb3baab3b81a7837f0062c937cdb38ac54db8",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "automotive-interior-cockpit-ui-hero/single-support-studies/support-one",
+      "archived": true,
+      "id": "7bce8e49e9a90a",
+      "archiveImage": "images/7bce8e49e9a90a-53fa091bb3ba579e.webp",
+      "sourceImagePath": "works/topics/automotive-interior-cockpit-ui-hero/packages/single-support-studies/images/support-one/image.w2400.webp",
+      "nativeGitBlob": "c445f47e47ff1c7813cfeae1f073a65c02b5a104",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "back-to-school-enrollment-and-retail-kit/single-campus-support-studies/locker-flatlay-organizer",
+      "archived": true,
+      "id": "e68c6e900ee281",
+      "archiveImage": "images/e68c6e900ee281-1539c44cf2d199c0.webp",
+      "sourceImagePath": "works/topics/back-to-school-enrollment-and-retail-kit/packages/single-campus-support-studies/images/locker-flatlay-organizer/image.w2400.webp",
+      "nativeGitBlob": "527895ec6dd3f04ccfb65043494566840a7921f1",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "bauhaus-poster-textbook/single-poster-studies/01-canonical-one-sheet",
+      "archived": true,
+      "id": "22b4c4ada9f692",
+      "archiveImage": "images/22b4c4ada9f692-ae1cddaadd8b3108.webp",
+      "sourceImagePath": "works/topics/bauhaus-poster-textbook/packages/single-poster-studies/images/01-canonical-one-sheet/image.w2400.webp",
+      "nativeGitBlob": "38e25cc3ba74a86c2d28f824317cabd7dafd1a73",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "beauty-look-era-switchboard/single-editorial-support/before-after-board",
+      "archived": true,
+      "id": "6ffb6277e90d02",
+      "archiveImage": "images/6ffb6277e90d02-58313deaccdad96e.webp",
+      "sourceImagePath": "works/topics/beauty-look-era-switchboard/packages/single-editorial-support/images/before-after-board/image.w2400.webp",
+      "nativeGitBlob": "c851e3ce6eecb9bca087f17c04c2dc41a4ab1fca",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "biome-establishing-scene-pack/single-support-studies/loading-screen-key-art",
+      "archived": true,
+      "id": "49c3cdef6d80e3",
+      "archiveImage": "images/49c3cdef6d80e3-397102244bfc971b.webp",
+      "sourceImagePath": "works/topics/biome-establishing-scene-pack/packages/single-support-studies/images/loading-screen-key-art/image.w2400.webp",
+      "nativeGitBlob": "44ea741ca7d3e275f2b72a0f510f48a55f6cd00a",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "biomechanical-entity-design-board/single-support-studies/01-cargo-beast-board",
+      "archived": true,
+      "id": "db999251b2f21e",
+      "archiveImage": "images/db999251b2f21e-78b0d8e21b8f8908.webp",
+      "sourceImagePath": "works/topics/biomechanical-entity-design-board/packages/single-support-studies/images/01-cargo-beast-board/image.w2400.webp",
+      "nativeGitBlob": "750fa159811a1037f6644efe7d5c6db441a702cc",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "black-friday-and-shopping-frenzy-kit/single-commerce-support-studies/checkout-chaos-flatlay",
+      "archived": true,
+      "id": "def64647e2abda",
+      "archiveImage": "images/def64647e2abda-1d6cb37cd87ccd14.webp",
+      "sourceImagePath": "works/topics/black-friday-and-shopping-frenzy-kit/packages/single-commerce-support-studies/images/checkout-chaos-flatlay/image.w2400.webp",
+      "nativeGitBlob": "52589f22f8c9d564bab51ff356c89b54f20e6b81",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "blue-hour-metropolis/single-support-studies/surface-study",
+      "archived": true,
+      "id": "525c0d7b686ffb",
+      "archiveImage": "images/525c0d7b686ffb-ad60cdad51b08505.webp",
+      "sourceImagePath": "works/topics/blue-hour-metropolis/packages/single-support-studies/images/surface-study/image.w2400.webp",
+      "nativeGitBlob": "32ed9c57ca6aebbb56b88d9d1760b8a7c8b6ca71",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "book-series-design/single-book-series-design-studies/hero-spread",
+      "archived": true,
+      "id": "4f06442629daf9",
+      "archiveImage": "images/4f06442629daf9-ea933faa1825a5ce.webp",
+      "sourceImagePath": "works/topics/book-series-design/packages/single-book-series-design-studies/images/hero-spread/image.w2400.webp",
+      "nativeGitBlob": "f65baaf851d110e6cd40663e545416aacbb5ecc2",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "boss-arena-phase-keyframes/single-boss-support-studies/mechanic-floor-board",
+      "archived": true,
+      "id": "9b79a1b004c9f5",
+      "archiveImage": "images/9b79a1b004c9f5-d7786ddffe8b746b.webp",
+      "sourceImagePath": "works/topics/boss-arena-phase-keyframes/packages/single-boss-support-studies/images/mechanic-floor-board/image.w2400.webp",
+      "nativeGitBlob": "bfc8c1e682b3c603a5572dafce1671be0e684bb1",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "boutique-guestroom-editorial-suite/single-support-studies/01-minibar-alcove",
+      "archived": true,
+      "id": "feccf13cb0c0b8",
+      "archiveImage": "images/feccf13cb0c0b8-14619a6f289f7128.webp",
+      "sourceImagePath": "works/topics/boutique-guestroom-editorial-suite/packages/single-support-studies/images/01-minibar-alcove/image.w2400.webp",
+      "nativeGitBlob": "c500c864ce40e76619202316b5a311b58b297d4a",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "brand-artist-collab-mockup/single-collab-proposal-studies/athletic-toy-window",
+      "archived": true,
+      "id": "780be7ddda15c4",
+      "archiveImage": "images/780be7ddda15c4-9d92d2493818550f.webp",
+      "sourceImagePath": "works/topics/brand-artist-collab-mockup/packages/single-collab-proposal-studies/images/athletic-toy-window/image.w2400.webp",
+      "nativeGitBlob": "3725da3275972e9e2523c53a1bc0b2244ee9acf2",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "brand-identity-mockup-set/single-brand-identity-mockup-set-studies/hero-mockup",
+      "archived": true,
+      "id": "6801770a41c6b3",
+      "archiveImage": "images/6801770a41c6b3-448c3d8db01c42f2.webp",
+      "sourceImagePath": "works/topics/brand-identity-mockup-set/packages/single-brand-identity-mockup-set-studies/images/hero-mockup/image.w2400.webp",
+      "nativeGitBlob": "62bbbe8bbd69d7bc844ea1c3cb2d760db3e7dc08",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "breakfast-brunch-tabletop-system/single-support-studies/pastry-basket-spread",
+      "archived": true,
+      "id": "2240b970a2abc2",
+      "archiveImage": "images/2240b970a2abc2-6e806a5d239d2b87.webp",
+      "sourceImagePath": "works/topics/breakfast-brunch-tabletop-system/packages/single-support-studies/images/pastry-basket-spread/image.w2400.webp",
+      "nativeGitBlob": "f17396d73c7798132a83f365f56fc5b301329112",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "bundle-shop-capsule-system/single-bundle-shop-studies/starter-pack-capsule",
+      "archived": true,
+      "id": "9890903c12fae9",
+      "archiveImage": "images/9890903c12fae9-bafe6cd92016ed2b.webp",
+      "sourceImagePath": "works/topics/bundle-shop-capsule-system/packages/single-bundle-shop-studies/images/starter-pack-capsule/image.w2400.webp",
+      "nativeGitBlob": "ad566b9d006c7c3cbec88237ef9d6586d3405f69",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "character-banner-gacha-pool-visuals/single-gacha-support-assets/pool-lineup-board",
+      "archived": true,
+      "id": "4fc1ed399b9723",
+      "archiveImage": "images/4fc1ed399b9723-5fd36b34dbec9dc7.webp",
+      "sourceImagePath": "works/topics/character-banner-gacha-pool-visuals/packages/single-gacha-support-assets/images/pool-lineup-board/image.w2400.webp",
+      "nativeGitBlob": "6f34b4dc6181bf1b3c7610197b3246bfbba913bd",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "character-turnaround/single-turnaround-sheet-studies/arcology-medic-turnaround",
+      "archived": true,
+      "id": "60c4dd1c31abb6",
+      "archiveImage": "images/60c4dd1c31abb6-27db1f1cd5b4ecbf.webp",
+      "sourceImagePath": "works/topics/character-turnaround/packages/single-turnaround-sheet-studies/images/arcology-medic-turnaround/image.w2400.webp",
+      "nativeGitBlob": "61f01116efa36e6f499d0555f48aec14db52158d",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "chibi-franchise-campaign-pack/single-retail-support/explainer-board",
+      "archived": true,
+      "id": "8fa4dc5bc0e76b",
+      "archiveImage": "images/8fa4dc5bc0e76b-77cf3a738cc10268.webp",
+      "sourceImagePath": "works/topics/chibi-franchise-campaign-pack/packages/single-retail-support/images/explainer-board/image.w2400.webp",
+      "nativeGitBlob": "bbf0729df6534553adb995627d6b9b05bdc42725",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "children-storybook-scene-page-system/single-support-studies/01-story-cover-board",
+      "archived": true,
+      "id": "6742a8b6b25f3c",
+      "archiveImage": "images/6742a8b6b25f3c-647d04d52322c6e6.webp",
+      "sourceImagePath": "works/topics/children-storybook-scene-page-system/packages/single-support-studies/images/01-story-cover-board/image.w2400.webp",
+      "nativeGitBlob": "a803fdff4e9d77272de6ab6431c574a6968a086c",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "chocolate-lacquer-sculpture/single-support-studies/gold-leaf-mirror-macro",
+      "archived": true,
+      "id": "d6677aa1bc10ad",
+      "archiveImage": "images/d6677aa1bc10ad-45867192f4c1f9e1.webp",
+      "sourceImagePath": "works/topics/chocolate-lacquer-sculpture/packages/single-support-studies/images/gold-leaf-mirror-macro/image.w2400.webp",
+      "nativeGitBlob": "7b24706a2ec117104bedfe059907ed1fb66b3f66",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "cinematic-hardware-microsite/single-module-studies/01-device-pairing-board",
+      "archived": true,
+      "id": "f457a0b89ef957",
+      "archiveImage": "images/f457a0b89ef957-c84a60c18c628769.webp",
+      "sourceImagePath": "works/topics/cinematic-hardware-microsite/packages/single-module-studies/images/01-device-pairing-board/image.w2400.webp",
+      "nativeGitBlob": "65d136414e7bd5b64959162396012825db148245",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "classroom-routine-and-rule-visual-set/single-support-studies/01-pocket-chart-wall",
+      "archived": true,
+      "id": "e6f6e13d79ab26",
+      "archiveImage": "images/e6f6e13d79ab26-10aa7515f55d11b8.webp",
+      "sourceImagePath": "works/topics/classroom-routine-and-rule-visual-set/packages/single-support-studies/images/01-pocket-chart-wall/image.w2400.webp",
+      "nativeGitBlob": "8510064a7fcf95f7e28df979f2affc775fd6d1a2",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "claymation-style/single-claymation-style-studies/hero-model",
+      "archived": true,
+      "id": "83f79fdc2ab5fe",
+      "archiveImage": "images/83f79fdc2ab5fe-68529b44cc7c90e8.webp",
+      "sourceImagePath": "works/topics/claymation-style/packages/single-claymation-style-studies/images/hero-model/image.w2400.webp",
+      "nativeGitBlob": "6fcd46cff17e6e4b5617849ef7a2fcbfe985150a",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "cocktail-anatomy-editorial/single-support-studies/ice-sphere-core-study",
+      "archived": true,
+      "id": "3a1d5b28909527",
+      "archiveImage": "images/3a1d5b28909527-38f2def6a927838e.webp",
+      "sourceImagePath": "works/topics/cocktail-anatomy-editorial/packages/single-support-studies/images/ice-sphere-core-study/image.w2400.webp",
+      "nativeGitBlob": "e6f97d3aa4982beeae00457df73917da1be23270",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "coffee-drink-ritual-campaign-series/single-support-studies/beans-and-tools-board",
+      "archived": true,
+      "id": "d3158e0ec14e02",
+      "archiveImage": "images/d3158e0ec14e02-56f65e229e970d34.webp",
+      "sourceImagePath": "works/topics/coffee-drink-ritual-campaign-series/packages/single-support-studies/images/beans-and-tools-board/image.w2400.webp",
+      "nativeGitBlob": "904d495c04cd62b015117130af84fefba6741f60",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "cold-precision-grid-interior/single-cold-precision-grid-interior/01-analyst-bullpen",
+      "archived": true,
+      "id": "09453aa301359c",
+      "archiveImage": "images/09453aa301359c-ce2a575ad790a2e2.webp",
+      "sourceImagePath": "works/topics/cold-precision-grid-interior/packages/single-cold-precision-grid-interior/images/01-analyst-bullpen/image.w2400.webp",
+      "nativeGitBlob": "77dcead649d8b230818565e1ae35e3c491ea34a4",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "collector-figure-blister-ads/single-retail-support/explainer-board",
+      "archived": true,
+      "id": "664cf4f6f77d10",
+      "archiveImage": "images/664cf4f6f77d10-c59f8bb454b6631f.webp",
+      "sourceImagePath": "works/topics/collector-figure-blister-ads/packages/single-retail-support/images/explainer-board/image.w2400.webp",
+      "nativeGitBlob": "af86eac6d71a101801c569848e3a086eabc29792",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "compact-urban-apartment-efficiency-aesthetic/single-support-studies/01-foldout-dining-scene",
+      "archived": true,
+      "id": "1ebaf8e4e98ad4",
+      "archiveImage": "images/1ebaf8e4e98ad4-d804c1acd38c47f8.webp",
+      "sourceImagePath": "works/topics/compact-urban-apartment-efficiency-aesthetic/packages/single-support-studies/images/01-foldout-dining-scene/image.w2400.webp",
+      "nativeGitBlob": "59280320a608258d04acf8a529501dae88daf87e",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "complex-optics-materials/single-complex-optics-materials-studies/surface-hero",
+      "archived": true,
+      "id": "98e5fe433246d2",
+      "archiveImage": "images/98e5fe433246d2-7e6c343eeb0fe0e6.webp",
+      "sourceImagePath": "works/topics/complex-optics-materials/packages/single-complex-optics-materials-studies/images/surface-hero/image.w2400.webp",
+      "nativeGitBlob": "d823f11afba6f54926e58139738821334e32ea8c",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "conversational-editing-workflow/single-editing-scenarios/cafe-menu-revision",
+      "archived": true,
+      "id": "4aaf5f1a24da2e",
+      "archiveImage": "images/4aaf5f1a24da2e-43f56814b65f164a.webp",
+      "sourceImagePath": "works/topics/conversational-editing-workflow/packages/single-editing-scenarios/images/cafe-menu-revision/image.w2400.webp",
+      "nativeGitBlob": "ed0ae5760019ce8ad82233a4e22633c2e8dce271",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "courtroom-sketch/single-courtroom-sketch-studies/drip-constellation",
+      "archived": true,
+      "id": "d17f2ca1290a40",
+      "archiveImage": "images/d17f2ca1290a40-67636b605f374239.webp",
+      "sourceImagePath": "works/topics/courtroom-sketch/packages/single-courtroom-sketch-studies/images/drip-constellation/image.w2400.webp",
+      "nativeGitBlob": "6b02aceae0003eca33f6e78d2065ee0faf0464f4",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "creative-studio-and-office-brand-floor/single-support-studies/01-material-library-wall",
+      "archived": true,
+      "id": "896f19c94299e0",
+      "archiveImage": "images/896f19c94299e0-fc70ddad25731b2d.webp",
+      "sourceImagePath": "works/topics/creative-studio-and-office-brand-floor/packages/single-support-studies/images/01-material-library-wall/image.w2400.webp",
+      "nativeGitBlob": "9514308cd820eea32a6c3ac50bfd22ab1ef7b0bd",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "cross-section-pastry-atlas/single-support-studies/croissant-spinal-cut",
+      "archived": true,
+      "id": "8172b466ae550a",
+      "archiveImage": "images/8172b466ae550a-19525df6e921fbf1.webp",
+      "sourceImagePath": "works/topics/cross-section-pastry-atlas/packages/single-support-studies/images/croissant-spinal-cut/image.w2400.webp",
+      "nativeGitBlob": "ac9b354b922b4b9a8514fd182dde859faa8f8575",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "crystal-silicon-lifeform/single-silicon-lifeform-atlas/scout-form-profile",
+      "archived": true,
+      "id": "3e8b060ac3fba9",
+      "archiveImage": "images/3e8b060ac3fba9-1306bb5dafe018e7.webp",
+      "sourceImagePath": "works/topics/crystal-silicon-lifeform/packages/single-silicon-lifeform-atlas/images/scout-form-profile/image.w2400.webp",
+      "nativeGitBlob": "084d995b54923d4ba80f1ab30f9abb721bf87c44",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "cute-blind-box-figurine/single-cute-blind-box-figurine-studies/hero-model",
+      "archived": true,
+      "id": "5dfef145beece7",
+      "archiveImage": "images/5dfef145beece7-a8dce9442ea34a57.webp",
+      "sourceImagePath": "works/topics/cute-blind-box-figurine/packages/single-cute-blind-box-figurine-studies/images/hero-model/image.w2400.webp",
+      "nativeGitBlob": "be6fb0063a9caef79efbd1257a41392c42000f1a",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "cute-pet-social-carousel-family/single-pet-social-carousel-studies/01-morning-stretch-carousel-cover",
+      "archived": true,
+      "id": "aa4370949f53ed",
+      "archiveImage": "images/aa4370949f53ed-fc5ebfa06410d720.webp",
+      "sourceImagePath": "works/topics/cute-pet-social-carousel-family/packages/single-pet-social-carousel-studies/images/01-morning-stretch-carousel-cover/image.w2400.webp",
+      "nativeGitBlob": "b80ca65d1f876786237ee4ac2c842c757e512df8",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "cute-product-explainer-poster/single-retail-support/explainer-board",
+      "archived": true,
+      "id": "ea5bd1222a5703",
+      "archiveImage": "images/ea5bd1222a5703-ff67bf073ebb0672.webp",
+      "sourceImagePath": "works/topics/cute-product-explainer-poster/packages/single-retail-support/images/explainer-board/image.w2400.webp",
+      "nativeGitBlob": "e38542bc01f24cd52189ace6f93c15841e129949",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "delivery-first-food-commerce-tiles/single-support-studies/lunch-box-hero-card",
+      "archived": true,
+      "id": "fb4a8824cc7a6c",
+      "archiveImage": "images/fb4a8824cc7a6c-f170df4b6d1f7986.webp",
+      "sourceImagePath": "works/topics/delivery-first-food-commerce-tiles/packages/single-support-studies/images/lunch-box-hero-card/image.w2400.webp",
+      "nativeGitBlob": "7748cd44ad058eb5a6e1526ec15f549fb44c63e0",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "dessert-patisserie-brand-visual-system/single-support-studies/cake-box-flatlay",
+      "archived": true,
+      "id": "6ea71941773ab6",
+      "archiveImage": "images/6ea71941773ab6-ab10ac2d36377b93.webp",
+      "sourceImagePath": "works/topics/dessert-patisserie-brand-visual-system/packages/single-support-studies/images/cake-box-flatlay/image.w2400.webp",
+      "nativeGitBlob": "dea75bc1707ef6e1923d99be1d6c828c1a5bdaa9",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "dim-sum-miniature-atlas/single-support-studies/phoenix-claw-study",
+      "archived": true,
+      "id": "dcfae7bcfee372",
+      "archiveImage": "images/dcfae7bcfee372-edd3ca9ae4190b75.webp",
+      "sourceImagePath": "works/topics/dim-sum-miniature-atlas/packages/single-support-studies/images/phoenix-claw-study/image.w2400.webp",
+      "nativeGitBlob": "d21ccbff9f39963b29d7aa977248e1b8d3b707a2",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "early-learning-flashcard-family/single-support-studies/01-boxed-deck-flatlay",
+      "archived": true,
+      "id": "5a47e96768e8f7",
+      "archiveImage": "images/5a47e96768e8f7-be8a053d76a047ee.webp",
+      "sourceImagePath": "works/topics/early-learning-flashcard-family/packages/single-support-studies/images/01-boxed-deck-flatlay/image.w2400.webp",
+      "nativeGitBlob": "14321c4803b46a0d1914a18ca654d2a28ecf6dfa",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "eight-panel-consistency-comic/single-comic-studies/product-demo-board",
+      "archived": true,
+      "id": "7dc584d19bde06",
+      "archiveImage": "images/7dc584d19bde06-2e46c751b32ff761.webp",
+      "sourceImagePath": "works/topics/eight-panel-consistency-comic/packages/single-comic-studies/images/product-demo-board/image.w2400.webp",
+      "nativeGitBlob": "5514e4dbc85582a5e439d6b77718541c58db5532",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "engineering-cutaway-and-section-poster/single-support-studies/support-one",
+      "archived": true,
+      "id": "27e6024529e71b",
+      "archiveImage": "images/27e6024529e71b-cef7a0abbaee11bc.webp",
+      "sourceImagePath": "works/topics/engineering-cutaway-and-section-poster/packages/single-support-studies/images/support-one/image.w2400.webp",
+      "nativeGitBlob": "3087ad142419b123fce5f4d36a0a58ff44aea0aa",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "esports-matchday-visual-kit/single-matchday-support-assets/versus-banner-crop",
+      "archived": true,
+      "id": "2cd7bac1e81e39",
+      "archiveImage": "images/2cd7bac1e81e39-1d32f8b4fdcf8a62.webp",
+      "sourceImagePath": "works/topics/esports-matchday-visual-kit/packages/single-matchday-support-assets/images/versus-banner-crop/image.w2400.webp",
+      "nativeGitBlob": "5ed632eea416b872a84a4e9e22d357872c150b7c",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "exoplanet-floating-forest/single-floating-forest-studies/canopy-archipelago-overview",
+      "archived": true,
+      "id": "ae7d6695718d57",
+      "archiveImage": "images/ae7d6695718d57-a2d31ffa749d7e96.webp",
+      "sourceImagePath": "works/topics/exoplanet-floating-forest/packages/single-floating-forest-studies/images/canopy-archipelago-overview/image.w2400.webp",
+      "nativeGitBlob": "1a897322afdbc16d53b12905e14990c555acb046",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "fermentation-sculpture-atlas/single-support-studies/cheese-cave-wheel-core",
+      "archived": true,
+      "id": "40d237fbdc496e",
+      "archiveImage": "images/40d237fbdc496e-9fd6300f2bd4a701.webp",
+      "sourceImagePath": "works/topics/fermentation-sculpture-atlas/packages/single-support-studies/images/cheese-cave-wheel-core/image.w2400.webp",
+      "nativeGitBlob": "88cca163e94945ff7cc2f65c9a5c7dce1c60f16e",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "festival-lineup-poster-and-social-kit/single-festival-cutdowns/artist-carousel-tile",
+      "archived": true,
+      "id": "252a930c00223e",
+      "archiveImage": "images/252a930c00223e-76179c145d2f9073.webp",
+      "sourceImagePath": "works/topics/festival-lineup-poster-and-social-kit/packages/single-festival-cutdowns/images/artist-carousel-tile/image.w2400.webp",
+      "nativeGitBlob": "8e767133a2ac86ec4b81ef3cc3a6cd44647fdb21",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "festival-poster-fandom-crossover/single-festival-poster-studies/orbit-royalty-competition",
+      "archived": true,
+      "id": "52b41b237dbf13",
+      "archiveImage": "images/52b41b237dbf13-4890f56b0f6e6400.webp",
+      "sourceImagePath": "works/topics/festival-poster-fandom-crossover/packages/single-festival-poster-studies/images/orbit-royalty-competition/image.w2400.webp",
+      "nativeGitBlob": "f976fdf33bfc6c4d439d394af1c156579c7d8c7d",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "festive-feast-and-banquet-campaign-visuals/single-support-studies/candle-place-setting",
+      "archived": true,
+      "id": "27a4785f0614a1",
+      "archiveImage": "images/27a4785f0614a1-67f8a168a84a3817.webp",
+      "sourceImagePath": "works/topics/festive-feast-and-banquet-campaign-visuals/packages/single-support-studies/images/candle-place-setting/image.w2400.webp",
+      "nativeGitBlob": "e1d693f57db70900a4e8dbfaef0a2511045405a3",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "fictional-ip-poster/single-fictional-release-posters/glass-orbit-poster",
+      "archived": true,
+      "id": "1bddf1e7699334",
+      "archiveImage": "images/1bddf1e7699334-f6d9b61e8e7e8870.webp",
+      "sourceImagePath": "works/topics/fictional-ip-poster/packages/single-fictional-release-posters/images/glass-orbit-poster/image.w2400.webp",
+      "nativeGitBlob": "fd1b2931d866842e1f24639cb88f905f412e0cdc",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "fictional-symbol-system/single-decoder-artifacts/oracle-bone-panel",
+      "archived": true,
+      "id": "3c3a16d317f234",
+      "archiveImage": "images/3c3a16d317f234-2e57aa3a49de30b7.webp",
+      "sourceImagePath": "works/topics/fictional-symbol-system/packages/single-decoder-artifacts/images/oracle-bone-panel/image.w2400.webp",
+      "nativeGitBlob": "3b5cd79c6a38b5e5fd1d88b6d93c8b4dca86f56c",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "film-storyboard-sequence/single-production-storyboards/01-glass-spill-commercial",
+      "archived": true,
+      "id": "d3edac3251c651",
+      "archiveImage": "images/d3edac3251c651-1259e461a0a7fa3b.webp",
+      "sourceImagePath": "works/topics/film-storyboard-sequence/packages/single-production-storyboards/images/01-glass-spill-commercial/image.w2400.webp",
+      "nativeGitBlob": "6f34a6e85734162bf159e0d053d518a17f047f4b",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "fitness-program-launch-campaign/single-support-studies/strength-cycle-tile",
+      "archived": true,
+      "id": "dca83c0a5eb6ea",
+      "archiveImage": "images/dca83c0a5eb6ea-df19a0d6fdfd3cf9.webp",
+      "sourceImagePath": "works/topics/fitness-program-launch-campaign/packages/single-support-studies/images/strength-cycle-tile/image.w2400.webp",
+      "nativeGitBlob": "e12162d327c5c767438a1ff9249738fb7e152a55",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "fjord-norway-deep-cut/single-landscape-studies/01-main-panorama",
+      "archived": true,
+      "id": "15feb0cd02928c",
+      "archiveImage": "images/15feb0cd02928c-76ca2d061cf8e6d6.webp",
+      "sourceImagePath": "works/topics/fjord-norway-deep-cut/packages/single-landscape-studies/images/01-main-panorama/image.w2400.webp",
+      "nativeGitBlob": "62322afac3eadea40dec3d3a380899b2a854450b",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "fluid-smoke-explosion/single-fluid-smoke-explosion-studies/hero-shot",
+      "archived": true,
+      "id": "3c7d85ecd74bca",
+      "archiveImage": "images/3c7d85ecd74bca-da7020c64bdd936c.webp",
+      "sourceImagePath": "works/topics/fluid-smoke-explosion/packages/single-fluid-smoke-explosion-studies/images/hero-shot/image.w2400.webp",
+      "nativeGitBlob": "a07808ed9ad9b2c462cdf12a3d6cd87ce2cecd44",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "food-cross-section-atlas/single-food-cross-section-studies/hero-shot",
+      "archived": true,
+      "id": "b6d464c26bfbc2",
+      "archiveImage": "images/b6d464c26bfbc2-860697732957d6e4.webp",
+      "sourceImagePath": "works/topics/food-cross-section-atlas/packages/single-food-cross-section-studies/images/hero-shot/image.w2400.webp",
+      "nativeGitBlob": "8a08e7363a27b505bd0992047803fb3c8e35f937",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "future-city-layered-transport-world/single-support-studies/01-hillside-switchback-metropolis",
+      "archived": true,
+      "id": "1edc7feed7fe26",
+      "archiveImage": "images/1edc7feed7fe26-9dad2e722f7beb58.webp",
+      "sourceImagePath": "works/topics/future-city-layered-transport-world/packages/single-support-studies/images/01-hillside-switchback-metropolis/image.w2400.webp",
+      "nativeGitBlob": "90eb3120de716940e8024d996db299419bc425a7",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "future-domestic-life-environment-visions/single-support-studies/01-shared-laundry-lounge",
+      "archived": true,
+      "id": "1823f9bcc681b8",
+      "archiveImage": "images/1823f9bcc681b8-368b4f64ddfe0011.webp",
+      "sourceImagePath": "works/topics/future-domestic-life-environment-visions/packages/single-support-studies/images/01-shared-laundry-lounge/image.w2400.webp",
+      "nativeGitBlob": "77a03200103fb2a97d42959b089dd4eb89aa2124",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "future-equipment-and-suitline-system/single-support-studies/01-polar-survey-rig",
+      "archived": true,
+      "id": "cc9f0501ed0043",
+      "archiveImage": "images/cc9f0501ed0043-df1115276bcdb767.webp",
+      "sourceImagePath": "works/topics/future-equipment-and-suitline-system/packages/single-support-studies/images/01-polar-survey-rig/image.w2400.webp",
+      "nativeGitBlob": "552c06d70483236d74184120cf8459a561cfca81",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "future-mobility-concept-surface-set/single-support-studies/support-one",
+      "archived": true,
+      "id": "356bc8c1e2f028",
+      "archiveImage": "images/356bc8c1e2f028-101abb2ebfa42f8e.webp",
+      "sourceImagePath": "works/topics/future-mobility-concept-surface-set/packages/single-support-studies/images/support-one/image.w2400.webp",
+      "nativeGitBlob": "1b48bf5dae354af83c153a6d8ea7513baea23abb",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "gallery-exhibition-spatial-sequence/single-support-studies/01-pedestal-spotlight-study",
+      "archived": true,
+      "id": "1fe2112c902c9e",
+      "archiveImage": "images/1fe2112c902c9e-ba6e1a963cee66a4.webp",
+      "sourceImagePath": "works/topics/gallery-exhibition-spatial-sequence/packages/single-support-studies/images/01-pedestal-spotlight-study/image.w2400.webp",
+      "nativeGitBlob": "748fbf291fd247bb83877b6c05af632158e0aec3",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "glacier-cathedral-ice-blue/single-landscape-studies/01-main-panorama",
+      "archived": true,
+      "id": "4f26a74dc37865",
+      "archiveImage": "images/4f26a74dc37865-8d3a0b7dcb250910.webp",
+      "sourceImagePath": "works/topics/glacier-cathedral-ice-blue/packages/single-landscape-studies/images/01-main-panorama/image.w2400.webp",
+      "nativeGitBlob": "d2bf8817abd44f8b78e7186d117060e134424f8e",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "gym-brand-poster-and-membership-system/single-support-studies/class-schedule-board",
+      "archived": true,
+      "id": "c1619c0c2c8d83",
+      "archiveImage": "images/c1619c0c2c8d83-ee9a138a7c5fdcf6.webp",
+      "sourceImagePath": "works/topics/gym-brand-poster-and-membership-system/packages/single-support-studies/images/class-schedule-board/image.w2400.webp",
+      "nativeGitBlob": "4a5e10a37f0d72d66b28877c64c4c6485d285e64",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "high-end-residential-showflat-system/single-support-studies/01-foyer-console-study",
+      "archived": true,
+      "id": "18f8e44ca970e2",
+      "archiveImage": "images/18f8e44ca970e2-48a046583ea7244d.webp",
+      "sourceImagePath": "works/topics/high-end-residential-showflat-system/packages/single-support-studies/images/01-foyer-console-study/image.w2400.webp",
+      "nativeGitBlob": "2e8dc60d4031f10903eee566e0e2be928b0e0418",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "high-speed-freeze/single-impact-studies/water-crown",
+      "archived": true,
+      "id": "58fa64366680a3",
+      "archiveImage": "images/58fa64366680a3-688146ebed3c6c7c.webp",
+      "sourceImagePath": "works/topics/high-speed-freeze/packages/single-impact-studies/images/water-crown/image.w2400.webp",
+      "nativeGitBlob": "afe49c8c1c41deda2d6ec81fb60360c60c7b75a8",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "himalayan-base-camp-night/single-landscape-studies/01-main-panorama",
+      "archived": true,
+      "id": "3ab03c907b7cfd",
+      "archiveImage": "images/3ab03c907b7cfd-d69b614d76dbd5fd.webp",
+      "sourceImagePath": "works/topics/himalayan-base-camp-night/packages/single-landscape-studies/images/01-main-panorama/image.w2400.webp",
+      "nativeGitBlob": "f5586ebcd9162431e699fea62fa6422e1a85f808",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "hyperreal-diorama-cube/single-diorama-cube-studies/01-kyoto-rooftop-core",
+      "archived": true,
+      "id": "b90a1d2f6555db",
+      "archiveImage": "images/b90a1d2f6555db-5364b703d0d11637.webp",
+      "sourceImagePath": "works/topics/hyperreal-diorama-cube/packages/single-diorama-cube-studies/images/01-kyoto-rooftop-core/image.w2400.webp",
+      "nativeGitBlob": "63f673161c1854a494f533d576439fb81b70d26e",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "impossible-candy-architecture/single-support-studies/aerial-masterplan",
+      "archived": true,
+      "id": "22114e4a791a78",
+      "archiveImage": "images/22114e4a791a78-b2be9f54704d8c48.webp",
+      "sourceImagePath": "works/topics/impossible-candy-architecture/packages/single-support-studies/images/aerial-masterplan/image.w2400.webp",
+      "nativeGitBlob": "50862ec081860b5c79ef13b80cf5faf775e9e844",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "in-image-translation/single-translation-surfaces/museum-wayfinding-card",
+      "archived": true,
+      "id": "f7a852b45f9f1a",
+      "archiveImage": "images/f7a852b45f9f1a-72d848451b10ee66.webp",
+      "sourceImagePath": "works/topics/in-image-translation/packages/single-translation-surfaces/images/museum-wayfinding-card/image.w2400.webp",
+      "nativeGitBlob": "ee9a397fc8d5427ba95058ec78ae92bd5c85c0a0",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "industrial-catalog-cover-and-spread-system/single-support-studies/support-one",
+      "archived": true,
+      "id": "c5326db6628fc0",
+      "archiveImage": "images/c5326db6628fc0-609ab37aa49947f3.webp",
+      "sourceImagePath": "works/topics/industrial-catalog-cover-and-spread-system/packages/single-support-studies/images/support-one/image.w2400.webp",
+      "nativeGitBlob": "be05d2edcf778700fec954a3339704b386ab32a4",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "industrial-material-finish-study-board/single-support-studies/support-one",
+      "archived": true,
+      "id": "48eadc70679c38",
+      "archiveImage": "images/48eadc70679c38-139ce9b6bf0e7ffd.webp",
+      "sourceImagePath": "works/topics/industrial-material-finish-study-board/packages/single-support-studies/images/support-one/image.w2400.webp",
+      "nativeGitBlob": "c5ce7012ef7a762120b9498502053b0b2f83e4a2",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "industrial-product-exploded-view-suite/single-support-studies/support-one",
+      "archived": true,
+      "id": "d35dfd4568307a",
+      "archiveImage": "images/d35dfd4568307a-33ea38c8cdef51ae.webp",
+      "sourceImagePath": "works/topics/industrial-product-exploded-view-suite/packages/single-support-studies/images/support-one/image.w2400.webp",
+      "nativeGitBlob": "4fd0c7f5da55c3d55af432489779b7c59533af10",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "interactive-web-campaign-mockup/single-independent-surface-studies/lead-study",
+      "archived": true,
+      "id": "dab3a8fd990f4b",
+      "archiveImage": "images/dab3a8fd990f4b-742f0de9d9baac84.webp",
+      "sourceImagePath": "works/topics/interactive-web-campaign-mockup/packages/single-independent-surface-studies/images/lead-study/image.w2400.webp",
+      "nativeGitBlob": "b9b9377e793d4a44603b35ac756ebdd0f844d322",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "inventory-tooltip-comparison-board/single-inventory-tooltip-studies/old-vs-new-gear",
+      "archived": true,
+      "id": "a159c5eca9bca0",
+      "archiveImage": "images/a159c5eca9bca0-d3965fe1b30705d8.webp",
+      "sourceImagePath": "works/topics/inventory-tooltip-comparison-board/packages/single-inventory-tooltip-studies/images/old-vs-new-gear/image.w2400.webp",
+      "nativeGitBlob": "58133aac4eedbab726bd72b22dc6a1b22caca4fe",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "italian-futurism-velocity/single-poster-studies/01-canonical-one-sheet",
+      "archived": true,
+      "id": "5296a923112390",
+      "archiveImage": "images/5296a923112390-b3228156c2ce50b1.webp",
+      "sourceImagePath": "works/topics/italian-futurism-velocity/packages/single-poster-studies/images/01-canonical-one-sheet/image.w2400.webp",
+      "nativeGitBlob": "95625a976112845ec7c3d411383b88e178ffd96c",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "japanese-ukiyoe-modern-remix/single-poster-studies/01-canonical-one-sheet",
+      "archived": true,
+      "id": "5593ef665ed0da",
+      "archiveImage": "images/5593ef665ed0da-9d56db7924bc8fbd.webp",
+      "sourceImagePath": "works/topics/japanese-ukiyoe-modern-remix/packages/single-poster-studies/images/01-canonical-one-sheet/image.w2400.webp",
+      "nativeGitBlob": "f6130a3d24c5bbb1588b6e3084bcc857461a612d",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "jewelry-cad-wearable-set/single-jewelry-cad-wearable-set-studies/hero-model",
+      "archived": true,
+      "id": "257c17c0149285",
+      "archiveImage": "images/257c17c0149285-fa76098b8390b3ad.webp",
+      "sourceImagePath": "works/topics/jewelry-cad-wearable-set/packages/single-jewelry-cad-wearable-set-studies/images/hero-model/image.w2400.webp",
+      "nativeGitBlob": "5c91a5eed1f76166e59f28950d41c10d43347e1f",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "kids-course-cover-and-module-family/single-support-studies/01-language-club-cover",
+      "archived": true,
+      "id": "8859fd26b0e7df",
+      "archiveImage": "images/8859fd26b0e7df-049c5827e19bb418.webp",
+      "sourceImagePath": "works/topics/kids-course-cover-and-module-family/packages/single-support-studies/images/01-language-club-cover/image.w2400.webp",
+      "nativeGitBlob": "d55e15efe04007729e5ec6ae1f9288a6e2d52fd2",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "latte-art-atlas/single-latte-art-studies/hero-shot",
+      "archived": true,
+      "id": "d936a27d53d2e1",
+      "archiveImage": "images/d936a27d53d2e1-7ba498fa60b5788b.webp",
+      "sourceImagePath": "works/topics/latte-art-atlas/packages/single-latte-art-studies/images/hero-shot/image.w2400.webp",
+      "nativeGitBlob": "435eca4ed76133fb6a2e9448f5be1c169e55983a",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "league-season-launch-visual-kit/single-support-studies/opening-weekend-tile",
+      "archived": true,
+      "id": "e9060ce26aab6d",
+      "archiveImage": "images/e9060ce26aab6d-26a3e4c841aa3d27.webp",
+      "sourceImagePath": "works/topics/league-season-launch-visual-kit/packages/single-support-studies/images/opening-weekend-tile/image.w2400.webp",
+      "nativeGitBlob": "06bb0d1efdff664051a4fb6fe47989173ced6529",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "learning-app-onboarding-and-lesson-ui/single-support-studies/01-parent-dashboard-tablet",
+      "archived": true,
+      "id": "46631573ca65a1",
+      "archiveImage": "images/46631573ca65a1-4a67e1fe24d1d3f3.webp",
+      "sourceImagePath": "works/topics/learning-app-onboarding-and-lesson-ui/packages/single-support-studies/images/01-parent-dashboard-tablet/image.w2400.webp",
+      "nativeGitBlob": "a2a2a2562ec42b91255004b13396848b7ab371b4",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "liquid-nitrogen-frozen-moment/single-support-studies/sorbet-impact-study",
+      "archived": true,
+      "id": "b8b3f031d229ae",
+      "archiveImage": "images/b8b3f031d229ae-437757fd38d750f7.webp",
+      "sourceImagePath": "works/topics/liquid-nitrogen-frozen-moment/packages/single-support-studies/images/sorbet-impact-study/image.w2400.webp",
+      "nativeGitBlob": "adccdfd661fd6ffd65a1b3f326ec2d2e77ace796",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "live-session-poster-and-recording-room-aesthetic/single-studio-atmospheres/tape-machine-still-life",
+      "archived": true,
+      "id": "c8df2283d49304",
+      "archiveImage": "images/c8df2283d49304-eff188ffdcff0fc0.webp",
+      "sourceImagePath": "works/topics/live-session-poster-and-recording-room-aesthetic/packages/single-studio-atmospheres/images/tape-machine-still-life/image.w2400.webp",
+      "nativeGitBlob": "656080845c0086c439c78448c0008c4563ad44c7",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "long-exposure-light-painting/single-long-exposure-light-painting-studies/hero-shot",
+      "archived": true,
+      "id": "79501fb1f23583",
+      "archiveImage": "images/79501fb1f23583-74a4560563ba9ee5.webp",
+      "sourceImagePath": "works/topics/long-exposure-light-painting/packages/single-long-exposure-light-painting-studies/images/hero-shot/image.w2400.webp",
+      "nativeGitBlob": "4ec9cd1201b1309cce4bb568fe12a104a2d18c83",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "long-gaze-rain-interior/single-long-gaze-rain-interior/01-window-table-silence",
+      "archived": true,
+      "id": "ba79246b48be07",
+      "archiveImage": "images/ba79246b48be07-5363066cf8e84e72.webp",
+      "sourceImagePath": "works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/01-window-table-silence/image.w2400.webp",
+      "nativeGitBlob": "e9095ff6b4ba4d330d8a684ab042290a4183cd08",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "luxury-brand-story-page/single-luxury-story-studies/sculpted-fragrance-chapter",
+      "archived": true,
+      "id": "bfbe92fd48ec07",
+      "archiveImage": "images/bfbe92fd48ec07-f53c129e4ffde1b1.webp",
+      "sourceImagePath": "works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/sculpted-fragrance-chapter/image.w2400.webp",
+      "nativeGitBlob": "e5f656162306ae688a4ce3e4aa1050c6bf3855a6",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "luxury-hotel-lobby-arrival-system/single-support-studies/01-check-in-island-detail",
+      "archived": true,
+      "id": "026df82cb5c56e",
+      "archiveImage": "images/026df82cb5c56e-32271bcd7e39c1e0.webp",
+      "sourceImagePath": "works/topics/luxury-hotel-lobby-arrival-system/packages/single-support-studies/images/01-check-in-island-detail/image.w2400.webp",
+      "nativeGitBlob": "5ddb214b6c7df48584bed533ec733216587c4df5",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "lyric-visualizer-frame-family/single-visualizer-studies/mirror-room-loop",
+      "archived": true,
+      "id": "fb30097d2080fe",
+      "archiveImage": "images/fb30097d2080fe-bedcd876a1fcf808.webp",
+      "sourceImagePath": "works/topics/lyric-visualizer-frame-family/packages/single-visualizer-studies/images/mirror-room-loop/image.w2400.webp",
+      "nativeGitBlob": "f4ce0194c28b0ad42054213c0ed5d8bfab8144fc",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "macro-real-texture/single-macro-real-texture-studies/surface-hero",
+      "archived": true,
+      "id": "5b8d74c01f100f",
+      "archiveImage": "images/5b8d74c01f100f-1f1ac4cc9645d4f5.webp",
+      "sourceImagePath": "works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/surface-hero/image.w2400.webp",
+      "nativeGitBlob": "27af42a7d275a70238b09b73949010dcf6862b76",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "maps-to-treasure-map/single-cartographic-relics/estate-neighborhood-scroll",
+      "archived": true,
+      "id": "ea08a03aca7855",
+      "archiveImage": "images/ea08a03aca7855-54764edbc9f6b15f.webp",
+      "sourceImagePath": "works/topics/maps-to-treasure-map/packages/single-cartographic-relics/images/estate-neighborhood-scroll/image.w2400.webp",
+      "nativeGitBlob": "913e90fd549334c56f09df3cddc14bf4f834ed3a",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "matchday-poster-and-score-update-system/single-support-studies/prematch-social-tile",
+      "archived": true,
+      "id": "9258a231b2ec18",
+      "archiveImage": "images/9258a231b2ec18-71c5ad2072b4b707.webp",
+      "sourceImagePath": "works/topics/matchday-poster-and-score-update-system/packages/single-support-studies/images/prematch-social-tile/image.w2400.webp",
+      "nativeGitBlob": "12b45e86188c83be4ff421f4ed91d9fde231d07c",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "math-concept-visual-card-set/single-support-studies/02-whiteboard-math-station",
+      "archived": true,
+      "id": "41055efa695176",
+      "archiveImage": "images/41055efa695176-22bb5533b540c643.webp",
+      "sourceImagePath": "works/topics/math-concept-visual-card-set/packages/single-support-studies/images/02-whiteboard-math-station/image.w2400.webp",
+      "nativeGitBlob": "ad91416f79b2213cdcd8eb583d1b1a65c7ad78eb",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "menu-cover-and-spread-food-system/single-support-studies/tasting-menu-fold",
+      "archived": true,
+      "id": "bae1e361d078d4",
+      "archiveImage": "images/bae1e361d078d4-107c4b111f473962.webp",
+      "sourceImagePath": "works/topics/menu-cover-and-spread-food-system/packages/single-support-studies/images/tasting-menu-fold/image.w2400.webp",
+      "nativeGitBlob": "206f08f702bf3823f861a5ca2cfdee7be9607d6e",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "michelin-plate-hero-shot/single-fine-dining-hero-studies/01-caviar-gold-constellation",
+      "archived": true,
+      "id": "0469dc4de2728f",
+      "archiveImage": "images/0469dc4de2728f-ad5f02e06486c453.webp",
+      "sourceImagePath": "works/topics/michelin-plate-hero-shot/packages/single-fine-dining-hero-studies/images/01-caviar-gold-constellation/image.w2400.webp",
+      "nativeGitBlob": "641554deaad1b2a905a8376cbfba823cdf3e396f",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "micro-engraved-jewelry/single-micro-inscription-studies/named-rice-grain",
+      "archived": true,
+      "id": "4dc8d02dc2e6f7",
+      "archiveImage": "images/4dc8d02dc2e6f7-e61e0af42fc17fe6.webp",
+      "sourceImagePath": "works/topics/micro-engraved-jewelry/packages/single-micro-inscription-studies/images/named-rice-grain/image.w2400.webp",
+      "nativeGitBlob": "8a63c45eb30f107a0f874ba9689f747fca153e11",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "mirror-worlds/single-temporal-mirror-studies/childhood-office-echo",
+      "archived": true,
+      "id": "5d590e936487ac",
+      "archiveImage": "images/5d590e936487ac-fc0c0eb1594d4184.webp",
+      "sourceImagePath": "works/topics/mirror-worlds/packages/single-temporal-mirror-studies/images/childhood-office-echo/image.w2400.webp",
+      "nativeGitBlob": "80b1e10a27a0eb66fb31e919bc094e234d4aa74f",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "molecular-gastronomy-lab/single-support-studies/beaker-flight-board",
+      "archived": true,
+      "id": "58e89a4dba94df",
+      "archiveImage": "images/58e89a4dba94df-e1a6374ecc9ca849.webp",
+      "sourceImagePath": "works/topics/molecular-gastronomy-lab/packages/single-support-studies/images/beaker-flight-board/image.w2400.webp",
+      "nativeGitBlob": "fa52648d3fb9410449049e8d76cb272ccdc2412e",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "motorsport-livery-and-track-promo-set/single-support-studies/support-one",
+      "archived": true,
+      "id": "09c323fc23252c",
+      "archiveImage": "images/09c323fc23252c-5a10d195cb7daf04.webp",
+      "sourceImagePath": "works/topics/motorsport-livery-and-track-promo-set/packages/single-support-studies/images/support-one/image.w2400.webp",
+      "nativeGitBlob": "db247728e08f47308c983f2d43b61a0ed7ef031e",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "multi-script-poster/single-global-script-posters/01-market-menu-wall",
+      "archived": true,
+      "id": "16bef6193a3368",
+      "archiveImage": "images/16bef6193a3368-6dedbe8f4508030e.webp",
+      "sourceImagePath": "works/topics/multi-script-poster/packages/single-global-script-posters/images/01-market-menu-wall/image.w2400.webp",
+      "nativeGitBlob": "f5b0e6201479e7e580b52667568c17425333d1e8",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "museum-exploded-view/single-artifact-exploded-studies/porcelain-vase-cutaway",
+      "archived": true,
+      "id": "b89bd972477aba",
+      "archiveImage": "images/b89bd972477aba-eb4195a4b3c954a2.webp",
+      "sourceImagePath": "works/topics/museum-exploded-view/packages/single-artifact-exploded-studies/images/porcelain-vase-cutaway/image.w2400.webp",
+      "nativeGitBlob": "05cf874b59f23b68fb8bdefe430abeb8a51802fc",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "natural-history-infographic/single-natural-history-infographic-studies/overview-plate",
+      "archived": true,
+      "id": "ff28e6aefe6ad0",
+      "archiveImage": "images/ff28e6aefe6ad0-3fd31e55c2bd72df.webp",
+      "sourceImagePath": "works/topics/natural-history-infographic/packages/single-natural-history-infographic-studies/images/overview-plate/image.w2400.webp",
+      "nativeGitBlob": "5b579343ac37f0b86abc1565807824c1fdccb738",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "natural-reverence-magic-hour/single-natural-reverence-magic-hour/01-wheat-run",
+      "archived": true,
+      "id": "c2055293d98247",
+      "archiveImage": "images/c2055293d98247-e6236ce600c2e987.webp",
+      "sourceImagePath": "works/topics/natural-reverence-magic-hour/packages/single-natural-reverence-magic-hour/images/01-wheat-run/image.w2400.webp",
+      "nativeGitBlob": "e2d43e14a21e5b5abd342e1e867ddb293f867823",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "natural-wonder-photography/single-natural-wonder-photography-studies/hero-shot",
+      "archived": true,
+      "id": "f2edabdd461717",
+      "archiveImage": "images/f2edabdd461717-7777e599407a0741.webp",
+      "sourceImagePath": "works/topics/natural-wonder-photography/packages/single-natural-wonder-photography-studies/images/hero-shot/image.w2400.webp",
+      "nativeGitBlob": "fe9fd6f9121b3913921a00a703f67d017e3754ba",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "neural-network-self-explanation/single-ai-self-explanations/01-transformer-attention-atrium",
+      "archived": true,
+      "id": "6a3862fdd65e45",
+      "archiveImage": "images/6a3862fdd65e45-30f7d51ab73f1e37.webp",
+      "sourceImagePath": "works/topics/neural-network-self-explanation/packages/single-ai-self-explanations/images/01-transformer-attention-atrium/image.w2400.webp",
+      "nativeGitBlob": "776a03760cf4a075ba454f47904874758c768c18",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "new-car-launch-key-visual-system/single-support-studies/support-one",
+      "archived": true,
+      "id": "4aa7187d46895b",
+      "archiveImage": "images/4aa7187d46895b-d81bdc12144e852e.webp",
+      "sourceImagePath": "works/topics/new-car-launch-key-visual-system/packages/single-support-studies/images/support-one/image.w2400.webp",
+      "nativeGitBlob": "8067c5cf278b33b55988de2a02ff6dd34883ee8b",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "new-chinese-ink-poster/single-ink-poster-studies/01-spring-mountain-lake",
+      "archived": true,
+      "id": "20e532c0a0ca6e",
+      "archiveImage": "images/20e532c0a0ca6e-3310d43ffc3a60fe.webp",
+      "sourceImagePath": "works/topics/new-chinese-ink-poster/packages/single-ink-poster-studies/images/01-spring-mountain-lake/image.w2400.webp",
+      "nativeGitBlob": "2dece9b001c57c3b21b3d4a19cd2859796987d46",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "new-wave-french-film-poster/single-poster-studies/01-canonical-one-sheet",
+      "archived": true,
+      "id": "f08964867d54b8",
+      "archiveImage": "images/f08964867d54b8-72c862e34237d48d.webp",
+      "sourceImagePath": "works/topics/new-wave-french-film-poster/packages/single-poster-studies/images/01-canonical-one-sheet/image.w2400.webp",
+      "nativeGitBlob": "fdc90b49b9be4c107dc5a0df31a8b01b71e2a581",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "new-year-renewal-campaign-family/single-fresh-cycle-studies/sunrise-bathroom-ritual",
+      "archived": true,
+      "id": "8639310b9b3b9d",
+      "archiveImage": "images/8639310b9b3b9d-0a249d7aaa17fe7c.webp",
+      "sourceImagePath": "works/topics/new-year-renewal-campaign-family/packages/single-fresh-cycle-studies/images/sunrise-bathroom-ritual/image.w2400.webp",
+      "nativeGitBlob": "3335adaf338ca43a39bad10060d0e5a2a8346581",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "night-architecture-lighting-photography-set/single-support-studies/01-canopy-underside-study",
+      "archived": true,
+      "id": "33abdcfbda1578",
+      "archiveImage": "images/33abdcfbda1578-36feeaeb54ad3b87.webp",
+      "sourceImagePath": "works/topics/night-architecture-lighting-photography-set/packages/single-support-studies/images/01-canopy-underside-study/image.w2400.webp",
+      "nativeGitBlob": "5c5470ff51b3fb14752273f494feb61b6a23edce",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "npc-faction-casting-sheet/single-faction-support-sheets/01-dialogue-portrait-grid",
+      "archived": true,
+      "id": "ee24bba7914e38",
+      "archiveImage": "images/ee24bba7914e38-c9664ad0c67584b1.webp",
+      "sourceImagePath": "works/topics/npc-faction-casting-sheet/packages/single-faction-support-sheets/images/01-dialogue-portrait-grid/image.w2400.webp",
+      "nativeGitBlob": "f99600b30fa29eed742d05ab266ef6594fa7918f",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "old-newspaper-front-page/single-old-newspaper-front-page-studies/hero-spread",
+      "archived": true,
+      "id": "5fb5f07dfca95c",
+      "archiveImage": "images/5fb5f07dfca95c-49194beeaa5b39ad.webp",
+      "sourceImagePath": "works/topics/old-newspaper-front-page/packages/single-old-newspaper-front-page-studies/images/hero-spread/image.w2400.webp",
+      "nativeGitBlob": "24f960254c2335fb730bff5fd21211cfbb1a5d54",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "orbital-megastructure-vista-system/single-support-studies/01-stellar-farm-crown",
+      "archived": true,
+      "id": "3c2a7c55ee20ad",
+      "archiveImage": "images/3c2a7c55ee20ad-6d666115009358d9.webp",
+      "sourceImagePath": "works/topics/orbital-megastructure-vista-system/packages/single-support-studies/images/01-stellar-farm-crown/image.w2400.webp",
+      "nativeGitBlob": "6c331d44e1110a209297bd6659ecd1011edb23fe",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "packaged-food-lifestyle-scene-system/single-support-studies/pantry-shelf-hero",
+      "archived": true,
+      "id": "d6cfa62138b50e",
+      "archiveImage": "images/d6cfa62138b50e-4bc50e60a0ef9cba.webp",
+      "sourceImagePath": "works/topics/packaged-food-lifestyle-scene-system/packages/single-support-studies/images/pantry-shelf-hero/image.w2400.webp",
+      "nativeGitBlob": "557ce9a020783726b24c7fa322c228a3b6ed9f12",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "parent-communication-education-carousel/single-support-studies/01-phone-feed-overview",
+      "archived": true,
+      "id": "2d1da2f0c48ea8",
+      "archiveImage": "images/2d1da2f0c48ea8-d036fd39a4fbfff2.webp",
+      "sourceImagePath": "works/topics/parent-communication-education-carousel/packages/single-support-studies/images/01-phone-feed-overview/image.w2400.webp",
+      "nativeGitBlob": "f7fda574cdcbb3296f16ae0fca4fca2b0ebe5d2c",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "patagonian-spire-granite/single-landscape-studies/01-main-panorama",
+      "archived": true,
+      "id": "4f3cdcef2375f4",
+      "archiveImage": "images/4f3cdcef2375f4-651d4c1e2a957c4f.webp",
+      "sourceImagePath": "works/topics/patagonian-spire-granite/packages/single-landscape-studies/images/01-main-panorama/image.w2400.webp",
+      "nativeGitBlob": "e3a8bc718c0ef1dc35a46385531f5af764421aa4",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "pcb-board-layout/single-pcb-board-layout-studies/overview-plate",
+      "archived": true,
+      "id": "8cf80c116d3789",
+      "archiveImage": "images/8cf80c116d3789-491030eece46e7cb.webp",
+      "sourceImagePath": "works/topics/pcb-board-layout/packages/single-pcb-board-layout-studies/images/overview-plate/image.w2400.webp",
+      "nativeGitBlob": "96292d76f6e14253769e1d475ac7d19271934f75",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "phonics-and-reading-practice-sheet/single-support-studies/01-workbook-spread",
+      "archived": true,
+      "id": "5fdff61cefe220",
+      "archiveImage": "images/5fdff61cefe220-4f433d95000221f1.webp",
+      "sourceImagePath": "works/topics/phonics-and-reading-practice-sheet/packages/single-support-studies/images/01-workbook-spread/image.w2400.webp",
+      "nativeGitBlob": "8f13a5eacf91aea8617e3bd1f8e9c6ac14b6c67c",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "planetary-outpost-and-frontier-base-set/single-support-studies/01-ice-crater-bioresearch",
+      "archived": true,
+      "id": "e79de77a5c73c1",
+      "archiveImage": "images/e79de77a5c73c1-e00a89fb36b37c19.webp",
+      "sourceImagePath": "works/topics/planetary-outpost-and-frontier-base-set/packages/single-support-studies/images/01-ice-crater-bioresearch/image.w2400.webp",
+      "nativeGitBlob": "0a5da543bb3e6987f74709fd9ad213eab74d243c",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "plated-signature-dish-editorial/single-support-studies/oyster-course-overhead",
+      "archived": true,
+      "id": "09fcc633e1ddc8",
+      "archiveImage": "images/09fcc633e1ddc8-044e840428bc5088.webp",
+      "sourceImagePath": "works/topics/plated-signature-dish-editorial/packages/single-support-studies/images/oyster-course-overhead/image.w2400.webp",
+      "nativeGitBlob": "31e1d29e9e4f9f7134a42cd5391607a30a47bf26",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "polish-poster-surrealist/single-poster-studies/01-canonical-one-sheet",
+      "archived": true,
+      "id": "35061ec7a18cef",
+      "archiveImage": "images/35061ec7a18cef-4c778977d19bb168.webp",
+      "sourceImagePath": "works/topics/polish-poster-surrealist/packages/single-poster-studies/images/01-canonical-one-sheet/image.w2400.webp",
+      "nativeGitBlob": "84406029df825693443a44df39bf1e0cad3f45ae",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "pop-up-shop-and-event-installation-kit/single-support-studies/01-merch-shelf-micro",
+      "archived": true,
+      "id": "1cfbf2c9e52d26",
+      "archiveImage": "images/1cfbf2c9e52d26-477bb69a634f2d59.webp",
+      "sourceImagePath": "works/topics/pop-up-shop-and-event-installation-kit/packages/single-support-studies/images/01-merch-shelf-micro/image.w2400.webp",
+      "nativeGitBlob": "55aa7e15c1323e2625c3128de4ffa1d862495120",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "precision-mechanical-exploded-view/single-precision-mechanical-exploded-view-studies/overview-plate",
+      "archived": true,
+      "id": "220bce8984918b",
+      "archiveImage": "images/220bce8984918b-cdfb9f6a29b04eb0.webp",
+      "sourceImagePath": "works/topics/precision-mechanical-exploded-view/packages/single-precision-mechanical-exploded-view-studies/images/overview-plate/image.w2400.webp",
+      "nativeGitBlob": "f3b0120085877c7a8dc427c748c86367634e9d88",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "premium-appliance-lifestyle-launch-set/single-support-studies/support-one",
+      "archived": true,
+      "id": "7f1319968c4f05",
+      "archiveImage": "images/7f1319968c4f05-f1a125086fa2b645.webp",
+      "sourceImagePath": "works/topics/premium-appliance-lifestyle-launch-set/packages/single-support-studies/images/support-one/image.w2400.webp",
+      "nativeGitBlob": "e939c2e7504ffd38001e6817a53b674a724c1918",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "propaganda-poster-history/single-poster-history-studies/01-constructivist-megaphone",
+      "archived": true,
+      "id": "b254c0b2cf6cd8",
+      "archiveImage": "images/b254c0b2cf6cd8-419cb1894c50afcf.webp",
+      "sourceImagePath": "works/topics/propaganda-poster-history/packages/single-poster-history-studies/images/01-constructivist-megaphone/image.w2400.webp",
+      "nativeGitBlob": "e04a83f0e52bbd872e9f126eb29dadd3490edb90",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "pseudo-real-documents/single-document-specimens/specimen-boarding-pass",
+      "archived": true,
+      "id": "48ee0ebe29da1a",
+      "archiveImage": "images/48ee0ebe29da1a-352a7a9a397466a8.webp",
+      "sourceImagePath": "works/topics/pseudo-real-documents/packages/single-document-specimens/images/specimen-boarding-pass/image.w2400.webp",
+      "nativeGitBlob": "cfba2a23a5122eaf25f345ee4b2fb56486963202",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "psychedelic-rock-concert-1960s/single-poster-studies/01-canonical-one-sheet",
+      "archived": true,
+      "id": "85fe7a387130e2",
+      "archiveImage": "images/85fe7a387130e2-03bb5b34e8c5517e.webp",
+      "sourceImagePath": "works/topics/psychedelic-rock-concert-1960s/packages/single-poster-studies/images/01-canonical-one-sheet/image.w2400.webp",
+      "nativeGitBlob": "1ed375b2c008a84a5f360f97bfbede1e286f374f",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "relic-artifact-lore-card-set/single-relic-codex-studies/cursed-lantern-reliquary",
+      "archived": true,
+      "id": "38e67f0dfb11ab",
+      "archiveImage": "images/38e67f0dfb11ab-a69fdfd4ea35c63d.webp",
+      "sourceImagePath": "works/topics/relic-artifact-lore-card-set/packages/single-relic-codex-studies/images/cursed-lantern-reliquary/image.w2400.webp",
+      "nativeGitBlob": "2db3188d439ea6e299e82922f10e1234749e3901",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "restaurant-cafe-space-brand-integration/single-support-studies/01-tabletop-editorial",
+      "archived": true,
+      "id": "1bc31f75d3987c",
+      "archiveImage": "images/1bc31f75d3987c-87093c66ffb1384d.webp",
+      "sourceImagePath": "works/topics/restaurant-cafe-space-brand-integration/packages/single-support-studies/images/01-tabletop-editorial/image.w2400.webp",
+      "nativeGitBlob": "b7e0944e2c408e7986e5f544771d953408b47d2c",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "retail-flagship-store-experience-system/single-support-studies/01-product-table-macro",
+      "archived": true,
+      "id": "5f24f2bf425f74",
+      "archiveImage": "images/5f24f2bf425f74-66d814a651fc8a4c.webp",
+      "sourceImagePath": "works/topics/retail-flagship-store-experience-system/packages/single-support-studies/images/01-product-table-macro/image.w2400.webp",
+      "nativeGitBlob": "2653f19a73ed17e87e81ae31b97c99af0190ce99",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "risograph-zine-handmade/single-poster-studies/01-canonical-one-sheet",
+      "archived": true,
+      "id": "6c85e765e86152",
+      "archiveImage": "images/6c85e765e86152-b6ebf6f1d854afed.webp",
+      "sourceImagePath": "works/topics/risograph-zine-handmade/packages/single-poster-studies/images/01-canonical-one-sheet/image.w2400.webp",
+      "nativeGitBlob": "6ebb9b5aab9e3f97066593d426c771836b2d0137",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "scientific-paper-figure/single-scientific-paper-figure-studies/overview-plate",
+      "archived": true,
+      "id": "f2adf1523fa6c5",
+      "archiveImage": "images/f2adf1523fa6c5-c1b346aa3eab3dd1.webp",
+      "sourceImagePath": "works/topics/scientific-paper-figure/packages/single-scientific-paper-figure-studies/images/overview-plate/image.w2400.webp",
+      "nativeGitBlob": "249abc68e06390d7d9c6c0dcf2f23bbf249da1c0",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "sem-microscopy/single-sem-specimen-plates/butterfly-wing-scales",
+      "archived": true,
+      "id": "6b5f80eda5c352",
+      "archiveImage": "images/6b5f80eda5c352-d92d59ac4205fe5c.webp",
+      "sourceImagePath": "works/topics/sem-microscopy/packages/single-sem-specimen-plates/images/butterfly-wing-scales/image.w2400.webp",
+      "nativeGitBlob": "870a0055c73931e519ecf6a0883e1da1f465d0b5",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "silhouette-universe/single-silhouette-studies/tower-at-dusk",
+      "archived": true,
+      "id": "ab0a72dcb5344a",
+      "archiveImage": "images/ab0a72dcb5344a-34c9c0823403ce8e.webp",
+      "sourceImagePath": "works/topics/silhouette-universe/packages/single-silhouette-studies/images/tower-at-dusk/image.w2400.webp",
+      "nativeGitBlob": "b29f2c20345ca5656819d3fe3374ac433826dedc",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "sketch-to-photoreal-render/single-render-studies/warehouse-loft-conversion",
+      "archived": true,
+      "id": "8e69a98cb912bf",
+      "archiveImage": "images/8e69a98cb912bf-0d44db9da2eca46d.webp",
+      "sourceImagePath": "works/topics/sketch-to-photoreal-render/packages/single-render-studies/images/warehouse-loft-conversion/image.w2400.webp",
+      "nativeGitBlob": "832002b2bb26eb398b03fa40811b5127e80b1a7b",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "skill-tree-progression-sheet/single-skill-tree-studies/full-skill-tree",
+      "archived": true,
+      "id": "b3ffd00613c3c0",
+      "archiveImage": "images/b3ffd00613c3c0-b85ecc2347cd9667.webp",
+      "sourceImagePath": "works/topics/skill-tree-progression-sheet/packages/single-skill-tree-studies/images/full-skill-tree/image.w2400.webp",
+      "nativeGitBlob": "424ab37f0cddb5388a40d4ec63b5983b60776667",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "tarot-card-deck/single-tarot-card-deck-studies/drip-constellation",
+      "archived": true,
+      "id": "a3361df2f70f93",
+      "archiveImage": "images/a3361df2f70f93-b610124947bd8798.webp",
+      "sourceImagePath": "works/topics/tarot-card-deck/packages/single-tarot-card-deck-studies/images/drip-constellation/image.w2400.webp",
+      "nativeGitBlob": "d6b744973673a22a30f2868e75b6b1aafecc764d",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "thematic-subway-map/single-knowledge-transit-maps/01-shakespeare-interchange",
+      "archived": true,
+      "id": "48340fdcbdbb2d",
+      "archiveImage": "images/48340fdcbdbb2d-f42e6d97d312004d.webp",
+      "sourceImagePath": "works/topics/thematic-subway-map/packages/single-knowledge-transit-maps/images/01-shakespeare-interchange/image.w2400.webp",
+      "nativeGitBlob": "f513373c17698667d585a569a2c1a7eaccf7f21b",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "thinking-mode/single-reasoning-studies/analyst-workbench",
+      "archived": true,
+      "id": "ddd895a451a8e5",
+      "archiveImage": "images/ddd895a451a8e5-b3379779a5fb98e6.webp",
+      "sourceImagePath": "works/topics/thinking-mode/packages/single-reasoning-studies/images/analyst-workbench/image.w2400.webp",
+      "nativeGitBlob": "48ff1019e136ddba1279f45078ed606ed2a65994",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "tilt-shift-miniature-world/single-tilt-shift-miniature-world-studies/village-overview",
+      "archived": true,
+      "id": "848a38e7695215",
+      "archiveImage": "images/848a38e7695215-0e9704ffec456175.webp",
+      "sourceImagePath": "works/topics/tilt-shift-miniature-world/packages/single-tilt-shift-miniature-world-studies/images/village-overview/image.w2400.webp",
+      "nativeGitBlob": "eddd5dc3d03ee69a44f7079f3668a2a5eb544b94",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "ultra-long-scroll-painting/single-scroll-studies/beijing-hutong-scroll",
+      "archived": true,
+      "id": "8c6068d613327c",
+      "archiveImage": "images/8c6068d613327c-0557b73cc381d6ed.webp",
+      "sourceImagePath": "works/topics/ultra-long-scroll-painting/packages/single-scroll-studies/images/beijing-hutong-scroll/image.w2400.webp",
+      "nativeGitBlob": "be9c2fabe924210930a6f616ad576abd4e9129bc",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "uspto-patent-diagram/single-patent-plates/foldable-headphones-plate",
+      "archived": true,
+      "id": "96b397f7679195",
+      "archiveImage": "images/96b397f7679195-30dae1d0957c0ba2.webp",
+      "sourceImagePath": "works/topics/uspto-patent-diagram/packages/single-patent-plates/images/foldable-headphones-plate/image.w2400.webp",
+      "nativeGitBlob": "a4368bff3c91d953b9cd9a165af34666e26098e3",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "virtual-try-on-identity-lock/single-identity-lock-studies/studio-capsule-lock",
+      "archived": true,
+      "id": "f14184591fde4d",
+      "archiveImage": "images/f14184591fde4d-68f27b7be09cd0b1.webp",
+      "sourceImagePath": "works/topics/virtual-try-on-identity-lock/packages/single-identity-lock-studies/images/studio-capsule-lock/image.w2400.webp",
+      "nativeGitBlob": "f5de0a9200bc24ae97acd5865f9045b8e0eb6e55",
+      "exactSourceBlobMatched": true
+    },
+    {
+      "sourceWorkId": "xray-art-photography/single-xray-art-photography-studies/hero-shot",
+      "archived": true,
+      "id": "e1c5d389f7a9a0",
+      "archiveImage": "images/e1c5d389f7a9a0-9a5320ad290deaf7.webp",
+      "sourceImagePath": "works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/hero-shot/image.w2400.webp",
+      "nativeGitBlob": "833e1966376eb751dc2b470d3f27a81263e0b122",
+      "exactSourceBlobMatched": true
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # ChaosRealmsAI GPT Image2 — source archive 10
 
-**Source-paired archive; all items here await individual ProjectD editorial review.** Full source prompts, model evidence, native dimensions, reference requirements and unchanged author-published2400px renditions are retained. These are GPT Image2, not2.6. Raw generation PNGs are absent from this source tree.
+**All items individually reviewed.** Current publication and held outcomes are recorded per item below; [complete review ledger](data/chaos-editorial-review-progress-2026-11-06.json). Full source prompts, model evidence, native dimensions, reference requirements and unchanged author-published2400px renditions are retained. These are GPT Image2, not2.6. Raw generation PNGs are absent from this source tree.
 
 MIT · copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](sources/chaos-gpt-image-2/LICENSE). Original external rights retained.
 
@@ -25,7 +25,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-exposure-light-painting/packages/single-long-exposure-light-painting-studies/images/atmospheric-view/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-exposure-light-painting/packages/single-long-exposure-light-painting-studies/images/atmospheric-view/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/354a3c389da1f6)
 
 ## Signature Frame · long-exposure-light-painting/single-long-exposure-light-painting-studies/signature-frame
 
@@ -48,7 +48,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-exposure-light-painting/packages/single-long-exposure-light-painting-studies/images/signature-frame/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-exposure-light-painting/packages/single-long-exposure-light-painting-studies/images/signature-frame/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/edd81269ed53bf)
 
 ## Hallway Basin · long-gaze-rain-interior/single-long-gaze-rain-interior/02-hallway-basin
 
@@ -71,7 +71,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no obvious luxury styling, no dramatic storm destruction, no modern electronics dominating the room, no theatrical color grading, no broken anatomy, no low-detail background, no accidental text fragments.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/02-hallway-basin/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/02-hallway-basin/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/859fd84fe20d97)
 
 ## Stove Room Vigil · long-gaze-rain-interior/single-long-gaze-rain-interior/03-stove-room-vigil
 
@@ -94,7 +94,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no obvious luxury styling, no dramatic storm destruction, no modern electronics dominating the room, no theatrical color grading, no broken anatomy, no low-detail background, no accidental text fragments.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/03-stove-room-vigil/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/03-stove-room-vigil/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/8bd844dd56c2ea)
 
 ## Library Chair · long-gaze-rain-interior/single-long-gaze-rain-interior/04-library-chair
 
@@ -117,7 +117,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no obvious luxury styling, no dramatic storm destruction, no modern electronics dominating the room, no theatrical color grading, no broken anatomy, no low-detail background, no accidental text fragments.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/04-library-chair/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/04-library-chair/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/4ee2cabf7bd143)
 
 ## Greenhouse Threshold · long-gaze-rain-interior/single-long-gaze-rain-interior/05-greenhouse-threshold
 
@@ -140,7 +140,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no obvious luxury styling, no dramatic storm destruction, no modern electronics dominating the room, no theatrical color grading, no broken anatomy, no low-detail background, no accidental text fragments.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/05-greenhouse-threshold/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/05-greenhouse-threshold/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/9e3050ce38dcdd)
 
 ## Empty Dining Room · long-gaze-rain-interior/single-long-gaze-rain-interior/06-empty-dining-room
 
@@ -163,7 +163,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no obvious luxury styling, no dramatic storm destruction, no modern electronics dominating the room, no theatrical color grading, no broken anatomy, no low-detail background, no accidental text fragments.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/06-empty-dining-room/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/06-empty-dining-room/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/eb032fe16408cb)
 
 ## Dog By Lamp · long-gaze-rain-interior/single-long-gaze-rain-interior/07-dog-by-lamp
 
@@ -186,7 +186,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no obvious luxury styling, no dramatic storm destruction, no modern electronics dominating the room, no theatrical color grading, no broken anatomy, no low-detail background, no accidental text fragments.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/07-dog-by-lamp/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/07-dog-by-lamp/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/ac8a78c1915ab5)
 
 ## Attic Trunk · long-gaze-rain-interior/single-long-gaze-rain-interior/08-attic-trunk
 
@@ -209,7 +209,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no obvious luxury styling, no dramatic storm destruction, no modern electronics dominating the room, no theatrical color grading, no broken anatomy, no low-detail background, no accidental text fragments.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/08-attic-trunk/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/08-attic-trunk/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/2ca27eb7b6e4e6)
 
 ## Doorway To Rain · long-gaze-rain-interior/single-long-gaze-rain-interior/09-doorway-to-rain
 
@@ -232,7 +232,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no obvious luxury styling, no dramatic storm destruction, no modern electronics dominating the room, no theatrical color grading, no broken anatomy, no low-detail background, no accidental text fragments.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/09-doorway-to-rain/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/long-gaze-rain-interior/packages/single-long-gaze-rain-interior/images/09-doorway-to-rain/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/e4c054a18a9d16)
 
 ## Healing Kit Hero · loot-consumable-icon-family/single-loot-icon-family-studies/healing-kit-hero
 
@@ -255,7 +255,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real medical logos, no gore, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/healing-kit-hero/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/healing-kit-hero/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/52484a24de12d3)
 
 ## Ammo Box Study · loot-consumable-icon-family/single-loot-icon-family-studies/ammo-box-study
 
@@ -278,7 +278,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no bullet brand marks, no war slogans, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/ammo-box-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/ammo-box-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/b2145de549b8a6)
 
 ## Artifact Shard Core · loot-consumable-icon-family/single-loot-icon-family-studies/artifact-shard-core
 
@@ -301,7 +301,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no runic text, no logo crest, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/artifact-shard-core/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/artifact-shard-core/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/dfea42081ec509)
 
 ## Keycard Access Badge · loot-consumable-icon-family/single-loot-icon-family-studies/keycard-access-badge
 
@@ -324,7 +324,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable numbers, no corporate marks, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/keycard-access-badge/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/keycard-access-badge/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/cdc3b1f866cbfc)
 
 ## Currency Token Stack · loot-consumable-icon-family/single-loot-icon-family-studies/currency-token-stack
 
@@ -347,7 +347,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no coin denominations, no logos, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/currency-token-stack/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/currency-token-stack/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/fbb1658f0930e1)
 
 ## Five Icon Overview Board · loot-consumable-icon-family/single-loot-icon-family-studies/five-icon-overview-board
 
@@ -370,7 +370,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no placeholder text, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/five-icon-overview-board/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/five-icon-overview-board/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/85ece28df24073)
 
 ## Rarity Color Pass · loot-consumable-icon-family/single-loot-icon-family-studies/rarity-color-pass
 
@@ -393,7 +393,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no swatch codes, no text legend, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/rarity-color-pass/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/rarity-color-pass/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/c9f2e116a973de)
 
 ## Thumbnail Readability Grid · loot-consumable-icon-family/single-loot-icon-family-studies/thumbnail-readability-grid
 
@@ -416,7 +416,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no exact screenshot UI, no pixel mush, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/thumbnail-readability-grid/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/thumbnail-readability-grid/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/cdfbb1e2fb6922)
 
 ## Drop Crate Promo Tile · loot-consumable-icon-family/single-loot-icon-family-studies/drop-crate-promo-tile
 
@@ -439,7 +439,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fake percentages, no sale text, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/drop-crate-promo-tile/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/loot-consumable-icon-family/packages/single-loot-icon-family-studies/images/drop-crate-promo-tile/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/a6962b62c81347)
 
 ## Festive Tray Anchor · lunar-new-year-festive-brand-rollout/series-festive-rollout/01-festive-tray-anchor
 
@@ -462,7 +462,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable calligraphy, no logo packets, no zodiac mascot character, no stage-show spectacle, no fireworks, no crowd, no gambling imagery, no cheap paper-cut overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/series-festive-rollout/images/01-festive-tray-anchor/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/series-festive-rollout/images/01-festive-tray-anchor/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/0d29cdabd8539f)
 
 ## Beauty Counter Variation · lunar-new-year-festive-brand-rollout/series-festive-rollout/02-beauty-counter-variation
 
@@ -485,7 +485,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no readable labels, no mascot dolls, no glitter explosion, no fashion model, no logo embossing, no fireworks, no theme-park saturation.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/series-festive-rollout/images/02-beauty-counter-variation/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/series-festive-rollout/images/02-beauty-counter-variation/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/150067504817f9)
 
 ## Banquet Table Variation · lunar-new-year-festive-brand-rollout/series-festive-rollout/03-banquet-table-variation
 
@@ -508,7 +508,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no readable menus, no family portrait pose, no fireworks, no mascot costume, no logo plates, no overcrowded banquet, no red-envelope text.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/series-festive-rollout/images/03-banquet-table-variation/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/series-festive-rollout/images/03-banquet-table-variation/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/b2ec85e605c4c7)
 
 ## Premium Bundle Variation · lunar-new-year-festive-brand-rollout/series-festive-rollout/04-premium-bundle-variation
 
@@ -531,7 +531,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no readable gift cards, no logo packs, no mascot toys, no crowd, no confetti storm, no gaudy gold foil overload, no casino aesthetic.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/series-festive-rollout/images/04-premium-bundle-variation/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/series-festive-rollout/images/04-premium-bundle-variation/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/53afba82af234f)
 
 ## Tabletop Gift Envelope Study · lunar-new-year-festive-brand-rollout/single-channel-expansion-studies/tabletop-gift-envelope-study
 
@@ -554,7 +554,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable characters, no logo seals, no mascot figures, no confetti pile, no crowded prop table, no cheap plastic décor, no fireworks, no obvious currency display.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/single-channel-expansion-studies/images/tabletop-gift-envelope-study/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/single-channel-expansion-studies/images/tabletop-gift-envelope-study/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6b918397235edf)
 
 ## Market Floral Retail Study · lunar-new-year-festive-brand-rollout/single-channel-expansion-studies/market-floral-retail-study
 
@@ -577,7 +577,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable signs, no mascot toys, no logo buckets, no messy street-market chaos, no fireworks, no theme-park décor, no crowd blocking products, no cartoon lantern tunnel.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/single-channel-expansion-studies/images/market-floral-retail-study/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/single-channel-expansion-studies/images/market-floral-retail-study/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/8999226dcf91a2)
 
 ## Travel Return Gifting · lunar-new-year-festive-brand-rollout/single-channel-expansion-studies/travel-return-gifting
 
@@ -600,7 +600,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable station signs, no airline logos, no passport text, no crowd crush, no mascot décor, no military vibe, no chaotic security scene, no fireworks.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/single-channel-expansion-studies/images/travel-return-gifting/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/single-channel-expansion-studies/images/travel-return-gifting/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/59e78fe65e0899)
 
 ## Storefront Lantern Rollout · lunar-new-year-festive-brand-rollout/single-channel-expansion-studies/storefront-lantern-rollout
 
@@ -623,7 +623,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable store signs, no mascot costumes, no logo bags, no carnival overload, no fireworks, no huge crowd, no souvenir-shop cliché, no obvious stage backdrop.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/single-channel-expansion-studies/images/storefront-lantern-rollout/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/single-channel-expansion-studies/images/storefront-lantern-rollout/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/44a14ba61310e6)
 
 ## Reunion Feast Support · lunar-new-year-festive-brand-rollout/single-channel-expansion-studies/reunion-feast-support
 
@@ -646,7 +646,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable menus, no crowd, no mascot décor, no stage performers, no logo plates, no fireworks, no casino or gambling cues, no chaotic banquet clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/single-channel-expansion-studies/images/reunion-feast-support/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lunar-new-year-festive-brand-rollout/packages/single-channel-expansion-studies/images/reunion-feast-support/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/1784be92359ad6)
 
 ## Reference Beauty Anchor · luxury-beauty-closeup-editorial/series-beauty-editorial-lock/01-reference-beauty-anchor
 
@@ -669,7 +669,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no airbrushed plastic skin, no fantasy glow, no extra jewelry noise, no readable packaging.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/01-reference-beauty-anchor/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/01-reference-beauty-anchor/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/354756f263d97f)
 
 ## Wet Skin Close-up · luxury-beauty-closeup-editorial/series-beauty-editorial-lock/02-wet-skin-closeup
 
@@ -692,7 +692,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no oily shine overload, no pore erasure, no face shape drift, no surreal droplets.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/02-wet-skin-closeup/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/02-wet-skin-closeup/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/058f3c37bb6eba)
 
 ## Graphic Liner Portrait · luxury-beauty-closeup-editorial/series-beauty-editorial-lock/03-graphic-liner-portrait
 
@@ -715,7 +715,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no asymmetric eye shape drift, no clown color palette, no changed brow bone, no extra faces.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/03-graphic-liner-portrait/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/03-graphic-liner-portrait/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6617f66b7b365b)
 
 ## Skincare With Hand · luxury-beauty-closeup-editorial/series-beauty-editorial-lock/04-skincare-with-hand
 
@@ -738,7 +738,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no broken fingers, no bottle logos, no fake label text, no disconnected hand anatomy.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/04-skincare-with-hand/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/04-skincare-with-hand/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/f21337c2115aaa)
 
 ## Jewel Tone Beauty · luxury-beauty-closeup-editorial/series-beauty-editorial-lock/05-jewel-tone-beauty
 
@@ -761,7 +761,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no color cast that changes ethnicity, no artificial eye enlargement, no glitter overload, no mask-like makeup.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/05-jewel-tone-beauty/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/05-jewel-tone-beauty/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/44237d1a1b1dfb)
 
 ## Profile Highlight Study · luxury-beauty-closeup-editorial/series-beauty-editorial-lock/06-profile-highlight-study
 
@@ -784,7 +784,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no altered nose bridge, no different ear shape, no melted jawline, no random flyaway wig volume.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/06-profile-highlight-study/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/06-profile-highlight-study/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/e3b69d347ba39a)
 
 ## Monochrome Skin Texture · luxury-beauty-closeup-editorial/series-beauty-editorial-lock/07-monochrome-skin-texture
 
@@ -807,7 +807,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no muddy gray skin, no grainy filter, no softened detail, no changed facial structure.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/07-monochrome-skin-texture/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/07-monochrome-skin-texture/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/22d0a8f8b9f6e6)
 
 ## Mirror Prep Frame · luxury-beauty-closeup-editorial/series-beauty-editorial-lock/08-mirror-prep-frame
 
@@ -830,7 +830,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no busy dressing room, no other stylists, no readable mirror stickers, no copied magazine cover.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/08-mirror-prep-frame/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/08-mirror-prep-frame/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/1e909c502d4705)
 
 ## Luxury Campaign Crop · luxury-beauty-closeup-editorial/series-beauty-editorial-lock/09-luxury-campaign-crop
 
@@ -853,7 +853,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no fake logo copy, no oversized product props, no over-retouched skin, no identity drift.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/09-luxury-campaign-crop/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-beauty-closeup-editorial/packages/series-beauty-editorial-lock/images/09-luxury-campaign-crop/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/0ae69fd79dc6d1)
 
 ## Jewelry Craft Atelier · luxury-brand-story-page/single-luxury-story-studies/jewelry-craft-atelier
 
@@ -876,7 +876,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no model portrait, no wedding cliché styling, no floating glitter storm, no crowded gemstone pile, no malformed stone settings.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/jewelry-craft-atelier/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/jewelry-craft-atelier/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/59b8f61e56cfe7)
 
 ## Moonphase Watch Manifesto · luxury-brand-story-page/single-luxury-story-studies/moonphase-watch-manifesto
 
@@ -899,7 +899,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no wrist on a model, no cheap chronograph clutter, no oversized lens flare, no sports-watch aggression, no distorted hands or case geometry.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/moonphase-watch-manifesto/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/moonphase-watch-manifesto/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/40a22785552b7d)
 
 ## Leather Bag Origin Story · luxury-brand-story-page/single-luxury-story-studies/leather-bag-origin-story
 
@@ -922,7 +922,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no model carrying the bag, no shopping-cart UI, no trend collage clutter, no cheap plastic sheen, no distorted straps or hardware.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/leather-bag-origin-story/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/leather-bag-origin-story/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/67e3c3bf96c2bc)
 
 ## Silk Scarf Print Atlas · luxury-brand-story-page/single-luxury-story-studies/silk-scarf-print-atlas
 
@@ -945,7 +945,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no model portrait, no chaotic fashion collage, no cheap satin shine, no wrinkled discount-retail styling, no distorted print geometry.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/silk-scarf-print-atlas/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/silk-scarf-print-atlas/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/ceeb6761b66f78)
 
 ## Couture Heel Runway Page · luxury-brand-story-page/single-luxury-story-studies/couture-heel-runway-page
 
@@ -968,7 +968,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no busy model montage, no cheap ecommerce grid, no cartoon fashion graphics, no glitter overload, no distorted heel proportions.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/couture-heel-runway-page/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/couture-heel-runway-page/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/df10384872c9f3)
 
 ## Fountain Pen Heritage Piece · luxury-brand-story-page/single-luxury-story-studies/fountain-pen-heritage-piece
 
@@ -991,7 +991,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no handwritten copy, no ink splatter chaos, no school-supply look, no crowded desk clutter, no distorted pen proportions or nib anatomy.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/fountain-pen-heritage-piece/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/fountain-pen-heritage-piece/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/ab2d181f66ba1a)
 
 ## Porcelain Skincare Ritual · luxury-brand-story-page/single-luxury-story-studies/porcelain-skincare-ritual
 
@@ -1014,7 +1014,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no smiling model face, no medical infographic style, no floating fruit slices, no discount-beauty clutter, no distorted jars or droppers.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/porcelain-skincare-ritual/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/porcelain-skincare-ritual/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/0ee43f919741eb)
 
 ## Crystal Decanter Collection · luxury-brand-story-page/single-luxury-story-studies/crystal-decanter-collection
 
@@ -1037,7 +1037,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no crowded bar scene, no party people, no exaggerated neon reflections, no cheap liquor-ad clichés, no distorted glass refraction or stopper geometry.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/crystal-decanter-collection/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-brand-story-page/packages/single-luxury-story-studies/images/crystal-decanter-collection/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/957b668a535620)
 
 ## Arrival Portal Wide · luxury-hotel-lobby-arrival-system/series-spatial-language-lock/01-arrival-portal-wide
 
@@ -1060,7 +1060,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no guests, no staff, no suitcases scattered everywhere, no casino mood, no festive balloons, no parked cars blocking the portal.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/series-spatial-language-lock/images/01-arrival-portal-wide/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/series-spatial-language-lock/images/01-arrival-portal-wide/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/fa8894ac4bf6ae)
 
 ## Reception Axis · luxury-hotel-lobby-arrival-system/series-spatial-language-lock/02-reception-axis
 
@@ -1083,7 +1083,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact architectural identity from the reference image, no guests, no staff, no suitcases scattered everywhere, no casino mood, no festive balloons, no flower-overload centerpiece.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/series-spatial-language-lock/images/02-reception-axis/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/series-spatial-language-lock/images/02-reception-axis/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/fe29e80d75a915)
 
 ## Lounge Threshold at Dusk · luxury-hotel-lobby-arrival-system/series-spatial-language-lock/03-lounge-threshold-dusk
 
@@ -1106,7 +1106,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact architectural identity from the reference image, no guests, no staff, no suitcases scattered everywhere, no casino mood, no festive balloons, no nightclub neon.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/series-spatial-language-lock/images/03-lounge-threshold-dusk/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/series-spatial-language-lock/images/03-lounge-threshold-dusk/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/a0d81a9ba21a26)
 
 ## Elevator Vault Corner · luxury-hotel-lobby-arrival-system/series-spatial-language-lock/04-elevator-vault-corner
 
@@ -1129,7 +1129,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact architectural identity from the reference image, no guests, no staff, no suitcases scattered everywhere, no casino mood, no festive balloons, no exposed service doors.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/series-spatial-language-lock/images/04-elevator-vault-corner/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/series-spatial-language-lock/images/04-elevator-vault-corner/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/b01f1e49e9dea1)
 
 ## Seating Cluster Editorial · luxury-hotel-lobby-arrival-system/single-support-studies/02-seating-cluster-editorial
 
@@ -1152,7 +1152,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no guests, no staff, no suitcases scattered everywhere, no casino mood, no festive balloons, no messy magazines.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/single-support-studies/images/02-seating-cluster-editorial/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/single-support-studies/images/02-seating-cluster-editorial/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/89461b08e382e3)
 
 ## Wayfinding Plinth Study · luxury-hotel-lobby-arrival-system/single-support-studies/03-wayfinding-plinth-study
 
@@ -1175,7 +1175,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no guests, no staff, no suitcases scattered everywhere, no casino mood, no festive balloons, no arrows made of text.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/single-support-studies/images/03-wayfinding-plinth-study/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/single-support-studies/images/03-wayfinding-plinth-study/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/e479635b8d2841)
 
 ## Rainy Canopy Night · luxury-hotel-lobby-arrival-system/single-support-studies/04-rainy-canopy-night
 
@@ -1198,7 +1198,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no guests, no staff, no suitcases scattered everywhere, no casino mood, no festive balloons, no taxis or logos.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/single-support-studies/images/04-rainy-canopy-night/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/single-support-studies/images/04-rainy-canopy-night/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6c20aa83b21d2d)
 
 ## Material and Amenity Board · luxury-hotel-lobby-arrival-system/single-support-studies/05-material-amenity-board
 
@@ -1221,7 +1221,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no guests, no staff, no suitcases scattered everywhere, no casino mood, no festive balloons, no readable card text.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/single-support-studies/images/05-material-amenity-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/luxury-hotel-lobby-arrival-system/packages/single-support-studies/images/05-material-amenity-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/84b3542394fdb1)
 
 ## Reference Echo Frame · lyric-visualizer-frame-family/series-frame-motion/01-reference-echo-frame
 
@@ -1244,7 +1244,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable lyrics, no interface chrome, no concert crowd, no giant speaker stacks, no bright rainbow gradients, no literal subtitles
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/series-frame-motion/images/01-reference-echo-frame/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/series-frame-motion/images/01-reference-echo-frame/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6e5eafe37d5fdd)
 
 ## Rainfall Chorus · lyric-visualizer-frame-family/series-frame-motion/02-rainfall-chorus
 
@@ -1267,7 +1267,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the core frame grammar from the reference image; no legible words, no interface timeline, no crowd hands, no harsh daylight, no chaotic particle overload
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/series-frame-motion/images/02-rainfall-chorus/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/series-frame-motion/images/02-rainfall-chorus/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/c1bb13ece247a5)
 
 ## Whisper Bridge · lyric-visualizer-frame-family/series-frame-motion/03-whisper-bridge
 
@@ -1290,7 +1290,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the core frame grammar from the reference image; no readable lyrics, no black void emptiness, no unrelated props, no photo-real audience, no oversaturated color swirls
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/series-frame-motion/images/03-whisper-bridge/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/series-frame-motion/images/03-whisper-bridge/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/542120a6997e73)
 
 ## Finale Surge · lyric-visualizer-frame-family/series-frame-motion/04-finale-surge
 
@@ -1313,7 +1313,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the core frame grammar from the reference image; no readable subtitles, no software UI, no crowd silhouettes, no random lightning bolts, no cartoon effects
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/series-frame-motion/images/04-finale-surge/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/series-frame-motion/images/04-finale-surge/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/216e4ab8b9aa4f)
 
 ## Smoke Tunnel Glyphs · lyric-visualizer-frame-family/single-visualizer-studies/smoke-tunnel-glyphs
 
@@ -1336,7 +1336,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable words, no visible stage audience, no spaceship cues, no hard lens distortions, no random multicolor noise
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/single-visualizer-studies/images/smoke-tunnel-glyphs/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/single-visualizer-studies/images/smoke-tunnel-glyphs/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/cf2ef0992c0d33)
 
 ## Bedroom Diary Frame · lyric-visualizer-frame-family/single-visualizer-studies/bedroom-diary-frame
 
@@ -1359,7 +1359,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable notes on walls, no brand products, no cluttered bedroom mess, no daylight, no literal smartphone interface
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/single-visualizer-studies/images/bedroom-diary-frame/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/single-visualizer-studies/images/bedroom-diary-frame/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/73cc55ed5616c1)
 
 ## Industrial Pulse Frame · lyric-visualizer-frame-family/single-visualizer-studies/industrial-pulse-frame
 
@@ -1382,7 +1382,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no factory workers, no safety signage, no readable labels, no orange sparks, no heavy machinery dominating the frame
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/single-visualizer-studies/images/industrial-pulse-frame/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/single-visualizer-studies/images/industrial-pulse-frame/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/598f50b4e3d61b)
 
 ## Waterline Refrain Frame · lyric-visualizer-frame-family/single-visualizer-studies/waterline-refrain-frame
 
@@ -1405,7 +1405,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable subtitles, no beach setting, no dramatic storm, no fish or surreal creatures, no multicolor nightclub palette
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/single-visualizer-studies/images/waterline-refrain-frame/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/lyric-visualizer-frame-family/packages/single-visualizer-studies/images/waterline-refrain-frame/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/0d1e4a58343277)
 
 ## Macro Study · macro-real-texture/single-macro-real-texture-studies/macro-study
 
@@ -1428,7 +1428,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no generic stock macro, no broken scale cues, no plastic-looking texture when it should feel natural, no meaningless blur, no watermark, no fake labels.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/macro-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/macro-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6df408e3f949d2)
 
 ## Side Light Study · macro-real-texture/single-macro-real-texture-studies/side-light-study
 
@@ -1451,7 +1451,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no generic stock macro, no broken scale cues, no plastic-looking texture when it should feel natural, no meaningless blur, no watermark, no fake labels.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/side-light-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/side-light-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/3bcf29fafb1a42)
 
 ## Process Trace · macro-real-texture/single-macro-real-texture-studies/process-trace
 
@@ -1474,7 +1474,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no generic stock macro, no broken scale cues, no plastic-looking texture when it should feel natural, no meaningless blur, no watermark, no fake labels.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/process-trace/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/process-trace/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/d58cf480326b71)
 
 ## Specimen Table · macro-real-texture/single-macro-real-texture-studies/specimen-table
 
@@ -1497,7 +1497,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no generic stock macro, no broken scale cues, no plastic-looking texture when it should feel natural, no meaningless blur, no watermark, no fake labels.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/specimen-table/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/specimen-table/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/b615ce2ad6cf15)
 
 ## 氛围场景 · macro-real-texture/single-macro-real-texture-studies/atmospheric-view
 
@@ -1520,7 +1520,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no generic stock macro, no broken scale cues, no plastic-looking texture when it should feel natural, no meaningless blur, no watermark, no fake labels.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/atmospheric-view/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/atmospheric-view/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/fc2c1fa623bb2b)
 
 ## Structure Closeup · macro-real-texture/single-macro-real-texture-studies/structure-closeup
 
@@ -1543,7 +1543,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no generic stock macro, no broken scale cues, no plastic-looking texture when it should feel natural, no meaningless blur, no watermark, no fake labels.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/structure-closeup/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/structure-closeup/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/bc477192f69a71)
 
 ## Signature Material · macro-real-texture/single-macro-real-texture-studies/signature-material
 
@@ -1566,7 +1566,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no generic stock macro, no broken scale cues, no plastic-looking texture when it should feel natural, no meaningless blur, no watermark, no fake labels.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/signature-material/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/macro-real-texture/packages/single-macro-real-texture-studies/images/signature-material/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/7d4162296844b6)
 
 ## Hero Spread · magazine-spread-layout/single-magazine-spread-layout-studies/hero-spread
 
@@ -1589,7 +1589,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logo lockups from real brands, no broken grid, no arbitrary poster clutter, no malformed columns, no accidental lorem ipsum.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/hero-spread/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/hero-spread/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/75ef3093a5b46b)
 
 ## Variant Grid · magazine-spread-layout/single-magazine-spread-layout-studies/variant-grid
 
@@ -1612,7 +1612,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logo lockups from real brands, no broken grid, no arbitrary poster clutter, no malformed columns, no accidental lorem ipsum.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/variant-grid/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/variant-grid/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6f22aadd6024f2)
 
 ## Desk Review · magazine-spread-layout/single-magazine-spread-layout-studies/desk-review
 
@@ -1635,7 +1635,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logo lockups from real brands, no broken grid, no arbitrary poster clutter, no malformed columns, no accidental lorem ipsum.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/desk-review/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/desk-review/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/931db41210aad1)
 
 ## Material Closeup · magazine-spread-layout/single-magazine-spread-layout-studies/material-closeup
 
@@ -1658,7 +1658,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logo lockups from real brands, no broken grid, no arbitrary poster clutter, no malformed columns, no accidental lorem ipsum.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/material-closeup/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/material-closeup/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6f780cd9158632)
 
 ## Archive Sheet · magazine-spread-layout/single-magazine-spread-layout-studies/archive-sheet
 
@@ -1681,7 +1681,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logo lockups from real brands, no broken grid, no arbitrary poster clutter, no malformed columns, no accidental lorem ipsum.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/archive-sheet/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/archive-sheet/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/5e38212851c615)
 
 ## 陈列展示 · magazine-spread-layout/single-magazine-spread-layout-studies/retail-presentation
 
@@ -1704,7 +1704,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logo lockups from real brands, no broken grid, no arbitrary poster clutter, no malformed columns, no accidental lorem ipsum.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/retail-presentation/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/retail-presentation/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/3172915e90bad1)
 
 ## System Board · magazine-spread-layout/single-magazine-spread-layout-studies/system-board
 
@@ -1727,7 +1727,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logo lockups from real brands, no broken grid, no arbitrary poster clutter, no malformed columns, no accidental lorem ipsum.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/system-board/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/system-board/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/569cf513567a3d)
 
 ## Signature Layout · magazine-spread-layout/single-magazine-spread-layout-studies/signature-layout
 
@@ -1750,7 +1750,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logo lockups from real brands, no broken grid, no arbitrary poster clutter, no malformed columns, no accidental lorem ipsum.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/signature-layout/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/magazine-spread-layout/packages/single-magazine-spread-layout-studies/images/signature-layout/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/d8e071c07d213f)
 
 ## Bare Base Look · makeup-stage-evolution/single-makeup-stage-evolution-studies/bare-base-look
 
@@ -1773,7 +1773,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand logos, no runway watermark, no unreadable backstage signage, no cosmetic packaging front-and-center, no plastic skin, no generic glamour pose.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/bare-base-look/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/bare-base-look/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/74e00329032061)
 
 ## Editorial Pigment · makeup-stage-evolution/single-makeup-stage-evolution-studies/editorial-pigment
 
@@ -1796,7 +1796,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand logos, no runway watermark, no unreadable backstage signage, no cosmetic packaging front-and-center, no plastic skin, no generic glamour pose.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/editorial-pigment/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/editorial-pigment/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/99e257e919c99b)
 
 ## Metallic Stage · makeup-stage-evolution/single-makeup-stage-evolution-studies/metallic-stage
 
@@ -1819,7 +1819,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand logos, no runway watermark, no unreadable backstage signage, no cosmetic packaging front-and-center, no plastic skin, no generic glamour pose.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/metallic-stage/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/metallic-stage/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6bf6ed0d33b1f7)
 
 ## Pastel Wash · makeup-stage-evolution/single-makeup-stage-evolution-studies/pastel-wash
 
@@ -1842,7 +1842,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand logos, no runway watermark, no unreadable backstage signage, no cosmetic packaging front-and-center, no plastic skin, no generic glamour pose.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/pastel-wash/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/pastel-wash/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/9faf7843e4e8d3)
 
 ## Wet Gloss Transition · makeup-stage-evolution/single-makeup-stage-evolution-studies/wet-gloss-transition
 
@@ -1865,7 +1865,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand logos, no runway watermark, no unreadable backstage signage, no cosmetic packaging front-and-center, no plastic skin, no generic glamour pose.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/wet-gloss-transition/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/wet-gloss-transition/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/cad02edd6bcde9)
 
 ## Graphic Liner · makeup-stage-evolution/single-makeup-stage-evolution-studies/graphic-liner
 
@@ -1888,7 +1888,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand logos, no runway watermark, no unreadable backstage signage, no cosmetic packaging front-and-center, no plastic skin, no generic glamour pose.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/graphic-liner/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/graphic-liner/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/357dbd215965e7)
 
 ## Sculpted Finish · makeup-stage-evolution/single-makeup-stage-evolution-studies/sculpted-finish
 
@@ -1911,7 +1911,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand logos, no runway watermark, no unreadable backstage signage, no cosmetic packaging front-and-center, no plastic skin, no generic glamour pose.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/sculpted-finish/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/sculpted-finish/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/358a13523bd98c)
 
 ## Signature Look · makeup-stage-evolution/single-makeup-stage-evolution-studies/signature-look
 
@@ -1934,7 +1934,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand logos, no runway watermark, no unreadable backstage signage, no cosmetic packaging front-and-center, no plastic skin, no generic glamour pose.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/signature-look/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/makeup-stage-evolution/packages/single-makeup-stage-evolution-studies/images/signature-look/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/aa508335807cdc)
 
 ## Tibetan Eight Ring · mandala-precision-geometry/single-mandala-studies/01-tibetan-eight-ring
 
@@ -1957,7 +1957,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no off-center circle, no broken symmetry, no cartoon simplification, no deities or human figures, no modern poster layout, no messy paint splatter, no photographic frame or wall.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/01-tibetan-eight-ring/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/01-tibetan-eight-ring/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Exact ring/star/petal counts and seamless quadrant/intersection construction are central requirements; independently verifiable precision has not been established from this generated image. Retain whole image/full prompt in GitHub pending geometry audit.
 
 ## Islamic Star Lattice · mandala-precision-geometry/single-mandala-studies/02-islamic-star-lattice
 
@@ -1980,7 +1980,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no calligraphy, no human figures, no random mosaic fragments, no warped center, no uneven spokes, no fantasy symbols, no decorative border outside the main system.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/02-islamic-star-lattice/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/02-islamic-star-lattice/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Exact ring/star/petal counts and seamless quadrant/intersection construction are central requirements; independently verifiable precision has not been established from this generated image. Retain whole image/full prompt in GitHub pending geometry audit.
 
 ## Kandinsky Geometry Wheel · mandala-precision-geometry/single-mandala-studies/03-kandinsky-geometry-wheel
 
@@ -2003,7 +2003,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no random splatter field, no collage scraps, no off-center composition, no photorealistic objects, no human figure, no frame, no typography, no muddy color blending.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/03-kandinsky-geometry-wheel/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/03-kandinsky-geometry-wheel/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/09275e59c49451)
 
 ## Sand Mandala Ritual · mandala-precision-geometry/single-mandala-studies/04-sand-mandala-ritual
 
@@ -2026,7 +2026,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no crowd, no visible faces, no messy spilled pigment, no partial crop of the circle, no candles, no fantasy magic effects, no casual workshop chaos, no asymmetrical damage.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/04-sand-mandala-ritual/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/04-sand-mandala-ritual/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Exact ring/star/petal counts and seamless quadrant/intersection construction are central requirements; independently verifiable precision has not been established from this generated image. Retain whole image/full prompt in GitHub pending geometry audit.
 
 ## Celestial Observatory Mandala · mandala-precision-geometry/single-mandala-studies/05-celestial-observatory-mandala
 
@@ -2049,7 +2049,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no sci-fi interface glow, no modern UI overlays, no random galaxy background, no human figures, no illegible labels, no broken circular tracks, no horoscope kitsch.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/05-celestial-observatory-mandala/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/05-celestial-observatory-mandala/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Precision radial geometry / counts and instrument-like relationships have not been independently verified. Keep source-complete GitHub archive; defer exact geometry/science claim.
 
 ## Botanical Healing Mandala · mandala-precision-geometry/single-mandala-studies/06-botanical-healing-mandala
 
@@ -2072,7 +2072,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no bouquet composition, no random scattered herbs, no insects, no human hands, no vase, no medical labels, no flat clip-art leaves, no broken radial spacing.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/06-botanical-healing-mandala/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/06-botanical-healing-mandala/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Precision radial geometry / counts and instrument-like relationships have not been independently verified. Keep source-complete GitHub archive; defer exact geometry/science claim.
 
 ## Black Gold Engraved Mandala · mandala-precision-geometry/single-mandala-studies/07-black-gold-engraved-mandala
 
@@ -2095,7 +2095,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no neon glow, no gemstones, no fantasy emblem, no blurred metallic haze, no off-center disk, no chaotic baroque clutter, no embossed frame around the artwork.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/07-black-gold-engraved-mandala/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/07-black-gold-engraved-mandala/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Precision radial geometry / counts and instrument-like relationships have not been independently verified. Keep source-complete GitHub archive; defer exact geometry/science claim.
 
 ## Architectural Floor Rose · mandala-precision-geometry/single-mandala-studies/08-architectural-floor-rose
 
@@ -2118,7 +2118,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no oblique camera angle, no people walking through frame, no furniture, no cracked missing tiles, no excessive shadow bands, no modern signage, no fountain or statue interrupting the center.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/08-architectural-floor-rose/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mandala-precision-geometry/packages/single-mandala-studies/images/08-architectural-floor-rose/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Precision radial geometry / counts and instrument-like relationships have not been independently verified. Keep source-complete GitHub archive; defer exact geometry/science claim.
 
 ## Reference Anchor · manga-cover-and-spread-system/series-core-system/01-reference-anchor
 
@@ -2141,7 +2141,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no malformed anatomy or broken perspective, no random decorative clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/series-core-system/images/01-reference-anchor/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/series-core-system/images/01-reference-anchor/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/9326ef4b501f4f)
 
 ## Variant One · manga-cover-and-spread-system/series-core-system/02-variant-one
 
@@ -2164,7 +2164,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no malformed anatomy or broken perspective, no random decorative clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/series-core-system/images/02-variant-one/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/series-core-system/images/02-variant-one/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6d02a3c6c2f1d9)
 
 ## Variant Two · manga-cover-and-spread-system/series-core-system/03-variant-two
 
@@ -2187,7 +2187,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no malformed anatomy or broken perspective, no random decorative clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/series-core-system/images/03-variant-two/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/series-core-system/images/03-variant-two/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/a09cef266b0dd6)
 
 ## Variant Three · manga-cover-and-spread-system/series-core-system/04-variant-three
 
@@ -2210,7 +2210,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no malformed anatomy or broken perspective, no random decorative clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/series-core-system/images/04-variant-three/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/series-core-system/images/04-variant-three/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/5eea2ff550fac6)
 
 ## Support One · manga-cover-and-spread-system/single-support-studies/support-one
 
@@ -2233,7 +2233,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no visual noise that obscures the main surface, no accidental brand resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/single-support-studies/images/support-one/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/single-support-studies/images/support-one/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/cee231077d2bd5)
 
 ## Support Two · manga-cover-and-spread-system/single-support-studies/support-two
 
@@ -2256,7 +2256,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no visual noise that obscures the main surface, no accidental brand resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/single-support-studies/images/support-two/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/single-support-studies/images/support-two/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/352bf5f0c1da9e)
 
 ## Support Three · manga-cover-and-spread-system/single-support-studies/support-three
 
@@ -2279,7 +2279,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no visual noise that obscures the main surface, no accidental brand resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/single-support-studies/images/support-three/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/single-support-studies/images/support-three/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/c2f193ac913996)
 
 ## Support Four · manga-cover-and-spread-system/single-support-studies/support-four
 
@@ -2302,7 +2302,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no visual noise that obscures the main surface, no accidental brand resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/single-support-studies/images/support-four/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/single-support-studies/images/support-four/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/3187341a2771f6)
 
 ## Support Five · manga-cover-and-spread-system/single-support-studies/support-five
 
@@ -2325,7 +2325,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no visual noise that obscures the main surface, no accidental brand resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/single-support-studies/images/support-five/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/manga-cover-and-spread-system/packages/single-support-studies/images/support-five/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/d9b43b2c9705de)
 
 ## Source Hutong Topology · maps-to-treasure-map/series-hutong-parchment/01-source-hutong-topology
 
@@ -2348,7 +2348,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no app controls, no brand colors tied to a real map service, no compass rose, no antique paper texture, no photographic buildings, no randomized maze, no missing route turns.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/series-hutong-parchment/images/01-source-hutong-topology/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/series-hutong-parchment/images/01-source-hutong-topology/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/8f8067fe37305a)
 
 ## Parchment Sea Chart · maps-to-treasure-map/series-hutong-parchment/02-parchment-sea-chart
 
@@ -2371,7 +2371,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no branded map UI, no random pirate island shape replacing the hutong network, no route turns removed, no wax seal covering the destination, no glossy modern paper, no printed street labels.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/series-hutong-parchment/images/02-parchment-sea-chart/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/series-hutong-parchment/images/02-parchment-sea-chart/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:**Held:** The brief requires identical source alley network, landmarks and six-turn route after restyling; exact topology correspondence is not established by this output. Retain full original and defer publication pending topology comparison.
 
 ## Wax-Sealed Route · maps-to-treasure-map/series-hutong-parchment/03-wax-sealed-route
 
@@ -2394,7 +2394,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no branded symbols, no readable labels on compass, no route segment removed by folds, no seal covering critical lanes, no modern map UI, no fantasy glowing ink, no incorrect destination placement.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/series-hutong-parchment/images/03-wax-sealed-route/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/series-hutong-parchment/images/03-wax-sealed-route/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:**Held:** The brief requires identical source alley network, landmarks and six-turn route after restyling; exact topology correspondence is not established by this output. Retain full original and defer publication pending topology comparison.
 
 ## Travel Keepsake Map · maps-to-treasure-map/series-hutong-parchment/04-travel-keepsake-map
 
@@ -2417,7 +2417,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand labels, no printed tourist brochure, no objects covering route turns, no missing water shape, no random maze, no glossy plastic frame, no modern map pins except the transformed endpoint X.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/series-hutong-parchment/images/04-travel-keepsake-map/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/series-hutong-parchment/images/04-travel-keepsake-map/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:**Held:** Exact source alley topology preservation is central; correspondence of all lanes, six-turn route and landmarks has not been established. Keep full source archive pending comparison.
 
 ## Subway Labyrinth Chart · maps-to-treasure-map/single-cartographic-relics/subway-labyrinth-chart
 
@@ -2440,7 +2440,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no transit agency brand, no station labels, no route numbers, no disconnected line segments, no random maze walls, no glossy modern diagram, no objects hiding transfer nodes.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/single-cartographic-relics/images/subway-labyrinth-chart/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/single-cartographic-relics/images/subway-labyrinth-chart/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/acdc7651f61972)
 
 ## Mountain Trail Parchment · maps-to-treasure-map/single-cartographic-relics/mountain-trail-parchment
 
@@ -2463,7 +2463,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no park service brand, no trail names, no elevation numbers, no route crossing cliffs unrealistically, no random pirate island, no missing stream crossings, no glossy laminated map.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/single-cartographic-relics/images/mountain-trail-parchment/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/single-cartographic-relics/images/mountain-trail-parchment/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/d02fafbfba2530)
 
 ## Food Crawl Island Map · maps-to-treasure-map/single-cartographic-relics/food-crawl-island-map
 
@@ -2486,7 +2486,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no restaurant brand, no menu words, no prices, no route crossing water without bridges, no random disconnected stalls, no modern phone UI, no glossy laminated flyer.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/single-cartographic-relics/images/food-crawl-island-map/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maps-to-treasure-map/packages/single-cartographic-relics/images/food-crawl-island-map/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/b1b1a2936fef76)
 
 ## Reference Anchor · marketplace-main-image-system/series-core-system/01-reference-anchor
 
@@ -2509,7 +2509,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no malformed anatomy or broken perspective, no random decorative clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/series-core-system/images/01-reference-anchor/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/series-core-system/images/01-reference-anchor/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/ee4236ac119a2e)
 
 ## Variant One · marketplace-main-image-system/series-core-system/02-variant-one
 
@@ -2532,7 +2532,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no malformed anatomy or broken perspective, no random decorative clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/series-core-system/images/02-variant-one/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/series-core-system/images/02-variant-one/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/49e2acc0c47edf)
 
 ## Variant Two · marketplace-main-image-system/series-core-system/03-variant-two
 
@@ -2555,7 +2555,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no malformed anatomy or broken perspective, no random decorative clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/series-core-system/images/03-variant-two/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/series-core-system/images/03-variant-two/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/73578670861677)
 
 ## Variant Three · marketplace-main-image-system/series-core-system/04-variant-three
 
@@ -2578,7 +2578,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no malformed anatomy or broken perspective, no random decorative clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/series-core-system/images/04-variant-three/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/series-core-system/images/04-variant-three/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/81b79971751914)
 
 ## Support One · marketplace-main-image-system/single-support-studies/support-one
 
@@ -2601,7 +2601,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no visual noise that obscures the main surface, no accidental brand resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/single-support-studies/images/support-one/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/single-support-studies/images/support-one/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/4493d37bc22aad)
 
 ## Support Two · marketplace-main-image-system/single-support-studies/support-two
 
@@ -2624,7 +2624,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no visual noise that obscures the main surface, no accidental brand resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/single-support-studies/images/support-two/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/single-support-studies/images/support-two/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/aad0049e11e219)
 
 ## Support Three · marketplace-main-image-system/single-support-studies/support-three
 
@@ -2647,7 +2647,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no visual noise that obscures the main surface, no accidental brand resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/single-support-studies/images/support-three/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/single-support-studies/images/support-three/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/8c02ae8462e453)
 
 ## Support Four · marketplace-main-image-system/single-support-studies/support-four
 
@@ -2670,7 +2670,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no visual noise that obscures the main surface, no accidental brand resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/single-support-studies/images/support-four/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/single-support-studies/images/support-four/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/916b542e9c16d4)
 
 ## Support Five · marketplace-main-image-system/single-support-studies/support-five
 
@@ -2693,7 +2693,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated objects, no broken visual hierarchy, no visual noise that obscures the main surface, no accidental brand resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/single-support-studies/images/support-five/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/marketplace-main-image-system/packages/single-support-studies/images/support-five/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/cb3771be2b0342)
 
 ## Reference Mascot Pack · mascot-ip-brand-collab/series-character-pack/01-reference-mascot-pack
 
@@ -2716,7 +2716,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror elements, no brand theft, no malformed packaging edges, no muddy mascot silhouette, no messy retail shelf, no chaotic prop overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/series-character-pack/images/01-reference-mascot-pack/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/series-character-pack/images/01-reference-mascot-pack/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/f39ae197cbdd21)
 
 ## Sticker Burst Variant · mascot-ip-brand-collab/series-character-pack/02-sticker-burst
 
@@ -2739,7 +2739,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror elements, no brand theft, no malformed packaging edges, no muddy mascot silhouette, no messy retail shelf, no chaotic prop overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/series-character-pack/images/02-sticker-burst/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/series-character-pack/images/02-sticker-burst/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/bb1001f96f3db6)
 
 ## Shelf Launch Variant · mascot-ip-brand-collab/series-character-pack/03-shelf-launch
 
@@ -2762,7 +2762,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror elements, no brand theft, no malformed packaging edges, no muddy mascot silhouette, no messy retail shelf, no chaotic prop overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/series-character-pack/images/03-shelf-launch/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/series-character-pack/images/03-shelf-launch/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/f0989a7aa12add)
 
 ## Premium Collab Box · mascot-ip-brand-collab/series-character-pack/04-premium-collab-box
 
@@ -2785,7 +2785,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror elements, no brand theft, no malformed packaging edges, no muddy mascot silhouette, no messy retail shelf, no chaotic prop overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/series-character-pack/images/04-premium-collab-box/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/series-character-pack/images/04-premium-collab-box/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/318a36db1b4bad)
 
 ## Explainer Board · mascot-ip-brand-collab/single-retail-support/explainer-board
 
@@ -2808,7 +2808,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror elements, no brand theft, no malformed packaging edges, no muddy mascot silhouette, no messy retail shelf, no chaotic prop overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/single-retail-support/images/explainer-board/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/single-retail-support/images/explainer-board/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/baa563b81d465b)
 
 ## Merch Preview · mascot-ip-brand-collab/single-retail-support/merch-preview
 
@@ -2831,7 +2831,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror elements, no brand theft, no malformed packaging edges, no muddy mascot silhouette, no messy retail shelf, no chaotic prop overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/single-retail-support/images/merch-preview/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/single-retail-support/images/merch-preview/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/5a723f81fb9fc3)
 
 ## Counter Display · mascot-ip-brand-collab/single-retail-support/counter-display
 
@@ -2854,7 +2854,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror elements, no brand theft, no malformed packaging edges, no muddy mascot silhouette, no messy retail shelf, no chaotic prop overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/single-retail-support/images/counter-display/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/single-retail-support/images/counter-display/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/ac0fd25d10d1c4)
 
 ## Launch Poster · mascot-ip-brand-collab/single-retail-support/launch-poster
 
@@ -2877,7 +2877,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror elements, no brand theft, no malformed packaging edges, no muddy mascot silhouette, no messy retail shelf, no chaotic prop overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/single-retail-support/images/launch-poster/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/single-retail-support/images/launch-poster/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/311d3c704186ee)
 
 ## Collector Sheet · mascot-ip-brand-collab/single-retail-support/collector-sheet
 
@@ -2900,7 +2900,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no horror elements, no brand theft, no malformed packaging edges, no muddy mascot silhouette, no messy retail shelf, no chaotic prop overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/single-retail-support/images/collector-sheet/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mascot-ip-brand-collab/packages/single-retail-support/images/collector-sheet/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/b0cac523ba6aee)
 
 ## Reference Match Poster · matchday-poster-and-score-update-system/series-core-system/01-reference-match-poster
 
@@ -2923,7 +2923,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no copied famous team or product identity, no generic stock-photo stiffness, no cluttered background noise, no celebrity likenesses.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/series-core-system/images/01-reference-match-poster/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/series-core-system/images/01-reference-match-poster/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/edde301517c38f)
 
 ## Live Score Flash · matchday-poster-and-score-update-system/series-core-system/02-live-score-flash
 
@@ -2946,7 +2946,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no new subject identity, no brand marks, no palette drift, no unrelated props, no collage chaos, no copied public-figure styling.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/series-core-system/images/02-live-score-flash/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/series-core-system/images/02-live-score-flash/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/cf527aba8445c1)
 
 ## Post-match Result Board · matchday-poster-and-score-update-system/series-core-system/03-postmatch-result-board
 
@@ -2969,7 +2969,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no new subject identity, no brand marks, no palette drift, no unrelated props, no collage chaos, no copied public-figure styling.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/series-core-system/images/03-postmatch-result-board/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/series-core-system/images/03-postmatch-result-board/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/97309b048e95bf)
 
 ## Rivalry Countdown Variant · matchday-poster-and-score-update-system/series-core-system/04-rivalry-countdown-variant
 
@@ -2992,7 +2992,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no new subject identity, no brand marks, no palette drift, no unrelated props, no collage chaos, no copied public-figure styling.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/series-core-system/images/04-rivalry-countdown-variant/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/series-core-system/images/04-rivalry-countdown-variant/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/74b771e5a826d7)
 
 ## Lineup Intensity Card · matchday-poster-and-score-update-system/single-support-studies/lineup-intensity-card
 
@@ -3015,7 +3015,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no public-figure resemblance, no generic stock layout, no cluttered UI imitation, no accidental copyrighted insignia.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/single-support-studies/images/lineup-intensity-card/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/single-support-studies/images/lineup-intensity-card/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/a34de262c1a30f)
 
 ## Halftime Momentum Panel · matchday-poster-and-score-update-system/single-support-studies/halftime-momentum-panel
 
@@ -3038,7 +3038,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no public-figure resemblance, no generic stock layout, no cluttered UI imitation, no accidental copyrighted insignia.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/single-support-studies/images/halftime-momentum-panel/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/single-support-studies/images/halftime-momentum-panel/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/f23d410b76637d)
 
 ## Player of the Match Card · matchday-poster-and-score-update-system/single-support-studies/player-of-the-match-card
 
@@ -3061,7 +3061,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no public-figure resemblance, no generic stock layout, no cluttered UI imitation, no accidental copyrighted insignia.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/single-support-studies/images/player-of-the-match-card/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/single-support-studies/images/player-of-the-match-card/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/bbbd89522cc851)
 
 ## Venue Program Cover · matchday-poster-and-score-update-system/single-support-studies/venue-program-cover
 
@@ -3084,7 +3084,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no public-figure resemblance, no generic stock layout, no cluttered UI imitation, no accidental copyrighted insignia.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/single-support-studies/images/venue-program-cover/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/matchday-poster-and-score-update-system/packages/single-support-studies/images/venue-program-cover/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/5941d7340bb240)
 
 ## Butter Palace Gate · material-swaps/single-material-impossibilities/butter-palace-gate
 
@@ -3107,7 +3107,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real landmark label, no plastic model look, no golden metal, no dry stone texture, no fantasy glow, no extra people, no food plate styling, no collapsed unreadable blob.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/butter-palace-gate/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/butter-palace-gate/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/453781f7afce5f)
 
 ## Glass Rose Stem · material-swaps/single-material-impossibilities/glass-rose-stem
 
@@ -3130,7 +3130,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no plastic flower, no wet real petals, no neon glow, no gemstone rose, no metal stem, no extra bouquet, no impossible soft glass bending, no decorative label card.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/glass-rose-stem/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/glass-rose-stem/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/f8b06bad9dc1df)
 
 ## Lace Cathedral · material-swaps/single-material-impossibilities/lace-cathedral
 
@@ -3153,7 +3153,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no solid marble cathedral, no paper cutout, no wedding dress scene, no people, no stained glass colors, no fantasy glow, no perfectly rigid lace, no broken unreadable silhouette.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/lace-cathedral/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/lace-cathedral/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/e4d39dd3a5f121)
 
 ## Porcelain Ocean Wave · material-swaps/single-material-impossibilities/porcelain-ocean-wave
 
@@ -3176,7 +3176,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real water splash, no plastic resin, no blue glass wave, no surfer, no beach scene, no fantasy glow, no flat decorative plate, no smooth featureless sculpture.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/porcelain-ocean-wave/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/porcelain-ocean-wave/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/49d9ed9c207642)
 
 ## Wax Library Chair · material-swaps/single-material-impossibilities/wax-library-chair
 
@@ -3199,7 +3199,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable book titles, no leather chair, no plastic toy, no open flame, no human figure, no melted puddle replacing the chair, no fantasy castle decor, no brand embossing.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/wax-library-chair/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/wax-library-chair/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/a2c25e0b9c9355)
 
 ## Rubber Bonsai Tree · material-swaps/single-material-impossibilities/rubber-bonsai-tree
 
@@ -3222,7 +3222,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real leaves, no plastic plant shine, no metal wire sculpture, no cartoon tree, no bright colors, no human hands, no garden signage, no broken anatomy of the bonsai structure.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/rubber-bonsai-tree/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/rubber-bonsai-tree/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6e3b41434de0f2)
 
 ## Salt Crystal Sneaker · material-swaps/single-material-impossibilities/salt-crystal-sneaker
 
@@ -3245,7 +3245,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no normal fabric sneaker, no sugar candy look, no ice sculpture, no glowing crystals, no foot inside, no retail tag, no collapsed salt pile, no oversized logo shape.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/salt-crystal-sneaker/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/material-swaps/packages/single-material-impossibilities/images/salt-crystal-sneaker/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/3edf52109ceeaf)
 
 ## Reference Counting Cards · math-concept-visual-card-set/series-core-system/01-reference-counting-cards
 
@@ -3268,7 +3268,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable equations, no numerals, no logos, no abstract adult infographic styling, no clutter, no warped cards.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/series-core-system/images/01-reference-counting-cards/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/series-core-system/images/01-reference-counting-cards/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/848afa162d5237)
 
 ## Shape Sorting Cards · math-concept-visual-card-set/series-core-system/02-shape-sorting-cards
 
@@ -3291,7 +3291,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable equations, no numerals, no logos, no abstract adult infographic styling, no clutter, no warped cards.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/series-core-system/images/02-shape-sorting-cards/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/series-core-system/images/02-shape-sorting-cards/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/105113f5bab75f)
 
 ## Fraction Snack Cards · math-concept-visual-card-set/series-core-system/03-fraction-snack-cards
 
@@ -3314,7 +3314,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable equations, no numerals, no logos, no abstract adult infographic styling, no clutter, no warped cards.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/series-core-system/images/03-fraction-snack-cards/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/series-core-system/images/03-fraction-snack-cards/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/8443c10de43508)
 
 ## Pattern Sequence Cards · math-concept-visual-card-set/series-core-system/04-pattern-sequence-cards
 
@@ -3337,7 +3337,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable equations, no numerals, no logos, no abstract adult infographic styling, no clutter, no warped cards.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/series-core-system/images/04-pattern-sequence-cards/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/series-core-system/images/04-pattern-sequence-cards/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/7c74bf2a99238c)
 
 ## Home Practice Box · math-concept-visual-card-set/single-support-studies/03-home-practice-box
 
@@ -3360,7 +3360,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable equations, no numerals, no logos, no messy classroom clutter, no generic stock-photo styling, no broken manipulatives.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/single-support-studies/images/03-home-practice-box/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/single-support-studies/images/03-home-practice-box/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/536fd11489689c)
 
 ## Assessment Ring Cards · math-concept-visual-card-set/single-support-studies/04-assessment-ring-cards
 
@@ -3383,7 +3383,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable equations, no numerals, no logos, no messy classroom clutter, no generic stock-photo styling, no broken manipulatives.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/single-support-studies/images/04-assessment-ring-cards/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/single-support-studies/images/04-assessment-ring-cards/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/21c33ccaeadd4a)
 
 ## Playtable Problem Scene · math-concept-visual-card-set/single-support-studies/05-playtable-problem-scene
 
@@ -3406,7 +3406,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable equations, no numerals, no logos, no messy classroom clutter, no generic stock-photo styling, no broken manipulatives.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/single-support-studies/images/05-playtable-problem-scene/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/single-support-studies/images/05-playtable-problem-scene/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/fab890f544c0e8)
 
 ## Reference Anchor · maya-temple-dawn-discovery/series-core-discovery/01-reference-anchor
 
@@ -3429,7 +3429,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no modern vehicles, no sci-fi glow, no fantasy monsters, no glass skyscrapers, no tourists, no anachronistic props, no collage layout, no exaggerated fantasy lighting.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/series-core-discovery/images/01-reference-anchor/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/series-core-discovery/images/01-reference-anchor/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/ee0e9770a01759)
 
 ## Human Scale Reveal · maya-temple-dawn-discovery/series-core-discovery/02-human-scale-reveal
 
@@ -3452,7 +3452,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact site identity from the reference image, no modern vehicles, no sci-fi glow, no fantasy monsters, no glass skyscrapers, no fashion editorial styling, no crowd, no cinematic props.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/series-core-discovery/images/02-human-scale-reveal/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/series-core-discovery/images/02-human-scale-reveal/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/acc79da20b3a4f)
 
 ## Surface Close Study · maya-temple-dawn-discovery/series-core-discovery/03-surface-close-study
 
@@ -3475,7 +3475,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact site identity from the reference image, no modern vehicles, no sci-fi glow, no fantasy monsters, no glass skyscrapers, no isolated floating artifact, no studio backdrop, no fake macro abstraction.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/series-core-discovery/images/03-surface-close-study/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/series-core-discovery/images/03-surface-close-study/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/5d62a5c7f74d60)
 
 ## Atmospheric Wide Reveal · maya-temple-dawn-discovery/series-core-discovery/04-atmospheric-wide-reveal
 
@@ -3498,7 +3498,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact site identity from the reference image, no modern vehicles, no sci-fi glow, no fantasy monsters, no glass skyscrapers, no unrelated landmarks, no speculative mashup architecture, no posterized grading.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/series-core-discovery/images/04-atmospheric-wide-reveal/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/series-core-discovery/images/04-atmospheric-wide-reveal/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/f59f87f277c61a)
 
 ## Excavation Overview · maya-temple-dawn-discovery/single-context-studies/excavation-overview
 
@@ -3521,7 +3521,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no modern vehicles, no sci-fi glow, no fantasy monsters, no glass skyscrapers, no treasure-chest clichés, no action-movie posing, no arbitrary props, no infographic overlay.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/single-context-studies/images/excavation-overview/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/single-context-studies/images/excavation-overview/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/c52df22441dd8b)
 
 ## Artifact Tableau · maya-temple-dawn-discovery/single-context-studies/artifact-tableau
 
@@ -3544,7 +3544,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no modern vehicles, no sci-fi glow, no fantasy monsters, no glass skyscrapers, no luxury advertising gloss, no floating objects, no velvet jewelry styling, no unrelated tools.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/single-context-studies/images/artifact-tableau/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/single-context-studies/images/artifact-tableau/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/2decce9ec4b57a)
 
 ## Light Shift Study · maya-temple-dawn-discovery/single-context-studies/light-shift-study
 
@@ -3567,7 +3567,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no modern vehicles, no sci-fi glow, no fantasy monsters, no glass skyscrapers, no theatrical color filters, no supernatural effects, no montage composition, no glossy concept-art exaggeration.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/single-context-studies/images/light-shift-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/single-context-studies/images/light-shift-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/866ed383aab133)
 
 ## Survey Perspective · maya-temple-dawn-discovery/single-context-studies/survey-perspective
 
@@ -3590,7 +3590,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no modern vehicles, no sci-fi glow, no fantasy monsters, no glass skyscrapers, no infographic arrows, no split-screen layout, no impossible aerial geometry, no unrelated settlements.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/single-context-studies/images/survey-perspective/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/single-context-studies/images/survey-perspective/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/2174860aa4cecd)
 
 ## Editorial Reconstruction · maya-temple-dawn-discovery/single-context-studies/editorial-reconstruction
 
@@ -3613,7 +3613,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no modern vehicles, no sci-fi glow, no fantasy monsters, no glass skyscrapers, no movie-poster tropes, no overdesigned framing devices, no collage layout, no brand-like iconography.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/single-context-studies/images/editorial-reconstruction/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/maya-temple-dawn-discovery/packages/single-context-studies/images/editorial-reconstruction/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/dde631d9877728)
 
 ## Overview Plate · medical-anatomy-illustration/single-medical-anatomy-illustration-studies/overview-plate
 
@@ -3636,7 +3636,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no messy arrows, no random infographic decoration, no fake UI chrome unless the topic calls for it, no broken alignment, no meaningless clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/overview-plate/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/overview-plate/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## Cutaway Panel · medical-anatomy-illustration/single-medical-anatomy-illustration-studies/cutaway-panel
 
@@ -3659,7 +3659,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no messy arrows, no random infographic decoration, no fake UI chrome unless the topic calls for it, no broken alignment, no meaningless clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/cutaway-panel/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/cutaway-panel/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## Process Sequence · medical-anatomy-illustration/single-medical-anatomy-illustration-studies/process-sequence
 
@@ -3682,7 +3682,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no messy arrows, no random infographic decoration, no fake UI chrome unless the topic calls for it, no broken alignment, no meaningless clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/process-sequence/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/process-sequence/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## Annotation Cluster · medical-anatomy-illustration/single-medical-anatomy-illustration-studies/annotation-cluster
 
@@ -3705,7 +3705,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no messy arrows, no random infographic decoration, no fake UI chrome unless the topic calls for it, no broken alignment, no meaningless clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/annotation-cluster/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/annotation-cluster/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## Comparison Board · medical-anatomy-illustration/single-medical-anatomy-illustration-studies/comparison-board
 
@@ -3728,7 +3728,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no messy arrows, no random infographic decoration, no fake UI chrome unless the topic calls for it, no broken alignment, no meaningless clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/comparison-board/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/comparison-board/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## 材质标注 · medical-anatomy-illustration/single-medical-anatomy-illustration-studies/material-callout
 
@@ -3751,7 +3751,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no messy arrows, no random infographic decoration, no fake UI chrome unless the topic calls for it, no broken alignment, no meaningless clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/material-callout/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/material-callout/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## Exploded System · medical-anatomy-illustration/single-medical-anatomy-illustration-studies/exploded-system
 
@@ -3774,7 +3774,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no messy arrows, no random infographic decoration, no fake UI chrome unless the topic calls for it, no broken alignment, no meaningless clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/exploded-system/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/exploded-system/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## Final Plate · medical-anatomy-illustration/single-medical-anatomy-illustration-studies/final-plate
 
@@ -3797,7 +3797,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no messy arrows, no random infographic decoration, no fake UI chrome unless the topic calls for it, no broken alignment, no meaningless clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/final-plate/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-anatomy-illustration/packages/single-medical-anatomy-illustration-studies/images/final-plate/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## Heart Circulation Lite · medical-infographic-anatomy-lite-system/single-anatomy-lite-studies/heart-circulation-lite
 
@@ -3820,7 +3820,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no hyper-dense textbook labeling, no fantasy anatomy, no horror lighting, no surgical realism, no dark red drama.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/heart-circulation-lite/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/heart-circulation-lite/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## Digestive Journey Board · medical-infographic-anatomy-lite-system/single-anatomy-lite-studies/digestive-journey-board
 
@@ -3843,7 +3843,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no hyper-dense textbook labeling, no fantasy anatomy, no horror lighting, no gross internal textures, no textbook-density annotations.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/digestive-journey-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/digestive-journey-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## Skin Layer Callout · medical-infographic-anatomy-lite-system/single-anatomy-lite-studies/skin-layer-callout
 
@@ -3866,7 +3866,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no hyper-dense textbook labeling, no fantasy anatomy, no horror lighting, no beauty-brand ad styling, no magnified pore horror.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/skin-layer-callout/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/skin-layer-callout/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Anatomical/physiological educational accuracy is central to this medical plate. Organ, vessel, layer and process relationships have not passed independent specialist verification; retain complete source archive and defer teaching-use publication.
 
 ## Oral Structure Overview · medical-infographic-anatomy-lite-system/single-anatomy-lite-studies/oral-structure-overview
 
@@ -3889,7 +3889,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no hyper-dense textbook labeling, no fantasy anatomy, no horror lighting, no invasive dental closeups, no cosmetic whitening ad cues.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/oral-structure-overview/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/oral-structure-overview/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Knee Joint Motion Card · medical-infographic-anatomy-lite-system/single-anatomy-lite-studies/knee-joint-motion-card
 
@@ -3912,7 +3912,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no hyper-dense textbook labeling, no fantasy anatomy, no horror lighting, no sports-brand aggression, no injury shock imagery.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/knee-joint-motion-card/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/knee-joint-motion-card/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Respiratory Pathway Panel · medical-infographic-anatomy-lite-system/single-anatomy-lite-studies/respiratory-pathway-panel
 
@@ -3935,7 +3935,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no hyper-dense textbook labeling, no fantasy anatomy, no horror lighting, no disease-fear montage, no smoky dramatic atmosphere.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/respiratory-pathway-panel/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/respiratory-pathway-panel/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Spine Posture Comparison · medical-infographic-anatomy-lite-system/single-anatomy-lite-studies/spine-posture-comparison
 
@@ -3958,7 +3958,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no hyper-dense textbook labeling, no fantasy anatomy, no horror lighting, no chiropractic-ad cliches, no exaggerated deformity imagery.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/spine-posture-comparison/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/spine-posture-comparison/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Bone Healing Sequence · medical-infographic-anatomy-lite-system/single-anatomy-lite-studies/bone-healing-sequence
 
@@ -3981,7 +3981,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no hyper-dense textbook labeling, no fantasy anatomy, no horror lighting, no exposed fracture gore, no intense pathology focus.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/bone-healing-sequence/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/bone-healing-sequence/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Anatomy Lite System Board · medical-infographic-anatomy-lite-system/single-anatomy-lite-studies/anatomy-lite-system-board
 
@@ -4004,7 +4004,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no hyper-dense textbook labeling, no fantasy anatomy, no horror lighting, no random textbook collage, no mixed illustration logic.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/anatomy-lite-system-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-infographic-anatomy-lite-system/packages/single-anatomy-lite-studies/images/anatomy-lite-system-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Dental Implant Before After · medical-procedure-before-after-guide/single-procedure-guide-studies/dental-implant-before-after
 
@@ -4027,7 +4027,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no sensational before-and-after shock tactics, no cosmetic fantasy styling, no dense legal-text feel, no graphic closeups, no exaggerated smile-ad aesthetics.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/dental-implant-before-after/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/dental-implant-before-after/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Skin Treatment Recovery Board · medical-procedure-before-after-guide/single-procedure-guide-studies/skin-treatment-recovery-board
 
@@ -4050,7 +4050,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no sensational before-and-after shock tactics, no cosmetic fantasy styling, no dense legal-text feel, no influencer skincare styling, no unrealistic perfect skin retouching.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/skin-treatment-recovery-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/skin-treatment-recovery-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Cataract Care Sequence · medical-procedure-before-after-guide/single-procedure-guide-studies/cataract-care-sequence
 
@@ -4073,7 +4073,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no sensational before-and-after shock tactics, no cosmetic fantasy styling, no dense legal-text feel, no surgical gore, no dark dramatic closeups of eyes.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/cataract-care-sequence/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/cataract-care-sequence/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Knee Surgery Homecare Sheet · medical-procedure-before-after-guide/single-procedure-guide-studies/knee-surgery-homecare-sheet
 
@@ -4096,7 +4096,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no sensational before-and-after shock tactics, no cosmetic fantasy styling, no dense legal-text feel, no graphic incisions, no athlete-performance framing.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/knee-surgery-homecare-sheet/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/knee-surgery-homecare-sheet/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Endoscopy Prep Overview · medical-procedure-before-after-guide/single-procedure-guide-studies/endoscopy-prep-overview
 
@@ -4119,7 +4119,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no sensational before-and-after shock tactics, no cosmetic fantasy styling, no dense legal-text feel, no embarrassing humor, no harsh warning-poster tone.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/endoscopy-prep-overview/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/endoscopy-prep-overview/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Orthodontic Progress Guide · medical-procedure-before-after-guide/single-procedure-guide-studies/orthodontic-progress-guide
 
@@ -4142,7 +4142,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no sensational before-and-after shock tactics, no cosmetic fantasy styling, no dense legal-text feel, no teen-fashion campaign vibe, no unrealistic teeth perfection.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/orthodontic-progress-guide/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/orthodontic-progress-guide/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Wound Care Stage Board · medical-procedure-before-after-guide/single-procedure-guide-studies/wound-care-stage-board
 
@@ -4165,7 +4165,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no sensational before-and-after shock tactics, no cosmetic fantasy styling, no dense legal-text feel, no visible open wounds, no alarming red-heavy palette.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/wound-care-stage-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/wound-care-stage-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Injection Safety Card · medical-procedure-before-after-guide/single-procedure-guide-studies/injection-safety-card
 
@@ -4188,7 +4188,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no sensational before-and-after shock tactics, no cosmetic fantasy styling, no dense legal-text feel, no glam-campaign styling, no dramatic before-after split faces.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/injection-safety-card/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/injection-safety-card/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Master Procedure Handout System · medical-procedure-before-after-guide/single-procedure-guide-studies/master-procedure-handout-system
 
@@ -4211,7 +4211,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no sensational before-and-after shock tactics, no cosmetic fantasy styling, no dense legal-text feel, no mismatched specialty aesthetics, no generic brochure clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/master-procedure-handout-system/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/medical-procedure-before-after-guide/packages/single-procedure-guide-studies/images/master-procedure-handout-system/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:**Held:** Medical educational anatomy or procedure/aftercare safety is central. This generated diagram/sequence lacks independent clinical review and must not be treated as verified patient instructions or outcome evidence. Retain full original archive pending specialist accuracy review.
 
 ## Reference Natural Base · mens-grooming-hair-beard-rotation/series-identity-switchboard/01-reference-natural-base
 
@@ -4234,7 +4234,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no heavy styling, no logo wardrobe, no beauty filter, no extra subjects.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/01-reference-natural-base/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/01-reference-natural-base/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/1764ee864e89c7)
 
 ## Look Switch One · mens-grooming-hair-beard-rotation/series-identity-switchboard/02-look-switch-one
 
@@ -4257,7 +4257,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no face redraw, no changed age unless explicitly asked, no costume-party exaggeration, no new body shape.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/02-look-switch-one/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/02-look-switch-one/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/23558df8151681)
 
 ## Look Switch Three · mens-grooming-hair-beard-rotation/series-identity-switchboard/04-look-switch-three
 
@@ -4280,7 +4280,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no gimmick costume, no false lashes that change eye shape, no surreal hair physics, no second person.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/04-look-switch-three/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/04-look-switch-three/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/b0ebc10eed2415)
 
 ## Look Switch Four · mens-grooming-hair-beard-rotation/series-identity-switchboard/05-look-switch-four
 
@@ -4303,7 +4303,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no retouch blur, no facial asymmetry drift, no extra accessories noise, no unreadable product text.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/05-look-switch-four/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/05-look-switch-four/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/82d5b340ef261d)
 
 ## Look Switch Five · mens-grooming-hair-beard-rotation/series-identity-switchboard/06-look-switch-five
 
@@ -4326,7 +4326,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no gender drift unless explicitly relevant, no unrelated props, no costume confusion, no body-scale jump.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/06-look-switch-five/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/06-look-switch-five/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/740f976a323066)
 
 ## Look Switch Six · mens-grooming-hair-beard-rotation/series-identity-switchboard/07-look-switch-six
 
@@ -4349,7 +4349,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no hidden face, no perspective warp, no dramatic environment change, no AI-gloss artifacts.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/07-look-switch-six/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/07-look-switch-six/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6a618d8b905f90)
 
 ## Detail Proof Board · mens-grooming-hair-beard-rotation/series-identity-switchboard/08-detail-proof-board
 
@@ -4372,7 +4372,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no readable labels, no broken panel alignment, no detached close-up fragments, no face drift.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/08-detail-proof-board/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/mens-grooming-hair-beard-rotation/packages/series-identity-switchboard/images/08-detail-proof-board/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/187a439af9189b)
 
 ## Cover Anchor · menu-cover-and-spread-food-system/series-core-system/01-cover-anchor
 
@@ -4395,7 +4395,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake menu prices, no warped paper errors, no amateur flyer clutter, no chaotic collage, no obvious software UI chrome, no legible letters, no visible software editor, no warped spiral notebook aesthetic.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/series-core-system/images/01-cover-anchor/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/series-core-system/images/01-cover-anchor/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/31c1ffb065b7da)
 
 ## Breakfast Spread · menu-cover-and-spread-food-system/series-core-system/02-breakfast-spread
 
@@ -4418,7 +4418,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake menu prices, no warped paper errors, no amateur flyer clutter, no chaotic collage, no obvious software UI chrome, no readable headings, no fake prices, no sloppy page curl.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/series-core-system/images/02-breakfast-spread/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/series-core-system/images/02-breakfast-spread/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/b3b20dc511fa09)
 
 ## Chef Special Spread · menu-cover-and-spread-food-system/series-core-system/03-chef-special-spread
 
@@ -4441,7 +4441,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake menu prices, no warped paper errors, no amateur flyer clutter, no chaotic collage, no obvious software UI chrome, no readable chef signature, no chalkboard menu clichés, no hand-drawn doodle clutter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/series-core-system/images/03-chef-special-spread/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/series-core-system/images/03-chef-special-spread/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/62536b05e91644)
 
 ## Drinks Insert Layout · menu-cover-and-spread-food-system/series-core-system/04-drinks-insert-layout
 
@@ -4464,7 +4464,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake menu prices, no warped paper errors, no amateur flyer clutter, no chaotic collage, no obvious software UI chrome, no cocktail recipe copy, no readable drink names, no nightclub flyer energy.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/series-core-system/images/04-drinks-insert-layout/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/series-core-system/images/04-drinks-insert-layout/meta.json) · GPT Image2 · 1024×1024 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6866defebac74c)
 
 ## Tabletop Menu Mockup · menu-cover-and-spread-food-system/single-support-studies/tabletop-menu-mockup
 
@@ -4487,7 +4487,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake menu prices, no warped paper errors, no amateur flyer clutter, no chaotic collage, no obvious software UI chrome, no readable copy, no cluttered bill folder, no visible diner faces.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/single-support-studies/images/tabletop-menu-mockup/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/single-support-studies/images/tabletop-menu-mockup/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/3cc94d55de1cea)
 
 ## Takeaway Trifold · menu-cover-and-spread-food-system/single-support-studies/takeaway-trifold
 
@@ -4510,7 +4510,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake menu prices, no warped paper errors, no amateur flyer clutter, no chaotic collage, no obvious software UI chrome, no readable combo text, no price stickers, no disposable clutter overload.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/single-support-studies/images/takeaway-trifold/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/single-support-studies/images/takeaway-trifold/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/0f5ccf97c58a9b)
 
 ## Counter Lightbox Board · menu-cover-and-spread-food-system/single-support-studies/counter-lightbox-board
 
@@ -4533,7 +4533,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake menu prices, no warped paper errors, no amateur flyer clutter, no chaotic collage, no obvious software UI chrome, no legible lettering, no LED glare blowout, no cashier screen UI.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/single-support-studies/images/counter-lightbox-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/single-support-studies/images/counter-lightbox-board/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/13d8cc00a76b5b)
 
 ## Dessert Insert Grid · menu-cover-and-spread-food-system/single-support-studies/dessert-insert-grid
 
@@ -4556,7 +4556,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake menu prices, no warped paper errors, no amateur flyer clutter, no chaotic collage, no obvious software UI chrome, no magazine masthead, no visible software crop marks, no chaotic collage.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/single-support-studies/images/dessert-insert-grid/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/menu-cover-and-spread-food-system/packages/single-support-studies/images/dessert-insert-grid/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/286801ca2157e9)
 
 ## Shoreline Emergence · methane-sea-titan-creature/single-methane-creature-studies/shoreline-emergence
 
@@ -4579,7 +4579,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no Earth ocean blue, no dinosaur copy, no heroic monster stance, no space-suit humans, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/methane-sea-titan-creature/packages/single-methane-creature-studies/images/shoreline-emergence/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/methane-sea-titan-creature/packages/single-methane-creature-studies/images/shoreline-emergence/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/e75c6e3308bdc9)
 
 ## Translucent Vascular Closeup · methane-sea-titan-creature/single-methane-creature-studies/translucent-vascular-closeup
 
@@ -4602,4 +4602,4 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no medical x-ray look, no neon tubing, no jellyfish copy, no glossy product-shot finish, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/methane-sea-titan-creature/packages/single-methane-creature-studies/images/translucent-vascular-closeup/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:pending individual review.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/methane-sea-titan-creature/packages/single-methane-creature-studies/images/translucent-vascular-closeup/meta.json) · GPT Image2 · 1024×1024 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/5d74f23ec6117c)

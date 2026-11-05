@@ -23,3 +23,5 @@
 - [Source archive 19](GPT-IMAGE-2-CHAOS-19.md) — 31 pairs
 
 [Complete provenance](data/chaos-source-gallery.json) · [Source license](sources/chaos-gpt-image-2/LICENSE).
+
+[All166 earlier exact pairs reconciled](data/chaos-existing166-archive-reconciliation-2026-11-06.json): their entire original prompts and unchanged native source images are already archived in historical batches. Each archived image matches the pinned upstream Git blob.
