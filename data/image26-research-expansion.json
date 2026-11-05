@@ -86,5 +86,41 @@
     "picontapLab/prompt-seen": "Examined source records: exact provider ID unavailable and runs predate release; not relabeled 2.6"
   },
   "xSearch": "Needs login; public original posts remain separately readable",
-  "newPairsNotInvented": true
+  "newPairsNotInvented": true,
+  "followup20261105": {
+    "checkedAt": "2026-11-05T13:09:55.254545+00:00",
+    "officialVariantsVerified": 15,
+    "newDistinctPromptsFromVariants": 0,
+    "sources": [
+      {
+        "url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts",
+        "actualPairs": 4,
+        "model": "GPT Image 2.6 Sunburst",
+        "status": "hold-explicit-reuse-scope",
+        "reason": "Full original prompts and still media identified; later animations are Seedance 2.5, not native 2.6 video. No explicit redistribution grant found."
+      },
+      {
+        "url": "https://ofox.ai/blog/gpt-image-2-6-gif-guide/",
+        "actualPairs": 1,
+        "model": "GPT Image 2.6 Flare",
+        "status": "hold-explicit-reuse-scope-and-native-animation",
+        "reason": "Native GIF and credential-free request verified in workflow ZIP. Included MIT license expressly belongs to the unrelated third-party cat artwork, not the Ofox bird prompt/GIF; do not inherit that grant."
+      },
+      {
+        "url": "https://sugarcube.art/zh/chatgpt-images-2-6/",
+        "status": "duplicate-official-examples",
+        "newDistinctPrompts": 0
+      },
+      {
+        "url": "https://github.com/openai/openai-cookbook/tree/86c505082d8eb19c36c98cff0c0ea6855583c905",
+        "status": "no-new-licensed-prompt-units",
+        "reason": "Latest model-prompting notebook still 65050 bytes; no 2.6-specific notebook found."
+      },
+      {
+        "url": "https://github.com/az9713/gpt-image-2.6-demo",
+        "status": "still-no-license",
+        "reason": "Current repository metadata still reports no license."
+      }
+    ]
+  }
 }
