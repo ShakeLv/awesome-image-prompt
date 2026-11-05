@@ -1,0 +1,14 @@
+Scene:
+A square macro still life of a folded parchment map opened halfway on a lacquered table, with a broken red wax seal, silk cord, and a brass compass nearby. Light comes from a low warm source, creating long shadows from folds, cord, compass rim, and wax fragments. The map surface is aged but still flat enough for the route topology to be inspected.
+
+Subject:
+Use the referenced hutong map topology as the underlying structure. The same irregular blocks, water shape, six-turn route, and destination location must appear as an explorer's route drawn in brown and vermilion ink. The folded paper may hide only blank margins; it must not hide the main lane network. The destination should be marked by a small X, and the original red marker position should be represented by the wax seal impression nearby without changing the route endpoint.
+
+Important details:
+This is a material and editing-workflow test: the modern map should become a tactile artifact while the route remains logically identical. Preserve relative spacing between alleys and landmarks, keep the central zigzag recognizable, and avoid inventing a new island coastline. Show raised wax, cracked seal edges, paper grain, fold stress, ink pooling at line intersections, and shadows that match the objects' height.
+
+Use case:
+Maps to Treasure Map series study 3/8, testing topology preservation in a wax-sealed treasure-route artifact.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no branded symbols, no readable labels on compass, no route segment removed by folds, no seal covering critical lanes, no modern map UI, no fantasy glowing ink, no incorrect destination placement.

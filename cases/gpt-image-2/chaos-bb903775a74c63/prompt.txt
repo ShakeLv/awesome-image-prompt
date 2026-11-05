@@ -1,0 +1,14 @@
+Scene:
+A square finale frame in the same visualizer universe, now fuller and brighter, with expanded waveform arcs, stronger edge light, and cinematic fog catching the light in broad diagonals. The frame should feel like the culminating loop of a lyric visualizer, but still obey the same composition system established by the reference.
+
+Subject:
+Preserve the same performer silhouette position, waveform logic, panel layout, and invented glyph-family from the reference image. The pseudo-lyric bands become denser and taller, surrounding the figure with a sense of emotional build while staying fully non-readable and visually controlled.
+
+Important details:
+This is a system stress test, not a permission to lose discipline. Keep the same grid behavior, same palette family, and same motion package identity while increasing intensity. The result should look like a real music visualizer frame family that could be cut into looped content, social snippets, and launch teasers with consistent ownership.
+
+Use case:
+Lyric Frames series study 4/9 for the Lyric Visualizer Frame Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the core frame grammar from the reference image; no readable subtitles, no software UI, no crowd silhouettes, no random lightning bolts, no cartoon effects

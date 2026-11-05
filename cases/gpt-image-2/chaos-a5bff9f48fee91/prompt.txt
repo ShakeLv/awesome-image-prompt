@@ -1,0 +1,14 @@
+Scene:
+Keep the identical square overhead product-shot setup, card scale, and tactile lighting from the reference board. The composition should read as the next approved module in the same math deck, with equal margins, matching paper finish, and the same calm classroom-commercial mood. Keep the square frame balanced, calm, and production-ready so the asset can serve gallery review, research comparison, and real educational delivery at the same time.
+
+Subject:
+Replace the counting focus with shape logic using circles, triangles, rectangles, hexagons, and composite forms sorted into clear comparison zones. Include blank label spaces, grouping trays, and visual cues for matching, rotating, and classifying without ever relying on text. The subject matter should feel intentionally selected for a coherent curriculum family rather than like a random decorative assortment.
+
+Important details:
+Preserve the same reference layout rules exactly, including border thickness, diagram density, spacing, and color-coding hierarchy. Variation should come from the logic tasks and silhouette contrasts, while the deck still feels manufacturable as one unified product family. Preserve the same card format, diagram density, block spacing, icon size, and color-coding hierarchy from the reference math board. Use variation only in the teaching content, supporting props, and scene-specific mood while preserving the core visual system exactly.
+
+Use case:
+Math Concept Visual Card Set series study 2/4, shape sorting cards.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable equations, no numerals, no logos, no abstract adult infographic styling, no clutter, no warped cards.

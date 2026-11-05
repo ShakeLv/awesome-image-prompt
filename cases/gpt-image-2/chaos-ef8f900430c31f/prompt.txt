@@ -1,0 +1,14 @@
+Scene:
+A square, centered composition that looks like a celestial chart transformed into a mandala, rendered on midnight-blue parchment with brass instrument precision. Lighting should be even and low-glare, like an archive photograph of a historical scientific artifact, so thin metal lines, star nodes, and circular engravings remain sharp all the way from center to border.
+
+Subject:
+A cosmological mandala where planetary orbits, astrolabe rings, zodiac-inspired divisions, eclipse arcs, and constellational dots resolve into one strict radial design. The central sun-like disk anchors several nested circles of orbital geometry, while fine brass tracery connects outer houses, angular measurement marks without numerals, and tiny starbursts. The design should feel halfway between sacred diagram and observatory instrument: intellectually exact, visually luxurious, and unmistakably circular in logic. Colors stay disciplined: midnight blue, antique brass, ivory, and restrained touches of crimson.
+
+Important details:
+The image must suggest real astronomical reasoning rather than fantasy decoration. Preserve ring hierarchy, measured spacing, and legible radial sectors. Constellation nodes and orbital paths should enhance the symmetry, not dissolve it. Fine engraved detail is welcome, but every line must serve the overall geometric order. The viewer should recognize a difficult fusion of scientific realism and meditative pattern, with enough authenticity to feel like a plausible historical object from an advanced celestial culture.
+
+Use case:
+Mandala Precision Geometry single study 5/8, testing whether astronomical instrument logic can become a coherent mandala without losing precision.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no sci-fi interface glow, no modern UI overlays, no random galaxy background, no human figures, no illegible labels, no broken circular tracks, no horoscope kitsch.

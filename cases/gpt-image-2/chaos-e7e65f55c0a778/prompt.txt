@@ -1,0 +1,14 @@
+Scene:
+A square fine-art product photograph of a frozen ocean wave sculpted from glazed porcelain, displayed on a simple ceramic plinth in a quiet white gallery. Soft daylight from above reveals glossy highlights, hairline cracks, and translucent thin crests. The camera is close enough to see glaze pooling and chipped edges.
+
+Subject:
+A curling ocean wave form, like a suspended breaker with foam, spray, and ridges, but every part is porcelain. The wave body is milky white with blue-gray celadon glaze in thicker valleys. Foam becomes clusters of tiny porcelain beads and lace-like glazed fragments. The crest is thin, brittle, and slightly translucent; a few chips and cracks expose matte ceramic underneath.
+
+Important details:
+The material behavior must contradict liquid motion while preserving wave anatomy. Porcelain should make the wave rigid, heavy, glossy, brittle, and fired, with glaze drips following gravity, pooled blue glaze in recesses, crazing cracks, and broken sharp rims. Keep the water shape recognizable through curl, lip, trough, and foam texture, but avoid real liquid transparency. Contact shadows on the plinth should make the ceramic weight believable.
+
+Use case:
+Material Swaps single study 5/8, testing whether dynamic water can be reinterpreted as brittle glazed porcelain.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real water splash, no plastic resin, no blue glass wave, no surfer, no beach scene, no fantasy glow, no flat decorative plate, no smooth featureless sculpture.

@@ -1,0 +1,14 @@
+Scene:
+A square outdoor tabletop photograph of an aged parchment trail map weighted by two river stones, shot in soft overcast mountain light. Pine needles, dust, and faint water spots sit around the paper edges. The map is viewed nearly overhead, with enough surface texture and curled corners to show it is a physical artifact rather than a flat graphic.
+
+Subject:
+Convert a modern GPS hiking route into a treasure-map version. Show a switchback trail climbing from a valley entrance, crossing a stream twice, passing three small campsite icons, and ending at a cave-like X marker near contour lines. The topology must be plausible for mountain terrain: switchbacks follow slope, stream crossings occur at narrow points, and the dotted route stays on the trail. Use antique ink, sepia contour rings, and sketched ridges instead of modern satellite or GPS styling.
+
+Important details:
+This image tests real-world route reasoning and material physics together. The viewer should understand the modern trail data has been translated into parchment without losing terrain logic. Include believable paper fibers, damp staining, ink feathering near water stains, pebble shadows, smudged fold marks, and small hand-drawn pine clusters. Keep the map readable as a navigable route while preserving old treasure-map atmosphere.
+
+Use case:
+Maps to Treasure Map single study 7/8, testing a mountain GPS route converted into a physically believable parchment trail treasure map.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no park service brand, no trail names, no elevation numbers, no route crossing cliffs unrealistically, no random pirate island, no missing stream crossings, no glossy laminated map.

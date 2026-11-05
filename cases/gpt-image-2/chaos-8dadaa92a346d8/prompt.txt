@@ -1,0 +1,14 @@
+Scene:
+A square dental procedure guide board for Medical Procedure Before-After Guide. Compose it as a structured before-and-after layout with prep tiles, timeline modules, and gentle oral-care diagrams. Use a palette of clean white, soft aqua, muted navy, peach skin tones, and gentle graphite, clear editorial lighting with medical-print cleanliness, and a mood of practical, transparent, and reassuring. The frame should feel like a real healthcare communication asset art-directed for professional delivery, not a stock photo, speculative concept render, or generic corporate template. Keep the camera distance, negative space, and depth cues disciplined so the image reads immediately even at thumbnail size.
+
+Subject:
+Center on a dental implant education surface showing consultation, imaging, procedure day, healing, and final functional outcome in a clean sequence. Show enough surrounding context that the viewer understands the intended service surface, user situation, and institutional setting. Every object, person, diagram, device crop, or spatial cue should support clarity, trust, and practical use. If people appear, keep them anonymous, natural, privacy-safe, and grounded in believable body language rather than promotional posing.
+
+Important details:
+Maintain procedure communication expressed through before-and-after framing, preparation objects, recovery stages, and careful risk-aware hierarchy without graphic intensity. Keep oral visuals simplified and non-graphic, with polished objects and calm clinic references supporting the story. Use abstract icon shapes, color blocks, chart bars, interface modules, or non-legible placeholder microcopy whenever information structure is needed, but never readable text. Materials, spacing, lighting, and hierarchy should feel production-ready and healthcare-specific. Avoid generic lifestyle filler, decorative noise, or design gestures that do not reinforce the communication goal.
+
+Use case:
+Procedure Guide single study 1/9 for a dental implant care guide.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no sensational before-and-after shock tactics, no cosmetic fantasy styling, no dense legal-text feel, no graphic closeups, no exaggerated smile-ad aesthetics.

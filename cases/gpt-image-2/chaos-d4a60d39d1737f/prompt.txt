@@ -1,0 +1,14 @@
+Scene:
+A square interior image held in patient stillness, with rain sliding down window glass, damp wood, muted blue-gray daylight, and one warm pool of lamplight or stove light inside. The room should feel inhabited but quiet, with time stretched by weather and silence rather than by spectacle. Set the scene in an attic room with sloped ceiling, one trunk, and a narrow rain-streaked window carrying pale gray light over rough boards.
+
+Subject:
+Use one seated or standing figure, sometimes accompanied by a sleeping animal or simple domestic object, positioned so the window and the room share emotional weight. The human presence should be understated, contemplative, and integrated into the architecture. A figure kneels beside the trunk without opening it, absorbed in memory or hesitation rather than action.
+
+Important details:
+The grammar depends on slow observation: wet glass, old timber, worn textiles, steam, puddled boots, enamel basins, and practical light. Preserve physical realism and spiritual quiet without turning the scene into fantasy, melodrama, or rustic cliche. Keep the room spare and tactile, with the tension held inside posture, weather, and withheld motion.
+
+Use case:
+Long Gaze Through Rain Interior single study 8/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no obvious luxury styling, no dramatic storm destruction, no modern electronics dominating the room, no theatrical color grading, no broken anatomy, no low-detail background, no accidental text fragments.

@@ -1,0 +1,14 @@
+Scene:
+A square tunnel environment formed by parallel light bars disappearing into smoke, with a static central camera and a strong sense of depth. The scene should feel like a music-video visualizer environment translated into a single clear promo frame.
+
+Subject:
+The subject is the tunnel itself plus a minimal performer silhouette deep in the center, surrounded by floating bands of invented glyph marks and faint waveform scaffolds. The image should suggest lyric pacing and song structure through repetition, distance, and glow rather than literal subtitles.
+
+Important details:
+Use the tunnel geometry to organize the frame, keeping the pseudo-typography secondary but integral. Light should sculpt the smoke, the glyph bands should sit in believable planes, and the whole image should feel ready for looped motion adaptation. It must be emotionally musical, not sci-fi wallpaper.
+
+Use case:
+Lyric Frames single study 6/9 for the Lyric Visualizer Frame Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable words, no visible stage audience, no spaceship cues, no hard lens distortions, no random multicolor noise

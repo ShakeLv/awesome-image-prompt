@@ -1,0 +1,14 @@
+Scene:
+A square macro product photograph on a charcoal velvet surface, lit with narrow studio strip lights that create sharp reflections and caustic glints. A single rose lies diagonally across the frame, but the entire flower is made from transparent blown glass. The background stays dark and quiet so the optical material behavior is easy to inspect.
+
+Subject:
+A delicate rose with curled petals, sepals, thorny stem, and two leaves, all formed from thin clear glass with faint pink and green tint only in the thickest areas. The petals have variable thickness, polished rims, trapped microbubbles, hairline stress marks, and subtle distortions where one petal overlaps another. The stem is cylindrical glass with tiny sharp thorns that catch bright highlights.
+
+Important details:
+The rose must not read as a normal flower covered in shine. Glass should define the object: refraction, internal reflection, transparent overlaps, caustic spots on velvet, brittle thin edges, slight optical magnification, and green-pink tint caused by thickness. Keep the botanical structure recognizable and elegant, but include a few tiny chips at petal tips to sell fragility. Shadows should be complex and transparent rather than opaque floral shadows.
+
+Use case:
+Material Swaps single study 2/8, testing transparent glass optics applied to an organic rose form.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no plastic flower, no wet real petals, no neon glow, no gemstone rose, no metal stem, no extra bouquet, no impossible soft glass bending, no decorative label card.

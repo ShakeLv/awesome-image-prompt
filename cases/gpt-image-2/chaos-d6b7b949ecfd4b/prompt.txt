@@ -1,0 +1,14 @@
+Scene:
+A square studio still life of a bonsai tree on a simple concrete table, photographed with soft side lighting and a neutral olive-gray background. The bonsai sits in a shallow matte pot filled with dark gravel. The tree form is elegant and traditional, but every trunk, branch, and leaf is made from flexible black rubber.
+
+Subject:
+A miniature bonsai with twisting trunk, exposed roots, branching canopy pads, and hundreds of small leaves, all formed from matte and semi-gloss rubber. The trunk bends under its own elastic memory, with molded seam lines, stretched glossy highlights on curves, and fine rubber nubs where bark texture would be. Leaves are thin rubber tabs with curled edges, slight sag, and dust adhering to their surfaces.
+
+Important details:
+Do not treat rubber as simply black paint. Rubber physics should be visible: flexible deformation, rounded compressed roots, elastic tension in bent branches, soft non-brittle edges, scuffed matte areas, oily highlights, molded texture, and slight rebound shape. The bonsai silhouette must remain recognizable and sculptural, with the material making it strange but believable. Contact with gravel should show soft compression and small pebbles pressing into rubber roots.
+
+Use case:
+Material Swaps single study 7/8, testing elastic rubber material behavior applied to a natural bonsai form.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real leaves, no plastic plant shine, no metal wire sculpture, no cartoon tree, no bright colors, no human hands, no garden signage, no broken anatomy of the bonsai structure.

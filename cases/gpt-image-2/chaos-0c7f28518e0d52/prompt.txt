@@ -1,0 +1,14 @@
+Scene:
+Compose a square menu-design mockup that combines printed surfaces, structured page hierarchy, and appetizing food photography into one coherent brand-authored system. The page layouts should feel intentional and premium, with strong margins, modular blocks, and realistic print or board materials even though all textual zones remain unreadable. Use a bright counter scene with one tri-fold menu standing partly open near packaged food and one drink, all framed in a disciplined square crop.
+
+Subject:
+The menu should communicate category structure, hero dish placement, and brand tone through composition, image framing, typographic blocks, and page rhythm rather than through readable copy. Food imagery must stay believable and publication-ready. Balance takeaway practicality with brand polish, using unreadable category blocks and food photography to imply a coherent quick-service menu.
+
+Important details:
+This topic tests layout reasoning as much as food styling. Preserve clean grids, realistic paper behavior, credible shadows, and strong focal hierarchy between cover, spreads, dish photos, and placeholder text zones. Text-like marks can exist only as abstract or unreadable forms; clarity must come from design structure. This image should feel fully self-contained while still belonging to the same broader topic and commercial world. Make the fold mechanics, paper behavior, and food-photo integration feel credible so the piece works as a real retail support surface.
+
+Use case:
+Menu System single study 7/9, built for Prompt Atlas coverage of a food and beverage commercial visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no fake menu prices, no warped paper errors, no amateur flyer clutter, no chaotic collage, no obvious software UI chrome, no readable combo text, no price stickers, no disposable clutter overload.

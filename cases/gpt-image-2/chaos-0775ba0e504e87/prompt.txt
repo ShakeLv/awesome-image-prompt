@@ -1,0 +1,14 @@
+Scene:
+A square visualizer frame set in the same indigo stage world, now crossed by diagonal rain streaks, brighter waveform flares, and a stronger sense of rhythmic impact. The composition should remain recognizably derived from the reference frame, keeping the same panel structure and silhouette scale while adding a more emotional chorus energy.
+
+Subject:
+Preserve the same performer silhouette placement, waveform geometry, panel spacing, and invented glyph density from the reference image. The performer appears mid-breath and slightly lifted by backlight haze, while the lyric bars intensify into layered glowing stacks that still remain completely non-readable.
+
+Important details:
+The purpose is to show how one lyric-visualizer system scales into a chorus frame without losing design control. Keep the same core palette and grid logic, but let rain, flare, and echoing wave lines raise the emotional temperature. The visual rhythm of the pseudo-letterforms must stay coherent with the reference, as if part of the same motion package and song campaign.
+
+Use case:
+Lyric Frames series study 2/9 for the Lyric Visualizer Frame Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the core frame grammar from the reference image; no legible words, no interface timeline, no crowd hands, no harsh daylight, no chaotic particle overload

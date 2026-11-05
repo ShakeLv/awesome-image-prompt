@@ -1,0 +1,14 @@
+Scene:
+A square luxury brand-story page still for a high-jewelry maison, arranged like a chaptered editorial website. The palette is pearl white, champagne beige, pale gold, and charcoal shadow, with crisp but gentle studio lighting. The frame should suggest a hero chapter at top, an atelier process chapter in the middle, and a refined collection overview near the bottom, all held together by calm negative space and elegant alignment.
+
+Subject:
+Feature a striking necklace or cuff set with luminous stones and fine metalwork, rendered as the hero object on a minimal background. Build the surrounding web-page narrative with abstract headline bars, atelier-detail modules, gemstone macro crops, and chapter bands that imply hand-setting, polishing, and collection curation without readable text. Include one cropped close-up of clasp or prong details and one narrow supporting panel suggesting an artisan workbench through tools, velvet surface, and reflected metal, while keeping the jewel piece as the visual anchor.
+
+Important details:
+The page must communicate high-jewelry prestige and craftsmanship, not bridal catalog commerce. Stone facets, metal polish, pavé texture, and precise settings should feel credible and expensive. The layout rhythm should move from spectacle to craft to collection logic in a refined, editorial way. Use clean chapter breaks, quiet contrast, and exact spacing so the image feels like a real luxury website concept rather than a collage.
+
+Use case:
+Luxury Brand Story Page single study 2/9, testing jewelry craft storytelling with atelier detail and luxury editorial web pacing.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no model portrait, no wedding cliché styling, no floating glitter storm, no crowded gemstone pile, no malformed stone settings.

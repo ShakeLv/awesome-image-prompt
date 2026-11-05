@@ -1,0 +1,14 @@
+Scene:
+A square overhead photograph of an aged parchment treasure map laid on a dark wooden table, lit by warm candlelike side light. The paper has curled corners, uneven fiber, translucent stains, and slightly torn edges. Keep the camera flat enough that the map geometry remains readable while showing real shadows under the raised paper edges.
+
+Subject:
+Transform the referenced modern hutong topology into a fifteenth-century parchment chart. Preserve the same lane network, six-turn route, destination position, water shape, and landmark icon spacing from image 01, but redraw them as sepia ink paths, dotted trail marks, tiny illustrated gates, and an X-shaped destination marker. Add a hand-drawn wind rose, a few sea-monster-style marginal illustrations, and a red wax seal outside the main route area without covering the topology.
+
+Important details:
+The challenge is data-format conversion: the image must feel antique while retaining the modern road network structure. Streets should become hand-inked lanes, the blue route should become a dotted brown expedition trail, and the red marker should become a clear treasure X in the same relative place. Material physics matter: parchment translucency, ink bleed, wax height, shadow direction, and worn fold lines should be believable.
+
+Use case:
+Maps to Treasure Map series study 2/8, testing preservation of modern hutong topology after conversion into a parchment treasure chart.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no branded map UI, no random pirate island shape replacing the hutong network, no route turns removed, no wax seal covering the destination, no glossy modern paper, no printed street labels.

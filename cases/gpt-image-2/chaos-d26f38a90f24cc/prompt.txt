@@ -1,0 +1,14 @@
+Scene:
+A square lyric-visualizer still in the same visual world, now dimmer and more intimate, with fewer waveform arcs, softer haze, and a calmer atmosphere as if the song has entered a reflective bridge. The frame must remain structurally tied to the reference rather than inventing a new system.
+
+Subject:
+Preserve the same performer silhouette scale, panel placement, wave curvature, and non-readable glyph language from the reference image. The performer appears more isolated within the frame, while only a few lyric bars and faint motion echoes remain visible, creating a sense of breath and restraint.
+
+Important details:
+This image should demonstrate dynamic range inside one lyric-visualizer package. Keep the same indigo-silver world, the same disciplined empty zones, and the same non-verbal text rhythm, but reduce density and brightness so the frame feels introspective. The key success factor is continuity: it must clearly belong to the same song system even when the energy drops.
+
+Use case:
+Lyric Frames series study 3/9 for the Lyric Visualizer Frame Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the core frame grammar from the reference image; no readable lyrics, no black void emptiness, no unrelated props, no photo-real audience, no oversaturated color swirls

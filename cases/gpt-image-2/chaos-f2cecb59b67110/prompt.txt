@@ -1,0 +1,14 @@
+Scene:
+A square luxury skincare brand-story page still, designed as a calm chapter from a prestige beauty website. The frame uses porcelain white, pale sand, soft taupe, and very restrained metallic accents, with luminous clean lighting that feels spa-like but high fashion. The composition should suggest a hero chapter at top, ritual and ingredient chapters in the middle, and a collection overview band below, all maintained through precise spacing and quiet editorial structure.
+
+Subject:
+Center a porcelain-like skincare jar and serum bottle with refined caps, thick glass or ceramic walls, and minimal sculptural form. Surround them with a believable brand-story page made of abstract headline bars, ritual-step cards, material close-up panels, and collection strips that imply formulation care and sensorial luxury without readable text. Include one macro crop of the jar lid edge or serum dropper detail, and one supporting panel with stone, folded towel, or water reflection arranged as a tactile atmosphere image. Keep the products dominant and serene.
+
+Important details:
+The page should feel like a luxury beauty maison rather than mainstream cosmetics marketing. Surfaces must be immaculate, creamy, and materially believable, while the layout must preserve chapter rhythm from hero object to ritual story to close-up detail to collection framing. Avoid busy ingredient collage language. Use silence, soft contrast, and premium spacing so the whole page feels elevated, restrained, and therapeutic.
+
+Use case:
+Luxury Brand Story Page single study 8/9, testing prestige skincare storytelling with ritual pacing, tactile beauty materials, and calm chaptered web layout.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no smiling model face, no medical infographic style, no floating fruit slices, no discount-beauty clutter, no distorted jars or droppers.

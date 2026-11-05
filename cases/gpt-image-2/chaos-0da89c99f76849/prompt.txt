@@ -1,0 +1,14 @@
+Scene:
+A square photoreal studio museum shot of a miniature imperial palace gate carved entirely from butter, placed on a chilled black stone plinth under soft overhead light. The camera is slightly low and close, so the gate feels monumental despite its tabletop scale. Cool condensation hangs near the base, and the background is a dark neutral gallery wall.
+
+Subject:
+The subject is a recognizable ornate palace gate form with layered roofs, bracket sets, columns, stair edges, ridge ornaments, and carved panels, but every part is made from pale yellow butter. The roof corners sag slightly, thin decorative edges soften, and tiny knife marks, creamy ridges, and glossy melt highlights reveal the material. Small droplets collect where warm light touches sharp carvings.
+
+Important details:
+The swap must be physical, not just yellow architecture. Butter should control all behavior: softened corners, low structural stiffness, oily sheen, translucent thin edges, melt trails, fingerprints, and chilled support contact. Keep the architectural silhouette readable while showing that fine details are at the limit of what butter can hold. Lighting should reveal creamy subsurface scattering and soft contact shadows on the black plinth.
+
+Use case:
+Material Swaps single study 1/8, testing whether monumental architecture can remain recognizable while obeying butter material physics.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real landmark label, no plastic model look, no golden metal, no dry stone texture, no fantasy glow, no extra people, no food plate styling, no collapsed unreadable blob.

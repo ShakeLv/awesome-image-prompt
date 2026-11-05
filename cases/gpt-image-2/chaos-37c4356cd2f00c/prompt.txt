@@ -1,0 +1,14 @@
+Scene:
+A square, front-facing image on matte black vellum, lit with careful raking light so engraved grooves and gold inlay catch a restrained metallic sheen. The mood is formal and high contrast, almost archival, with the circular composition centered precisely and the surrounding black field acting as a silent void.
+
+Subject:
+An ultra-precise engraved mandala built from nested rings of filigree lines, tiny repeating triangles, optical rosettes, interlocked circles, and micro-etched bead borders. The dominant materials are black ground and warm gold, with perhaps a trace of ivory for depth, but the visual richness must come from line density rather than color variety. The center should feel like a luminous core, while the outer zones step through increasingly complex radial subdivisions that reward close inspection. Every spoke, ring, and mirrored wedge should lock into a mathematically convincing whole.
+
+Important details:
+This image is about refinement and visual authority. Preserve razor-sharp radial symmetry, extremely controlled spacing, and believable engraved texture. The gold should not become glitter or fantasy light; it should read as physically etched and inlaid metal catching real illumination. Maintain hierarchy so the viewer can parse center, intermediate bands, and outer perimeter even at very high detail density. The result should feel luxurious, disciplined, and immediately recognizable as a difficult precision object rather than generic ornament.
+
+Use case:
+Mandala Precision Geometry single study 7/8, testing whether black-and-gold engraving can sustain optical density without losing geometric clarity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no neon glow, no gemstones, no fantasy emblem, no blurred metallic haze, no off-center disk, no chaotic baroque clutter, no embossed frame around the artwork.

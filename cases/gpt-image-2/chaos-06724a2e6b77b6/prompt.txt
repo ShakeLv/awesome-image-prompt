@@ -1,0 +1,14 @@
+Scene:
+A square luxury brand-story page still for a heritage fountain pen launch, laid out like a chapter on a writing-instrument maison website. The palette is deep black, ivory paper, aged brass, and dark lacquer, with directional light that reveals gloss, engraving depth, and polished metal trim. The page should suggest a hero section above chapters about nib craft, material finishing, and lineage, arranged in a refined editorial cadence.
+
+Subject:
+Feature a luxury fountain pen as the hero object, slightly angled to show barrel finish, cap banding, clip design, and nib silhouette. Around it, design a believable brand-story page using abstract title bars, nib-detail modules, craftsmanship panels, and chapter bands suggesting heritage, finishing, and writing ritual without readable copy. Include one macro crop of the nib and feed, plus one supporting module with folded stationery, lacquer reflections, or polishing tools arranged as a quiet still life. Keep the pen central and dignified.
+
+Important details:
+The page must convey heritage luxury, not office-supply retail. Materials such as lacquer, resin, metal trim, and engraved nib detail should feel plausible and exact. The hierarchy should guide the eye from hero object to nib intimacy to making story to archival aura. Use generous whitespace, deliberate chapter breaks, and a sense of quiet prestige. The image should feel like a collector's launch page for connoisseurs.
+
+Use case:
+Luxury Brand Story Page single study 7/9, testing heritage writing-instrument storytelling with nib detail, material finish, and collector-grade web composition.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no handwritten copy, no ink splatter chaos, no school-supply look, no crowded desk clutter, no distorted pen proportions or nib anatomy.

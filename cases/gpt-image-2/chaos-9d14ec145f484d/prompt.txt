@@ -1,0 +1,14 @@
+Scene:
+Create a square 1:1 portrait image for Luxury Beauty Close-Up Editorial. Use a fashion-beauty frame with crisp eyes, precise cosmetic edges, and a strong but uncluttered composition. The frame should feel like a finished professional deliverable rather than a casual snapshot, with clear lens discipline, believable light falloff, and a palette that directly supports Create high-end beauty close-up editorials with realistic skin, precise makeup textures, controlled catchlights, and premium magazine polish.. Keep enough surrounding space and compositional control for gallery, research, campaign, or approval-board reuse while staying photoreal and human-scaled.
+
+Subject:
+Center one beauty model with warm neutral skin, glossy dark hair, balanced features, refined hands, and pores that remain realistic at close range. Apply bolder eye design while preserving the same age read, face proportions, and hair base from image 01. Use the example direction from the brief as grounding context: Create high-end beauty close-up editorials with realistic skin, precise makeup textures, controlled catchlights, and premium magazine polish.. Wardrobe, lighting, environment, and pose may shift to serve this variation, but the viewer must immediately understand that the same reference identity is still in front of the camera.
+
+Important details:
+This backlog line is difficult because Create high-end beauty close-up editorials with realistic skin, precise makeup textures, controlled catchlights, and premium magazine polish.. Preserve skin tone family, bone structure, eye spacing, nose shape, mouth shape, hairline logic, shoulder width, and overall body read across the entire series. preserve exact face / hair base / body proportions from the reference model. The makeup must feel expertly applied and close-range believable rather than painted-on illustration. Avoid the common failure described in the brief: ordinary image models often lose likeness once styling, lighting, or layout changes enter the frame. Success should feel like the result should feel professionally usable, coherent, and clearly built around one stable human identity.
+
+Use case:
+Luxury Beauty Close-Up Editorial series study 3/9, a graphic-liner makeup portrait.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no asymmetric eye shape drift, no clown color palette, no changed brow bone, no extra faces.

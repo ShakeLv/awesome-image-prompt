@@ -1,0 +1,14 @@
+Scene:
+A square cinematic interior photograph of an ornate reading chair in a quiet old library, but the entire chair is made from dark red sealing wax. Warm lamplight falls from one side, causing slight softening near the arms, while the background bookshelves remain blurred and contain no readable spines. The chair sits on a polished wooden floor with a heavy shadow.
+
+Subject:
+A high-backed tufted library chair with rolled arms, carved legs, nailhead-like details, cushion seams, and button depressions, all formed from glossy red wax. The seat has subtle sag, the arms show softened finger-like ridges, and carved leg details droop at the warmest points. Small cooled wax drips hang below the upholstery seams, and a few cracks reveal darker wax inside.
+
+Important details:
+The chair should remain usable-looking but visibly unstable under heat and weight. Wax must define the physics: glossy highlights, translucent thick edges, softened relief, slow drips, sagging cushions, fingerprints, cooled ripples, and brittle cracks in colder thin areas. Keep the library mood grounded and photoreal, with accurate contact shadows and reflections on the wood floor. Do not make the object look like red leather or polished plastic.
+
+Use case:
+Material Swaps single study 6/8, testing wax material behavior on an upholstered furniture form.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable book titles, no leather chair, no plastic toy, no open flame, no human figure, no melted puddle replacing the chair, no fantasy castle decor, no brand embossing.

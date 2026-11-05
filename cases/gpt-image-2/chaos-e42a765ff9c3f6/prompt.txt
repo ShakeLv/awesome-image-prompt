@@ -1,0 +1,14 @@
+Scene:
+A square museum-style object photograph of a Gothic cathedral model made from ivory lace, suspended just above a dark slate base so its shadow reveals the openwork structure. The lighting is cool and directional, grazing across towers, arches, and lace threads. The background is deep gray with a slight vignette, keeping attention on the fragile architecture.
+
+Subject:
+A cathedral with twin spires, pointed arches, rose window, flying buttresses, ribbed nave roof, and carved doorway forms, all constructed from layered lace. The walls are open mesh, the windows are floral lace medallions, and buttresses are stiffened thread bands. Some towers curve slightly under tension, and tiny stitched knots replace stone details. The lace is off-white, with subtle translucency and thread shadows.
+
+Important details:
+The building must obey lace physics: tensile thread networks, delicate negative space, flexible edges, pinned or stiffened load-bearing lines, and soft sag between structural points. Keep Gothic silhouette readable without making it solid stone. Light should pass through lace holes and cast patterned shadows on the base. The material should feel handmade, with varied thread thickness, knots, uneven tension, and slight fraying at selected edges.
+
+Use case:
+Material Swaps single study 4/8, testing lace as a structural architectural material with believable translucency and tension.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no solid marble cathedral, no paper cutout, no wedding dress scene, no people, no stained glass colors, no fantasy glow, no perfectly rigid lace, no broken unreadable silhouette.

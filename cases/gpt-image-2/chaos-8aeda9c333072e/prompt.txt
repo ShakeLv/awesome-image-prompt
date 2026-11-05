@@ -1,0 +1,14 @@
+Scene:
+A square luxury leather-goods brand-story page still, arranged like a chapter on a fashion maison website. The frame uses warm tan, oxblood, walnut brown, and cream highlights, with soft directional light grazing across surfaces to reveal grain and edge paint. The page should feel like a hero campaign image above a sequence of material, workshop, and styling chapters contained within one elegant square composition.
+
+Subject:
+Feature a structured leather bag with rich grain, sharp silhouette, polished hardware, and carefully finished handles. Around it, build a chaptered webpage from abstract title bars, material swatch-style panels, stitching close-up modules, and lifestyle framing bands that imply the bag's origin story and craftsmanship without readable text. Include one macro crop of edge painting and stitch lines, and one supporting panel with leather hides, tools, or folded dust-cover fabric arranged like a fashion still life. The bag remains the central object.
+
+Important details:
+The design should express leather craft and maison heritage, not trend-led ecommerce. The bag proportions, leather thickness, stitching, and hardware finish must feel luxurious and manufacturable. Structure the page so the eye moves from hero silhouette to material story to making detail to collection framing. Use quiet chapter rhythm, generous spacing, and rich tactile realism to achieve luxury credibility.
+
+Use case:
+Luxury Brand Story Page single study 4/9, testing leather-goods storytelling with tactile craft detail and chaptered fashion-web structure.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no browser chrome, no model carrying the bag, no shopping-cart UI, no trend collage clutter, no cheap plastic sheen, no distorted straps or hardware.

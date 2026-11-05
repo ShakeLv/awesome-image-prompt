@@ -1,0 +1,14 @@
+Scene:
+A square architectural photograph taken from directly above, showing an inlaid stone floor rose at the center of a historic courtyard. Light is soft and diffuse so marble color, carved joints, and tiny tessera edges remain visible without dramatic shadow. The camera is perfectly aligned to the floor plane, making the composition read like both a real space and a strict geometric diagram.
+
+Subject:
+A monumental floor mandala inspired by sacred architecture: concentric stone rings, petal rosettes, interlocking polygons, dark and pale marble wedges, and carefully repeated inlay lines radiating from a central medallion. The design should feel plausible as part of a temple, palace, or contemplative hall, with rich material evidence such as worn stone polish, slight carving depth, and meticulously fitted joints. Even with architectural realism, the main force of the image must remain the circular system itself and the precision with which every ring, spoke, and petal repeats.
+
+Important details:
+Maintain direct overhead symmetry and a perfectly centered circle. Architectural context should be minimal and supportive, perhaps only a hint of surrounding stone border, because the floor rose is the subject. The image must balance world knowledge, construction realism, and optical order: the viewer should believe this could be built, while also feeling the mesmerizing pull of flawless radial repetition. Keep material variation subtle so geometry stays dominant.
+
+Use case:
+Mandala Precision Geometry single study 8/8, testing whether monumental architectural inlay can preserve meditative mandala order at full built scale.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no oblique camera angle, no people walking through frame, no furniture, no cracked missing tiles, no excessive shadow bands, no modern signage, no fountain or statue interrupting the center.

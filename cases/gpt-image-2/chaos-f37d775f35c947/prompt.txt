@@ -1,0 +1,14 @@
+Scene:
+A square abstract painting presented frontally as if photographed from a modern art archive, with flat even lighting that preserves paper grain, brush drag, and crisp ink lines. The image should feel like a complete radial composition rather than a poster, with a pale warm ground and highly controlled color intervals around a central circular anchor.
+
+Subject:
+A Kandinsky inspired geometry mandala composed of concentric circles, arcs, black structural lines, small triangles, checker accents, floating dots, color wedges, and balanced asymmetries that still resolve into a stable wheel. The central disk should hold the composition while surrounding sectors introduce reds, cobalt, mustard, ivory, black, and muted teal. Although the design borrows from early twentieth-century abstract painting, it must still read as a mandala: a centered, radiating order where each segment echoes across the circle and every opposing quadrant feels intentionally counterweighted.
+
+Important details:
+The challenge is disciplined abstraction, not chaos. Preserve exact circular centering, visible ring structure, and deliberate relationships between geometric fragments. Brush textures may remain human and slightly imperfect, but the radial logic must be undeniable. Balance dense graphic zones against open breathing space so the image remains elegant from far away and rewarding up close. The abstract shapes should suggest music, motion, and thought without breaking the mandala framework.
+
+Use case:
+Mandala Precision Geometry single study 3/8, testing whether modern abstract language can still obey mandala-like radial precision.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no random splatter field, no collage scraps, no off-center composition, no photorealistic objects, no human figure, no frame, no typography, no muddy color blending.

@@ -1,0 +1,12 @@
+# Home Practice Box
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/math-concept-visual-card-set/packages/single-support-studies/images/03-home-practice-box/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/994040c0e7513f78a424957193b6fdf9215175c287f62e3c65335f8e62a6d7af.webp)
+- SHA-256:994040c0e7513f78a424957193b6fdf9215175c287f62e3c65335f8e62a6d7af
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

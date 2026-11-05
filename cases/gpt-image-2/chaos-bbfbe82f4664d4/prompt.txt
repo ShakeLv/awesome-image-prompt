@@ -1,0 +1,14 @@
+Scene:
+A square beauty image with controlled skin rendering, editorial lighting, and a clear makeup or styling thesis. Build the frame around sharp graphic shape work balanced against believable skin and lashes. Keep the lighting, camera distance, and spatial organization tuned for a high-signal research image rather than a casual snapshot. The image belongs to the Makeup Stage Evolution theme and should feel immediately legible as a prompt atlas theme for makeup stage evolution, testing structured-layout, photorealism, style-transfer, commercial-mockup with gpt image 2..
+
+Subject:
+Center the study on sharp graphic shape work balanced against believable skin and lashes. Translate the theme into a concrete visual statement instead of an abstract mood board: the viewer should understand what kind of image this is, what is being tested, and why the composition is difficult. Use the slug idea of makeup stage evolution as a literal guide for subject matter, materials, and staging. If helpful, borrow the broad visual cues suggested by iPhone, but keep the result original and specific to this study.
+
+Important details:
+The image should show real cosmetic logic through pigment placement, texture transitions, finish control, and believable facial structure instead of random color on skin. Preserve a disciplined square composition, clear focal hierarchy, and enough secondary information to make the image feel complete rather than underspecified. The image should look polished, novel, and exhibition-ready, with topic-specific credibility coming from the way surfaces, structure, and visual language reinforce Makeup Stage Evolution. Avoid generic filler elements that do not serve the main concept.
+
+Use case:
+Makeup Stage Evolution single study 6/8, testing structured-layout, photorealism, style-transfer, commercial-mockup through the graphic liner variation.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand logos, no runway watermark, no unreadable backstage signage, no cosmetic packaging front-and-center, no plastic skin, no generic glamour pose.

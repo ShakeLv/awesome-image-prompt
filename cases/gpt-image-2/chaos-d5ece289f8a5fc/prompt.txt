@@ -1,0 +1,14 @@
+Scene:
+A square music-visualizer still suspended between editorial poster and motion-graphics frame, with a dark indigo room, one backlit performer silhouette, fog-softened light beams, and gently curved waveform arcs crossing the composition. The image should feel like a frozen moment from a lyric loop, with room for rhythm, repetition, and future motion.
+
+Subject:
+The core subject is a standing performer silhouette centered within a disciplined frame system of luminous waveform lines, translucent panels, and stacked bands of invented glyph-like marks that suggest lyrics without becoming readable language. This first image must establish the exact composition grammar that later frames depend on: silhouette scale, glyph density, panel placement, and wave curvature.
+
+Important details:
+Treat the pseudo-typographic zones as visual rhythm rather than text. Use glowing bars, abstract marks, and staggered motion echoes that imply sung lines. The frame must look commercially plausible for a lyric visualizer or teaser loop, with clean hierarchy, cinematic atmosphere, and a coherent color world of indigo, silver, and soft rose. It should feel designed, not like a random VJ screen grab.
+
+Use case:
+Lyric Frames series study 1/9 for the Lyric Visualizer Frame Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable lyrics, no interface chrome, no concert crowd, no giant speaker stacks, no bright rainbow gradients, no literal subtitles

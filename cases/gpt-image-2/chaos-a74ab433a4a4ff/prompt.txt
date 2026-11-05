@@ -1,0 +1,14 @@
+Scene:
+A square survey-oriented image that explains spatial logic with the clarity of an expert field overview while still reading as a finished artwork. Use a stable elevated vantage, clean depth layering, and enough visible terrain or architecture to make relationships legible without turning the frame into a literal map. The scene should feel analytical and cinematic at the same time.
+
+Subject:
+Show an elevated overlook that reveals the pyramid, adjoining plaza, processional causeway, and jungle edge in one coherent survey image. Organize the composition so paths, terraces, walls, courtyards, chambers, canals, root systems, or quarry clusters can be read as a coherent system. The image should reveal how the civilization used land, water, elevation, enclosure, or monumentality. Keep all architecture, materials, and environmental details consistent with the correct place and period.
+
+Important details:
+Keep the architecture unmistakably Maya rather than generic fantasy ruins, with steep stepped geometry, roof-comb silhouettes, believable glyph blocks, and dense tropical vegetation that respects the stone volumes instead of swallowing them completely. This image should reward close looking by showing infrastructural logic: how stone courses align, how water moves, how rooms connect, how carved masses sit inside geology, or how vegetation interacts with built form. Avoid explicit annotation. Let composition, light, and scale cues do the explanatory work. Keep any measuring elements generic and unreadable, and make the image feel like serious research made visually elegant.
+
+Use case:
+Maya Temple Dawn Discovery single study 8/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no modern vehicles, no sci-fi glow, no fantasy monsters, no glass skyscrapers, no infographic arrows, no split-screen layout, no impossible aerial geometry, no unrelated settlements.
