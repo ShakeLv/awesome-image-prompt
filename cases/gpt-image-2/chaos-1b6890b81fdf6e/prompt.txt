@@ -1,0 +1,14 @@
+Scene:
+A square vaporwave museum diorama at night, lit by magenta neon from the left and cyan monitor glow from the right. The camera looks slightly upward from a low pedestal angle, making the scene feel monumental while still intimate. The background is a black void filled with soft palm silhouettes, gridded horizon lines, and faint analog video noise. Overall brightness should stay medium-high on the subject, with deep purples in the shadows.
+
+Subject:
+A classical white marble bust on a glossy black plinth, wrapped in projected CRT scanlines and fragmented RGB color separation. Around the bust are translucent chrome rings, floating reflective bubbles, and abstract glyph-like signage shapes that suggest vaporwave without becoming readable words. The marble surface contains carved pores, chipped edges, and cool veins; the scanline projection should curve across the nose, cheek, neck, and shoulders according to the bust geometry.
+
+Important details:
+The image must fuse old sculpture with digital nostalgia through physical light behavior. Scanlines should not be a uniform flat overlay; they must bend around the marble form, fade in shadow, and separate slightly into red, green, and blue fringes near high-contrast edges. Keep the bust dignified and recognizable as stone, not plastic. Use palm reflections and neon ambience as environmental clues.
+
+Use case:
+Y2K Vaporwave CRT single study 2/8, testing style transfer from classical sculpture into CRT-era vaporwave optics.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real museum labels, no cartoon bust, no random face distortion, no scanlines that ignore the surface geometry.

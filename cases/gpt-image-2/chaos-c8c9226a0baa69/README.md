@@ -1,0 +1,12 @@
+# Dawn Paper Silence
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/03-dawn-paper-silence/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/a4cf05de32ecb1181757fc4176a2d9e3cbceeb8c39e67a5e31b754256938bb96.webp)
+- SHA-256:a4cf05de32ecb1181757fc4176a2d9e3cbceeb8c39e67a5e31b754256938bb96
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

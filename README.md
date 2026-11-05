@@ -1,8 +1,10 @@
 # awesome-image-prompt
 
-**2,103 complete image/prompt pairs archived.** Original attribution, actual generation models, reference requirements and per-item provenance are retained.
+**5,734 complete source-bound image/prompt pairs archived.** Original attribution, actual generation models, reference requirements and per-item provenance are retained.
 
 [Remote archive verification](data/github-gallery-remote-acceptance-2026-11-06.json) compares1,427 new media/prompt Git blobs against the actual GitHub tree. This archive count is separate from ProjectD publication.
+
+[3,631 additional ChaosRealmsAI GPT Image2 source pairs](GPT-IMAGE-2-CHAOS.md) retain complete prompts, unchanged author-published renditions and source references. These3,631 pairs await individual ProjectD editorial review; they are not newly approved or published ProjectD entries.
 
 ## GPT Image 2.6 — current focus
 

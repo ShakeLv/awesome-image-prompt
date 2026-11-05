@@ -1,0 +1,14 @@
+Scene:
+A square editorial fashion photograph staged in a glossy cyber mall corridor, lit by alternating cyan and rose neon strips. The camera is slightly below eye level with a clean central composition, as if captured from a paused VHS fashion broadcast. The image is bright on the subject, darker at the corridor edges, with controlled horizontal scanlines, mild chromatic aberration, and a few frozen glitch slices that do not obscure the silhouette.
+
+Subject:
+A fictional model wearing a Y2K vaporwave outfit: iridescent silver jacket, translucent lavender visor, chrome bubble accessories, pearly platform shoes, and a semi-transparent vinyl bag containing abstract pastel objects. The person is anonymous and stylized, not resembling any real celebrity. Behind the model, mirrored panels reflect palm shapes, grid lighting, and CRT screens showing only nonreadable abstract colors. The clothing materials should look tactile, layered, and reflective.
+
+Important details:
+This image must preserve fashion readability under glitch effects. Keep the pose elegant, the garment construction plausible, and the iridescent fabric physically believable with folds, seams, wrinkles, and sharp rim highlights. Glitch bands should shift small horizontal slices of the image by a few pixels, creating RGB breakup while leaving anatomy intact. Avoid turning the outfit into generic sci-fi armor; it should remain recognizable as Y2K editorial fashion.
+
+Use case:
+Y2K Vaporwave CRT single study 7/8, testing fashion material realism under controlled CRT glitch styling.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real celebrity likeness, no brand marks, no distorted hands or face focus, no heavy glitch covering garment details.

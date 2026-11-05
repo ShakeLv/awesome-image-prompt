@@ -1,0 +1,20 @@
+{
+  "collectedAt": "2026-11-05T16:45:34.517661+00:00",
+  "sourceCommit": "5296db8c996e38776c83a0bc8c64f848dcd512b3",
+  "sourcePublishedDone": 3798,
+  "outcomes": {
+    "pending-native-media-and-individual-review": 3632,
+    "existing-exact-prompt": 166
+  },
+  "metadataErrors": [],
+  "sourceMediaNotYetDownloaded": 0,
+  "approvedNewPairs": 0,
+  "licenseEvidence": "Root MIT plus first-party public/llms.txt explicitly states content MIT and prompts reusable. Preserve per-case reference constraints; actual image bytes and individual review still pending.",
+  "status": "Local complete:3631 source-bound native image/full-prompt pairs; GitHub upload running in19 batches; zero new ProjectD approvals.",
+  "referenceDependentCount": 907,
+  "source": "https://github.com/ChaosRealmsAI/gpt-image-2-gallery",
+  "nativeMediaDownloaded": 3631,
+  "nativeGitBlobsVerified": 3631,
+  "sourceMetaGitBlobsVerified": 3631,
+  "nativeBytes": 1334451348
+}
