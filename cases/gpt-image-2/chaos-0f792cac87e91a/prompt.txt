@@ -1,0 +1,14 @@
+Scene:
+Create a square editorial food photograph built around a matte black ceramic plate resting on a charcoal surface, lit with a narrow overhead spotlight and a softer side fill that keeps the rim readable. The camera should sit between overhead and three-quarter view so the food has sculptural depth while the negative space still feels architectural. The surrounding darkness must stay controlled, velvety, and luxurious rather than flat or muddy. Hold the exact reference plate geometry, camera height, and negative-space balance, but let the lighting become slightly glossier so sugar, glaze, and cold cream textures catch more sparkle. The environment should remain otherwise identical, like the dessert course photographed at the same table under the same campaign setup.
+
+Subject:
+Build a tiny dessert orbit from a plum mousse quenelle, a thin chocolate arc, one halved roasted plum, and a restrained ring of vanilla cream. Scatter a few cocoa nibs and microscopic violet petals near the sauce path so the image keeps the same asymmetrical logic while clearly becoming dessert. The portion should feel refined, jewel-like, and tightly edited rather than playful.
+
+Important details:
+Treat every garnish as if it was placed with tweezers: micro herbs, tiny petals, translucent glaze, and faint steam must all feel physically credible. Keep the plate rim immaculate, the portion restrained, and the composition balanced so the dish reads as sculpture rather than comfort food. Luxury should come from precision, timing, and restraint instead of abundance. Preserve exact plate diameter, lens height, and empty-space discipline from the reference model while only shifting temperature, texture, and ingredient family. The fruit glaze should look taut and reflective, the cream should hold fine piping ridges, and the chocolate piece should cast a crisp believable shadow.
+
+Use case:
+Three-star plate art series study 4/9, concluding the anchor system with a tightly controlled dessert plate.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no rustic mess, no oversized portions, no cutlery, no napkins, no casual dining props, no accidental symmetry that kills the chef-made feel, no sugar dust everywhere, no oversized pastry elements, no cafe-style decoration.

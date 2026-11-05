@@ -1,0 +1,14 @@
+Scene:
+A square photoreal laboratory installation showing a diffusion model explaining its denoising process. The setting is a clean darkroom with soft overhead light, suspended glass plates, mist, and a long illuminated table. The camera faces the table at a shallow angle so a left-to-right sequence is visible in one frame.
+
+Subject:
+A sequence of eight transparent image plates evolves from pure granular noise on the far left into a crisp object silhouette on the far right. Between plates, luminous arrows and particle streams show progressive denoising steps. A central neural module made of layered translucent blocks predicts noise residuals as faint blue specks that peel away from each plate. Abstract timeline ticks and symbolic annotation markers sit below the plates without readable text. The model appears to be demonstrating how it gradually removes noise to reveal structure.
+
+Important details:
+The core logic must be unmistakable: noisy sample, repeated denoising, predicted noise removal, clearer intermediate states, final clean image. Avoid making the sequence look like simple photo editing; it should feel like a generative process with stochastic particles and controlled structure. Use disciplined spacing, consistent plate sizes, and material realism in glass, dust, light beams, and table reflections.
+
+Use case:
+Neural Network Self-Explanation single study 3/8, testing a diffusion denoising process as a photoreal sequence of glass plates and particle flows.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real equations, no code snippets, no brand UI, no private chain-of-thought, no chaotic smoke, no skipped denoising stages, no illegible plate order, no fantasy magic effects.

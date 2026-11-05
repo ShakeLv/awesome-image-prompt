@@ -1,0 +1,14 @@
+Scene:
+A square technical museum diagram of a brass astrolabe on dark blue archival paper, viewed orthographically with a precise exploded stack. Use warm brass highlights, faint engraved geometry, crisp radial construction lines, and small bilingual callouts. The image should feel like a conservation department plate for an astronomical instrument.
+
+Subject:
+Show the astrolabe separated along its central axis: base plate at the back, climate plate, rotating rete, rule, central pin, and hanging ring. Include only these readable bilingual labels: mater / 母盘, climate plate / 纬度盘, rete / 星盘, rule / 标尺, pin / 中轴, throne ring / 吊环. Each part should float in a shallow stack with clear alignment, so the viewer can understand how the layers rotate together.
+
+Important details:
+The diagram must balance scientific realism and museum clarity. Engraved lines can be present as fine non-readable radial marks, but no random paragraphs or invented star names. Brass should look aged, with scratches and darkened recesses. The exploded spacing should reveal the mechanism without losing the circular geometry. Labels should sit outside the disk with orderly leader lines.
+
+Use case:
+Museum Exploded View single study 7/8, testing a technical exploded view of a layered scientific instrument.
+
+Constraints:
+No readable text except the specified bilingual labels, no watermark, no logos, preserve exact 1:1 aspect ratio, no modern screws, no fake brand, no readable star catalog text, no warped circles, no chaotic leader lines.

@@ -1,0 +1,14 @@
+Scene:
+A square seamless studio with charcoal gradients, soft floor reflection, disciplined top light, and razor-clean premium contrast. Compose the frame as a square key visual with disciplined camera placement, premium lighting control, and believable real-world scale. The tonal range should feel polished and intentional, with enough atmosphere to create depth without obscuring form. Keep contrast calibrated for launch, catalog, or research presentation use rather than casual snapshot aesthetics.
+
+Subject:
+Center an original premium electric grand tourer with a long wheelbase, flush glazing, crisp shoulder line, turbine wheels, disciplined metallic paint, and an abstract brandless lamp signature. Make the subject feel original, production-aware, and clearly grounded in New Car Launch Key Visual System. For this series image, preserve exact core subject identity, proportions, base geometry, and material language from the reference image whenever continuity matters. The focal hierarchy should be immediate: primary form first, then material behavior, then supporting environmental cues that clarify use context and difficulty.
+
+Important details:
+Turn the same car into a master campaign plate with meticulous paint behavior, glass control, wheel clarity, and a polished sense of final approved artwork. Preserve the same exact vehicle silhouette, wheel design, greenhouse proportions, body-color family, and lamp signature across the series. Reflections must explain the surfacing cleanly. The images should feel like real launch-campaign assets rather than anonymous stock renders. Use believable materials, engineering logic, and professional composition discipline. Reflections, shadows, edge breaks, texture scale, interface density, and small physical joints must all support realism. Avoid filler props, vague mood-board clutter, or any element that weakens the sense of a purpose-built industrial or automotive image.
+
+Use case:
+Car Launch series study 4/9 for New Car Launch Key Visual System, built as image 04-presentation-master.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no crowd, no dealership clutter, no race decals, no readable plate, no badge lettering, no cheap showroom props.

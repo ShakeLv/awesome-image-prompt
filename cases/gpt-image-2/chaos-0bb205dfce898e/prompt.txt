@@ -1,0 +1,14 @@
+Scene:
+Show the approach of a hydrocarbon storm front over dark sea and shore, with the ridge creating a partial shelter in the foreground. The orange atmosphere should turn denser and more opaque toward the storm while remaining readable in the calmer foreground. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Depict the organism lowering its profile, sealing surface vents, and using terrain to reduce exposure. The scene should capture environmental strategy rather than fear or action spectacle. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the organism lives in hydrocarbon seas at extreme cold. Tissues, circulation, buoyancy, and sensory structures should reflect cryogenic chemistry, heavy haze, weak sunlight, and a shoreline shaped by methane waves and hydrocarbon sediment. Wind direction, wave texture, and body posture must align. This is a cold-weather survival image where geology and anatomy work together against a hostile atmospheric event. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Methane Sea Creature of Titan single study 7/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no hurricane disaster scene, no lightning hero pose, no Earth rainstorm look, no fire or sparks, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

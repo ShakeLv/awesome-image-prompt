@@ -1,0 +1,14 @@
+Scene:
+A square archival museum plate showing an ancient jade pendant as a delicate exploded assembly. The background is matte charcoal-green paper with a thin ivory border and warm side lighting that reveals translucency. Use fine technical leader lines, tiny alignment pins, and soft shadows so the floating parts feel physically separated but carefully documented.
+
+Subject:
+Show a carved jade pendant separated into craft components and surfaces: outer disc, central perforation, relief carving layer, drilled cord hole, polished edge bevel, and a small suspension cord sample. Include only these readable bilingual labels: jade disc / 玉璧, central aperture / 中孔, relief carving / 浮雕纹, cord hole / 穿孔, polished bevel / 抛光边, silk cord / 丝绳. The pendant should be pale celadon with cloudy inclusions and subtle worn edges.
+
+Important details:
+This object is not mechanically assembled like a machine, so the exploded view should explain craft layers, carving zones, and use-wear without inventing hinges or screws. Material realism matters: jade should show waxy luster, internal clouding, semi-translucent rims, and hand-polished softness. Keep the composition symmetrical and scholarly, with readable labels and no decorative clutter.
+
+Use case:
+Museum Exploded View single study 6/8, testing a non-mechanical artifact exploded diagram based on material and craft evidence.
+
+Constraints:
+No readable text except the specified bilingual labels, no watermark, no logos, preserve exact 1:1 aspect ratio, no metal hardware, no fantasy glow, no extra gemstones, no modern jewelry branding, no tangled cord covering labels.

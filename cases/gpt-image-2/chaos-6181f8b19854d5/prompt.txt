@@ -1,0 +1,14 @@
+Scene:
+A square commercial mockup showing six fictional vinyl album covers arranged in a precise 2 by 3 grid on a neutral studio wall. Each cover is a separate square sleeve with slight paper thickness, realistic print grain, and subtle shadows. The shared concept is Lunar Motel, a lonely roadside motel under a moonlit sky, reinterpreted across six music eras without any readable title text.
+
+Subject:
+Panel 1: 1960s folk, warm muted photograph of a motel sign silhouette, acoustic intimacy, dusty cream border. Panel 2: 1970s rock, high-contrast stage-like motel neon, grainy analog color, dramatic clouds. Panel 3: 1980s synthwave, magenta moon, cyan grid road, chrome motel geometry. Panel 4: 1990s grunge, scratched photocopy texture, desaturated motel room door, torn edges. Panel 5: 2000s emo, rain-streaked window, black-red palette, intimate bedroom framing. Panel 6: 2020s hyperpop, glossy surreal moon-motel collage, saturated candy colors, warped 3D reflections.
+
+Important details:
+All six covers must clearly share the same motel and moon motif while changing era-specific visual language, print process, palette, texture, and composition. Keep them as believable album sleeves, not posters or UI cards. Use cover-like margins, central imagery, and commercial mockup lighting. No actual band names, album titles, labels, stickers, or readable type; let the visual era cues carry the concept.
+
+Use case:
+Multi-Era Album Covers single study 1/8, testing six-era style transfer on one fictional album concept.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real artists, no record label marks, no famous album references, no duplicated panel, no random typography, no UI screenshots, no messy collage outside the six covers.

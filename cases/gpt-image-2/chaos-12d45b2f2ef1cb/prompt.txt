@@ -1,0 +1,14 @@
+Scene:
+A square high-end conference poster shown on a freestanding display easel in a bright atrium. The poster is a hybrid program schedule and venue map, printed on satin stock with crisp ink. Use a modern palette of black, white, cobalt, saffron, and pale gray. The camera is straight-on, with the atrium softly blurred behind the board.
+
+Subject:
+A global summit program map with a top title zone, a center radial venue diagram, four session tracks, and a bottom legend. The content is rendered across Chinese, Japanese, Korean, Arabic, Hindi Devanagari, Sanskrit Devanagari, Hebrew-style script, and Georgian-style script. Each session track has a distinct color and contains three short text blocks. The radial map labels rooms with script-specific markers and simple geometric icons.
+
+Important details:
+The image should prove that multi-script text can coexist with a complex information diagram. Keep the radial map clean, the track columns aligned, and the legend logically connected by color and icons. The non-Latin scripts must look intentionally typeset, not ornamental texture. Arabic and Hebrew-style zones should respect right-to-left alignment. Devanagari zones should maintain their horizontal headline. The overall poster should feel like a polished conference production file ready for printing.
+
+Use case:
+Multi-Script Poster single study 8/8, testing a conference program map with eight script families, diagram labels, and schedule hierarchy.
+
+Constraints:
+No readable text outside the specified multilingual summit program copy, no watermark, no logos, preserve exact 1:1 aspect ratio, no real event names, no sponsor marks, no Latin fallback captions, no fake QR codes, no tangled connector lines, no cropped legend, no scripts used as random texture.

@@ -1,0 +1,14 @@
+Scene:
+A square widescale desert image centered on a massive geometric object descending, hovering, or emerging against sand, dust, and low sun. The atmosphere should feel physically dense, with suspended grit, long shadows, and distant heat haze describing the air around the event. Frame two massive dark monoliths standing several hundred meters apart on a pale desert floor, their parallel presence creating a corridor of emptiness.
+
+Subject:
+The main subject is an immense ship, ring, slab, wedge, or monolith whose scale dwarfs all human observers. People should appear as tiny clustered witnesses in the foreground or along ridgelines, included only to prove size and emotional awe. A small group of robed observers walks between them, almost erased by the monumental gap.
+
+Important details:
+The signature is monumental restraint. Preserve simple geometry, huge negative space, believable dust behavior, and the quiet terror of proportion. Avoid flashy weapons, decorative alien ornament, bright science-fiction colors, or busy action hero staging. The emotional effect should come from the space between the forms and the silence of their surfaces.
+
+Use case:
+Monumental Desert Arrival single study 7/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no logos, no readable markings on the object, no laser beams, no explosion fireballs, no crowded military hardware, no broken anatomy, no low-detail background, no accidental text fragments.

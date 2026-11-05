@@ -1,0 +1,14 @@
+Scene:
+A square gallery mockup of six fictional album sleeves in a 2 by 3 grid, photographed straight-on with soft even lighting. The common concept is Desert Signal: a mysterious radio transmission crossing an empty desert at night. Each cover should look commercially plausible as a record sleeve from a different era, but none should contain readable text.
+
+Subject:
+The 1960s folk cover uses faded earth tones, a lone antenna beside an acoustic desert camp, and hand-developed photo warmth. The 1970s rock cover uses a low desert horizon, red sun, amplifier stacks, and heavy film grain. The 1980s synthwave cover uses purple dunes, neon waveform arcs, and geometric star grids. The 1990s grunge cover uses distressed xerox texture, broken radio parts, and muddy beige-black contrast. The 2000s emo cover uses a lonely payphone-like silhouette, blue night rain, and torn diary collage texture. The 2020s hyperpop cover uses glossy 3D sand, chrome antenna shards, and electric cyan-pink signal waves.
+
+Important details:
+Six panels must share antenna, desert, night sky, and signal-wave motifs while showing distinct decade design logic. Make era style apparent through color science, print texture, object styling, and composition, not text labels. Keep all covers aligned, equal size, and physically printed with sleeve shadows and paper grain.
+
+Use case:
+Multi-Era Album Covers single study 2/8, testing era-specific music visual language on the Desert Signal concept.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real album art, no famous musicians, no label stickers, no readable waveform labels, no sci-fi movie poster text, no random letters, no repeated identical cover.

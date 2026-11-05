@@ -1,0 +1,14 @@
+Scene:
+Create a square dependent campaign image in the same refined Mid-Autumn environment, with the exact warm evening light, midnight-blue depth, lacquer and brass accents, and circular moon cues from the reference image, but turn the frame toward a premium retail display. The scene should stay calm and luxurious while making the merchandising logic more visible and architectural.
+
+Subject:
+Feature a curated retail display with mooncake boxes, tea gifts, lantern-like light forms, display plinths, and circular framing elements arranged into a premium seasonal storefront composition. Preserve exact packaging identity, palette, and material logic from the reference model while changing the setting toward retail and presentation. Everything should feel original, elegant, and ready for upscale seasonal merchandising.
+
+Important details:
+Hold continuity tightly. The lantern cue should enrich atmosphere, not turn the image into generic festival décor. Keep packaging surfaces, metallic trim, ceramic elements, and ambient light highly believable. The final image should feel fit for luxury retail rollouts, boutique windows, and campaign key art under the same Mid-Autumn brand world.
+
+Use case:
+Mid-Autumn series study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no readable signage, no giant lantern theme-park spectacle, no mascot rabbit, no logo packaging, no crowd, no fireworks, no fantasy palace architecture.

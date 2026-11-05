@@ -1,0 +1,14 @@
+Scene:
+A square technical garage board on a dark drafting surface with evenly lit side profiles, rear and front silhouettes, and a few detail insets laid out in disciplined rows.
+
+Subject:
+The same vehicle family rendered as clear orthographic garage references, with side elevation, rear read, front symmetry view, and close insets for wheel housings, cockpit trim, and propulsion modules. The subject theme is a fictional garage fleet built around a premium rally hoverbike chassis with modular panels, suspension pods, and luminous trim.
+
+Important details:
+Prioritize side-profile clarity, class readability, and believable manufacturing seams. Use abstract callout lines, shape-based markers, material swatches, and soft drafting textures without any readable annotations. The board should feel suitable for an internal garage bible or patch explainer. Keep the whole image pure English and image-led, with no readable text anywhere.
+
+Use case:
+Garage Sheet single study 5/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no rider, no warped perspective, no cluttered collage, no random spare parts

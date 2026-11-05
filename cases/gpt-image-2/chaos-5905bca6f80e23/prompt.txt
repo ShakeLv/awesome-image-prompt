@@ -1,0 +1,14 @@
+Scene:
+A square artifact and material study arranged like a high-end conservation photograph. Use soft directional light, controlled shadow falloff, and a neutral work surface so every fragment reads clearly. The image should feel intimate and scientific, but still rich enough to communicate the broader civilization through craft, wear, and material vocabulary alone.
+
+Subject:
+Present sand-coated ceramic fragments, carved stone chips, bronze fittings, leather field tools, and small finds arranged against desert cloth. Arrange the pieces with disciplined spacing and believable conservation handling. Include enough variation in scale, finish, and damage state to suggest excavation reality rather than a perfectly staged luxury still life. Nothing should look modern or decorative for its own sake; every object must feel like evidence tied to the same cultural world as the main topic.
+
+Important details:
+Emphasize tactile surfaces, honest aging, and historically grounded material behavior. Keep the monument recognizably Petra, with faceted rock-cut massing, canyon compression, and carved architectural order that feels cut directly from stone rather than assembled from blocks. Show abrasion, dust, corrosion, cracks, mineral bloom, pigment retention, or edge polish where appropriate. Keep the arrangement orderly but not sterile, as if prepared for a serious cataloging session. No readable labels, no museum placards, and no visual shortcuts that turn the study into product photography detached from archaeology.
+
+Use case:
+Nabatean Petra Rediscovered single study 6/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no modern barriers, no souvenir stalls, no fantasy caravans, no electric lighting, no luxury advertising gloss, no floating objects, no velvet jewelry styling, no unrelated tools.

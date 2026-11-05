@@ -1,0 +1,14 @@
+Scene:
+A square behind-the-scenes still from an invented music-video set, with practical lights, equipment silhouettes kept soft, and one strong subject moment in the middle. The frame should feel polished enough for release-week promo, not casual production documentation.
+
+Subject:
+The subject is a musician on set surrounded by hints of production process: light stands blurred in the distance, reflective floor patches, and a half-built scene hook. The image should communicate access and momentum without exposing brand gear or turning into a technical making-of shot.
+
+Important details:
+Keep the set hints subtle and the composition clean. This should still feel like promo art first. Use cinematic light, one clear focal face or silhouette, and controlled modular zones where contextual information could live later without being rendered now.
+
+Use case:
+MV Promo Cards single study 6/9 for the Music Video Thumbnail and Promo Card Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable slate, no visible brand camera labels, no crowded crew, no platform UI, no messy backstage clutter

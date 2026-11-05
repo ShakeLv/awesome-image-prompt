@@ -1,0 +1,14 @@
+Scene:
+A square record-label pitch mockup with six fictional album covers placed on a pale tabletop in a precise 2 by 3 grid. The shared concept is Ocean Static: sea foam, radio noise, and distant signals. The physical sleeves should show slight paper warping, matte and glossy finishes, and soft contact shadows.
+
+Subject:
+1960s folk: quiet shoreline photo, washed-out blue, handmade melancholy. 1970s rock: crashing wave with amplifier-like black shapes, gritty high contrast. 1980s synthwave: neon ocean horizon, waveform grid, violet and cyan glow. 1990s grunge: distorted photocopy surf, scratched tape noise, gray-green decay. 2000s emo: close-up of headphones by a rainy window, ocean reflection, black navy palette. 2020s hyperpop: iridescent foam bubbles, liquid chrome waveforms, saturated digital distortion.
+
+Important details:
+Every panel must share ocean plus static motifs, but each should look native to its decade. Distinguish eras through image texture, palette, composition, sleeve finish, and graphic rhythm. Keep the six covers aligned and commercially plausible. Do not use readable text, band logos, real wave photographs recognizable from known covers, or labels. The 2020s panel may be surreal, but it must still read as an album sleeve.
+
+Use case:
+Multi-Era Album Covers single study 7/8, testing music-era style transfer with sea and signal-noise motifs.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real artist references, no label stickers, no readable waveform numbers, no famous cover homage, no extra covers, no split-screen UI, no muddy panel boundaries.

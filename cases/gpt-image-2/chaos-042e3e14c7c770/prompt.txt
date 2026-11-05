@@ -1,0 +1,14 @@
+Scene:
+Use the reference age sheet as the identity source. Create a square apartment interior divided by lighting and window views into four seasonal zones while remaining one continuous room. Morning spring light enters from the left, summer noon warms the center, autumn dusk glows near the sofa, and winter blue light appears near the far window. No hard panel borders; the seasons blend through furniture, shadows, and color temperature.
+
+Subject:
+Place the same woman at eight ages across the seasonal apartment loop: childhood and preteen near spring plants, teenage and young adult in the bright summer area, mid-career and older adult near autumn books and warm lamps, elderly and very elderly near winter window light. Preserve the facial identity, left cheek dimple, red scarf motif, and eye shape from the reference. Each life stage interacts with the same room in age-appropriate ways without looking like separate photo cutouts.
+
+Important details:
+This image tests temporal reasoning through environment. The room geometry must stay continuous even as seasons shift. Figures should cast shadows consistent with their local light zone, but furniture perspective must remain unified. Make the time split poetic and understandable, with no literal labels or calendars. The same protagonist must be recognizable through aging.
+
+Use case:
+Mirror Worlds series study 4/8, merging eight life stages and four seasons into one continuous apartment world.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no panel grid, no unrelated characters, no random costume changes, no impossible scale shifts, no inconsistent identity, no chaotic background clutter.

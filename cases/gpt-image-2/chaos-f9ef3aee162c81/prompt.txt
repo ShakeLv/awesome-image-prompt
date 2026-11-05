@@ -1,0 +1,14 @@
+Scene:
+A square warm-toned editorial infographic with a soft beige background, divided by a gentle S-shaped comparison boundary. The left side is a macro skin-surface close-up under scientific lighting; the right side is an aerial desert dune landscape at sunset. Fine contour lines, small blank callout tabs, and transparent circles tie the two halves together without readable text.
+
+Subject:
+Left panel: detailed human skin texture at very close range, showing pores, fine ridges, soft peach fuzz, subtle oil highlights, and natural color variation. Right panel: desert dunes from above, with wind-carved ridges, shadowed troughs, small dry shrubs, and golden sand gradients. The shared visual language is surface topology: pore depressions echo dune basins, skin ridges echo sand ripples, and fine hairs echo sparse desert vegetation.
+
+Important details:
+Keep the comparison respectful and scientific, not cosmetic advertising. The skin should look natural and healthy, not medical or glamor retouched. The desert should feel vast but organized, not a random sand texture. Use contour overlays and matched light direction to reveal surface physics. The image should be calm, tactile, and visually obvious as a micro-macro topology comparison.
+
+Use case:
+Micro-Macro Infographic single study 7/8, comparing skin microtopography with desert dune formations through surface pattern reasoning.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no beauty-product branding, no medical diagnosis, no wounds, no glamour portrait, no fake map labels, no repetitive sand wallpaper, no intrusive text blocks.

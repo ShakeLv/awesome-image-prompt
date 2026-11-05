@@ -1,0 +1,14 @@
+Scene:
+Create a square studio photograph on a white laboratory bench or brushed steel prep surface, lit with cool overhead light and crisp backlight that gives transparent ingredients a scientific presence. The composition should feel clinical and premium at once, with careful reflections on glass, faint low vapor, and enough negative space to keep the experiment-like staging legible. Nothing should feel messy or improvised. Use a square macro composition on a white ceramic slab under cool side light, with the slab filling most of the frame and only a thin edge of background visible. The image should feel almost like a material test sheet, but still recognizably edible and luxurious.
+
+Subject:
+Arrange rows of edible pearls in graduated families: ruby red, amber gold, pale green, clear, and smoky violet, each with slight size variation and one opened pearl revealing liquid inside. Add a single small spoon and one pipette tip at the edge for scale. The pearls should feel like fragile engineered droplets rather than candy.
+
+Important details:
+Make every transparent or semi-transparent material physically convincing: gels, sugar glass, vapor, condensation, foam, and liquid membranes all need distinct behavior. The scene should suggest a chef-scientist workflow, where precision plating meets controlled experimentation. Abstract annotation devices are acceptable only as blank bars, etched marks, or geometry with no readable characters. Each pearl membrane needs distinct thickness, translucency, and surface tension, with internal liquid visibly refracting the light. The ordered array should feel like a chef testing material control, not like jewelry or craft beads.
+
+Use case:
+Molecular gastronomy lab single study 6/9, isolating spherification as a material array.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no handwritten formulas, no visible brand labware, no classroom clutter, no sloppy spills, no cartoon science props, no rainbow toy colors, no plastic bead resemblance, no chaotic arrangement.

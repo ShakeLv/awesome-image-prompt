@@ -1,0 +1,14 @@
+Scene:
+A square storefront hero composition with the vehicle floating above a low platform inside a sleek sci-fi garage bay, using elegant key light, rim light, and a dark premium backdrop.
+
+Subject:
+One flagship version of the same vehicle family presented at a conversion-friendly angle with immaculate finish, stable silhouette, and luxury-grade reflections. The subject theme is a fictional garage fleet built around a premium rally hoverbike chassis with modular panels, suspension pods, and luminous trim.
+
+Important details:
+The scene should leave enough breathing room for hypothetical UI crops while keeping the engineering visible. Make it feel exclusive, fast, and premium without relying on action clutter or branding. Keep the whole image pure English and image-led, with no readable text anywhere.
+
+Use case:
+Garage Sheet single study 8/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no rider, no race track, no trophy props, no oversized background structures

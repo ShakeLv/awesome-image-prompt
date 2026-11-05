@@ -1,0 +1,14 @@
+Scene:
+A square photoreal image of a futuristic but practical control room where a mixture-of-experts network explains routing decisions. Use a wall-sized mechanical switchboard, clean industrial lighting, matte graphite panels, glass relays, and colored fiber paths. The camera is centered and slightly wide, keeping the full routing layout structured and readable.
+
+Subject:
+Input signal packets arrive from the left as small glowing capsules. A central router gate splits them through sparse paths toward eight expert modules arranged in a clean grid. Only a few expert modules light up strongly for each packet, while inactive modules remain dim. The selected experts return processed streams to a merging chamber on the right. Abstract confidence bars, gating weights, and load-balancing indicators appear as non-readable symbols and ticks beside the relays.
+
+Important details:
+The image should make sparse routing obvious. Do not light every expert equally. Show the router choosing, dispatching, processing, and recombining. Expert modules should differ subtly by internal texture, suggesting specialization without labels. Fiber paths must be neat, bundled, and physically attached to sockets. The whole scene should feel like an AI explaining its own routing economy as a rigorous engineering control panel.
+
+Use case:
+Neural Network Self-Explanation single study 5/8, testing mixture-of-experts routing as a photoreal switchboard with sparse activated paths.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real company names, no code, no equations, no private chain-of-thought, no all-experts-on pattern, no tangled cable mess, no random server room noise, no disconnected merge chamber.

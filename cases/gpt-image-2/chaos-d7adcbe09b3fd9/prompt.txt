@@ -1,0 +1,14 @@
+Scene:
+Use the reference image as the fixed artifact source, then convert it into a square museum exploded-view diagram on off-white archival paper. The camera is straight-on and orthographic, with faint construction axes, thin leader lines, and soft shadows below separated parts. Keep the same bronze patina, ornament style, object proportions, and sober museum handbook palette.
+
+Subject:
+Show the bronze ding disassembled into suspended parts while preserving the identity from the reference: rim ring lifted above the body, two upright ears separated symmetrically, the decorated vessel wall opened slightly, three legs pulled downward, and a small ornament band sample floating to one side. Include only these readable bilingual labels: rim band / 口沿带, handle pair / 立耳组, bronze wall / 铜壁, taotie band / 饕餮纹带, tripod legs / 三足, casting seams / 合范线. Use clean numbered dots or leader lines, but no extra written copy.
+
+Important details:
+The exploded spacing must obey believable structure: parts align along the vessel's vertical axis, wall thickness is visible, legs connect to the base logic, and shadows imply distance without looking like a fantasy levitation scene. The diagram should read as museum education plus technical drawing, not product advertising. Labels must stay aligned and not overlap the object.
+
+Use case:
+Museum Exploded View series study 2/8, turning the reference ding into a precise artifact exploded diagram.
+
+Constraints:
+No readable text except the specified bilingual labels, no watermark, no logos, preserve exact 1:1 aspect ratio, no changed artifact identity, no extra weapons or jewels, no random inscriptions, no tangled callouts, no impossible floating fragments.

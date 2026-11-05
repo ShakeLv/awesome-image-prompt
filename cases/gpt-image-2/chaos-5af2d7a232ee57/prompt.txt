@@ -1,0 +1,14 @@
+Scene:
+A square dark-background infographic with an elegant diagonal comparison layout. The upper-left region shows a microscope-like neural network; the lower-right region shows a cosmic web simulation aesthetic. Between them, translucent overlay lines and small non-readable symbols trace matching branching patterns. Lighting is dramatic but controlled, with cyan, violet, and warm white accents against deep charcoal.
+
+Subject:
+The micro side shows neurons suspended in a shallow biological gel: cell bodies, dendrite branches, axon-like cables, synapse dots, and subtle membrane texture. The macro side shows galaxy filaments and voids: bright clusters connected by long luminous threads, with dark empty spaces between them. The central bridge should make the analogy visible by aligning neuron cell bodies with galaxy clusters and dendrites with cosmic filaments.
+
+Important details:
+The image must not claim the two systems are scientifically identical; it should present a visual analogy through structured composition. Use consistent branch spacing, matching glow intensity, and clean connector arcs. Include small magnifier circles that crop details from each side, but keep their contents non-textual. The layout should be readable as a high-end science magazine cover: balanced negative space, no clutter, clear hierarchy, and plausible microscopic and astronomical textures.
+
+Use case:
+Micro-Macro Infographic single study 2/8, comparing neural branching and the cosmic web as a reasoning-composition challenge.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no literal brain icon, no astrology, no fake equations, no real patient data, no random neon spaghetti, no overcrowded labels, no claim-style typography.

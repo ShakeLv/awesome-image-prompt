@@ -1,0 +1,14 @@
+Scene:
+A square music-video thumbnail frame with dramatic cinematic lighting, a clear foreground performer, and one strong scene hook in the background such as shattered light, rain haze, or industrial glow. The composition should read instantly at small size while still feeling polished enough for a major release promo surface.
+
+Subject:
+An invented musician occupies the foreground with one intense expression, defined face shape, distinctive hair base, and strong directional light. This root image must lock the exact face, hair base, body proportions, wardrobe silhouette, and background-hook grammar that later promo cards preserve across the launch sequence.
+
+Important details:
+Design for thumbnail survival. Keep one dominant face or silhouette, one dramatic background cue, and one set of modular non-readable bars where title or countdown information could live later. The result should feel natively built for music-video launch culture rather than generic cinematic poster art.
+
+Use case:
+MV Promo Cards series study 1/9 for the Music Video Thumbnail and Promo Card Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable title, no platform logo, no crowd, no extra cast, no thumbnail clickbait arrows, no random collage explosion

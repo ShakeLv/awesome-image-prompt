@@ -1,0 +1,14 @@
+Scene:
+A square clean-room photograph of a multilingual clinic service board mounted in a public health reception area. The environment is calm, bright, and practical, with white walls, frosted glass, pale green accents, and soft ceiling light. The camera is centered so every panel on the board is readable and the board edges stay parallel to the frame.
+
+Subject:
+A healthcare information board listing registration, vaccination, pharmacy, emergency triage, interpreter support, payment desk, and family waiting area. Each service row contains a simple medical pictogram, a color-coded label block, and translations in Chinese, Arabic, Hindi Devanagari, Korean, Japanese, and Bengali-style script. Include a small floor-map corner with numbered rooms and arrows, but keep it schematic and not tied to any real hospital.
+
+Important details:
+The visual challenge is reliable public-service typography: small but readable script rows, calm spacing, clear icons, and no decorative distortion. The board must feel accessible under stress, with high contrast, predictable row rhythm, and strong separation between languages. Arabic should use its own right-to-left zone. Devanagari and Bengali-style text should preserve headline bars and rounded forms instead of dissolving into marks.
+
+Use case:
+Multi-Script Poster single study 6/8, testing multilingual public-health signage with functional icons, rows, and wayfinding micro-layouts.
+
+Constraints:
+No readable text outside the specified multilingual clinic copy, no watermark, no logos, preserve exact 1:1 aspect ratio, no real hospital names, no emergency phone numbers, no brand colors, no Latin translations, no distorted medical symbols, no unreadable tiny disclaimer blocks, no scripts crossing row boundaries.

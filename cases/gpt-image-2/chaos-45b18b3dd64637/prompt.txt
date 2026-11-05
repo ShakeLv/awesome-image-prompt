@@ -1,0 +1,14 @@
+Scene:
+A square promo still with one emotionally intense face in close focus, dramatic side light, and a blurred cinematic hook in the background. The composition should feel instantly clickable in a good way, through expression and atmosphere rather than gimmicks.
+
+Subject:
+The subject is one invented performer caught in a charged emotional beat from a music-video world. The face must remain central and highly legible, while modular non-readable blocks and background atmosphere provide campaign structure.
+
+Important details:
+This is about emotional compression. Use expression, light, and one strong scene cue to create interest. Keep the image refined, contemporary, and native to music-video launch culture, avoiding exaggerated clickbait tropes or meme energy.
+
+Use case:
+MV Promo Cards single study 8/9 for the Music Video Thumbnail and Promo Card Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable hook text, no platform logos, no arrows, no extra cast, no overexposed flash look

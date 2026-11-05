@@ -1,0 +1,14 @@
+Scene:
+A square promo card with one strongly lit face in the foreground, neon rain atmosphere behind, and modular non-readable countdown blocks arranged with crisp hierarchy. The frame should feel native to release anticipation and small-screen social sharing.
+
+Subject:
+The subject is one invented performer plus a simple cinematic scene hook, organized for immediate recognition. The card should look like a polished pre-release asset that could carry a countdown, even though no readable numbers or words appear.
+
+Important details:
+Thumbnail clarity and mood are the priority. Use one bright accent color, one dominant portrait or silhouette, and clean block structure. The card should feel urgent and contemporary without relying on platform-specific visual tricks or cheap hype graphics.
+
+Use case:
+MV Promo Cards single study 5/9 for the Music Video Thumbnail and Promo Card Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable numbers, no platform UI, no extra cast, no clickbait arrows, no overdone glitch collage

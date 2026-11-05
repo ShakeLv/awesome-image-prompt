@@ -1,0 +1,14 @@
+Scene:
+A square art-direction board of six fictional album covers in a 2 by 3 grid, mounted with tiny blank clips on a studio wall. The shared concept is Paper Tigers: fragile courage, cut paper animals, and rebellious energy. The covers should look like finished commercial sleeve designs from different music eras, with no readable typography.
+
+Subject:
+1960s folk: hand-cut paper tiger beside an acoustic guitar shadow, warm craft-paper palette. 1970s rock: roaring torn-paper tiger with stage lights and red-orange collage grit. 1980s synthwave: origami tiger in neon grid space, cyan-magenta paper folds. 1990s grunge: photocopied tiger stencil, ripped newsprint textures without readable words, muddy black-white contrast. 2000s emo: notebook-paper tiger silhouette, dark room, red thread and torn edges. 2020s hyperpop: glossy 3D paper tiger with sticker-like layers, saturated colors, playful glitch shapes.
+
+Important details:
+Maintain the paper tiger motif across all panels while shifting era aesthetics, print texture, and emotional tone. Paper material should stay visible: folds, cuts, torn edges, fibers, shadow layers, and collage seams. The six covers must be equal in size, clearly separated, and physically mounted. Avoid legible newspaper snippets, real band references, or literal album titles.
+
+Use case:
+Multi-Era Album Covers single study 6/8, testing era style transfer on a paper-collage album concept.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real album names, no readable newspaper fragments, no famous tiger logo, no duplicate cover, no extra paper notes, no UI panels, no clutter that hides the six-cover grid.

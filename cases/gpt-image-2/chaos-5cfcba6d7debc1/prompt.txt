@@ -1,0 +1,14 @@
+Scene:
+A square horology macro photograph inside a mechanical watch movement, lit with cool white workbench light and a precise overhead reflection. The frame shows layered brass gears, ruby bearings, brushed steel bridges, and a jeweler's screwdriver blurred near the edge. The palette is gold, steel, ruby red, and deep shadow, with crisp detail on one small gear tooth ring.
+
+Subject:
+On a tiny exposed brass gear near the center, engrave the initials "A+J" along the curved face between the teeth. The letters must be micro-sized but readable, recessed into the brass, and aligned to the circular gear geometry. The surrounding watch parts should remain technically plausible and unbranded: screws, jewels, bridges, and teeth at correct scale, with no dial numbers or maker text visible.
+
+Important details:
+This image tests readable micro typography inside a dense mechanical object. The inscription should not look like a floating overlay; it must bend with the gear, catch light in the groove, and remain distinct from machining marks. Maintain realistic watchmaking material physics: fine oil sheen, polished bevels, dust specks, and alternating brushed and polished surfaces. The viewer should understand this as a hidden custom engraving, not a logo.
+
+Use case:
+Micro-Engraved Jewelry single study 7/8, testing tiny readable initials on a mechanically detailed watch component.
+
+Constraints:
+No readable text except the specified initials "A+J", no watermark, no logos, preserve exact 1:1 aspect ratio, no watch brand, no dial numerals, no serial numbers, no extra initials, no misplaced plus sign, no floating text, no impossible melted gear teeth.

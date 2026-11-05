@@ -1,0 +1,14 @@
+Scene:
+A square comparison board on a muted garage background with four vehicle variants arranged in a clean grid and one small detail strip for wheel or hover hardware.
+
+Subject:
+A family of related vehicles or trim classes sharing one chassis language while differing in role emphasis, panel density, trim value, and performance attitude. The subject theme is a fictional garage fleet built around a premium rally hoverbike chassis with modular panels, suspension pods, and luminous trim.
+
+Important details:
+Keep the shared DNA obvious through consistent geometry and materials while allowing role differences to read instantly. The board should feel like a garage selection screen concept translated into a polished standalone image. Keep the whole image pure English and image-led, with no readable text anywhere.
+
+Use case:
+Garage Sheet single study 9/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no rider, no chaotic overlap, no mismatched art styles, no broken proportions

@@ -1,0 +1,14 @@
+Scene:
+A square top-down paddock work surface with premium directional light, organized spacing, and restrained technical atmosphere. Compose the frame as a square key visual with disciplined camera placement, premium lighting control, and believable real-world scale. The tonal range should feel polished and intentional, with enough atmosphere to create depth without obscuring form. Keep contrast calibrated for launch, catalog, or research presentation use rather than casual snapshot aesthetics.
+
+Subject:
+Center an original helmet, gloves, headset, cable set, and protective gear arrangement with geometric color cues and race-grade materials. Make the subject feel original, production-aware, and clearly grounded in Motorsport Livery and Track Promo Set. Treat this as an independent study that must feel complete and coherent without relying on any external reference image. The focal hierarchy should be immediate: primary form first, then material behavior, then supporting environmental cues that clarify use context and difficulty.
+
+Important details:
+Keep all markings abstract and non-readable while the materials feel serious, professional, and prepared for competition. The image should read as elite equipment, not costume styling. The visual language should still feel native to Motorsport Livery and Track Promo Set, using disciplined industrial or campaign composition instead of generic stock photography. Use believable materials, engineering logic, and professional composition discipline. Reflections, shadows, edge breaks, texture scale, interface density, and small physical joints must all support realism. Avoid filler props, vague mood-board clutter, or any element that weakens the sense of a purpose-built industrial or automotive image.
+
+Use case:
+Motorsport Promo single study 6/9 for Motorsport Livery and Track Promo Set, built as image support-two.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no sponsor logos, no readable digits, no copyrighted circuit signage, no real team branding, no crowd chaos.

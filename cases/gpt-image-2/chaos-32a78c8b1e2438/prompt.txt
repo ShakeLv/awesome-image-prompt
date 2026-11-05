@@ -1,0 +1,14 @@
+Scene:
+A square split-panel infographic on a deep blue-black background with luminous red and gold accents. The left side shows a microvascular network under magnification; the right side shows a satellite-like river delta. A central vertical spine contains clean connector arcs, small scale circles, and blank legend blocks. The mood is serious, precise, and cinematic, with high contrast but readable detail.
+
+Subject:
+Left panel: branching capillaries in translucent tissue, with red blood cells as tiny discs flowing through thin vessels, soft membrane texture, and realistic depth. Right panel: a river delta seen from high above, with branching channels, sediment fans, marsh islands, and reflective water. The comparison should reveal how fluid transport branches from trunk to fine channels in both biological and geographic systems.
+
+Important details:
+Make flow direction visually clear without text: use subtle arrowheads, particle trails, and brightness gradients. Match the branching hierarchy on both sides from thick main channels to fine terminals. Avoid making the capillary side look like a literal map, and avoid making the delta look like veins; each side keeps its own material truth. The central connector system should help viewers understand the analogy in one glance.
+
+Use case:
+Micro-Macro Infographic single study 5/8, comparing capillary flow networks with river delta branching in a structured science plate.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no medical diagnosis, no fake map labels, no real place names, no blood splatter, no chaotic red-blue abstraction, no unreadable legend text.

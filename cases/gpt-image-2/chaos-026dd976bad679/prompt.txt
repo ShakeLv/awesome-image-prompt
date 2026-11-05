@@ -1,0 +1,14 @@
+Scene:
+Use the reference age sheet as the identity source. Create a square cinematic living room scene viewed from a slightly elevated corner, with warm late-afternoon window light, a polished wooden floor, bookshelves, a sofa, a small round table, and quiet domestic objects. The room should be one continuous space, not a panel grid, with clear depth layers and eight readable positions.
+
+Subject:
+Place the same woman at eight life stages in different corners of the same living room: child drawing on the rug, preteen reading near the window, teenager leaning by the shelf, young adult carrying a suitcase, mid-career adult at the table, older adult watering a plant, elderly woman seated on the sofa, and very elderly woman near a mirror. Preserve the facial identity, cheek dimple, gaze, and red scarf motif from the reference while adapting age, clothing, and posture naturally.
+
+Important details:
+The core illusion is simultaneous time. Each age must feel physically present in the same room, with believable shadows, consistent scale, and no ghost transparency. Use composition to keep the eight figures separate but emotionally connected through sightlines and reflected glances. The living room should remain coherent and not collapse into a collage.
+
+Use case:
+Mirror Worlds series study 2/8, placing the same protagonist's eight life stages into one shared living room.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated characters, no panel borders, no duplicated exact pose, no broken reflections, no inconsistent facial identity, no clutter blocking the figures.

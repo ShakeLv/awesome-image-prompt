@@ -1,0 +1,14 @@
+Scene:
+A square bright editorial infographic on warm off-white background, split into two coordinated panels with a shared geometric grid. The left panel is a macro-microscope view of a leaf surface; the right panel is an aerial city plan at dawn. Fine gray alignment guides, small color-coded dots, and blank caption bars organize the page without readable text. The overall mood is clean, ecological, and architectural.
+
+Subject:
+Left panel: a high-detail leaf epidermis with green cells, stomata openings, waxy cuticle texture, and subtle veins visible beneath the surface. Right panel: a city grid with parks, courtyards, streets, rooftops, and small plazas seen from directly above. The stomata openings correspond visually to courtyards and transit hubs, while leaf veins rhyme with green corridors and roads.
+
+Important details:
+Make the comparison precise and elegant. Use matching top-down viewpoints on both sides, the same scale of repeated oval and polygon forms, and thin connector lines that cross a central gutter. The left side should feel biologically plausible, with moist cellular texture and organic variation. The right side should feel like a real planned city, not an abstract circuit board. Use muted green, slate, cream, and sunrise gold; keep the infographic readable without literal labels.
+
+Use case:
+Micro-Macro Infographic single study 3/8, comparing leaf stomata patterns with city-grid planning through structured visual analogy.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real city names, no map labels, no fake street text, no oversimplified leaf cartoon, no circuit-board confusion, no cluttered annotation layer.

@@ -1,0 +1,14 @@
+Scene:
+A square rooftop at twilight, high above a city, composed as one continuous terrace split by changing sky colors: cool dawn blue on the left, bright afternoon near the center, amber sunset on the right, and deep night reflections in a glass door. Use cinematic realism, clean architectural lines, and reflective puddles after rain.
+
+Subject:
+Show the same man at six life stages on the rooftop: child near a low wall, teenager sitting on the parapet, young adult holding a jacket, adult standing near the glass door, older adult watering rooftop plants, and elderly version reflected in the wet floor. Preserve identity through the same square jaw, thick brows, close-set eyes, and burgundy scarf motif adapted across ages. The figures should occupy separate zones but share one terrace geometry.
+
+Important details:
+The time split is environmental as well as human. Lighting changes should signal different eras without breaking perspective or turning the image into panels. Keep all ages physically grounded with believable shadows and reflections. The city skyline can shift subtly in mood, but no readable signs should appear. Facial identity must remain consistent enough that the concept is clear immediately.
+
+Use case:
+Mirror Worlds single study 8/8, testing simultaneous age stages and time-of-day zones in one rooftop scene.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no extra people, no superhero styling, no impossible rooftop scale, no inconsistent facial identity, no harsh panel dividers, no skyline text.

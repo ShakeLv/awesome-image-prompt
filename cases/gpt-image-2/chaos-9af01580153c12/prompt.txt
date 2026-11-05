@@ -1,0 +1,14 @@
+Scene:
+Take the viewpoint just at or below the liquid surface so the square frame peers through dark translucent methane toward a submerged body near shore. Distortion, suspended particles, and dim shoreline light should make the image quiet and uncanny rather than cinematic. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Show the animal as a soft internal glow silhouette with enough visible structure to read fins, circulation paths, and body posture. The undersea setting should clarify how the organism uses both liquid and air margins during its lifecycle. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the organism lives in hydrocarbon seas at extreme cold. Tissues, circulation, buoyancy, and sensory structures should reflect cryogenic chemistry, heavy haze, weak sunlight, and a shoreline shaped by methane waves and hydrocarbon sediment. Liquid methane should not behave like clear tropical water. Keep it dense, dark, and slightly obscuring, with lighting and color filtered by hydrocarbon conditions rather than Earth-ocean assumptions. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Methane Sea Creature of Titan single study 8/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no scuba feel, no blue water, no shark silhouette trope, no neon underglow, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

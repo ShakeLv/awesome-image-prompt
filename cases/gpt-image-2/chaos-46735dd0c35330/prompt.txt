@@ -1,0 +1,14 @@
+Scene:
+A square macro studio photograph with a warmer palette than the reference: champagne highlights, deep brown velvet, and a narrow strip of reflected light running along a gold ring. The camera angle should closely echo the reference image, looking into the inner wall so the same engraving zone is visible. Use shallow depth of field, but keep the inner inscription in the sharpest plane.
+
+Subject:
+Transform the reference ring into an 18k yellow-gold wedding band while preserving the same band silhouette, inner-wall engraving position, and exact inscription phrase "MAYA 2026". The letters must remain small, clean, and carved into the inside curve. Add subtle gold grain, fine polish marks, and a realistic beveled edge, but do not change the proportions or move the text away from the visible inner arc.
+
+Important details:
+This is a continuity test: the viewer should recognize the same ring geometry and inscription placement from image 01, only translated into gold and warmer wedding lighting. The micro text must be readable without becoming oversized; it should follow the curve, cast tiny shadow grooves, and avoid blobs or repeated characters. Maintain luxury commercial realism and physically plausible metal reflections.
+
+Use case:
+Micro-Engraved Jewelry series study 2/8, testing reference-preserved micro text on a gold wedding-band material variant.
+
+Constraints:
+No readable text except the specified phrase "MAYA 2026", no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no external caption, no incorrect phrase, no duplicated inscription, no flat printed text, no warped ring shape.

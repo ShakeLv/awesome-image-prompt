@@ -1,0 +1,14 @@
+Scene:
+A square photoreal image of an impossible library where a neural network explains retrieval-augmented memory. Use warm archival lighting, tall shelves, translucent catalog drawers, fiber-optic index lines, and a central glass reading table. The space should feel like a real library merged with a precise technical diagram.
+
+Subject:
+A query sphere enters the scene at the front edge, splits into several search rays, and activates relevant memory shelves as glowing document blocks. A ranking conveyor brings a small set of retrieved blocks to the center table, where they are compressed into context ribbons feeding a neural response lattice at the back. Non-retrieved shelves remain dim. Use abstract citation markers, similarity rings, and symbolic annotation cards without readable text.
+
+Important details:
+The process must distinguish storage, search, retrieval, ranking, context assembly, and answer generation. Do not show every shelf glowing. The retrieved blocks should be visibly selected from a larger archive and then assembled into a compact context bundle. Keep library materials tactile: wood, paper, brass, glass, dust, and warm light. The data-flow overlays should be clean, sparse, and anchored to objects, not floating randomly.
+
+Use case:
+Neural Network Self-Explanation single study 8/8, testing retrieval-augmented generation as a photoreal library with query, search, ranking, and context assembly flows.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real book titles, no citations, no code, no private chain-of-thought, no all-shelves-glowing pattern, no magical fantasy library, no random paper storms, no disconnected response lattice.

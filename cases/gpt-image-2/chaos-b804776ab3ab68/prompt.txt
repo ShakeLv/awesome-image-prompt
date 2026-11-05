@@ -1,0 +1,14 @@
+Scene:
+Frame the scene from low on the shore with a small distant rover at the edge of the composition and the organism dominating the middle ground. The atmosphere should remain orange, cold, and dusty, with the methane sea forming a dark horizon line. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Use the rover only as a scale cue while keeping the wildlife central. The creature should look curious or indifferent, not aggressive, and its size and texture should become easier to judge because of the nearby machine. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the organism lives in hydrocarbon seas at extreme cold. Tissues, circulation, buoyancy, and sensory structures should reflect cryogenic chemistry, heavy haze, weak sunlight, and a shoreline shaped by methane waves and hydrocarbon sediment. The encounter should feel like field observation, not conflict. Preserve the shoreline ecology and cryogenic realism while using the rover sparingly to anchor human understanding of scale. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Methane Sea Creature of Titan single study 9/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no weaponized rover, no battle scene, no readable interface text, no human astronaut in frame, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

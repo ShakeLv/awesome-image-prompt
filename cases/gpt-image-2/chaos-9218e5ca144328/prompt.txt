@@ -1,0 +1,14 @@
+Scene:
+A square premium e-commerce macro shot on a pale stone jewelry tray, bright but soft, with clean reflections and a practical retail-catalog feeling. The composition should feel ready for a product detail page: centered ring, controlled highlights, and a small jeweler loupe placed nearby but not covering the band. The camera still looks into the inner wall so the engraving area remains visible.
+
+Subject:
+Use the referenced ring as the same product and preserve the exact inner-wall inscription "MAYA 2026". The ring should appear freshly cleaned, with the tiny letters inside the band shown as shallow engraving. Add a loupe, white gloves, or tray texture only as secondary context; the micro-inscription remains the hero detail. Keep the ring proportions, visible arc, and text placement consistent with image 01.
+
+Important details:
+This version tests commercial usability: the image should look like a realistic custom-jewelry listing where the buyer can verify the exact inscription. The text must be readable at macro scale, not replaced by generic scratches. The engraving should be physically recessed, aligned to the curve, and free of extra characters. Maintain precise metal reflections, clean stone texture, and restrained luxury styling.
+
+Use case:
+Micro-Engraved Jewelry series study 4/8, testing whether the reference micro-inscription remains product-page legible in a retail macro setup.
+
+Constraints:
+No readable text except the specified phrase "MAYA 2026", no watermark, no logos, preserve exact 1:1 aspect ratio, no brand labels, no printed cards, no price tags, no oversized inscription, no wrong name, no mirror-reversed letters, no clutter hiding the inner wall.

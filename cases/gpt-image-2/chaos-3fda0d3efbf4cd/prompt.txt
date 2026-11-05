@@ -1,0 +1,14 @@
+Scene:
+Create a square studio photograph on a white laboratory bench or brushed steel prep surface, lit with cool overhead light and crisp backlight that gives transparent ingredients a scientific presence. The composition should feel clinical and premium at once, with careful reflections on glass, faint low vapor, and enough negative space to keep the experiment-like staging legible. Nothing should feel messy or improvised. Create a square high-detail close-up on a dark neutral background with a cold backlight and precise flash that freezes fragments in midair. Low vapor should creep along the surface below, giving the scene a laboratory chill without obscuring the fracture details.
+
+Subject:
+Show several mixed berries at the instant of cracking after cryogenic treatment: skins splitting, icy sugar crystals lifting, and tiny seeds suspended in the break. Include one stainless pour lip at the frame edge to imply the source of the cold medium without showing a full container. The moment should feel scientifically exact, not explosive for spectacle alone.
+
+Important details:
+Make every transparent or semi-transparent material physically convincing: gels, sugar glass, vapor, condensation, foam, and liquid membranes all need distinct behavior. The scene should suggest a chef-scientist workflow, where precision plating meets controlled experimentation. Abstract annotation devices are acceptable only as blank bars, etched marks, or geometry with no readable characters. Prioritize brittle fracture patterns, cold vapor density, frost bloom, and wet-ice transitions where thaw has barely begun. The image should communicate both violence and precision, with every fragment still reading as edible fruit.
+
+Use case:
+Molecular gastronomy lab single study 7/9, focusing on cryogenic fracture behavior in fruit.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no handwritten formulas, no visible brand labware, no classroom clutter, no sloppy spills, no cartoon science props, no fire effects, no generic splash shape, no syrupy jam texture.

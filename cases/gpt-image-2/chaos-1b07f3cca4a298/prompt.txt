@@ -1,0 +1,14 @@
+Scene:
+Use the reference age sheet as the identity source. Create a square hall of mirrors inside a quiet apartment, with a central hallway, tall antique mirrors along both sides, warm ceiling light, and a dark polished floor that reflects feet and furniture. The camera looks straight down the hallway so reflections create a deep recursive space.
+
+Subject:
+Show the same woman at multiple life stages meeting through mirrors: young adult standing in the center foreground, child version visible in the left mirror, teenager in the right mirror, mid-career adult reflected farther back, elderly version at the end of the hall, and very elderly version seated in a mirror reflection near the floor. Preserve the same facial structure, cheek dimple, red scarf motif, and calm direct gaze from the reference, while each age has distinct clothing and posture.
+
+Important details:
+The mirror logic must be coherent. Reflections should obey perspective, show believable angles, and not become random portraits pasted onto glass. Some figures may be physically in the hall while others appear only as reflections, but all must feel like the same person across time. Keep the scene emotionally charged, elegant, and visually legible at thumbnail scale.
+
+Use case:
+Mirror Worlds series study 3/8, using mirror reflections to stage one protagonist's life stages in a single hallway.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unrelated people, no horror mood, no broken mirror shards, no impossible duplicate limbs, no inconsistent face, no decorative captions.

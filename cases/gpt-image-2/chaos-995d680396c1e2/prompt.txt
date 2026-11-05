@@ -1,0 +1,14 @@
+Scene:
+A square teaser card in the same video world, now darker and more withheld, with slightly reduced light and more negative space around the performer. The scene hook should still remain visible, but the mood should shift toward curiosity and suspense rather than full launch clarity.
+
+Subject:
+Preserve the exact same performer from the reference image with identical face shape, hair base, body proportions, and wardrobe silhouette. The figure appears more partially shadowed, while the background hook remains recognizable enough to maintain campaign continuity.
+
+Important details:
+Use restraint to create teaser momentum. Keep the same cinematic world, same strong face or silhouette, and same modular promo logic, but lower density and reveal. This image should still survive as a thumbnail while clearly behaving like an earlier-stage promo card inside the same video release system.
+
+Use case:
+MV Promo Cards series study 3/9 for the Music Video Thumbnail and Promo Card Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no readable teaser text, no platform icons, no extra cast, no meme-like reaction composition, no busy special effects

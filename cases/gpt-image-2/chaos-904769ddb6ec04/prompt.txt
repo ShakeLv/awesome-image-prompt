@@ -1,0 +1,14 @@
+Scene:
+A square macro still life of an ivory commemorative postage stamp fragment placed beside a silver charm bracelet, photographed on a cool gray archival table. Use raking side light so every perforation hole casts a tiny shadow. The stamp design itself should be abstract and unlettered, with subtle paper fibers and embossed border texture, while the bracelet hints at jewelry customization.
+
+Subject:
+Hide a micro message inside the stamp perforation line: the sequence of tiny printed marks between the holes must read "MEET AT 8". The words are extremely small, following the vertical perforated edge like a secret jeweler's inscription. Keep the phrase readable under macro view, but do not add any other postal text, denomination, country name, cancellation mark, or logo. The silver charm nearby may be blank and softly reflected.
+
+Important details:
+This is a precision placement challenge: the message must live only in the narrow space around the perforations, using the holes as a rhythm guide. The text should be straight, evenly spaced, and physically integrated into paper ink or shallow embossing, not floating over the scene. Preserve realistic paper fibers, slight torn edges, metal bracelet reflections, and a sophisticated forensic-macro feeling.
+
+Use case:
+Micro-Engraved Jewelry single study 8/8, testing readable hidden micro text in stamp perforations paired with a jewelry keepsake context.
+
+Constraints:
+No readable text except the specified phrase "MEET AT 8", no watermark, no logos, preserve exact 1:1 aspect ratio, no stamp denomination, no country name, no cancellation text, no extra secret words, no oversized typography, no random perforation marks, no missing holes.

@@ -1,0 +1,14 @@
+Scene:
+Use the reference bronze ding as the source and produce a finished square museum exhibition plate that combines exploded object, conservation notes, and bilingual captions. The layout is precise and calm: object diagram in the center, numbered callout column on the left, material and period panel on the right, and a thin ruled footer. Use warm ivory paper, graphite lines, muted bronze greens, and museum-quality typography.
+
+Subject:
+Show the same bronze ding in a compact exploded presentation with numbered callouts. Include only these readable bilingual labels: 1 rim / 口沿, 2 handles / 立耳, 3 body / 器身, 4 legs / 三足, material bronze / 材料 青铜, period Late Shang / 年代 商晚期, technique piece-mold casting / 工艺 范铸. The layout should make the object, labels, and information panels feel like one finished gallery interpretive graphic.
+
+Important details:
+This image tests complex multi-region composition. Keep numbered markers near the correct parts, preserve the artifact silhouette from image 01, and make the text hierarchy clear: object name largest, callouts medium, material panel smaller but readable. Avoid visual competition between labels and ornament. The diagram must look professionally typeset, not like scattered annotations.
+
+Use case:
+Museum Exploded View series study 4/8, creating a bilingual museum plate from the reference artifact and exploded-view logic.
+
+Constraints:
+No readable text except the specified bilingual labels, no watermark, no logos, preserve exact 1:1 aspect ratio, no fake accession number, no extra paragraphs, no incorrect numbering, no garbled Chinese, no crowded callout collisions.

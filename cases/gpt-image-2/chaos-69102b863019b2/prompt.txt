@@ -1,0 +1,14 @@
+Scene:
+A square card built from vertical-video logic, with one strong center figure and compressed side modules that imply short-form adaptation. The image should feel optimized for clip reposts and social edits while remaining visually rich and publishable.
+
+Subject:
+One performer dominates the center while the surrounding environment and abstract side panels suggest motion, cut points, and teaser framing. The result should read like a high-quality social card derived from a short-form clip moment.
+
+Important details:
+Use composition intelligence to translate vertical energy into a square surface. Keep focus strong, the edges controlled, and the modular fields ready for future overlays. The image should feel release-savvy without looking like a templated social-media preset.
+
+Use case:
+MV Promo Cards single study 7/9 for the Music Video Thumbnail and Promo Card Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no phone UI frame, no extra cast, no emoji overlays, no bright engagement-bait graphics

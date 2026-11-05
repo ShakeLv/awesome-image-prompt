@@ -1,0 +1,14 @@
+Scene:
+A square exploded-view support plate suspended over a muted industrial background, lit like a premium product manual image with enough negative space between modules to read every layer.
+
+Subject:
+A believable breakdown of the vehicle into body shell, control cluster, propulsion core, wheel or hover pod assembly, suspension bracket, seat, and lighting units. The subject theme is a fictional garage fleet built around a premium rally hoverbike chassis with modular panels, suspension pods, and luminous trim.
+
+Important details:
+Every part should align mechanically and look ready to be reassembled. Use crisp spacing, ghosted alignment guides, subtle material variation, and restrained technical elegance so the board feels both aspirational and useful. Keep the whole image pure English and image-led, with no readable text anywhere.
+
+Use case:
+Garage Sheet single study 6/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no rider, no scrap heap chaos, no floating magical pieces, no extreme fisheye angle

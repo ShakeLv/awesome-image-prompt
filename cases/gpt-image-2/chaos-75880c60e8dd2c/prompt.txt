@@ -1,0 +1,14 @@
+Scene:
+A square macro photograph of an open oval gold locket resting on deep green velvet, with soft antique-window lighting and gentle falloff at the corners. The camera is close enough to show the hinge, rim, and scratched inner lip. The mood is intimate and heirloom-like, with warm gold reflections and a darker background that helps the micro inscription read clearly.
+
+Subject:
+On the thin inner rim of the locket, engrave a tiny curved phrase exactly reading "ALWAYS NEAR". The phrase follows the oval edge and fits naturally into the metal lip, as if done by a master jeweler. The locket interior may hold an empty brushed-metal recess or subtle mother-of-pearl texture, but no photo and no other writing. The engraved phrase is the only semantic detail.
+
+Important details:
+The core challenge is curved micro text on a narrow jewelry edge. The letters must be readable, evenly spaced, and aligned along the oval rim without floating away from the metal surface. Show shallow cut grooves, tiny burrs, patina in the recesses, and realistic specular highlights. Keep the phrase emotionally legible while preserving the scale; it should look genuinely tiny, not like a large caption pasted onto the locket.
+
+Use case:
+Micro-Engraved Jewelry single study 6/8, testing curved readable inscription on a locket rim for sentimental customization.
+
+Constraints:
+No readable text except the specified phrase "ALWAYS NEAR", no watermark, no logos, preserve exact 1:1 aspect ratio, no brand stamp, no portrait text, no extra initials, no misspelling, no flat printed lettering, no oversized phrase, no warped oval geometry.

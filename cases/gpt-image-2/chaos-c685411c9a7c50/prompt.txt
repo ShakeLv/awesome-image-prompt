@@ -1,0 +1,14 @@
+Scene:
+A square widescale desert image centered on a massive geometric object descending, hovering, or emerging against sand, dust, and low sun. The atmosphere should feel physically dense, with suspended grit, long shadows, and distant heat haze describing the air around the event. Show a matte black oval vessel hovering a short distance above a flat dune basin, with dust lifting in a wide circular skirt around it.
+
+Subject:
+The main subject is an immense ship, ring, slab, wedge, or monolith whose scale dwarfs all human observers. People should appear as tiny clustered witnesses in the foreground or along ridgelines, included only to prove size and emotional awe. Five observers stand in the foreground ridge wrapped in desert gear, appearing tiny beneath the silent object.
+
+Important details:
+The signature is monumental restraint. Preserve simple geometry, huge negative space, believable dust behavior, and the quiet terror of proportion. Avoid flashy weapons, decorative alien ornament, bright science-fiction colors, or busy action hero staging. Keep the vessel surface nearly featureless so its scale and weight come from shadow and dust interaction alone.
+
+Use case:
+Monumental Desert Arrival single study 1/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no logos, no readable markings on the object, no laser beams, no explosion fireballs, no crowded military hardware, no broken anatomy, no low-detail background, no accidental text fragments.

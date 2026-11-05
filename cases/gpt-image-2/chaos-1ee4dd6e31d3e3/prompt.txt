@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic mockup of an airport wayfinding sign cluster mounted above a polished terminal corridor. View it straight-on from passenger eye level so the panels are legible. Lighting is bright, clean, and slightly cool, with glass reflections kept subtle. Use black sign panels, white pictograms, amber route highlights, and disciplined spacing.
+
+Subject:
+A modular wayfinding grid for arrivals, transfers, baggage, gates, prayer room, medical help, and ground transport. Each destination appears as a matched row containing a pictogram, an arrow, and four non-Latin script versions: Chinese, Arabic, Hindi Devanagari, and Korean. Add two smaller side panels using Japanese and Thai-style scripts for service notices. The layout should feel like a real airport sign system, with exact alignment and consistent icon size.
+
+Important details:
+This image tests multi-script public signage under realistic viewing constraints. Arabic must align right-to-left inside its own text zone while the overall sign grid stays orderly. Chinese, Korean, Japanese, and Devanagari letterforms should be crisp enough to inspect, not decorative marks. Keep arrows unambiguous, pictograms familiar, row spacing regular, and panel seams clean. The terminal background must not distract from the sign typography.
+
+Use case:
+Multi-Script Poster single study 3/8, testing airport-scale wayfinding with multilingual text, icons, arrows, and readable distance hierarchy.
+
+Constraints:
+No readable text outside the specified multilingual wayfinding copy, no watermark, no logos, preserve exact 1:1 aspect ratio, no real airport names, no airline brands, no flags, no random Latin abbreviations, no backwards arrows, no distorted pictograms, no script mixing inside a single language row.
