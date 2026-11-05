@@ -1,0 +1,9 @@
+{
+  "sourceCommit": "5296db8c996e38776c83a0bc8c64f848dcd512b3",
+  "selectedMetadataChecked": 3631,
+  "perCaseRightsOverrides": [],
+  "nestedWorkLicenseOrNoticePaths": [],
+  "rootLicenseSha256": "1b14de09186e575cd3de1c7c9dc4bc94800a23488fa713da7d4fa93e4e7ca448",
+  "firstPartyContentGrantSha256": "4fbaf90fc28e7ff89fc9f2926913e11dbb9df2f53dbd34932f01af16514b7022",
+  "note": "Root MIT and explicit first-party content grant retained. This audit checks source declarations; it does not independently establish rights in uncredited outside references or trademarks."
+}

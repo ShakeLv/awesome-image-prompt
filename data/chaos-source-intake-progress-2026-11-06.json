@@ -10,7 +10,7 @@
   "sourceMediaNotYetDownloaded": 0,
   "approvedNewPairs": 0,
   "licenseEvidence": "Root MIT plus first-party public/llms.txt explicitly states content MIT and prompts reusable. Preserve per-case reference constraints; actual image bytes and individual review still pending.",
-  "status": "Local complete:3631 source-bound native image/full-prompt pairs; GitHub upload running in19 batches; zero new ProjectD approvals.",
+  "status": "Complete3631-pair remote source archive;400 individual reviews,382 local approvals/18 holds. First238 imported in review branch, no new public receipt.",
   "referenceDependentCount": 907,
   "source": "https://github.com/ChaosRealmsAI/gpt-image-2-gallery",
   "nativeMediaDownloaded": 3631,
@@ -20,8 +20,11 @@
   "githubArchiveStatus": "complete-and-remote-Git-verified",
   "archivePairs": 3631,
   "archivalReceipt": "https://github.com/ShakeLv/awesome-image-prompt/blob/main/data/chaos-remote-archive-acceptance-2026-11-06.json",
-  "individuallyReviewed": 48,
-  "individuallyApprovedNotImported": 39,
-  "individuallyHeld": 9,
-  "unreviewedSourcePairs": 3583
+  "individuallyReviewed": 400,
+  "individuallyApprovedNotImported": 144,
+  "individuallyHeld": 18,
+  "unreviewedSourcePairs": 3231,
+  "reviewCheckpointAt": "2026-11-05T17:54:14.216194+00:00",
+  "individuallyApproved": 382,
+  "individuallyImportedNotPublished": 238
 }
