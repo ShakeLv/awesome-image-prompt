@@ -12,7 +12,7 @@ A Swiss International Style concert poster on stark white. A rigid modular grid 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-689) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated festival details are design copy, not a verified concert.
+ProjectD: published-accepted (run42069117745). Generated festival details are design copy, not a verified concert.
 
 ## Make It Happen · poster-688
 ![Make It Happen](cases/gpt-image-2/apimodels-poster-688/original.png)
@@ -22,7 +22,7 @@ An energetic motivational poster shouting 'MAKE IT HAPPEN' in a chunky retro-ita
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-688) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Bauhaus Geometry · poster-690
 ![Bauhaus Geometry](cases/gpt-image-2/apimodels-poster-690/original.png)
@@ -32,7 +32,7 @@ A Bauhaus-inspired poster built from primary geometric shapes: a bold blue trian
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-690) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Bauhaus-inspired generated poster; added historical-looking exhibition labels do not establish an archival provenance.
+ProjectD: published-accepted (run42069117745). Bauhaus-inspired generated poster; added historical-looking exhibition labels do not establish an archival provenance.
 
 ## Diagonal Type Grid · poster-691
 ![Diagonal Type Grid](cases/gpt-image-2/apimodels-poster-691/original.png)
@@ -42,7 +42,7 @@ A Swiss-style typographic poster where the headline 'MOTION IN ORDER' is set on 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-691) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated design-talk agenda, names and dates are synthetic layout content.
+ProjectD: published-accepted (run42069117745). Generated design-talk agenda, names and dates are synthetic layout content.
 
 ## White Space Lecture · poster-693
 ![White Space Lecture](cases/gpt-image-2/apimodels-poster-693/original.png)
@@ -52,7 +52,7 @@ A restrained Swiss-style lecture poster. Ninety percent white space; a single ti
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-693) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Bauhaus Type Ballet · poster-692
 ![Bauhaus Type Ballet](cases/gpt-image-2/apimodels-poster-692/original.png)
@@ -62,7 +62,7 @@ A Bauhaus theatre poster announcing 'MECHANIK BALLET' in stacked geometric caps,
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-692) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Synthetic Bauhaus-style concept with generated historical-looking labels, not an archival theatre poster.
+ProjectD: published-accepted (run42069117745). Synthetic Bauhaus-style concept with generated historical-looking labels, not an archival theatre poster.
 
 ## Bauhaus Exhibition · poster-694
 ![Bauhaus Exhibition](cases/gpt-image-2/apimodels-poster-694/original.png)
@@ -72,7 +72,7 @@ A Bauhaus exhibition poster with 'WERK UND WEISE' set in a strict geometric grot
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-694) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated exhibition/date/institution lettering does not establish an actual exhibition.
+ProjectD: published-accepted (run42069117745). Generated exhibition/date/institution lettering does not establish an actual exhibition.
 
 ## Red Bar Manifesto · poster-695
 ![Red Bar Manifesto](cases/gpt-image-2/apimodels-poster-695/original.png)
@@ -82,7 +82,7 @@ A Swiss modernist manifesto poster. A single thick red horizontal bar slices the
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-695) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Bauhaus Sound Waves · poster-696
 ![Bauhaus Sound Waves](cases/gpt-image-2/apimodels-poster-696/original.png)
@@ -92,7 +92,7 @@ A Bauhaus-flavored music poster where concentric semicircles in alternating blue
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-696) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Modular Type Poster · poster-697
 ![Modular Type Poster](cases/gpt-image-2/apimodels-poster-697/original.png)
@@ -102,7 +102,7 @@ A Swiss-style poster where a single word 'STRUKTUR' is deconstructed across a vi
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-697) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Primary Play Poster · poster-698
 ![Primary Play Poster](cases/gpt-image-2/apimodels-poster-698/original.png)
@@ -112,7 +112,7 @@ A joyful Bauhaus-style poster for a children's design workshop, 'KLEINE FORMEN.'
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-698) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Alpine Rail Travel · poster-699
 ![Alpine Rail Travel](cases/gpt-image-2/apimodels-poster-699/original.png)
@@ -122,7 +122,7 @@ A vintage travel poster in 1930s railway style advertising 'VISIT MONT AVELINE.'
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-699) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Riviera Beach Poster · poster-700
 ![Riviera Beach Poster](cases/gpt-image-2/apimodels-poster-700/original.png)
@@ -132,7 +132,7 @@ A retro seaside travel poster for the invented resort town 'PORTO SELENE.' A str
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-700) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Desert Route 66 Style · poster-701
 ![Desert Route 66 Style](cases/gpt-image-2/apimodels-poster-701/original.png)
@@ -142,7 +142,7 @@ A vintage American road-trip travel poster for the fictional 'RED MESA HIGHWAY.'
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-701) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Tropical Isle Poster · poster-702
 ![Tropical Isle Poster](cases/gpt-image-2/apimodels-poster-702/original.png)
@@ -152,7 +152,7 @@ A retro airline travel poster promoting the invented destination 'ISLA CORVELA.'
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-702) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Old Town Europe · poster-703
 ![Old Town Europe](cases/gpt-image-2/apimodels-poster-703/original.png)
@@ -162,7 +162,7 @@ A vintage European city travel poster for the fictional town 'BELLARIVE.' Steep 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-703) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## National Park Poster · poster-704
 ![National Park Poster](cases/gpt-image-2/apimodels-poster-704/original.png)
@@ -172,7 +172,7 @@ A classic WPA-style national park travel poster for the invented 'CEDAR HOLLOW P
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-704) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Fictional national-park concept; generated US agency lettering is not government endorsement.
+ProjectD: published-accepted (run42069117745). Fictional national-park concept; generated US agency lettering is not government endorsement.
 
 ## Ocean Liner Voyage · poster-705
 ![Ocean Liner Voyage](cases/gpt-image-2/apimodels-poster-705/original.png)
@@ -182,7 +182,7 @@ An art-deco ocean-liner travel poster for the fictional line 'AURELIA CROSSINGS.
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-705) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Ski Resort Retro · poster-706
 ![Ski Resort Retro](cases/gpt-image-2/apimodels-poster-706/original.png)
@@ -192,7 +192,7 @@ A vintage winter-sports travel poster for the invented resort 'GLACIER PLATEAU.'
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-706) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Vineyard Country Poster · poster-707
 ![Vineyard Country Poster](cases/gpt-image-2/apimodels-poster-707/original.png)
@@ -202,7 +202,7 @@ A retro travel poster for the fictional wine region 'VAL DORINE.' Rolling terrac
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-707) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Neon City Nights · poster-708
 ![Neon City Nights](cases/gpt-image-2/apimodels-poster-708/original.png)
@@ -212,7 +212,7 @@ A retro travel poster for the fictional metropolis 'NEO HAVANA' by night. A grid
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-708) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Iron Will Gym · poster-709
 ![Iron Will Gym](cases/gpt-image-2/apimodels-poster-709/original.png)
@@ -222,7 +222,7 @@ A high-impact gym promo poster for 'IRON WILL FITNESS.' A dramatic low-key photo
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-709) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated fitness promotion, class schedule and claims are illustrative.
+ProjectD: published-accepted (run42069117745). Generated fitness promotion, class schedule and claims are illustrative.
 
 ## Sunrise Yoga Flow · poster-710
 ![Sunrise Yoga Flow](cases/gpt-image-2/apimodels-poster-710/original.png)
@@ -232,7 +232,7 @@ A calming fitness promo poster for 'LUMEN YOGA STUDIO.' A serene silhouette of a
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-710) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Boxing Club Flyer · poster-711
 ![Boxing Club Flyer](cases/gpt-image-2/apimodels-poster-711/original.png)
@@ -242,7 +242,7 @@ A gritty boxing club promo flyer for 'SOUTHPAW BOXING CO.' A weathered pair of r
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-711) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## HIIT Bootcamp Promo · poster-712
 ![HIIT Bootcamp Promo](cases/gpt-image-2/apimodels-poster-712/original.png)
@@ -252,7 +252,7 @@ An energetic HIIT bootcamp promo poster for 'PULSE BOOTCAMP.' Diagonal neon-gree
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-712) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Spin Studio Ride · poster-714
 ![Spin Studio Ride](cases/gpt-image-2/apimodels-poster-714/original.png)
@@ -262,7 +262,7 @@ A vibrant indoor-cycling studio promo poster for 'REVOLVE RIDE.' A stylized spin
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-714) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## CrossTraining Warrior · poster-715
 ![CrossTraining Warrior](cases/gpt-image-2/apimodels-poster-715/original.png)
@@ -272,7 +272,7 @@ A tough functional-fitness promo poster for 'FORGE FUNCTIONAL.' A chalk-dusted k
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-715) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Powerlifting Meet · poster-713
 ![Powerlifting Meet](cases/gpt-image-2/apimodels-poster-713/original.png)
@@ -282,7 +282,7 @@ A bold powerlifting meet poster for the 'STEEL SUMMIT OPEN.' A dramatic silhouet
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-713) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Pilates Reformer Studio · poster-716
 ![Pilates Reformer Studio](cases/gpt-image-2/apimodels-poster-716/original.png)
@@ -292,7 +292,7 @@ A refined pilates studio promo poster for 'CORE & COMPOSURE.' A minimal line ill
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-716) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Join Our Team Flyer · poster-719
 ![Join Our Team Flyer](cases/gpt-image-2/apimodels-poster-719/original.png)
@@ -302,7 +302,7 @@ A modern 'WE'RE HIRING' recruitment flyer for the invented startup 'Brightloop S
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-719) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented recruitment concept; QR-style mark is decorative, not a verified application link.
+ProjectD: published-accepted (run42069117745). Invented recruitment concept; QR-style mark is decorative, not a verified application link.
 
 ## Marathon Training Group · poster-717
 ![Marathon Training Group](cases/gpt-image-2/apimodels-poster-717/original.png)
@@ -312,7 +312,7 @@ A dynamic running-club promo poster for 'STRIDE COLLECTIVE.' A stylized runner m
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-717) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## 24 Hour Gym Grand Opening · poster-718
 ![24 Hour Gym Grand Opening](cases/gpt-image-2/apimodels-poster-718/original.png)
@@ -322,7 +322,7 @@ A punchy grand-opening promo poster for '24 FLEX GYM.' A bold burst-ray backgrou
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-718) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cafe Barista Wanted · poster-720
 ![Cafe Barista Wanted](cases/gpt-image-2/apimodels-poster-720/original.png)
@@ -332,7 +332,7 @@ A charming 'NOW HIRING' flyer for the fictional coffee shop 'Maple & Steam.' A h
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-720) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Fictional cafe recruitment; phone tabs are generated placeholders.
+ProjectD: published-accepted (run42069117745). Fictional cafe recruitment; phone tabs are generated placeholders.
 
 ## Tech Careers Poster · poster-721
 ![Tech Careers Poster](cases/gpt-image-2/apimodels-poster-721/original.png)
@@ -342,7 +342,7 @@ A sleek tech recruitment poster for the invented company 'NovaGrid Labs.' A dark
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-721) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Retail Weekend Staff · poster-722
 ![Retail Weekend Staff](cases/gpt-image-2/apimodels-poster-722/original.png)
@@ -352,7 +352,7 @@ A bright, friendly hiring flyer for the fictional boutique 'Petal & Thread.' A f
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-722) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Restaurant Kitchen Hiring · poster-723
 ![Restaurant Kitchen Hiring](cases/gpt-image-2/apimodels-poster-723/original.png)
@@ -362,7 +362,7 @@ A bold 'NOW HIRING' flyer for the invented restaurant 'Ember & Oak Kitchen.' A d
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-723) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Nonprofit Volunteers Needed · poster-724
 ![Nonprofit Volunteers Needed](cases/gpt-image-2/apimodels-poster-724/original.png)
@@ -372,7 +372,7 @@ A warm community recruitment flyer for the fictional nonprofit 'Green Roots Coll
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-724) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Creative Agency Hiring · poster-725
 ![Creative Agency Hiring](cases/gpt-image-2/apimodels-poster-725/original.png)
@@ -382,7 +382,7 @@ A bold, design-forward hiring poster for the invented agency 'Studio Halcyon.' A
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-725) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Warehouse Jobs Flyer · poster-726
 ![Warehouse Jobs Flyer](cases/gpt-image-2/apimodels-poster-726/original.png)
@@ -392,7 +392,7 @@ A clear, high-visibility hiring flyer for the fictional logistics firm 'PrimeMov
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-726) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented employer, pay and benefits; not a job offer.
+ProjectD: published-accepted (run42069117745). Invented employer, pay and benefits; not a job offer.
 
 ## Summer Camp Counselors · poster-727
 ![Summer Camp Counselors](cases/gpt-image-2/apimodels-poster-727/original.png)
@@ -402,7 +402,7 @@ A playful summer-camp recruitment flyer for the fictional 'Camp Willow Creek.' A
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-727) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Salon Stylist Opening · poster-728
 ![Salon Stylist Opening](cases/gpt-image-2/apimodels-poster-728/original.png)
@@ -412,7 +412,7 @@ An elegant hiring flyer for the fictional salon 'Vellour Hair Studio.' A luxe bl
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-728) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Modern Open House · poster-729
 ![Modern Open House](cases/gpt-image-2/apimodels-poster-729/original.png)
@@ -422,7 +422,7 @@ A clean real-estate open-house flyer for a modern property. A bright photo-style
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-729) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Synthetic property/agent concept, not a real listing; portrait, names, price and contact lettering are generated.
+ProjectD: published-accepted (run42069117745). Synthetic property/agent concept, not a real listing; portrait, names, price and contact lettering are generated.
 
 ## Cozy Cottage Listing · poster-730
 ![Cozy Cottage Listing](cases/gpt-image-2/apimodels-poster-730/original.png)
@@ -432,7 +432,7 @@ A warm real-estate open-house flyer for a charming cottage. A cozy render of a b
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-730) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Fictional property and agent illustration, not a verified listing.
+ProjectD: published-accepted (run42069117745). Fictional property and agent illustration, not a verified listing.
 
 ## Luxury Condo Flyer · poster-731
 ![Luxury Condo Flyer](cases/gpt-image-2/apimodels-poster-731/original.png)
@@ -442,7 +442,7 @@ A sophisticated luxury-condo open-house flyer. A dramatic dusk render of a glass
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-731) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Suburban Family Home · poster-732
 ![Suburban Family Home](cases/gpt-image-2/apimodels-poster-732/original.png)
@@ -452,7 +452,7 @@ A bright, family-friendly open-house flyer for a suburban home. A cheerful dayti
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-732) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated school-district/property claims are mockup copy.
+ProjectD: published-accepted (run42069117745). Generated school-district/property claims are mockup copy.
 
 ## Downtown Loft Space · poster-733
 ![Downtown Loft Space](cases/gpt-image-2/apimodels-poster-733/original.png)
@@ -462,7 +462,7 @@ A stylish open-house flyer for an urban loft. A moody render of an exposed-brick
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-733) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Just Sold Announcement · poster-735
 ![Just Sold Announcement](cases/gpt-image-2/apimodels-poster-735/original.png)
@@ -472,7 +472,7 @@ A celebratory 'JUST SOLD' real-estate flyer. A crisp render of a handsome crafts
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-735) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Synthetic agent advertising; sold-in-six-days claim is fictional.
+ProjectD: published-accepted (run42069117745). Synthetic agent advertising; sold-in-six-days claim is fictional.
 
 ## Beachfront Property · poster-734
 ![Beachfront Property](cases/gpt-image-2/apimodels-poster-734/original.png)
@@ -482,7 +482,7 @@ A breezy coastal open-house flyer for a beachfront property. A sunlit render of 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-734) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Mountain Cabin Retreat · poster-736
 ![Mountain Cabin Retreat](cases/gpt-image-2/apimodels-poster-736/original.png)
@@ -492,7 +492,7 @@ A rustic open-house flyer for a mountain cabin. A warm render of a log cabin nes
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-736) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## New Development Preview · poster-737
 ![New Development Preview](cases/gpt-image-2/apimodels-poster-737/original.png)
@@ -502,4 +502,4 @@ A polished pre-construction real-estate flyer for a new development. A crisp arc
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-737) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.

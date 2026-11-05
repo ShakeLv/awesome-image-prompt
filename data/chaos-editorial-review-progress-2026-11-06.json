@@ -1,0 +1,518 @@
+{
+  "sourceCommit": "5296db8c996e38776c83a0bc8c64f848dcd512b3",
+  "items": {
+    "2d-3d-medium-collision/series-crayon-apple-carrier/01-paper-figure-reference": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "b7c1f269ca164acbe6ddb1f80c5c22a1552823e7",
+      "nativeSha256": "5a761c79294217e8a099c79c2890efd6b953433b0922f4b33d2c607737a33358",
+      "reason": "Surreal mixed-medium art study; source-published2400px rendition, not8K raw output or a measured/verified optics simulation. Preserve reference requirements for source-dependent variants."
+    },
+    "2d-3d-medium-collision/series-crayon-apple-carrier/02-glass-marble-lift": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f786c1c9d43697bda6b3bbd7db2d44e6651a2b18",
+      "nativeSha256": "36a570f06004ec12009507ce75e6a5c3786d382a88e486af405752929b414a54",
+      "reason": "Surreal mixed-medium art study; source-published2400px rendition, not8K raw output or a measured/verified optics simulation. Preserve reference requirements for source-dependent variants."
+    },
+    "2d-3d-medium-collision/series-crayon-apple-carrier/03-metal-cube-balance": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "486e70bbe74891e864b6955b5beea899e709a67f",
+      "nativeSha256": "ae3516a333c7e4b7150ddfb3417c2dd63f73dc12e02d8edbd0995061b6f61cf4",
+      "reason": "Surreal mixed-medium art study; source-published2400px rendition, not8K raw output or a measured/verified optics simulation. Preserve reference requirements for source-dependent variants."
+    },
+    "2d-3d-medium-collision/series-crayon-apple-carrier/04-water-balloon-strain": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "cbc08cb9ea2bd0e73a23ab31be8bda0aea88f4e3",
+      "nativeSha256": "c1c353a6ca7bd451672506e124be21853cc80b2f4ef9a0ba2018aba12d78d678",
+      "reason": "Surreal mixed-medium art study; source-published2400px rendition, not8K raw output or a measured/verified optics simulation. Preserve reference requirements for source-dependent variants."
+    },
+    "2d-3d-medium-collision/single-medium-collision-studies/ink-cat-fishbowl": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f7689f3445abddbd0c063e341c38b5832b30a034",
+      "nativeSha256": "df45a0c7907d3ae35a7b54b6056acbc713c9062d147d5c51febab100d6a677e1",
+      "reason": "Surreal mixed-medium art study; source-published2400px rendition, not8K raw output or a measured/verified optics simulation. Preserve reference requirements for source-dependent variants."
+    },
+    "2d-3d-medium-collision/single-medium-collision-studies/collage-astronaut-orange": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "cc2deb24060e03258ba805d676891bb664b16406",
+      "nativeSha256": "c59b803c86ac2332a073a66877d87455923c1425ca76daa3db587f31db59e4c8",
+      "reason": "Surreal mixed-medium art study; source-published2400px rendition, not8K raw output or a measured/verified optics simulation. Preserve reference requirements for source-dependent variants."
+    },
+    "2d-3d-medium-collision/single-medium-collision-studies/blueprint-hand-crystal": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "d351d66797fa26fa5c25fb7307367727ae6a1379",
+      "nativeSha256": "2bcbf59eba9acd68391050f54a7694321ea352db0c7f060a1516bc2c72520ee4",
+      "reason": "Surreal mixed-medium art study; source-published2400px rendition, not8K raw output or a measured/verified optics simulation. Preserve reference requirements for source-dependent variants."
+    },
+    "4d-hypercube-projection-poster/single-hypercube-projection-studies/01-museum-core-projection": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "52681965222cfabcd43545961eaca6897214e008",
+      "nativeSha256": "d14b0ae29c147da122115b68ad5fe8889015ff2deb679352d0d4e79a3da4e156",
+      "reason": "Prompt asks analytically exact tesseract/phase geometry; generated edge counts and auxiliary projections are not independently verified for educational use. Retain source artwork in archive; hold ProjectD pending geometry review."
+    },
+    "4d-hypercube-projection-poster/single-hypercube-projection-studies/02-glass-phase-array": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "ce59d919076f0904db712275ffb001bd84d6a682",
+      "nativeSha256": "032fc1f94a28a3b8722e727f00877323a7993e579d00274d56e4bb7d68402ccb",
+      "reason": "Prompt asks analytically exact tesseract/phase geometry; generated edge counts and auxiliary projections are not independently verified for educational use. Retain source artwork in archive; hold ProjectD pending geometry review."
+    },
+    "4d-hypercube-projection-poster/single-hypercube-projection-studies/03-wireframe-orbit-sheet": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "2f617b26e913681a1f53a0cc51c27a1e82f1e1e4",
+      "nativeSha256": "96173e0d48e60a000d6bb21680718d98fe1747f517d2cb4c999241bfa314c111",
+      "reason": "Prompt asks analytically exact tesseract/phase geometry; generated edge counts and auxiliary projections are not independently verified for educational use. Retain source artwork in archive; hold ProjectD pending geometry review."
+    },
+    "4d-hypercube-projection-poster/single-hypercube-projection-studies/04-chalkboard-rotation-proof": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f90f714a93417d15da06763f43b79b05fb0cc436",
+      "nativeSha256": "543b028239505507e6fc42ad14225b4f721758961635ef693b838559c38ddfae",
+      "reason": "Prompt asks analytically exact tesseract/phase geometry; generated edge counts and auxiliary projections are not independently verified for educational use. Retain source artwork in archive; hold ProjectD pending geometry review."
+    },
+    "4d-hypercube-projection-poster/single-hypercube-projection-studies/05-neon-depth-study": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "e60dd4cb4fe991399dd07588531d7290bc37ae87",
+      "nativeSha256": "eda2532696b040dc5c883489c5442b9d2938f65f7e314402017f50b463b10e97",
+      "reason": "Prompt asks analytically exact tesseract/phase geometry; generated edge counts and auxiliary projections are not independently verified for educational use. Retain source artwork in archive; hold ProjectD pending geometry review."
+    },
+    "4d-hypercube-projection-poster/single-hypercube-projection-studies/06-bronze-engraving-poster": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "0653db7b543215c7f21acead7e2ed78ba3425199",
+      "nativeSha256": "8a7f8dae1a44bbf2000a093bd3493df8d99d5898657565720f63a52a8ea17f48",
+      "reason": "Prompt asks analytically exact tesseract/phase geometry; generated edge counts and auxiliary projections are not independently verified for educational use. Retain source artwork in archive; hold ProjectD pending geometry review."
+    },
+    "4d-hypercube-projection-poster/single-hypercube-projection-studies/07-celestial-shadow-cube": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "cd66e23edf4a0a843190ec300b520213e194db95",
+      "nativeSha256": "c54cd8b51e305f72b69f2ed4416137f1160e21d67be5f2fb2bae6f9075579776",
+      "reason": "Prompt asks analytically exact tesseract/phase geometry; generated edge counts and auxiliary projections are not independently verified for educational use. Retain source artwork in archive; hold ProjectD pending geometry review."
+    },
+    "4d-hypercube-projection-poster/single-hypercube-projection-studies/08-transparent-acrylic-model": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "7f6d8697d8401e4cbb2b69271df54ee3852af8fa",
+      "nativeSha256": "ee8a5adac173821d61463ad843ea3d3075aab96e4e95c31803e019d5ee9ca3ef",
+      "reason": "Prompt asks analytically exact tesseract/phase geometry; generated edge counts and auxiliary projections are not independently verified for educational use. Retain source artwork in archive; hold ProjectD pending geometry review."
+    },
+    "4d-hypercube-projection-poster/single-hypercube-projection-studies/09-monochrome-index-plate": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "sheet": 1,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f5510d4804dd0dc39df9820a9364d36586867d2b",
+      "nativeSha256": "d8453f385bd931f325479afd9b73ef527dc748642a7724167d91fe42651aa224",
+      "reason": "Prompt asks analytically exact tesseract/phase geometry; generated edge counts and auxiliary projections are not independently verified for educational use. Retain source artwork in archive; hold ProjectD pending geometry review."
+    },
+    "abstract-expressionism-study/single-abstract-expressionism-studies/color-field-threshold": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "92ec58bba9a0361a45208c930120a9b9fa5e1e72",
+      "nativeSha256": "7410086f09d9271182f05a38452863547f5ea67db7a9a5dc4ddb2ec8a93799f5",
+      "reason": "Source-published abstract-expressionist style study, not an original work by the named painters or an independently checked match to a specific artwork.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "abstract-expressionism-study/single-abstract-expressionism-studies/fractured-figure-surge": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "e330d9c1e8cbb37d6ac8a4f3972da7615ff7ce4e",
+      "nativeSha256": "33a337f232c730bc5f7db779f7727fc189024f8b0c4c99cb9d286a271b3e587c",
+      "reason": "Source-published abstract-expressionist style study, not an original work by the named painters or an independently checked match to a specific artwork.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "abstract-expressionism-study/single-abstract-expressionism-studies/black-brush-choir": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "4870e6f7e274b2fcaa0d9b0eb73b0a0414a1065a",
+      "nativeSha256": "355360a2ed7c0e9248e80edf460c64c16c1434811f83d36409fca19e0636dcb0",
+      "reason": "Source-published abstract-expressionist style study, not an original work by the named painters or an independently checked match to a specific artwork.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "abstract-expressionism-study/single-abstract-expressionism-studies/studio-floor-afterimage": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "94705b54ee677af414c24482227685a84b98697e",
+      "nativeSha256": "c64b41bc8cef478590ff791ea3194daef422573ceb1b213ede948cf768665501",
+      "reason": "Source-published abstract-expressionist style study, not an original work by the named painters or an independently checked match to a specific artwork.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "abstract-expressionism-study/single-abstract-expressionism-studies/impasto-weather": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "9934f37e2e61691e2760c2a83037b22eed22da33",
+      "nativeSha256": "d987edc81a9e9e93d165735f112c64d721e0da73ecbc87f6527b0d999ff9de20",
+      "reason": "Source-published abstract-expressionist style study, not an original work by the named painters or an independently checked match to a specific artwork.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "abstract-expressionism-study/single-abstract-expressionism-studies/gesture-architecture": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "44a004b07bb420d6e8901d984fcd093172ac2af5",
+      "nativeSha256": "3a92096a97083ba0d4e9b5dfeaa79852282fdea7a394e19f5b80b741cfedc19a",
+      "reason": "Source-published abstract-expressionist style study, not an original work by the named painters or an independently checked match to a specific artwork.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "abstract-expressionism-study/single-abstract-expressionism-studies/museum-wall-hang": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "fe15351d853168f518892b2482f8761d6cc72f5d",
+      "nativeSha256": "ce9b08879d2fc14d2071a9e5d91cb942f0f597eb776e44edc362c7d094466d33",
+      "reason": "Source-published abstract-expressionist style study, not an original work by the named painters or an independently checked match to a specific artwork.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "absurd-object-serious-photo-series/series-core-system/01-reference-anchor": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "7b2a394d5aae463c01729f9c98a06b31b037b23e",
+      "nativeSha256": "3190ffae35098bd85b5e2c736fa912cca65a47d03fa8c5291c07274571ce5eb0",
+      "reason": "Illustrated game-asset/interface concept, not an executable interface or a real manufactured bread gramophone. Source-declared reference dependencies retained for variants.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "absurd-object-serious-photo-series/series-core-system/02-variant-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "a151108005fc7cddb99a4d23ab4a4d3d11fe5f0c",
+      "nativeSha256": "89507d1ee6dc35722c86982e3c4f56ddc8fb3f5862ef911f02753e7ff055e3b9",
+      "reason": "Illustrated game-asset/interface concept, not an executable interface or a real manufactured bread gramophone. Source-declared reference dependencies retained for variants.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "absurd-object-serious-photo-series/series-core-system/03-variant-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "a34ce0f61eb230e983262a4d56e8acd98d1d0d9e",
+      "nativeSha256": "6bbe0af3d0cedaedc97890b58b42f12c74ebc156b35133fd30729403390ea390",
+      "reason": "Illustrated game-asset/interface concept, not an executable interface or a real manufactured bread gramophone. Source-declared reference dependencies retained for variants.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "absurd-object-serious-photo-series/series-core-system/04-variant-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "02c07b1bd9c699e8bbeefd6608a40c73e82f567d",
+      "nativeSha256": "16ba998f0419fc67c3c2271b80a02a072b134ef702682a418cb9d6e07271b558",
+      "reason": "Illustrated game-asset/interface concept, not an executable interface or a real manufactured bread gramophone. Source-declared reference dependencies retained for variants.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "absurd-object-serious-photo-series/single-support-studies/support-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "383f6696723ed0c2a593c3cde5869deaac3475f9",
+      "nativeSha256": "c2556a52938a9086e0669771da7287d5577639e1b5fafa653c7b281a5192510e",
+      "reason": "Illustrated game-asset/interface concept, not an executable interface or a real manufactured bread gramophone. Source-declared reference dependencies retained for variants.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "absurd-object-serious-photo-series/single-support-studies/support-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "cf8c417d1c51d993dcc3b9be9be2178c801131f3",
+      "nativeSha256": "cc793b02ae159b3291fc6d86d2c633eef984d70a1d28bfd2cf803d660ab221c3",
+      "reason": "Illustrated game-asset/interface concept, not an executable interface or a real manufactured bread gramophone. Source-declared reference dependencies retained for variants.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "absurd-object-serious-photo-series/single-support-studies/support-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "826c681518c315f5248fee775dc29b0f0c7f8648",
+      "nativeSha256": "b9f0df8e496f4ac55856e02ec010253c48a0caf79d09fcf80be1ac0e021775b6",
+      "reason": "Illustrated game-asset/interface concept, not an executable interface or a real manufactured bread gramophone. Source-declared reference dependencies retained for variants.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "absurd-object-serious-photo-series/single-support-studies/support-four": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "e4905ab5629deb173ca31fe85ee055126dad39b5",
+      "nativeSha256": "e1e2c37a1d2470622315a85e4371ac078964fd03b32e207e1fa49ee93ebe4150",
+      "reason": "Illustrated game-asset/interface concept, not an executable interface or a real manufactured bread gramophone. Source-declared reference dependencies retained for variants.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "absurd-object-serious-photo-series/single-support-studies/support-five": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "sheet": 2,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "c3297c74e9f1607f33ea8e400b23ebd25476e2d0",
+      "nativeSha256": "a960159dec1af0a86289d889bb0a033b8895bf34932f3a4fa8fdae574ac673b6",
+      "reason": "Illustrated game-asset/interface concept, not an executable interface or a real manufactured bread gramophone. Source-declared reference dependencies retained for variants.",
+      "promptReviewMethod": "Full baseline source text plus complete exact sentence diffs; all unchanged sentences/whitespace are byte-identical to the read baseline."
+    },
+    "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/vent-garden-pulse": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "278ad25d5b0ef931d7bef65e4186e6dbc9ea27df",
+      "nativeSha256": "045629d1082e866c8956467c31df4fe5dbc8432c9abbb4c400e72831873d9510",
+      "reason": "Explicitly speculative deep-sea organism/worldbuilding illustration, not a real photographed species, biological finding or scientific field record."
+    },
+    "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/medusa-drift-column": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "2069abf0eb5de2eb42a6e5a22513543f93c30716",
+      "nativeSha256": "6a77e3b23f71cfc93e1880bd7ff0607312bb1e2a1090b21b331b05fc7de3280b",
+      "reason": "Explicitly speculative deep-sea organism/worldbuilding illustration, not a real photographed species, biological finding or scientific field record."
+    },
+    "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/scavenger-pack-trail": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "24d4eeb2ba7228e657b9595d86b40c7b107dcb5a",
+      "nativeSha256": "84edb35e02817d0016deff40ad2901a52c5a138821b2e128329ea05678154d36",
+      "reason": "Explicitly speculative deep-sea organism/worldbuilding illustration, not a real photographed species, biological finding or scientific field record."
+    },
+    "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/nursery-shell-colony": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "52df5b3b5935212fac870d2f42d7b18d59ee35b9",
+      "nativeSha256": "c7ca53121f76e8259b1373631177d5687af821271a0f7226402f032b8db9b746",
+      "reason": "Explicitly speculative deep-sea organism/worldbuilding illustration, not a real photographed species, biological finding or scientific field record."
+    },
+    "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/siphon-forest-closeup": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "fee2ba26ad728393302f5c53072e09ee2c8c0463",
+      "nativeSha256": "c1e33e60b953a9efb34a5473f87a9e3284361581915f38e42267e027ea020a21",
+      "reason": "Explicitly speculative deep-sea organism/worldbuilding illustration, not a real photographed species, biological finding or scientific field record."
+    },
+    "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/predator-lure-ambush": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "83a062ab0ce0ebad1434615b6295344c2791d5e1",
+      "nativeSha256": "f80c04978da62f212ee7d451b26c77ba2fcf9520297ed2c066e02730a1ba0ae3",
+      "reason": "Explicitly speculative deep-sea organism/worldbuilding illustration, not a real photographed species, biological finding or scientific field record. Intentionally dark ambush composition; preserve original exposure without enhancement."
+    },
+    "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/carrion-snow-feeders": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "929b779672fdec39978b6c898a27bb1b7946547c",
+      "nativeSha256": "a5ad1e78890a49a935b6b623479e14c4cc6775abf7fd99e4619af27f62425204",
+      "reason": "Explicitly speculative deep-sea organism/worldbuilding illustration, not a real photographed species, biological finding or scientific field record."
+    },
+    "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/survey-plate-assemblage": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "551fa6604a0f4698be66c26b58044137455993c7",
+      "nativeSha256": "6493360cd74a30698bee7c7b2b91209363c893664014e3bee8ac82655ae1b657",
+      "reason": "Explicitly speculative deep-sea organism/worldbuilding illustration, not a real photographed species, biological finding or scientific field record."
+    },
+    "action-beat-comic-page/series-theme-core/01-reference-anchor": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "2bef3a2e12c0f2de7aea3e8fc51282d53bd1664a",
+      "nativeSha256": "45d7d809937a8d70b191b9518f009348eeb2623bc89460d423fb80cb4ec044fc",
+      "reason": "Fictional comic/game-art concept; source reference dependency preserved where declared. Not a playable game, shipped asset or verified proprietary franchise character."
+    },
+    "action-beat-comic-page/series-theme-core/02-variation-one": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "5a093fc284943a6a03c4176161df8fd14e255b94",
+      "nativeSha256": "c149399d4d4dadbb228512c82cf23fbbe6f6fa8a6bb9747ba4c8bc181fae53a4",
+      "reason": "Fictional comic/game-art concept; source reference dependency preserved where declared. Not a playable game, shipped asset or verified proprietary franchise character."
+    },
+    "action-beat-comic-page/series-theme-core/03-variation-two": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "ee6aa907b6d6e55acfb79f82134a8088c65e3e9f",
+      "nativeSha256": "eabe1c2164ed59027fd201d3772b4824ce205ca9b1a90a35eed6fd108a021e2c",
+      "reason": "Fictional comic/game-art concept; source reference dependency preserved where declared. Not a playable game, shipped asset or verified proprietary franchise character."
+    },
+    "action-beat-comic-page/series-theme-core/04-variation-three": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "2806919f3d86de0a9940f4d6c36d2b1299ff24d8",
+      "nativeSha256": "f29ba723d1e6d28681d46cb2f80f1bf18c9d09711a1ec4035788a8accac1381d",
+      "reason": "Fictional comic/game-art concept; source reference dependency preserved where declared. Not a playable game, shipped asset or verified proprietary franchise character."
+    },
+    "action-beat-comic-page/single-theme-extensions/detail-proof": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "6a4e70ac88cff2ab90838e4c1d2e33842cfed237",
+      "nativeSha256": "ba9c7291b67e7ae7e0573cd8a26d1ab6fae239ea114d4b4ab5990b0f4530067d",
+      "reason": "Fictional comic/game-art concept; source reference dependency preserved where declared. Not a playable game, shipped asset or verified proprietary franchise character."
+    },
+    "action-beat-comic-page/single-theme-extensions/system-board": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "31fc5352089793c2936dd4b1324aef30c63abd29",
+      "nativeSha256": "166b946947bb6d4fda4342273f31ff272d6d7df5515a93cec808840d6aac08e1",
+      "reason": "Fictional comic/game-art concept; source reference dependency preserved where declared. Not a playable game, shipped asset or verified proprietary franchise character."
+    },
+    "action-beat-comic-page/single-theme-extensions/promo-crop": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "f9b25c49413b8d6f6b6398aef702fdba2e305414",
+      "nativeSha256": "054c60c13e48d8b2dc21522619c1b1bd092427dd8cc39b2a6269b8fa1bc93428",
+      "reason": "Fictional comic/game-art concept; source reference dependency preserved where declared. Not a playable game, shipped asset or verified proprietary franchise character."
+    },
+    "action-beat-comic-page/single-theme-extensions/finale-study": {
+      "status": "approved-local-review-not-imported",
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "sheet": 3,
+      "fullOriginalPromptRead": true,
+      "completeSourceFrameViewed": true,
+      "nativeGitBlobVerified": "8281220b4262246cd319215014037249ce700845",
+      "nativeSha256": "f1b42a671aee1c35d5660b6289bba803b49159ad09c4aa725fd7562a406c49dd",
+      "reason": "Fictional comic/game-art concept; source reference dependency preserved where declared. Not a playable game, shipped asset or verified proprietary franchise character."
+    }
+  },
+  "sheets": {
+    "1": {
+      "reviewedAt": "2026-11-05T17:06:30.346213+00:00",
+      "cases": 16,
+      "held": 9
+    },
+    "2": {
+      "reviewedAt": "2026-11-05T17:14:02.594393+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "3": {
+      "reviewedAt": "2026-11-05T17:15:52.659605+00:00",
+      "cases": 16,
+      "held": 0
+    }
+  }
+}

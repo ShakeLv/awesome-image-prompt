@@ -12,7 +12,7 @@ A vibrant restaurant menu-special flyer for 'Casa Verde Cantina.' A hand-drawn i
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-739) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Country Farmhouse Estate · poster-738
 ![Country Farmhouse Estate](cases/gpt-image-2/apimodels-poster-738/original.png)
@@ -22,7 +22,7 @@ An elegant open-house flyer for a country farmhouse estate. A golden-hour render
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-738) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Sushi Happy Hour · poster-740
 ![Sushi Happy Hour](cases/gpt-image-2/apimodels-poster-740/original.png)
@@ -32,7 +32,7 @@ A sleek restaurant menu-special flyer for 'Sakura Nine Sushi.' A minimalist dark
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-740) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Pizza Family Deal · poster-741
 ![Pizza Family Deal](cases/gpt-image-2/apimodels-poster-741/original.png)
@@ -42,7 +42,7 @@ A fun restaurant menu-special flyer for 'Nonna's Wood-Fired Pizza.' A mouthwater
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-741) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Brunch Menu Poster · poster-742
 ![Brunch Menu Poster](cases/gpt-image-2/apimodels-poster-742/original.png)
@@ -52,7 +52,7 @@ A charming restaurant brunch-special flyer for 'The Copper Spoon.' A soft waterc
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-742) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Burger Combo Blowout · poster-743
 ![Burger Combo Blowout](cases/gpt-image-2/apimodels-poster-743/original.png)
@@ -62,7 +62,7 @@ A bold restaurant menu-special flyer for 'Grind House Burgers.' A juicy illustra
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-743) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Ramen Night Special · poster-744
 ![Ramen Night Special](cases/gpt-image-2/apimodels-poster-744/original.png)
@@ -72,7 +72,7 @@ An atmospheric restaurant menu-special flyer for 'Midnight Bowl Ramen.' A steamy
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-744) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Seafood Boil Feast · poster-745
 ![Seafood Boil Feast](cases/gpt-image-2/apimodels-poster-745/original.png)
@@ -82,7 +82,7 @@ A festive restaurant menu-special flyer for 'Bayou Shell Shack.' A vibrant illus
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-745) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Dessert Bar Specials · poster-746
 ![Dessert Bar Specials](cases/gpt-image-2/apimodels-poster-746/original.png)
@@ -92,7 +92,7 @@ A sweet restaurant menu-special flyer for 'Velvet & Sugar Dessert Bar.' A delica
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-746) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Curry House Lunch · poster-747
 ![Curry House Lunch](cases/gpt-image-2/apimodels-poster-747/original.png)
@@ -102,7 +102,7 @@ A warm restaurant lunch-special flyer for 'Golden Turmeric Curry House.' A rich 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-747) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Coffee & Pastry Combo · poster-748
 ![Coffee & Pastry Combo](cases/gpt-image-2/apimodels-poster-748/original.png)
@@ -112,7 +112,7 @@ A cozy cafe menu-special flyer for 'The Daily Grind Cafe.' A warm hand-drawn ill
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-748) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Mobile OS Market Share · infographic-819
 ![Mobile OS Market Share](cases/gpt-image-2/apimodels-infographic-819/original.png)
@@ -122,7 +122,7 @@ A market-share infographic, 4:5, titled 'Mobile OS Market Share 2025'. A large d
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-819) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Explicitly invented OS brands and illustrative market data; not actual 2025 research.
+ProjectD: published-accepted (run42069117745). Explicitly invented OS brands and illustrative market data; not actual 2025 research.
 
 ## EV Brand Market Share · infographic-820
 ![EV Brand Market Share](cases/gpt-image-2/apimodels-infographic-820/original.png)
@@ -132,7 +132,7 @@ A market-share infographic, 2:3, titled 'Electric Car Market Share 2025'. A hori
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-820) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented EV makers and sales statistics; not market evidence.
+ProjectD: published-accepted (run42069117745). Invented EV makers and sales statistics; not market evidence.
 
 ## Cloud Provider Market Share · infographic-821
 ![Cloud Provider Market Share](cases/gpt-image-2/apimodels-infographic-821/original.png)
@@ -142,7 +142,7 @@ A tech market-share infographic, 4:5, titled 'Cloud Infrastructure Market Share'
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-821) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented providers; generated source/footer and figures are illustrative.
+ProjectD: published-accepted (run42069117745). Invented providers; generated source/footer and figures are illustrative.
 
 ## Streaming Platform Share · infographic-822
 ![Streaming Platform Share](cases/gpt-image-2/apimodels-infographic-822/original.png)
@@ -152,7 +152,7 @@ A media market-share infographic, 9:16, titled 'Streaming Subscribers by Platfor
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-822) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented streaming platforms and subscriber counts.
+ProjectD: published-accepted (run42069117745). Invented streaming platforms and subscriber counts.
 
 ## Coffee Chain Market Share · infographic-824
 ![Coffee Chain Market Share](cases/gpt-image-2/apimodels-infographic-824/original.png)
@@ -162,7 +162,7 @@ A retail market-share infographic, 2:3, titled 'Coffee Chain Market Share'. A ho
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-824) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented chain shares/store counts.
+ProjectD: published-accepted (run42069117745). Invented chain shares/store counts.
 
 ## Gaming Console Share · infographic-825
 ![Gaming Console Share](cases/gpt-image-2/apimodels-infographic-825/original.png)
@@ -172,7 +172,7 @@ A gaming market-share infographic, 4:5, titled 'Console Market Share 2025'. A do
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-825) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented consoles/shares/prices.
+ProjectD: published-accepted (run42069117745). Invented consoles/shares/prices.
 
 ## Ride-Hailing Market Share · infographic-827
 ![Ride-Hailing Market Share](cases/gpt-image-2/apimodels-infographic-827/original.png)
@@ -182,7 +182,7 @@ A mobility market-share infographic, 4:5, titled 'Ride-Hailing Market Share'. A 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-827) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented ride-hailing services/statistics.
+ProjectD: published-accepted (run42069117745). Invented ride-hailing services/statistics.
 
 ## Social Platform Market Share · infographic-828
 ![Social Platform Market Share](cases/gpt-image-2/apimodels-infographic-828/original.png)
@@ -192,7 +192,7 @@ A social-media market-share infographic, 9:16, titled 'Social Platform Share by 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-828) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented platforms/users, not actual market data.
+ProjectD: published-accepted (run42069117745). Invented platforms/users, not actual market data.
 
 ## How a Leaf Makes Food · infographic-829
 ![How a Leaf Makes Food](cases/gpt-image-2/apimodels-infographic-829/original.png)
@@ -212,7 +212,7 @@ An earth-science infographic of the water cycle drawn as one continuous landscap
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-830) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. General illustrative water-cycle scene, not a measured hydrological model.
+ProjectD: published-accepted (run42069117745). General illustrative water-cycle scene, not a measured hydrological model.
 
 ## Inside an Animal Cell · infographic-831
 ![Inside an Animal Cell](cases/gpt-image-2/apimodels-infographic-831/original.png)
@@ -232,7 +232,7 @@ A life-cycle infographic showing the four stages of a monarch-style butterfly's 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-832) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Basic four-stage butterfly illustration, not species identification evidence.
+ProjectD: published-accepted (run42069117745). Basic four-stage butterfly illustration, not species identification evidence.
 
 ## Anatomy of a Volcano · infographic-833
 ![Anatomy of a Volcano](cases/gpt-image-2/apimodels-infographic-833/original.png)
@@ -242,7 +242,7 @@ A geology cutaway infographic of a stratovolcano sliced in half. The cross-secti
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-833) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Stylized volcano cross-section, not a measured geological section.
+ProjectD: published-accepted (run42069117745). Stylized volcano cross-section, not a measured geological section.
 
 ## The Planets to Scale · infographic-834
 ![The Planets to Scale](cases/gpt-image-2/apimodels-infographic-834/original.png)
@@ -402,7 +402,7 @@ A civics flow-diagram infographic explaining how a bill becomes law in the ficti
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-849) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Explicitly fictional Republic of Valen; illustrative civics workflow, not legal guidance.
+ProjectD: published-accepted (run42069117745). Explicitly fictional Republic of Valen; illustrative civics workflow, not legal guidance.
 
 ## From Bean to Cup · infographic-850
 ![From Bean to Cup](cases/gpt-image-2/apimodels-infographic-850/original.png)
@@ -412,7 +412,7 @@ A supply-chain flow infographic tracing coffee from farm to cup. A left-to-right
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-850) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Simplified illustrated coffee-processing sequence.
+ProjectD: published-accepted (run42069117745). Simplified illustrated coffee-processing sequence.
 
 ## The Life of a Plastic Bottle · infographic-851
 ![The Life of a Plastic Bottle](cases/gpt-image-2/apimodels-infographic-851/original.png)
@@ -432,7 +432,7 @@ A tech process infographic of the software development lifecycle shown as a hori
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-852) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Turn Scraps into Soil · infographic-854
 ![Turn Scraps into Soil](cases/gpt-image-2/apimodels-infographic-854/original.png)
@@ -442,7 +442,7 @@ A gardening process infographic explaining home composting as a layered cutaway 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-854) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Where's My Order? · infographic-853
 ![Where's My Order?](cases/gpt-image-2/apimodels-infographic-853/original.png)
@@ -452,7 +452,7 @@ A logistics flow infographic showing an online order's journey from click to doo
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-853) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## How Paper Is Made · infographic-855
 ![How Paper Is Made](cases/gpt-image-2/apimodels-infographic-855/original.png)
@@ -462,7 +462,7 @@ A manufacturing process infographic of how paper is made, shown as a factory lin
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-855) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## The Scientific Method · infographic-856
 ![The Scientific Method](cases/gpt-image-2/apimodels-infographic-856/original.png)
@@ -472,7 +472,7 @@ An education flowchart infographic of the scientific method drawn as a top-to-bo
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-856) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Support Decision Tree · infographic-858
 ![Support Decision Tree](cases/gpt-image-2/apimodels-infographic-858/original.png)
@@ -482,7 +482,7 @@ A UX process infographic laid out as a customer-support decision tree for a fict
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-858) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Fictional support workflow, not instructions for an existing service.
+ProjectD: published-accepted (run42069117745). Fictional support workflow, not instructions for an existing service.
 
 ## From River to Tap · infographic-857
 ![From River to Tap](cases/gpt-image-2/apimodels-infographic-857/original.png)

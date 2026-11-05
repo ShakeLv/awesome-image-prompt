@@ -12,7 +12,7 @@ An aesthetic stationery promo for invented brand 'Inkwell'. A soft lavender back
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-496) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Ace Your Term Study Tips · social-497
 ![Ace Your Term Study Tips](cases/gpt-image-2/apimodels-social-497/original.png)
@@ -22,7 +22,7 @@ A helpful back-to-school study-tips infographic card. A cream paper-textured bac
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-497) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. General study-tip illustration, not a personalized sleep recommendation.
+ProjectD: published-accepted (run42069117745). General study-tip illustration, not a personalized sleep recommendation.
 
 ## Welcome Back To Campus · social-498
 ![Welcome Back To Campus](cases/gpt-image-2/apimodels-social-498/original.png)
@@ -32,7 +32,7 @@ A lively campus-life illustration for a back-to-school post. Students walk and c
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-498) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Mama Bear Mothers Day Card · social-500
 ![Mama Bear Mothers Day Card](cases/gpt-image-2/apimodels-social-500/original.png)
@@ -42,7 +42,7 @@ A sweet cartoon Mother's Day card. A smiling mama bear hugs her little cub under
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-500) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Bloomhaus Mothers Day Sale · social-499
 ![Bloomhaus Mothers Day Sale](cases/gpt-image-2/apimodels-social-499/original.png)
@@ -52,7 +52,7 @@ An elegant Mother's Day sale banner for invented brand 'Bloomhaus'. A soft blush
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-499) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Mothers Love Quote Minimal · social-502
 ![Mothers Love Quote Minimal](cases/gpt-image-2/apimodels-social-502/original.png)
@@ -62,7 +62,7 @@ A minimal Mother's Day quote graphic. A warm ivory background carries a single f
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-502) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Rosewood Mothers Day Brunch · social-501
 ![Rosewood Mothers Day Brunch](cases/gpt-image-2/apimodels-social-501/original.png)
@@ -72,7 +72,7 @@ A bright Mother's Day brunch promo for invented cafe 'Rosewood Kitchen'. A cream
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-501) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Grillhouse Dads Day Feast · social-505
 ![Grillhouse Dads Day Feast](cases/gpt-image-2/apimodels-social-505/original.png)
@@ -82,7 +82,7 @@ A hearty Father's Day BBQ promo for invented brand 'Grillhouse'. A warm kraft-br
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-505) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Ironwood Fathers Day Sale · social-503
 ![Ironwood Fathers Day Sale](cases/gpt-image-2/apimodels-social-503/original.png)
@@ -92,7 +92,7 @@ A bold Father's Day sale banner for invented brand 'Ironwood'. A dark charcoal b
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-503) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Grateful For Family Illustration · social-508
 ![Grateful For Family Illustration](cases/gpt-image-2/apimodels-social-508/original.png)
@@ -102,7 +102,7 @@ A warm family-celebration illustration for a parents' day post. A cozy scene sho
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-508) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Fathers Day Gifts Flatlay · social-506
 ![Fathers Day Gifts Flatlay](cases/gpt-image-2/apimodels-social-506/original.png)
@@ -112,7 +112,7 @@ A stylish Father's Day flat-lay graphic. An overhead view on a slate surface arr
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-506) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## He Lied To Everyone · thumbnail-579
 ![He Lied To Everyone](cases/gpt-image-2/apimodels-thumbnail-579/original.png)
@@ -122,7 +122,7 @@ A shocked young man points accusingly at a glowing shattered mask floating mid-a
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#thumbnail-579) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## This Went Too Far · thumbnail-580
 ![This Went Too Far](cases/gpt-image-2/apimodels-thumbnail-580/original.png)
@@ -132,7 +132,7 @@ A wide-eyed reactor covers their mouth in disbelief, leaning back from a glowing
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#thumbnail-580) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Caught On Camera · thumbnail-581
 ![Caught On Camera](cases/gpt-image-2/apimodels-thumbnail-581/original.png)
@@ -142,7 +142,7 @@ A dramatic thumbnail styled like grainy security footage: a suspicious figure fr
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#thumbnail-581) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Synthetic security-footage-style thumbnail, not evidence of a real event.
+ProjectD: published-accepted (run42069117745). Synthetic security-footage-style thumbnail, not evidence of a real event.
 
 ## You Wont Believe This · thumbnail-582
 ![You Wont Believe This](cases/gpt-image-2/apimodels-thumbnail-582/original.png)
@@ -152,7 +152,7 @@ A stunned host with jaw dropped and hands on cheeks stares at a glowing floating
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#thumbnail-582) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## It All Fell Apart · thumbnail-583
 ![It All Fell Apart](cases/gpt-image-2/apimodels-thumbnail-583/original.png)
@@ -162,7 +162,7 @@ A distraught figure stands amid crumbling, glowing fragments of a collapsing str
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#thumbnail-583) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## The Truth Comes Out · thumbnail-584
 ![The Truth Comes Out](cases/gpt-image-2/apimodels-thumbnail-584/original.png)
@@ -172,7 +172,7 @@ A serious figure pulls back a glowing curtain of shadow to reveal a bright beam 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#thumbnail-584) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented document/operation lettering; not a historical document or allegation.
+ProjectD: published-accepted (run42069117745). Invented document/operation lettering; not a historical document or allegation.
 
 ## I Was So Wrong · thumbnail-585
 ![I Was So Wrong](cases/gpt-image-2/apimodels-thumbnail-585/original.png)
@@ -182,7 +182,7 @@ A humbled young man in a plain gray tee presses both palms to his temples with a
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#thumbnail-585) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Finally Exposed · thumbnail-586
 ![Finally Exposed](cases/gpt-image-2/apimodels-thumbnail-586/original.png)
@@ -192,7 +192,7 @@ A dramatic thumbnail of a shadowy figure caught in a sudden harsh spotlight, shi
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#thumbnail-586) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## This Ended Careers · thumbnail-587
 ![This Ended Careers](cases/gpt-image-2/apimodels-thumbnail-587/original.png)
@@ -202,7 +202,7 @@ A somber figure stands as glowing trophy and award icons crack and fall to the g
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#thumbnail-587) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Insane Plot Twist · thumbnail-588
 ![Insane Plot Twist](cases/gpt-image-2/apimodels-thumbnail-588/original.png)
@@ -212,7 +212,7 @@ A gasping reactor whips their head around with a shocked 'no way' face as a glow
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#thumbnail-588) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Swan Lake Ballet Gala · poster-659
 ![Swan Lake Ballet Gala](cases/gpt-image-2/apimodels-poster-659/original.png)
@@ -222,7 +222,7 @@ Graceful ballet poster for 'SWAN LAKE', a classical ballet gala at The Grand Ope
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-659) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Fictional promotional layout; dates/venue/ticket details are generated design copy.
+ProjectD: published-accepted (run42069117745). Fictional promotional layout; dates/venue/ticket details are generated design copy.
 
 ## The Glass Menagerie Revival · poster-660
 ![The Glass Menagerie Revival](cases/gpt-image-2/apimodels-poster-660/original.png)
@@ -232,7 +232,7 @@ Intimate memory-play theater poster for 'THE GLASS MENAGERIE', a delicate reviva
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-660) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. AI promotional concept for a real play, not a verified revival announcement; no play body text reproduced.
+ProjectD: published-accepted (run42069117745). AI promotional concept for a real play, not a verified revival announcement; no play body text reproduced.
 
 ## Comedy of Errors Night · poster-661
 ![Comedy of Errors Night](cases/gpt-image-2/apimodels-poster-661/original.png)
@@ -242,7 +242,7 @@ Playful comedy theater poster for 'A COMEDY OF ERRORS', a farcical romp at The J
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-661) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Synthetic theatre/performer and ticket details, not a verified performance.
+ProjectD: published-accepted (run42069117745). Synthetic theatre/performer and ticket details, not a verified performance.
 
 ## Phantom Opera Spectacle · poster-662
 ![Phantom Opera Spectacle](cases/gpt-image-2/apimodels-poster-662/original.png)
@@ -252,7 +252,7 @@ Grand opera poster for 'THE PHANTOM'S OPERA', a lavish gothic-romantic spectacle
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-662) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Shadow Puppets Folk Tale · poster-663
 ![Shadow Puppets Folk Tale](cases/gpt-image-2/apimodels-poster-663/original.png)
@@ -262,7 +262,7 @@ Enchanting shadow-play theater poster for 'THE MOON RABBIT', a shadow-puppet fol
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-663) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Neon City Musical · poster-664
 ![Neon City Musical](cases/gpt-image-2/apimodels-poster-664/original.png)
@@ -272,7 +272,7 @@ Vibrant contemporary musical poster for 'NEON CITY', an electrifying urban song-
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-664) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated cast names and theatre schedule are fictional promotional lettering.
+ProjectD: published-accepted (run42069117745). Generated cast names and theatre schedule are fictional promotional lettering.
 
 ## Aurora Ice Lounge Night · poster-665
 ![Aurora Ice Lounge Night](cases/gpt-image-2/apimodels-poster-665/original.png)
@@ -282,7 +282,7 @@ Cool upscale winter club poster for 'AURORA ICE LOUNGE', a frozen-themed party a
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-665) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated DJ lineup and date are design copy, not a real event.
+ProjectD: published-accepted (run42069117745). Generated DJ lineup and date are design copy, not a real event.
 
 ## Cocoa Carnival Chocolate Fair · poster-666
 ![Cocoa Carnival Chocolate Fair](cases/gpt-image-2/apimodels-poster-666/original.png)
@@ -292,7 +292,7 @@ Indulgent chocolate festival poster for 'COCOA CARNIVAL', a chocolate and cacao 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-666) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Sandline Beach Volleyball · poster-667
 ![Sandline Beach Volleyball](cases/gpt-image-2/apimodels-poster-667/original.png)
@@ -302,7 +302,7 @@ Energetic beach-sports poster for the 'SANDLINE BEACH VOLLEYBALL CLASSIC', a pro
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-667) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Blank Space Poster · poster-670
 ![Blank Space Poster](cases/gpt-image-2/apimodels-poster-670/original.png)
@@ -312,7 +312,7 @@ A minimalist typographic poster exploring emptiness. On a pale grey field, the w
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-670) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## OrbitLaunch Space Expo · poster-668
 ![OrbitLaunch Space Expo](cases/gpt-image-2/apimodels-poster-668/original.png)
@@ -332,7 +332,7 @@ A minimalist typographic poster on a warm bone-white background. The single phra
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-669) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Margin Notes · poster-674
 ![Margin Notes](cases/gpt-image-2/apimodels-poster-674/original.png)
@@ -342,7 +342,7 @@ A minimalist typographic poster imitating a manuscript page. A wide left margin 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-674) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Vertical Rhythm Study · poster-672
 ![Vertical Rhythm Study](cases/gpt-image-2/apimodels-poster-672/original.png)
@@ -352,7 +352,7 @@ A minimalist typographic poster built from a single word 'FLOW' repeated vertica
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-672) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Less But Better · poster-671
 ![Less But Better](cases/gpt-image-2/apimodels-poster-671/original.png)
@@ -362,7 +362,7 @@ A minimalist design poster reading 'LESS, BUT BETTER' in a precise neutral sans-
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-671) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Question Mark Poster · poster-673
 ![Question Mark Poster](cases/gpt-image-2/apimodels-poster-673/original.png)
@@ -372,7 +372,7 @@ A bold minimalist poster dominated by a single giant question mark rendered as p
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-673) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## One Sentence Poster · poster-676
 ![One Sentence Poster](cases/gpt-image-2/apimodels-poster-676/original.png)
@@ -382,7 +382,7 @@ An ultra-minimal poster carrying a single long sentence set very small and cente
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-676) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Overlap Type Poster · poster-675
 ![Overlap Type Poster](cases/gpt-image-2/apimodels-poster-675/original.png)
@@ -392,7 +392,7 @@ A minimalist poster where two words 'STAY' and 'GO' overlap at the center, print
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-675) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Dot Grid Minimal · poster-677
 ![Dot Grid Minimal](cases/gpt-image-2/apimodels-poster-677/original.png)
@@ -402,7 +402,7 @@ A minimalist typographic poster over a faint regular dot grid. In the upper thir
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-677) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cut In Half · poster-678
 ![Cut In Half](cases/gpt-image-2/apimodels-poster-678/original.png)
@@ -412,7 +412,7 @@ A minimalist poster split precisely into two horizontal halves, top pure warm wh
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-678) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Rise Anyway Quote · poster-679
 ![Rise Anyway Quote](cases/gpt-image-2/apimodels-poster-679/original.png)
@@ -422,7 +422,7 @@ A motivational quote poster with the line 'FALL SEVEN TIMES, RISE ANYWAY' set in
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-679) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Do It Scared · poster-680
 ![Do It Scared](cases/gpt-image-2/apimodels-poster-680/original.png)
@@ -432,7 +432,7 @@ A motivational poster reading 'DO IT SCARED' in enormous hand-painted brush lett
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-680) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Progress Not Perfect · poster-682
 ![Progress Not Perfect](cases/gpt-image-2/apimodels-poster-682/original.png)
@@ -442,7 +442,7 @@ A clean motivational poster stating 'PROGRESS OVER PERFECTION' in bold geometric
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-682) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Grow Through It · poster-681
 ![Grow Through It](cases/gpt-image-2/apimodels-poster-681/original.png)
@@ -452,7 +452,7 @@ A motivational quote poster with 'GROW THROUGH WHAT YOU GO THROUGH' arranged as 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-681) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Stay Hungry Poster · poster-683
 ![Stay Hungry Poster](cases/gpt-image-2/apimodels-poster-683/original.png)
@@ -462,7 +462,7 @@ A motivational poster with 'STAY HUNGRY, STAY CURIOUS' set in a tall elegant ser
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-683) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## One Day Or Day One · poster-684
 ![One Day Or Day One](cases/gpt-image-2/apimodels-poster-684/original.png)
@@ -472,7 +472,7 @@ A motivational typographic poster posing the choice 'ONE DAY or DAY ONE — you 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-684) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Small Steps Poster · poster-685
 ![Small Steps Poster](cases/gpt-image-2/apimodels-poster-685/original.png)
@@ -482,7 +482,7 @@ A motivational poster illustrating 'SMALL STEPS EVERY DAY' with a staircase of b
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-685) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Source output reorders requested stair text; preserve original imperfection rather than promise exact typography.
+ProjectD: published-accepted (run42069117745). Source output reorders requested stair text; preserve original imperfection rather than promise exact typography.
 
 ## Bloom In Chaos · poster-686
 ![Bloom In Chaos](cases/gpt-image-2/apimodels-poster-686/original.png)
@@ -492,7 +492,7 @@ A motivational quote poster with 'BLOOM WHERE IT'S HARD' set in a graceful contr
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-686) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Trust The Timing · poster-687
 ![Trust The Timing](cases/gpt-image-2/apimodels-poster-687/original.png)
@@ -502,4 +502,4 @@ A calm motivational poster reading 'TRUST THE TIMING OF YOUR LIFE' set in a soft
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#poster-687) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.

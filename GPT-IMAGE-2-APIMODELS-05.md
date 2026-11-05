@@ -12,7 +12,7 @@ An elegant minimalist Lunar New Year card. A soft ivory background carries a sin
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-446) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Dragon Parade Celebration · social-447
 ![Dragon Parade Celebration](cases/gpt-image-2/apimodels-social-447/original.png)
@@ -22,7 +22,7 @@ A lively Lunar New Year celebration graphic. A long undulating dragon-dance wind
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-447) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Digital Red Packet Giveaway · social-448
 ![Digital Red Packet Giveaway](cases/gpt-image-2/apimodels-social-448/original.png)
@@ -32,7 +32,7 @@ A modern Lunar New Year digital red-packet giveaway graphic. A clean red gradien
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-448) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Static red-packet app-promo mockup, not a working giveaway or cash offer.
+ProjectD: published-accepted (run42069117745). Static red-packet app-promo mockup, not a working giveaway or cash offer.
 
 ## Rose And Co Be Mine Sale · social-449
 ![Rose And Co Be Mine Sale](cases/gpt-image-2/apimodels-social-449/original.png)
@@ -42,7 +42,7 @@ A sweet Valentine's Day sale banner for invented brand 'Rosé & Co'. A blush-pin
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-449) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Vintage Love Letter Flatlay · social-450
 ![Vintage Love Letter Flatlay](cases/gpt-image-2/apimodels-social-450/original.png)
@@ -52,7 +52,7 @@ A vintage romantic Valentine's graphic. An aged cream envelope tied with a red s
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-450) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## You And Me Sunset Silhouette · social-451
 ![You And Me Sunset Silhouette](cases/gpt-image-2/apimodels-social-451/original.png)
@@ -62,7 +62,7 @@ A romantic Valentine's Day social graphic. A silhouetted couple stands close ben
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-451) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Amore Bistro Table For Two · social-452
 ![Amore Bistro Table For Two](cases/gpt-image-2/apimodels-social-452/original.png)
@@ -72,7 +72,7 @@ An elegant Valentine's dinner promo for invented restaurant 'Amoré Bistro'. A d
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-452) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented restaurant price/reservation copy is template text, not an actual booking offer.
+ProjectD: published-accepted (run42069117745). Invented restaurant price/reservation copy is template text, not an actual booking offer.
 
 ## Galentine Brunch Flat · social-453
 ![Galentine Brunch Flat](cases/gpt-image-2/apimodels-social-453/original.png)
@@ -82,7 +82,7 @@ A fun Galentine's Day social graphic. A bright coral background is dotted with c
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-453) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Heart Chocolate Box Topdown · social-454
 ![Heart Chocolate Box Topdown](cases/gpt-image-2/apimodels-social-454/original.png)
@@ -92,7 +92,7 @@ A luxurious Valentine's chocolate promo. An overhead flat-lay shows an open hear
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-454) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Valentine Countdown Story · social-455
 ![Valentine Countdown Story](cases/gpt-image-2/apimodels-social-455/original.png)
@@ -102,7 +102,7 @@ A modern Valentine's countdown story graphic. A vertical gradient of soft pink t
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-455) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Countdown copy is a reusable design statement, not the current date.
+ProjectD: published-accepted (run42069117745). Countdown copy is a reusable design statement, not the current date.
 
 ## Watercolor Floral Valentine · social-456
 ![Watercolor Floral Valentine](cases/gpt-image-2/apimodels-social-456/original.png)
@@ -112,7 +112,7 @@ A delicate watercolor Valentine's card. Loose hand-painted red and blush peonies
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-456) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Long Distance Love Map · social-458
 ![Long Distance Love Map](cases/gpt-image-2/apimodels-social-458/original.png)
@@ -122,7 +122,7 @@ A heartfelt long-distance Valentine's graphic. A soft cream vintage-map backgrou
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-458) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Decorative map/pins are not user location data or a navigation map.
+ProjectD: published-accepted (run42069117745). Decorative map/pins are not user location data or a navigation map.
 
 ## Pop Art Love You Comic · social-457
 ![Pop Art Love You Comic](cases/gpt-image-2/apimodels-social-457/original.png)
@@ -132,7 +132,7 @@ A retro pop-art Valentine's graphic in 1960s comic style. A Ben-Day dot backgrou
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-457) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Hexley Spooky Sale Neon · social-459
 ![Hexley Spooky Sale Neon](cases/gpt-image-2/apimodels-social-459/original.png)
@@ -142,7 +142,7 @@ A spooky Halloween sale banner for invented shop 'Hexley'. A deep purple-black b
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-459) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented-shop sale/date text is source design copy, not an active offer.
+ProjectD: published-accepted (run42069117745). Invented-shop sale/date text is source design copy, not an active offer.
 
 ## Kawaii Pumpkin Patch · social-460
 ![Kawaii Pumpkin Patch](cases/gpt-image-2/apimodels-social-460/original.png)
@@ -152,7 +152,7 @@ An adorable kawaii Halloween graphic. A group of round smiling pumpkins with ros
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-460) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Trick Or Treat Kids · social-462
 ![Trick Or Treat Kids](cases/gpt-image-2/apimodels-social-462/original.png)
@@ -162,7 +162,7 @@ A charming Halloween trick-or-treat illustration. Three costumed kids — a litt
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-462) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Enter If You Dare Poster · social-461
 ![Enter If You Dare Poster](cases/gpt-image-2/apimodels-social-461/original.png)
@@ -172,7 +172,7 @@ A moody Halloween poster. A crooked silhouetted haunted mansion stands on a hill
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-461) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Crypt Lounge Party Flyer · social-463
 ![Crypt Lounge Party Flyer](cases/gpt-image-2/apimodels-social-463/original.png)
@@ -182,7 +182,7 @@ A stylish Halloween party invitation flyer for invented venue 'The Crypt Lounge'
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-463) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Fictional venue invitation; event date/time and venue details are not verified events.
+ProjectD: published-accepted (run42069117745). Fictional venue invitation; event date/time and venue details are not verified events.
 
 ## Sugar Hollow Spooky Sweets · social-464
 ![Sugar Hollow Spooky Sweets](cases/gpt-image-2/apimodels-social-464/original.png)
@@ -192,7 +192,7 @@ A cute Halloween bakery promo for invented shop 'Sugar Hollow'. A warm cream bac
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-464) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented-bakery pricing is illustrative.
+ProjectD: published-accepted (run42069117745). Invented-bakery pricing is illustrative.
 
 ## Season Of The Witch Mystical · social-465
 ![Season Of The Witch Mystical](cases/gpt-image-2/apimodels-social-465/original.png)
@@ -202,7 +202,7 @@ A mystical witchy Halloween graphic. A deep midnight-blue background carries gol
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-465) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Jack O Lantern Glow · social-466
 ![Jack O Lantern Glow](cases/gpt-image-2/apimodels-social-466/original.png)
@@ -212,7 +212,7 @@ A dramatic Halloween close-up graphic. A hand-carved jack-o'-lantern with a jagg
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-466) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Retro VHS Horror Graphic · social-467
 ![Retro VHS Horror Graphic](cases/gpt-image-2/apimodels-social-467/original.png)
@@ -222,7 +222,7 @@ A vintage 1980s VHS-horror-style Halloween graphic. A grainy purple-and-teal gra
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-467) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Fictional horror/VHS poster; any rating/release-style marks are generated graphics, not a certified real film.
+ProjectD: published-accepted (run42069117745). Fictional horror/VHS poster; any rating/release-style marks are generated graphics, not a certified real film.
 
 ## Halloween Countdown Story · social-468
 ![Halloween Countdown Story](cases/gpt-image-2/apimodels-social-468/original.png)
@@ -232,7 +232,7 @@ A fun Halloween countdown story graphic. A vivid purple gradient carries floatin
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-468) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Solmar Tropical Summer Sale · social-469
 ![Solmar Tropical Summer Sale](cases/gpt-image-2/apimodels-social-469/original.png)
@@ -242,7 +242,7 @@ A bright summer sale banner for invented brand 'Solmar'. A sunny turquoise backg
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-469) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Hello Summer Beach Flatlay · social-470
 ![Hello Summer Beach Flatlay](cases/gpt-image-2/apimodels-social-470/original.png)
@@ -252,7 +252,7 @@ A vibrant summer flat-lay social graphic. An overhead view on golden sand arrang
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-470) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Endless Summer Surf · social-471
 ![Endless Summer Surf](cases/gpt-image-2/apimodels-social-471/original.png)
@@ -262,7 +262,7 @@ A dreamy summer surf graphic. A silhouetted surfer carries a board along a wet b
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-471) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Splash Club Pool Party · social-472
 ![Splash Club Pool Party](cases/gpt-image-2/apimodels-social-472/original.png)
@@ -272,7 +272,7 @@ A fun summer pool-party invitation for invented brand 'Splash Club'. A bright aq
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-472) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Palm And Tonic Happy Hour · social-473
 ![Palm And Tonic Happy Hour](cases/gpt-image-2/apimodels-social-473/original.png)
@@ -282,7 +282,7 @@ A refreshing summer drinks promo for invented bar 'Palm & Tonic'. A warm gradien
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-473) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Kawaii Ice Cream Stay Cool · social-474
 ![Kawaii Ice Cream Stay Cool](cases/gpt-image-2/apimodels-social-474/original.png)
@@ -292,7 +292,7 @@ An adorable summer ice-cream graphic. A smiling cartoon ice-cream cone with a sw
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-474) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Wandertide Escape To Paradise · social-475
 ![Wandertide Escape To Paradise](cases/gpt-image-2/apimodels-social-475/original.png)
@@ -302,7 +302,7 @@ A clean summer travel promo for invented agency 'Wandertide'. A split layout has
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-475) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Travel price is invented design copy, not an offer.
+ProjectD: published-accepted (run42069117745). Travel price is invented design copy, not an offer.
 
 ## Sunwave Fest Music Poster · social-476
 ![Sunwave Fest Music Poster](cases/gpt-image-2/apimodels-social-476/original.png)
@@ -312,7 +312,7 @@ A vibrant summer music-festival poster for invented event 'Sunwave Fest'. A bold
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-476) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented festival and generated website lettering; not a real event announcement.
+ProjectD: published-accepted (run42069117745). Invented festival and generated website lettering; not a real event announcement.
 
 ## Fresh Summer Vibes Pattern · social-477
 ![Fresh Summer Vibes Pattern](cases/gpt-image-2/apimodels-social-477/original.png)
@@ -322,7 +322,7 @@ A juicy summer pattern social graphic. A flat-illustration background of repeati
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-477) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Sunkissed SPF Season Promo · social-478
 ![Sunkissed SPF Season Promo](cases/gpt-image-2/apimodels-social-478/original.png)
@@ -332,7 +332,7 @@ A bright summer skincare promo for invented brand 'Sunkissed'. A soft sky-blue g
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-478) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated sunscreen mockup; added SPF/benefit labels are not efficacy evidence.
+ProjectD: published-accepted (run42069117745). Generated sunscreen mockup; added SPF/benefit labels are not efficacy evidence.
 
 ## Voltix Black Friday Neon · social-479
 ![Voltix Black Friday Neon](cases/gpt-image-2/apimodels-social-479/original.png)
@@ -342,7 +342,7 @@ A high-impact Black Friday banner for invented store 'Voltix'. A matte black bac
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-479) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Nimbus Cyber Monday Tech · social-480
 ![Nimbus Cyber Monday Tech](cases/gpt-image-2/apimodels-social-480/original.png)
@@ -352,7 +352,7 @@ A sleek Cyber Monday banner for invented electronics brand 'Nimbus'. A dark-navy
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-480) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated deal timer/specifications are illustrative.
+ProjectD: published-accepted (run42069117745). Generated deal timer/specifications are illustrative.
 
 ## Noir Atelier Luxe Black Friday · social-482
 ![Noir Atelier Luxe Black Friday](cases/gpt-image-2/apimodels-social-482/original.png)
@@ -362,7 +362,7 @@ A minimalist luxury Black Friday banner for invented brand 'Noir Atelier'. A pur
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-482) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Flash Sale Countdown Bolt · social-481
 ![Flash Sale Countdown Bolt](cases/gpt-image-2/apimodels-social-481/original.png)
@@ -372,7 +372,7 @@ A punchy flash-sale banner. A bright red-orange gradient background carries a bo
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-481) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Poppy Weekend Only Sale · social-483
 ![Poppy Weekend Only Sale](cases/gpt-image-2/apimodels-social-483/original.png)
@@ -382,7 +382,7 @@ A playful weekend flash-sale banner for invented brand 'Poppy'. A cheerful cream
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-483) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Early Bird Doorbusters · social-484
 ![Early Bird Doorbusters](cases/gpt-image-2/apimodels-social-484/original.png)
@@ -392,7 +392,7 @@ A bold early-bird Black Friday banner. A deep-plum background carries a bright g
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-484) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Dealio Mega Sale Explosion · social-485
 ![Dealio Mega Sale Explosion](cases/gpt-image-2/apimodels-social-485/original.png)
@@ -402,7 +402,7 @@ An explosive mega-sale banner for invented marketplace 'Dealio'. A vivid yellow 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-485) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Lune Black Friday Drop Story · social-486
 ![Lune Black Friday Drop Story](cases/gpt-image-2/apimodels-social-486/original.png)
@@ -412,7 +412,7 @@ A modern Black Friday story graphic for invented fashion brand 'Lune'. A charcoa
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-486) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Final Clearance Stamp Banner · social-488
 ![Final Clearance Stamp Banner](cases/gpt-image-2/apimodels-social-488/original.png)
@@ -422,7 +422,7 @@ An urgent clearance banner. A distressed kraft-paper background carries a bold r
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-488) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Freshly Buy One Get One · social-487
 ![Freshly Buy One Get One](cases/gpt-image-2/apimodels-social-487/original.png)
@@ -432,7 +432,7 @@ A bright BOGO promo banner for invented brand 'Freshly'. A split-color backgroun
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-487) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Added protein quantities/claims are generated packaging mockup text, not nutritional evidence.
+ProjectD: published-accepted (run42069117745). Added protein quantities/claims are generated packaging mockup text, not nutritional evidence.
 
 ## Scholarly Back To School Sale · social-489
 ![Scholarly Back To School Sale](cases/gpt-image-2/apimodels-social-489/original.png)
@@ -442,7 +442,7 @@ A cheerful back-to-school sale banner for invented brand 'Scholarly'. A chalkboa
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-489) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## First Day Big Adventure · social-490
 ![First Day Big Adventure](cases/gpt-image-2/apimodels-social-490/original.png)
@@ -452,7 +452,7 @@ An adorable first-day-of-school graphic. A smiling cartoon kid with a big red ba
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-490) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## New Term Fresh Start Desk · social-491
 ![New Term Fresh Start Desk](cases/gpt-image-2/apimodels-social-491/original.png)
@@ -462,7 +462,7 @@ A tidy back-to-school flat-lay social graphic. An overhead view on a warm wood d
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-491) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Nestly Dorm Ready Promo · social-492
 ![Nestly Dorm Ready Promo](cases/gpt-image-2/apimodels-social-492/original.png)
@@ -472,7 +472,7 @@ A bright dorm-essentials promo for invented brand 'Nestly'. A soft peach backgro
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-492) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Trekpack Gear Up Backpack · social-493
 ![Trekpack Gear Up Backpack](cases/gpt-image-2/apimodels-social-493/original.png)
@@ -482,7 +482,7 @@ A bold back-to-school product graphic for invented brand 'Trekpack'. A bright co
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-493) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Welcome Back Class Chalkboard · social-494
 ![Welcome Back Class Chalkboard](cases/gpt-image-2/apimodels-social-494/original.png)
@@ -492,7 +492,7 @@ A warm teacher welcome-back graphic. A cartoon chalkboard has a shiny red apple 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-494) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Days Til School Countdown · social-495
 ![Days Til School Countdown](cases/gpt-image-2/apimodels-social-495/original.png)
@@ -502,4 +502,4 @@ A clean back-to-school countdown story graphic. A bright yellow gradient carries
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-495) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.

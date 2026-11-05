@@ -22,14 +22,16 @@
         "task_mcp_33b755587a76a7bcb1bc5874324c2a4c9738a6fc"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 723,
       "reviewedAt": "2026-11-05T15:45:06.161386+00:00",
       "reviewNote": "Source says text-to-image but prompt refers to a prior accepted logo; unavailable reference context is required for an exact identity match.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": true,
-      "projectdId": "d9909635bcb6ca"
+      "projectdId": "d9909635bcb6ca",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/d9909635bcb6ca"
     },
     {
       "sourceCase": 2,
@@ -50,14 +52,16 @@
         "task_mcp_3ae36b5a0a40614b79dc862d0bb0f47c7d703480"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 966,
       "nativeHeight": 1280,
       "reviewedAt": "2026-11-05T15:45:06.161524+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "481f44ed7ab447"
+      "projectdId": "481f44ed7ab447",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/481f44ed7ab447"
     },
     {
       "sourceCase": 3,
@@ -78,14 +82,16 @@
         "task_mcp_ed1fe7fb9bb09b117ebce535beb68127861fa116"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 722,
       "reviewedAt": "2026-11-05T15:45:06.161527+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "b18cdf5c090de2"
+      "projectdId": "b18cdf5c090de2",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/b18cdf5c090de2"
     },
     {
       "sourceCase": 4,
@@ -106,14 +112,16 @@
         "task_mcp_430d142962b0c29b18cb70ac2a6fa3f4a458317b"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 966,
       "nativeHeight": 1280,
       "reviewedAt": "2026-11-05T15:45:06.161528+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "a5484c2380d6c3"
+      "projectdId": "a5484c2380d6c3",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/a5484c2380d6c3"
     },
     {
       "sourceCase": 5,
@@ -134,14 +142,16 @@
         "task_mcp_fde63ad38a445a53a0722db22d76c2c373a98e7c"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 1280,
       "reviewedAt": "2026-11-05T15:45:06.161530+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "15d5938d124b69"
+      "projectdId": "15d5938d124b69",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/15d5938d124b69"
     },
     {
       "sourceCase": 6,
@@ -162,14 +172,16 @@
         "task_mcp_c927b4b70919f32fb511070101565a7937dd38bc"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 966,
       "nativeHeight": 1280,
       "reviewedAt": "2026-11-05T15:45:06.161532+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "cf356d306cd3b5"
+      "projectdId": "cf356d306cd3b5",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/cf356d306cd3b5"
     },
     {
       "sourceCase": 7,
@@ -190,14 +202,16 @@
         "task_mcp_132e3a0b9aad13a093b2f34af8e4fb2127317a70"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 966,
       "nativeHeight": 1280,
       "reviewedAt": "2026-11-05T15:45:06.161533+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "a79f11026cc6c3"
+      "projectdId": "a79f11026cc6c3",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/a79f11026cc6c3"
     },
     {
       "sourceCase": 8,
@@ -218,14 +232,16 @@
         "task_mcp_9e6bd9541f728564e941e08748f6a7da4ef5dacc"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 616,
       "nativeHeight": 458,
       "reviewedAt": "2026-11-05T15:45:06.161535+00:00",
       "reviewNote": "Source winter edit retained; standalone original input is not supplied.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": true,
-      "projectdId": "f1a15b2e3ce447"
+      "projectdId": "f1a15b2e3ce447",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/f1a15b2e3ce447"
     },
     {
       "sourceCase": 9,
@@ -246,14 +262,16 @@
         "task_mcp_311c592f739e31aa31e2d5bed3b42850b7a6ad4b"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1024,
       "nativeHeight": 1024,
       "reviewedAt": "2026-11-05T15:45:06.161536+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "d9e5af0475dbe6"
+      "projectdId": "d9e5af0475dbe6",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/d9e5af0475dbe6"
     },
     {
       "sourceCase": 10,
@@ -274,14 +292,16 @@
         "task_mcp_41fa7eafe76d178f9fdac8d5420e62dd78587068"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1024,
       "nativeHeight": 1024,
       "reviewedAt": "2026-11-05T15:45:06.161538+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "32895bc3518803"
+      "projectdId": "32895bc3518803",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/32895bc3518803"
     },
     {
       "sourceCase": 11,
@@ -302,14 +322,16 @@
         "task_mcp_341f4873b3d3cb190bc4a82588df5b1db8bc2312"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1184,
       "nativeHeight": 880,
       "reviewedAt": "2026-11-05T15:45:06.161539+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "ea6c9e299839e5"
+      "projectdId": "ea6c9e299839e5",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/ea6c9e299839e5"
     },
     {
       "sourceCase": 12,
@@ -330,14 +352,16 @@
         "task_mcp_62d074025fb6e065bd7b0dd4d9aa80f40e72ca97"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 880,
       "nativeHeight": 1184,
       "reviewedAt": "2026-11-05T15:45:06.161541+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "00f07a8b95dbb2"
+      "projectdId": "00f07a8b95dbb2",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/00f07a8b95dbb2"
     },
     {
       "sourceCase": 13,
@@ -358,14 +382,16 @@
         "task_mcp_747899488daf1c608e01a3103a86f767cebd0a01"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 722,
       "reviewedAt": "2026-11-05T15:45:06.161542+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "aebdcc508f8f11"
+      "projectdId": "aebdcc508f8f11",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/aebdcc508f8f11"
     },
     {
       "sourceCase": 14,
@@ -386,14 +412,16 @@
         "task_mcp_30b180b44416554aedc800ae7ea54ded5091b344"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 722,
       "reviewedAt": "2026-11-05T15:45:06.161544+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "05ba655be0f03b"
+      "projectdId": "05ba655be0f03b",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/05ba655be0f03b"
     },
     {
       "sourceCase": 15,
@@ -415,14 +443,16 @@
         "task_mcp_f727724c879a642a71c11f8101a5ad523d00618d"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 672,
       "reviewedAt": "2026-11-05T15:45:06.161545+00:00",
       "reviewNote": "Author-published before/after comparison, including input and edited output, retained whole; not a raw single-model frame.",
       "mediaRole": "author-before-after-comparison",
       "referenceRequired": true,
-      "projectdId": "863c51e3f5eb44"
+      "projectdId": "863c51e3f5eb44",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/863c51e3f5eb44"
     },
     {
       "sourceCase": 16,
@@ -444,14 +474,16 @@
         "task_mcp_bb1110e3cbe7370acc461410a3b7c9274a011e13"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 672,
       "reviewedAt": "2026-11-05T15:45:06.161547+00:00",
       "reviewNote": "Author-published before/after comparison retained whole; original reference task links retained.",
       "mediaRole": "author-before-after-comparison",
       "referenceRequired": true,
-      "projectdId": "aff2522dd55332"
+      "projectdId": "aff2522dd55332",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/aff2522dd55332"
     },
     {
       "sourceCase": 17,
@@ -473,14 +505,16 @@
         "task_mcp_1cf17a60d29c226d916229738e6b7dff99576ed7"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 891,
       "reviewedAt": "2026-11-05T15:45:06.161548+00:00",
       "reviewNote": "Author-published before/after comparison retained whole.",
       "mediaRole": "author-before-after-comparison",
       "referenceRequired": true,
-      "projectdId": "e1bb9c919d06a1"
+      "projectdId": "e1bb9c919d06a1",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/e1bb9c919d06a1"
     },
     {
       "sourceCase": 18,
@@ -502,14 +536,16 @@
         "task_mcp_e8eff740f4302717e414d1361b4f3faa077dab56"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 516,
       "reviewedAt": "2026-11-05T15:45:06.161551+00:00",
       "reviewNote": "Author-published before/after comparison retained whole; this is not a new single image output.",
       "mediaRole": "author-before-after-comparison",
       "referenceRequired": true,
-      "projectdId": "a22a7a2f9d66d7"
+      "projectdId": "a22a7a2f9d66d7",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/a22a7a2f9d66d7"
     },
     {
       "sourceCase": 19,
@@ -531,7 +567,7 @@
         "task_mcp_a36f684023317a21916a2df525593b22e69b611c"
       ],
       "reviewStatus": "held-native-dimensions",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "held",
       "nativeWidth": 1280,
       "nativeHeight": 396,
       "reviewedAt": "2026-11-05T15:45:06.161552+00:00",
@@ -559,14 +595,16 @@
         "task_mcp_f99ea4c0f8f6408eb3c78d66ec27e7afcc0174e9"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 876,
       "reviewedAt": "2026-11-05T15:45:06.161554+00:00",
       "reviewNote": "Author-published text-edit comparison retained whole.",
       "mediaRole": "author-before-after-comparison",
       "referenceRequired": true,
-      "projectdId": "2918772bf741c4"
+      "projectdId": "2918772bf741c4",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/2918772bf741c4"
     },
     {
       "sourceCase": 21,
@@ -587,14 +625,16 @@
         "task_mcp_0fefd99194c4683cedb0377d60ab5d3d3d473b03"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1184,
       "nativeHeight": 880,
       "reviewedAt": "2026-11-05T15:45:06.161555+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": true,
-      "projectdId": "64219cbdd242e8"
+      "projectdId": "64219cbdd242e8",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/64219cbdd242e8"
     },
     {
       "sourceCase": 22,
@@ -615,14 +655,16 @@
         "task_mcp_7957b46f4d4f13057b8c97786dd8a3382aeab804"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 722,
       "reviewedAt": "2026-11-05T15:45:06.161557+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": true,
-      "projectdId": "7ad0e41f14ec58"
+      "projectdId": "7ad0e41f14ec58",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/7ad0e41f14ec58"
     },
     {
       "sourceCase": 23,
@@ -643,14 +685,16 @@
         "task_mcp_d02521534c3ce35bd12feb25516421ec17716239"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1024,
       "nativeHeight": 1024,
       "reviewedAt": "2026-11-05T15:45:06.161558+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": true,
-      "projectdId": "10674d396b5355"
+      "projectdId": "10674d396b5355",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/10674d396b5355"
     },
     {
       "sourceCase": 24,
@@ -673,14 +717,16 @@
         "task_mcp_f7231ab9c8f991dfab2029c068d5a0d780610b0c"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 966,
       "nativeHeight": 1280,
       "reviewedAt": "2026-11-05T15:45:06.161560+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": true,
-      "projectdId": "d3e857fc893041"
+      "projectdId": "d3e857fc893041",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/d3e857fc893041"
     },
     {
       "sourceCase": 25,
@@ -703,14 +749,16 @@
         "task_mcp_1407f1dbee504b8160d8a0fb1f84bd15cea1101d"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 722,
       "reviewedAt": "2026-11-05T15:45:06.161561+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": true,
-      "projectdId": "c3f5b4b4f6403b"
+      "projectdId": "c3f5b4b4f6403b",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/c3f5b4b4f6403b"
     },
     {
       "sourceCase": 26,
@@ -731,7 +779,7 @@
         "task_mcp_38f1a34bf6fc493f7b65440ecef6925365d29b83"
       ],
       "reviewStatus": "held-native-dimensions",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "held",
       "nativeWidth": 358,
       "nativeHeight": 421,
       "reviewedAt": "2026-11-05T15:45:06.161562+00:00",
@@ -758,14 +806,16 @@
         "task_mcp_af531ac21ea594fd04515e5c14f314ba434cf716"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 421,
       "nativeHeight": 421,
       "reviewedAt": "2026-11-05T15:45:06.161564+00:00",
       "reviewNote": "Native421x421 source rendition retained; literal [panel3] prefix is part of the published complete prompt unit, not a claim to have a complete earlier conversation.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "e3cacdce5904fb"
+      "projectdId": "e3cacdce5904fb",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/e3cacdce5904fb"
     },
     {
       "sourceCase": 28,
@@ -786,14 +836,16 @@
         "task_mcp_5b98f2ff025529cf8e05e8c226daa12afbfce7a7"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 722,
       "reviewedAt": "2026-11-05T15:45:06.161565+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "498d549554bf17"
+      "projectdId": "498d549554bf17",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/498d549554bf17"
     },
     {
       "sourceCase": 29,
@@ -814,14 +866,16 @@
         "task_mcp_352beec571cea8b1cdb58f6633f0acb9a6418ff8"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 722,
       "reviewedAt": "2026-11-05T15:45:06.161567+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "9aae7b6ec43108"
+      "projectdId": "9aae7b6ec43108",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/9aae7b6ec43108"
     },
     {
       "sourceCase": 30,
@@ -842,14 +896,16 @@
         "task_mcp_733218bdb6a7c5919f298dc0a4dba9650e049834"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1024,
       "nativeHeight": 1024,
       "reviewedAt": "2026-11-05T15:45:06.161569+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "649acfa1ae36d9"
+      "projectdId": "649acfa1ae36d9",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/649acfa1ae36d9"
     },
     {
       "sourceCase": 31,
@@ -870,14 +926,16 @@
         "task_mcp_acaac2206d1b6265deae510ba885de52453ad466"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 1280,
       "reviewedAt": "2026-11-05T15:45:06.161570+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "9504761b786b67"
+      "projectdId": "9504761b786b67",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/9504761b786b67"
     },
     {
       "sourceCase": 32,
@@ -898,14 +956,16 @@
         "task_mcp_181a7bf4c51b51ae1271bc4d433b8d1fa0b8df4a"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 616,
       "nativeHeight": 829,
       "reviewedAt": "2026-11-05T15:45:06.161572+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "17687c02377758"
+      "projectdId": "17687c02377758",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/17687c02377758"
     },
     {
       "sourceCase": 33,
@@ -926,14 +986,16 @@
         "task_mcp_36cb6399c5ce443a72f54b7af67ccdb44f0a8509"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 618,
       "nativeHeight": 824,
       "reviewedAt": "2026-11-05T15:45:06.161573+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": true,
-      "projectdId": "a9c7328392497d"
+      "projectdId": "a9c7328392497d",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/a9c7328392497d"
     },
     {
       "sourceCase": 34,
@@ -954,14 +1016,16 @@
         "task_mcp_8de96b9bab4a153e27256b13bbd85807db73f963"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 880,
       "nativeHeight": 1184,
       "reviewedAt": "2026-11-05T15:45:06.161575+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "7b3f90dc669579"
+      "projectdId": "7b3f90dc669579",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/7b3f90dc669579"
     },
     {
       "sourceCase": 35,
@@ -982,14 +1046,16 @@
         "task_mcp_b71e0d1eaf675f21f1d281f69271be4c381d85ce"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 880,
       "nativeHeight": 1184,
       "reviewedAt": "2026-11-05T15:45:06.161576+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "387ffc7f14c774"
+      "projectdId": "387ffc7f14c774",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/387ffc7f14c774"
     },
     {
       "sourceCase": 36,
@@ -1010,14 +1076,16 @@
         "task_mcp_9172f0aa9846821eda365d9ead249487c5c681ea"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 966,
       "nativeHeight": 1280,
       "reviewedAt": "2026-11-05T15:45:06.161578+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "2abb8a8cddec53"
+      "projectdId": "2abb8a8cddec53",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/2abb8a8cddec53"
     },
     {
       "sourceCase": 37,
@@ -1038,14 +1106,16 @@
         "task_mcp_1f837487611da4da304c2d0a851e9b023a23562e"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 722,
       "reviewedAt": "2026-11-05T15:45:06.161579+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "e7e638c5a1326b"
+      "projectdId": "e7e638c5a1326b",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/e7e638c5a1326b"
     },
     {
       "sourceCase": 38,
@@ -1066,14 +1136,16 @@
         "task_mcp_63bf1dc9e44ba4061c53a28af507bb91cf582c27"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 722,
       "reviewedAt": "2026-11-05T15:45:06.161581+00:00",
       "reviewNote": "Synthetic chart with fictional demonstration values12,18,15,21,16, not measured data.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "ad9c01effbe72b"
+      "projectdId": "ad9c01effbe72b",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/ad9c01effbe72b"
     },
     {
       "sourceCase": 39,
@@ -1094,14 +1166,16 @@
         "task_mcp_f2655d171c89420621e41849d0a73120a4d51468"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 722,
       "reviewedAt": "2026-11-05T15:45:06.161583+00:00",
       "reviewNote": "Full source Prompt block and native output visually correspond; source flaws retained, no independent generation claimed.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "6bc2536cfd5ee3"
+      "projectdId": "6bc2536cfd5ee3",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/6bc2536cfd5ee3"
     },
     {
       "sourceCase": 40,
@@ -1122,14 +1196,16 @@
         "task_mcp_f35abee38d9a42f2f62840d1ba7f616e04937ac6"
       ],
       "reviewStatus": "approved-for-projectd",
-      "projectdStatus": "not-imported",
+      "projectdStatus": "published-accepted",
       "nativeWidth": 1280,
       "nativeHeight": 966,
       "reviewedAt": "2026-11-05T15:45:06.161585+00:00",
       "reviewNote": "Fictional trail schematic, not a real navigation map.",
       "mediaRole": "author-published-source-rendition",
       "referenceRequired": false,
-      "projectdId": "f3a98d1bb83a43"
+      "projectdId": "f3a98d1bb83a43",
+      "projectdPublicationRun": "42069117745",
+      "projectdUrl": "https://aitoolsradar.com/en/prompts/f3a98d1bb83a43"
     }
   ],
   "approvedForProjectd": 38,

@@ -12,7 +12,7 @@ A rounded amber-glass bottle of Flora Daily probiotic capsules with a cream labe
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-75) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated probiotic-packaging design; depicted benefit text is illustrative and unverified.
+ProjectD: published-accepted (run42069117745). Generated probiotic-packaging design; depicted benefit text is illustrative and unverified.
 
 ## Adaptrix Herbal Tincture · ecommerce-77
 ![Adaptrix Herbal Tincture](cases/gpt-image-2/apimodels-ecommerce-77/original.png)
@@ -22,7 +22,7 @@ A dark violet-glass dropper bottle of Adaptrix adaptogen herbal tincture stands 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-77) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated herbal tincture design; no independent efficacy or ingredient validation.
+ProjectD: published-accepted (run42069117745). Generated herbal tincture design; no independent efficacy or ingredient validation.
 
 ## Restora Magnesium Powder · ecommerce-76
 ![Restora Magnesium Powder](cases/gpt-image-2/apimodels-ecommerce-76/original.png)
@@ -32,7 +32,7 @@ A matte-lavender pouch of Restora calming magnesium powder stands upright on a p
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-76) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated magnesium-packaging design; better-sleep text is a source visual claim, not verified efficacy.
+ProjectD: published-accepted (run42069117745). Generated magnesium-packaging design; better-sleep text is a source visual claim, not verified efficacy.
 
 ## Purevity Omega Softgels · ecommerce-78
 ![Purevity Omega Softgels](cases/gpt-image-2/apimodels-ecommerce-78/original.png)
@@ -42,7 +42,7 @@ A clear-glass jar of Purevity omega-3 amber softgels stands on a bright white su
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-78) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated fish-oil packaging; printed benefit and amount claims are not independently verified.
+ProjectD: published-accepted (run42069117745). Generated fish-oil packaging; printed benefit and amount claims are not independently verified.
 
 ## Lumen Health Vitamin D · ecommerce-79
 ![Lumen Health Vitamin D](cases/gpt-image-2/apimodels-ecommerce-79/original.png)
@@ -52,7 +52,7 @@ A matte-sunshine-yellow bottle of Lumen Health vitamin D drops with a white drop
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-79) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated vitamin-drop packaging; not a verified product or recommendation.
+ProjectD: published-accepted (run42069117745). Generated vitamin-drop packaging; not a verified product or recommendation.
 
 ## Iced Latte Glass Product Shot · ecommerce-82
 ![Iced Latte Glass Product Shot](cases/gpt-image-2/apimodels-ecommerce-82/original.png)
@@ -62,7 +62,7 @@ A tall clear glass of iced latte on a pale marble countertop, layered espresso p
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-82) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Single-Origin Coffee Bag Hero · ecommerce-81
 ![Single-Origin Coffee Bag Hero](cases/gpt-image-2/apimodels-ecommerce-81/original.png)
@@ -72,7 +72,7 @@ A matte kraft-brown stand-up pouch of "Cerro Alto" single-origin coffee beans st
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-81) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Matcha Powder Ceremonial Set · ecommerce-85
 ![Matcha Powder Ceremonial Set](cases/gpt-image-2/apimodels-ecommerce-85/original.png)
@@ -82,7 +82,7 @@ A vivid emerald mound of "Kiyomi" ceremonial matcha powder in a matte black cera
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-85) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Espresso Capsules Boxed Set · ecommerce-84
 ![Espresso Capsules Boxed Set](cases/gpt-image-2/apimodels-ecommerce-84/original.png)
@@ -92,7 +92,7 @@ A sleek dark navy gift box of "Nero Vivo" espresso capsules, lid ajar to reveal 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-84) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Loose Leaf Tea Tin Flatlay · ecommerce-83
 ![Loose Leaf Tea Tin Flatlay](cases/gpt-image-2/apimodels-ecommerce-83/original.png)
@@ -102,7 +102,7 @@ An open round tin of "Golden Meadow" loose-leaf jasmine green tea photographed f
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-83) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cold Brew Bottle Lineup · ecommerce-86
 ![Cold Brew Bottle Lineup](cases/gpt-image-2/apimodels-ecommerce-86/original.png)
@@ -112,7 +112,7 @@ Three tall glass bottles of "Midnight Brew" cold brew coffee in a row on a weath
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-86) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Herbal Tea Sachets Display · ecommerce-87
 ![Herbal Tea Sachets Display](cases/gpt-image-2/apimodels-ecommerce-87/original.png)
@@ -122,7 +122,7 @@ A rustic ceramic dish holding a fan of pyramid-shaped herbal tea sachets from "P
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-87) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Drip Coffee Bags Kraft Pack · ecommerce-88
 ![Drip Coffee Bags Kraft Pack](cases/gpt-image-2/apimodels-ecommerce-88/original.png)
@@ -132,7 +132,7 @@ A stack of individually wrapped "Dawn Ritual" single-serve drip coffee bags on a
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-88) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Chai Spice Blend Jar · ecommerce-89
 ![Chai Spice Blend Jar](cases/gpt-image-2/apimodels-ecommerce-89/original.png)
@@ -142,7 +142,7 @@ A clear glass jar of "Zafran Chai" loose spiced tea blend showing cinnamon stick
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-89) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cappuccino Latte Art Cup · ecommerce-90
 ![Cappuccino Latte Art Cup](cases/gpt-image-2/apimodels-ecommerce-90/original.png)
@@ -152,7 +152,7 @@ A wide ceramic cup of cappuccino with a crisp fern latte-art pattern in the foam
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-90) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Potato Chips Bag Hero · ecommerce-91
 ![Potato Chips Bag Hero](cases/gpt-image-2/apimodels-ecommerce-91/original.png)
@@ -162,7 +162,7 @@ A glossy foil bag of "Crackle Coast" sea salt kettle potato chips propped uprigh
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-91) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Popcorn Tub Movie Style · ecommerce-92
 ![Popcorn Tub Movie Style](cases/gpt-image-2/apimodels-ecommerce-92/original.png)
@@ -172,7 +172,7 @@ An overflowing red-and-white striped tub of "Poppin' Reel" caramel popcorn, fluf
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-92) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Trail Mix Pouch Outdoor · ecommerce-93
 ![Trail Mix Pouch Outdoor](cases/gpt-image-2/apimodels-ecommerce-93/original.png)
@@ -182,7 +182,7 @@ A resealable kraft pouch of "Summit Trail" mixed nuts and dried fruit standing o
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-93) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Protein Cookie Stack · ecommerce-95
 ![Protein Cookie Stack](cases/gpt-image-2/apimodels-ecommerce-95/original.png)
@@ -192,7 +192,7 @@ A neat stack of four thick "FuelBite" double-chocolate protein cookies on a whit
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-95) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Rendered protein/fiber amounts and gluten-free claim are illustrative packaging, not verified nutrition data.
+ProjectD: published-accepted (run42069117745). Rendered protein/fiber amounts and gluten-free claim are illustrative packaging, not verified nutrition data.
 
 ## Veggie Crisps Bowl Shot · ecommerce-96
 ![Veggie Crisps Bowl Shot](cases/gpt-image-2/apimodels-ecommerce-96/original.png)
@@ -202,7 +202,7 @@ A shallow ceramic bowl brimming with colorful "Garden Crunch" baked veggie crisp
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-96) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Pretzel Twist Snack Pack · ecommerce-97
 ![Pretzel Twist Snack Pack](cases/gpt-image-2/apimodels-ecommerce-97/original.png)
@@ -212,7 +212,7 @@ A cheerful yellow snack bag of "Knotty Bakes" salted pretzel twists lying at a s
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-97) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Rice Cracker Assortment Box · ecommerce-94
 ![Rice Cracker Assortment Box](cases/gpt-image-2/apimodels-ecommerce-94/original.png)
@@ -222,7 +222,7 @@ An open bento-style wooden box of "Kome Kome" assorted rice crackers arranged in
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-94) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Granola Bar Wrapped Trio · ecommerce-99
 ![Granola Bar Wrapped Trio](cases/gpt-image-2/apimodels-ecommerce-99/original.png)
@@ -232,7 +232,7 @@ Three individually wrapped "Oat Grove" honey-almond granola bars fanned out, one
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-99) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Seaweed Snack Minimal Pack · ecommerce-98
 ![Seaweed Snack Minimal Pack](cases/gpt-image-2/apimodels-ecommerce-98/original.png)
@@ -242,7 +242,7 @@ A slim teal packet of "Ocean Leaf" roasted seaweed snacks standing upright on a 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-98) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Spicy Corn Nuts Jar · ecommerce-100
 ![Spicy Corn Nuts Jar](cases/gpt-image-2/apimodels-ecommerce-100/original.png)
@@ -252,7 +252,7 @@ A clear glass jar tipped slightly to pour out crunchy "Fuego Kernels" chili-lime
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-100) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Craft Soda Bottle Splash · ecommerce-101
 ![Craft Soda Bottle Splash](cases/gpt-image-2/apimodels-ecommerce-101/original.png)
@@ -262,7 +262,7 @@ A frosty amber glass bottle of "Fizz Bloom" blood-orange craft soda, cap off wit
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-101) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cold-Pressed Juice Row · ecommerce-102
 ![Cold-Pressed Juice Row](cases/gpt-image-2/apimodels-ecommerce-102/original.png)
@@ -272,7 +272,7 @@ A row of four clear bottles of "Pure Verde" cold-pressed juices in graduated gre
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-102) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Four juice bottles and source styling correspond; printed ingredient/health language remains unverified design content.
+ProjectD: published-accepted (run42069117745). Four juice bottles and source styling correspond; printed ingredient/health language remains unverified design content.
 
 ## Sparkling Water Can Trio · ecommerce-103
 ![Sparkling Water Can Trio](cases/gpt-image-2/apimodels-ecommerce-103/original.png)
@@ -282,7 +282,7 @@ Three slim pastel aluminum cans of "Aqua Lume" sparkling water — grapefruit, c
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-103) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Kombucha Bottle Nature Set · ecommerce-104
 ![Kombucha Bottle Nature Set](cases/gpt-image-2/apimodels-ecommerce-104/original.png)
@@ -292,7 +292,7 @@ A tall amber bottle of "Wild Culture" hibiscus kombucha standing on a rough sawn
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-104) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Tropical Smoothie Cup · ecommerce-105
 ![Tropical Smoothie Cup](cases/gpt-image-2/apimodels-ecommerce-105/original.png)
@@ -302,7 +302,7 @@ A clear domed-lid cup of thick "Sunbreak" mango-passionfruit smoothie topped wit
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-105) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Sports Drink Bottle Dynamic · ecommerce-106
 ![Sports Drink Bottle Dynamic](cases/gpt-image-2/apimodels-ecommerce-106/original.png)
@@ -312,7 +312,7 @@ A sleek electric-blue bottle of "Voltra" citrus sports drink standing on wet gre
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-106) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Lemonade Pitcher Summer · ecommerce-107
 ![Lemonade Pitcher Summer](cases/gpt-image-2/apimodels-ecommerce-107/original.png)
@@ -322,7 +322,7 @@ A frosted glass pitcher of "Sunny Grove" pink lemonade brimming with ice, lemon 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-107) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Energy Drink Can Neon · ecommerce-108
 ![Energy Drink Can Neon](cases/gpt-image-2/apimodels-ecommerce-108/original.png)
@@ -332,7 +332,7 @@ A bold matte-black can of "Nova Surge" tropical energy drink standing on a refle
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-108) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Almond Milk Carton Fresh · ecommerce-109
 ![Almond Milk Carton Fresh](cases/gpt-image-2/apimodels-ecommerce-109/original.png)
@@ -342,7 +342,7 @@ A clean cream-and-sage carton of "Nutmilk Co." unsweetened almond milk standing 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-109) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Iced Tea Bottle Peach · ecommerce-110
 ![Iced Tea Bottle Peach](cases/gpt-image-2/apimodels-ecommerce-110/original.png)
@@ -352,7 +352,7 @@ A chilled clear glass bottle of "Orchard Chill" peach iced tea on a sun-dappled 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-110) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Dark Chocolate Bar Snapped · ecommerce-111
 ![Dark Chocolate Bar Snapped](cases/gpt-image-2/apimodels-ecommerce-111/original.png)
@@ -362,7 +362,7 @@ A premium bar of "Cacao Noir" 72% dark chocolate snapped in half to reveal a glo
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-111) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Assorted Truffles Gift Box · ecommerce-112
 ![Assorted Truffles Gift Box](cases/gpt-image-2/apimodels-ecommerce-112/original.png)
@@ -372,7 +372,7 @@ An elegant open box of "Velvet Reverie" assorted chocolate truffles nestled in d
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-112) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Gummy Bears Colorful Pile · ecommerce-113
 ![Gummy Bears Colorful Pile](cases/gpt-image-2/apimodels-ecommerce-113/original.png)
@@ -382,7 +382,7 @@ A glossy translucent pile of "Bear Hugs" fruit gummy bears in red, orange, yello
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-113) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Milk Chocolate Wrapped Rounds · ecommerce-114
 ![Milk Chocolate Wrapped Rounds](cases/gpt-image-2/apimodels-ecommerce-114/original.png)
@@ -392,7 +392,7 @@ A generous scatter of "Golden Coin" foil-wrapped milk chocolate coins in shiny g
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-114) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Lollipop Bouquet Display · ecommerce-115
 ![Lollipop Bouquet Display](cases/gpt-image-2/apimodels-ecommerce-115/original.png)
@@ -402,7 +402,7 @@ A cheerful bouquet of "Swirl Pop" spiral rainbow lollipops arranged like flowers
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-115) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Caramel Fudge Cubes Stack · ecommerce-116
 ![Caramel Fudge Cubes Stack](cases/gpt-image-2/apimodels-ecommerce-116/original.png)
@@ -412,7 +412,7 @@ A tidy stack of "Buttermel" sea-salt caramel fudge cubes on baking parchment, gl
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-116) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Chocolate Covered Strawberries · ecommerce-117
 ![Chocolate Covered Strawberries](cases/gpt-image-2/apimodels-ecommerce-117/original.png)
@@ -422,7 +422,7 @@ Six "Berry Dip" chocolate-covered strawberries arranged on a white marble slab, 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-117) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Peppermint Bark Slabs · ecommerce-118
 ![Peppermint Bark Slabs](cases/gpt-image-2/apimodels-ecommerce-118/original.png)
@@ -432,7 +432,7 @@ Irregular broken slabs of "Frost Mint" peppermint bark stacked on a cool grey st
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-118) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Whey Protein Tub Hero · ecommerce-120
 ![Whey Protein Tub Hero](cases/gpt-image-2/apimodels-ecommerce-120/original.png)
@@ -442,7 +442,7 @@ A large matte-black tub of "IronPeak" vanilla whey protein powder standing on a 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-120) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated sports-nutrition packaging; printed quantities/benefits are unverified design elements.
+ProjectD: published-accepted (run42069117745). Generated sports-nutrition packaging; printed quantities/benefits are unverified design elements.
 
 ## Sour Candy Belts Pouch · ecommerce-119
 ![Sour Candy Belts Pouch](cases/gpt-image-2/apimodels-ecommerce-119/original.png)
@@ -452,7 +452,7 @@ A bright pink pouch of "Zing Strips" rainbow sour candy belts torn open at the t
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-119) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Superfood Powder Jars Set · ecommerce-122
 ![Superfood Powder Jars Set](cases/gpt-image-2/apimodels-ecommerce-122/original.png)
@@ -462,7 +462,7 @@ Three amber glass jars of "Vital Bloom" superfood powders — green spirulina, p
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-122) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated powder packaging and ingredients, not an independently validated supplement product.
+ProjectD: published-accepted (run42069117745). Generated powder packaging and ingredients, not an independently validated supplement product.
 
 ## Vitamin Gummies Bottle · ecommerce-123
 ![Vitamin Gummies Bottle](cases/gpt-image-2/apimodels-ecommerce-123/original.png)
@@ -472,7 +472,7 @@ A white bottle of "DailyGlow" elderberry vitamin gummies with the cap off and gl
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-123) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Source image adds immune-support marketing; retained as generated packaging, not verified health benefit.
+ProjectD: published-accepted (run42069117745). Source image adds immune-support marketing; retained as generated packaging, not verified health benefit.
 
 ## Nut Butter Jar Drizzle · ecommerce-124
 ![Nut Butter Jar Drizzle](cases/gpt-image-2/apimodels-ecommerce-124/original.png)
@@ -482,7 +482,7 @@ An open glass jar of "Grove & Grain" crunchy almond butter with a knife lifting 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-124) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Nut-butter composition matches; the rendered utensil is retained as supplied, not corrected to the requested knife.
+ProjectD: published-accepted (run42069117745). Nut-butter composition matches; the rendered utensil is retained as supplied, not corrected to the requested knife.
 
 ## Oatmeal Cups Breakfast Set · ecommerce-125
 ![Oatmeal Cups Breakfast Set](cases/gpt-image-2/apimodels-ecommerce-125/original.png)
@@ -492,7 +492,7 @@ Three paper cups of "MorningOats" instant oatmeal — apple-cinnamon, mixed-berr
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-125) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Kale Chips Snack Bag · ecommerce-126
 ![Kale Chips Snack Bag](cases/gpt-image-2/apimodels-ecommerce-126/original.png)
@@ -502,4 +502,4 @@ A matte green pouch of "Leaf Life" nacho-cheese kale chips standing upright, cri
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-126) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.

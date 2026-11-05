@@ -12,7 +12,7 @@ Overhead flat-lay of a pair of woven canvas espadrilles in sunny lemon-yellow fr
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-258) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Retro Runner Nostalgic Shot · product-259
 ![Retro Runner Nostalgic Shot](cases/gpt-image-2/apimodels-product-259/original.png)
@@ -22,7 +22,7 @@ A retro-inspired suede-and-mesh running shoe in cream, forest-green and mustard 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-259) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Source explicitly requests an N-style side panel; the original fictional-brand source rendition is retained.
+ProjectD: published-accepted (run42069117745). Source explicitly requests an N-style side panel; the original fictional-brand source rendition is retained.
 
 ## Rain Boot Playful Product · product-260
 ![Rain Boot Playful Product](cases/gpt-image-2/apimodels-product-260/original.png)
@@ -32,7 +32,7 @@ A pair of glossy rubber rain boots in cheerful cobalt blue from the invented bra
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-260) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Structured Tote Bag Hero · product-261
 ![Structured Tote Bag Hero](cases/gpt-image-2/apimodels-product-261/original.png)
@@ -42,7 +42,7 @@ A structured top-handle tote in smooth saddle-tan leather from the invented bran
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-261) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Mini Crossbody Flat-Lay · product-262
 ![Mini Crossbody Flat-Lay](cases/gpt-image-2/apimodels-product-262/original.png)
@@ -52,7 +52,7 @@ Top-down flat-lay of a quilted mini crossbody bag in soft lilac lambskin from th
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-262) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Woven Straw Bag Summer · product-263
 ![Woven Straw Bag Summer](cases/gpt-image-2/apimodels-product-263/original.png)
@@ -62,7 +62,7 @@ A round woven straw bucket bag with tan leather trim from the invented brand Sie
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-263) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Leather Belt Detail Product · product-264
 ![Leather Belt Detail Product](cases/gpt-image-2/apimodels-product-264/original.png)
@@ -72,7 +72,7 @@ A wide braided leather belt in deep oxblood from the invented brand Corda, coile
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-264) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Silk Scarf Fluid Product · product-265
 ![Silk Scarf Fluid Product](cases/gpt-image-2/apimodels-product-265/original.png)
@@ -82,7 +82,7 @@ A large square silk twill scarf with an ornate paisley-and-botanical print in te
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-265) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Weekender Duffel Travel Shot · product-266
 ![Weekender Duffel Travel Shot](cases/gpt-image-2/apimodels-product-266/original.png)
@@ -92,7 +92,7 @@ A waxed-canvas and leather weekender duffel in olive-green and chestnut from the
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-266) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Card Wallet Minimal Product · product-267
 ![Card Wallet Minimal Product](cases/gpt-image-2/apimodels-product-267/original.png)
@@ -102,7 +102,7 @@ A slim bifold card wallet in smooth pebbled navy leather from the invented brand
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-267) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Bucket Hat & Bag Set · product-268
 ![Bucket Hat & Bag Set](cases/gpt-image-2/apimodels-product-268/original.png)
@@ -112,7 +112,7 @@ A coordinated set of a quilted nylon bucket hat and matching mini shoulder bag i
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-268) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Evening Clutch Glamour Shot · product-269
 ![Evening Clutch Glamour Shot](cases/gpt-image-2/apimodels-product-269/original.png)
@@ -122,7 +122,7 @@ A sleek envelope clutch covered in deep emerald crystal-cut beading from the inv
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-269) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Backpack Urban Commuter Shot · product-270
 ![Backpack Urban Commuter Shot](cases/gpt-image-2/apimodels-product-270/original.png)
@@ -132,7 +132,7 @@ A minimalist roll-top commuter backpack in matte graphite recycled nylon from th
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-270) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Diamond Ring Macro Sparkle · product-271
 ![Diamond Ring Macro Sparkle](cases/gpt-image-2/apimodels-product-271/original.png)
@@ -142,7 +142,7 @@ An extreme macro product shot of a solitaire engagement ring from the invented b
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-271) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Gold Necklace Layered Flat-Lay · product-272
 ![Gold Necklace Layered Flat-Lay](cases/gpt-image-2/apimodels-product-272/original.png)
@@ -152,7 +152,7 @@ Top-down flat-lay of three delicate layered gold chain necklaces from the invent
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-272) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Emerald Earrings Luxe Product · product-273
 ![Emerald Earrings Luxe Product](cases/gpt-image-2/apimodels-product-273/original.png)
@@ -162,7 +162,7 @@ A pair of drop earrings featuring emerald-cut green gemstones surrounded by pave
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-273) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Silver Bracelet Stack Shot · product-274
 ![Silver Bracelet Stack Shot](cases/gpt-image-2/apimodels-product-274/original.png)
@@ -172,7 +172,7 @@ A stack of sculptural sterling-silver cuff bracelets from the invented brand Ore
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-274) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Pearl Studs On Silk · product-275
 ![Pearl Studs On Silk](cases/gpt-image-2/apimodels-product-275/original.png)
@@ -182,7 +182,7 @@ A pair of classic freshwater pearl stud earrings from the invented brand Marisol
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-275) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Signet Ring Moody Product · product-276
 ![Signet Ring Moody Product](cases/gpt-image-2/apimodels-product-276/original.png)
@@ -192,7 +192,7 @@ A bold engraved signet ring in brushed yellow gold from the invented brand Kestr
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-276) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Sapphire Pendant Hero Shot · product-277
 ![Sapphire Pendant Hero Shot](cases/gpt-image-2/apimodels-product-277/original.png)
@@ -202,7 +202,7 @@ A teardrop sapphire pendant on a fine white-gold chain from the invented brand H
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-277) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Anklet Beach Flat-Lay · product-278
 ![Anklet Beach Flat-Lay](cases/gpt-image-2/apimodels-product-278/original.png)
@@ -212,7 +212,7 @@ Overhead flat-lay of a delicate beaded gold anklet with tiny turquoise and shell
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-278) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Brooch Vintage Product Shot · product-279
 ![Brooch Vintage Product Shot](cases/gpt-image-2/apimodels-product-279/original.png)
@@ -222,7 +222,7 @@ An ornate art-deco-inspired brooch in antique gold with deep-red garnet stones a
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-279) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Chunky Chain Necklace Bold · product-280
 ![Chunky Chain Necklace Bold](cases/gpt-image-2/apimodels-product-280/original.png)
@@ -232,7 +232,7 @@ A bold chunky curb-chain necklace in high-polish gold vermeil from the invented 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-280) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Dive Watch Underwater Feel · product-281
 ![Dive Watch Underwater Feel](cases/gpt-image-2/apimodels-product-281/original.png)
@@ -242,7 +242,7 @@ A rugged automatic dive watch with a deep-teal dial and rotating ceramic bezel f
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-281) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated dive-watch design; water-resistance and mechanical capability are not independently verified.
+ProjectD: published-accepted (run42069117745). Generated dive-watch design; water-resistance and mechanical capability are not independently verified.
 
 ## Dress Watch Elegant Product · product-282
 ![Dress Watch Elegant Product](cases/gpt-image-2/apimodels-product-282/original.png)
@@ -252,7 +252,7 @@ An ultra-thin dress watch with a silver-white guilloche dial, slim Roman numeral
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-282) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated watch concept; dial/branding and material wording are illustrative.
+ProjectD: published-accepted (run42069117745). Generated watch concept; dial/branding and material wording are illustrative.
 
 ## Chronograph Watch Macro Shot · product-283
 ![Chronograph Watch Macro Shot](cases/gpt-image-2/apimodels-product-283/original.png)
@@ -262,7 +262,7 @@ An extreme macro shot of a motorsport chronograph with a matte-black dial, three
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-283) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated chronograph dial; small printed markings and measurement precision are not validated.
+ProjectD: published-accepted (run42069117745). Generated chronograph dial; small printed markings and measurement precision are not validated.
 
 ## Minimalist Watch Flat-Lay · product-284
 ![Minimalist Watch Flat-Lay](cases/gpt-image-2/apimodels-product-284/original.png)
@@ -272,7 +272,7 @@ Top-down flat-lay of a clean minimalist watch with a plain white dial, thin bato
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-284) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Skeleton Watch Dramatic Shot · product-285
 ![Skeleton Watch Dramatic Shot](cases/gpt-image-2/apimodels-product-285/original.png)
@@ -282,7 +282,7 @@ A luxury open-worked skeleton mechanical watch revealing intricate gears and a v
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-285) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Skeleton-watch design image; visible gears do not establish a working movement.
+ProjectD: published-accepted (run42069117745). Skeleton-watch design image; visible gears do not establish a working movement.
 
 ## Smartwatch Lifestyle Product · product-286
 ![Smartwatch Lifestyle Product](cases/gpt-image-2/apimodels-product-286/original.png)
@@ -292,7 +292,7 @@ A modern smartwatch with a vibrant AMOLED activity display and a soft coral sili
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-286) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated fitness-screen measurements are illustrative UI values, not actual personal health data.
+ProjectD: published-accepted (run42069117745). Generated fitness-screen measurements are illustrative UI values, not actual personal health data.
 
 ## Field Watch Rugged Flat-Lay · product-287
 ![Field Watch Rugged Flat-Lay](cases/gpt-image-2/apimodels-product-287/original.png)
@@ -302,7 +302,7 @@ Top-down flat-lay of a rugged field watch with an olive-green dial, high-contras
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-287) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Topographic-map background is source decoration, not a verified navigation chart.
+ProjectD: published-accepted (run42069117745). Topographic-map background is source decoration, not a verified navigation chart.
 
 ## Rose-Gold Watch Feminine Shot · product-288
 ![Rose-Gold Watch Feminine Shot](cases/gpt-image-2/apimodels-product-288/original.png)
@@ -312,7 +312,7 @@ A delicate slim women's watch with a mother-of-pearl dial, tiny crystal hour mar
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-288) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Aviator Sunglasses Hero Shot · product-289
 ![Aviator Sunglasses Hero Shot](cases/gpt-image-2/apimodels-product-289/original.png)
@@ -322,7 +322,7 @@ A pair of classic aviator sunglasses with a thin gold metal frame and gradient s
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-289) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cat-Eye Sunglasses Flat-Lay · product-290
 ![Cat-Eye Sunglasses Flat-Lay](cases/gpt-image-2/apimodels-product-290/original.png)
@@ -332,7 +332,7 @@ Top-down flat-lay of bold cat-eye sunglasses with a glossy tortoiseshell acetate
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-290) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Sport Sunglasses Dynamic Shot · product-291
 ![Sport Sunglasses Dynamic Shot](cases/gpt-image-2/apimodels-product-291/original.png)
@@ -342,7 +342,7 @@ A pair of wraparound sport sunglasses with a matte-black frame and mirrored volt
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-291) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Round Optical Glasses Product · product-292
 ![Round Optical Glasses Product](cases/gpt-image-2/apimodels-product-292/original.png)
@@ -352,7 +352,7 @@ A pair of slim round optical glasses with a thin brushed-titanium frame and clea
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-292) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Oversized Sunglasses Luxe Shot · product-293
 ![Oversized Sunglasses Luxe Shot](cases/gpt-image-2/apimodels-product-293/original.png)
@@ -362,7 +362,7 @@ A pair of oversized square sunglasses with a glossy cream acetate frame and grad
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-293) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Clip-On Shades Flat-Lay · product-294
 ![Clip-On Shades Flat-Lay](cases/gpt-image-2/apimodels-product-294/original.png)
@@ -372,7 +372,7 @@ Top-down flat-lay of a modern optical frame in translucent honey acetate with a 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-294) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Blue-Light Glasses Desk Shot · product-295
 ![Blue-Light Glasses Desk Shot](cases/gpt-image-2/apimodels-product-295/original.png)
@@ -382,7 +382,7 @@ A pair of lightweight blue-light filtering glasses with a matte charcoal frame a
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-295) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Lens reflections do not establish actual blue-light filtering; source design concept retained.
+ProjectD: published-accepted (run42069117745). Lens reflections do not establish actual blue-light filtering; source design concept retained.
 
 ## Vintage Sunglasses Warm Shot · product-296
 ![Vintage Sunglasses Warm Shot](cases/gpt-image-2/apimodels-product-296/original.png)
@@ -392,7 +392,7 @@ A pair of retro keyhole-bridge sunglasses with a warm caramel-brown acetate fram
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-296) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Full native frame additionally inspected. All four visible title/author pairs checked against official publisher pages. These identify books on generated generic spines, not image creators or eyewear endorsers; no book-body text is shown.
+ProjectD: published-accepted (run42069117745). Full native frame additionally inspected. All four visible title/author pairs checked against official publisher pages. These identify books on generated generic spines, not image creators or eyewear endorsers; no book-body text is shown.
 
 ## Wool Fedora Moody Product · product-298
 ![Wool Fedora Moody Product](cases/gpt-image-2/apimodels-product-298/original.png)
@@ -402,7 +402,7 @@ A structured wide-brim wool felt fedora in deep charcoal with a grosgrain ribbon
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-298) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Knit Beanie Cozy Flat-Lay · product-299
 ![Knit Beanie Cozy Flat-Lay](cases/gpt-image-2/apimodels-product-299/original.png)
@@ -412,7 +412,7 @@ Top-down flat-lay of a chunky ribbed knit beanie in warm mustard-yellow with a f
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-299) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cashmere Scarf Soft Product · product-300
 ![Cashmere Scarf Soft Product](cases/gpt-image-2/apimodels-product-300/original.png)
@@ -422,7 +422,7 @@ A soft oversized cashmere scarf in heathered dove-grey from the invented brand C
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-300) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Straw Sun Hat Beach Shot · product-301
 ![Straw Sun Hat Beach Shot](cases/gpt-image-2/apimodels-product-301/original.png)
@@ -432,7 +432,7 @@ A wide-brim natural straw sun hat with a black band from the invented brand Ciel
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-301) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Baseball Cap Streetwear Shot · product-302
 ![Baseball Cap Streetwear Shot](cases/gpt-image-2/apimodels-product-302/original.png)
@@ -442,7 +442,7 @@ A structured six-panel baseball cap in washed sage-green cotton twill with a sub
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-302) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Silk Head Scarf Flat-Lay · product-303
 ![Silk Head Scarf Flat-Lay](cases/gpt-image-2/apimodels-product-303/original.png)
@@ -452,7 +452,7 @@ Top-down flat-lay of a small square silk head scarf with a delicate hand-drawn f
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-303) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Beret Chic Product Shot · product-304
 ![Beret Chic Product Shot](cases/gpt-image-2/apimodels-product-304/original.png)
@@ -462,7 +462,7 @@ A soft wool beret in rich burgundy with a small leather tab from the invented br
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-304) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Wool Scarf & Gloves Set · product-305
 ![Wool Scarf & Gloves Set](cases/gpt-image-2/apimodels-product-305/original.png)
@@ -472,7 +472,7 @@ A coordinated winter set of a plaid lambswool scarf and matching leather-trimmed
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-305) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Infinity Scarf Soft Flat-Lay · product-307
 ![Infinity Scarf Soft Flat-Lay](cases/gpt-image-2/apimodels-product-307/original.png)
@@ -482,7 +482,7 @@ Top-down flat-lay of a soft chunky-knit infinity scarf in oatmeal marl from the 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-307) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Leggings Activewear Flat-Lay · product-308
 ![Leggings Activewear Flat-Lay](cases/gpt-image-2/apimodels-product-308/original.png)
@@ -492,7 +492,7 @@ Top-down flat-lay of high-waisted compression leggings in deep plum with a subtl
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-308) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Sports Bra Mannequin Shot · product-309
 ![Sports Bra Mannequin Shot](cases/gpt-image-2/apimodels-product-309/original.png)
@@ -502,4 +502,4 @@ A high-support seamless sports bra in gradient teal-to-mint ombre from the inven
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-309) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated sports-bra campaign; support/breathability labels are design copy, not tested performance.
+ProjectD: published-accepted (run42069117745). Generated sports-bra campaign; support/breathability labels are design copy, not tested performance.

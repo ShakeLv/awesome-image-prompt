@@ -12,7 +12,7 @@ A row of pastel single-serve sachets of "LumiCollagen" marine collagen powder fa
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-127) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated collagen-packaging concept; printed beauty/wellness text is not verified efficacy.
+ProjectD: published-accepted (run42069117745). Generated collagen-packaging concept; printed beauty/wellness text is not verified efficacy.
 
 ## Hot Sauce Bottle Fiery · ecommerce-128
 ![Hot Sauce Bottle Fiery](cases/gpt-image-2/apimodels-ecommerce-128/original.png)
@@ -22,7 +22,7 @@ A slim clear glass bottle of "Ember Drop" habanero hot sauce with a bright red-o
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-128) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Olive Oil Bottle Rustic · ecommerce-129
 ![Olive Oil Bottle Rustic](cases/gpt-image-2/apimodels-ecommerce-129/original.png)
@@ -32,7 +32,7 @@ A tall dark-green glass bottle of "Terra Uliva" extra-virgin olive oil with a mi
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-129) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Ketchup Squeeze Bottle · ecommerce-130
 ![Ketchup Squeeze Bottle](cases/gpt-image-2/apimodels-ecommerce-130/original.png)
@@ -42,7 +42,7 @@ A glossy red squeeze bottle of "Vine Ripe" tomato ketchup standing on a clean wh
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-130) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Honey Jar Golden Drizzle · ecommerce-132
 ![Honey Jar Golden Drizzle](cases/gpt-image-2/apimodels-ecommerce-132/original.png)
@@ -52,7 +52,7 @@ A round glass jar of "Wildmeadow" raw wildflower honey with a wooden honey dippe
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-132) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Maple Syrup Bottle Cabin · ecommerce-134
 ![Maple Syrup Bottle Cabin](cases/gpt-image-2/apimodels-ecommerce-134/original.png)
@@ -62,7 +62,7 @@ A classic clear glass bottle of "North Ridge" pure maple syrup with a cabin-shap
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-134) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Pesto Jar Fresh Basil · ecommerce-133
 ![Pesto Jar Fresh Basil](cases/gpt-image-2/apimodels-ecommerce-133/original.png)
@@ -72,7 +72,7 @@ An open glass jar of "Verde Fresco" basil pesto with a spoon lifting a thick vib
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-133) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Mustard Jar Grainy Detail · ecommerce-135
 ![Mustard Jar Grainy Detail](cases/gpt-image-2/apimodels-ecommerce-135/original.png)
@@ -82,7 +82,7 @@ A short clear glass jar of "Fielden's" wholegrain mustard with a small wooden sp
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-135) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Artisan Sourdough Loaf · ecommerce-138
 ![Artisan Sourdough Loaf](cases/gpt-image-2/apimodels-ecommerce-138/original.png)
@@ -92,7 +92,7 @@ A rustic round "Stone Hearth" sourdough loaf with a crackled golden crust and dr
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-138) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Loaf and airy crumb match; not every requested secondary prop is clearly visible, source frame retained.
+ProjectD: published-accepted (run42069117745). Loaf and airy crumb match; not every requested secondary prop is clearly visible, source frame retained.
 
 ## Cinnamon Rolls Tray Gooey · ecommerce-141
 ![Cinnamon Rolls Tray Gooey](cases/gpt-image-2/apimodels-ecommerce-141/original.png)
@@ -102,7 +102,7 @@ A close-up of freshly baked "Swirl & Spice" cinnamon rolls in a cast-iron pan, g
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-141) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Cinnamon-roll rendering retained as actual source preview; exact requested pulled-roll stretch is not independently established.
+ProjectD: published-accepted (run42069117745). Cinnamon-roll rendering retained as actual source preview; exact requested pulled-roll stretch is not independently established.
 
 ## Croissant Stack Buttery · ecommerce-139
 ![Croissant Stack Buttery](cases/gpt-image-2/apimodels-ecommerce-139/original.png)
@@ -112,7 +112,7 @@ A neat stack of golden flaky "Beurre Blanc" butter croissants on a white ceramic
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-139) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Bagels Basket Fresh · ecommerce-143
 ![Bagels Basket Fresh](cases/gpt-image-2/apimodels-ecommerce-143/original.png)
@@ -122,7 +122,7 @@ A woven basket of assorted "Round House" bagels — sesame, poppy, everything an
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-143) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Macarons Pastel Row · ecommerce-142
 ![Macarons Pastel Row](cases/gpt-image-2/apimodels-ecommerce-142/original.png)
@@ -132,7 +132,7 @@ A neat row of five "Maison Lune" French macarons in pastel shades — rose, pist
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-142) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Chocolate Chip Cookies Stack · ecommerce-144
 ![Chocolate Chip Cookies Stack](cases/gpt-image-2/apimodels-ecommerce-144/original.png)
@@ -142,7 +142,7 @@ A tall stack of "Batch No. 9" chocolate chip cookies on rustic parchment, the to
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-144) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Donut Box Assortment · ecommerce-145
 ![Donut Box Assortment](cases/gpt-image-2/apimodels-ecommerce-145/original.png)
@@ -152,7 +152,7 @@ An open kraft box of six "Glaze & Co." assorted donuts — pink-glazed, chocolat
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-145) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Frozen Pizza Box Hero · ecommerce-148
 ![Frozen Pizza Box Hero](cases/gpt-image-2/apimodels-ecommerce-148/original.png)
@@ -162,7 +162,7 @@ A "Forno Rustico" frozen margherita pizza with the box standing behind and the p
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-148) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Frozen Dumplings Bag Steam · ecommerce-149
 ![Frozen Dumplings Bag Steam](cases/gpt-image-2/apimodels-ecommerce-149/original.png)
@@ -172,7 +172,7 @@ A resealable frosted bag of "Steam House" pork-and-chive frozen dumplings standi
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-149) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Ready Meal Bowl Curry · ecommerce-150
 ![Ready Meal Bowl Curry](cases/gpt-image-2/apimodels-ecommerce-150/original.png)
@@ -182,7 +182,7 @@ A "QuickSpice" ready-meal coconut chicken curry served hot in a black bowl, the 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-150) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Frozen Berries Bag Burst · ecommerce-152
 ![Frozen Berries Bag Burst](cases/gpt-image-2/apimodels-ecommerce-152/original.png)
@@ -192,7 +192,7 @@ A frosted resealable bag of "Polar Harvest" mixed frozen berries tipped over wit
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-152) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Ice Cream Pint Melting · ecommerce-151
 ![Ice Cream Pint Melting](cases/gpt-image-2/apimodels-ecommerce-151/original.png)
@@ -202,7 +202,7 @@ A "Frost Craft" pint of salted-caramel swirl ice cream with the lid off, a heapi
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-151) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Frozen Fries Bag Crispy · ecommerce-153
 ![Frozen Fries Bag Crispy](cases/gpt-image-2/apimodels-ecommerce-153/original.png)
@@ -212,7 +212,7 @@ A bright golden bag of "Crisp Fields" frozen crinkle-cut fries standing upright,
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-153) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Frozen Burrito Box Cut · ecommerce-156
 ![Frozen Burrito Box Cut](cases/gpt-image-2/apimodels-ecommerce-156/original.png)
@@ -222,7 +222,7 @@ A "Fiesta Roll" frozen bean-and-cheese burrito sliced diagonally to reveal a mel
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-156) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Frozen Fish Fillets Pack · ecommerce-157
 ![Frozen Fish Fillets Pack](cases/gpt-image-2/apimodels-ecommerce-157/original.png)
@@ -232,7 +232,7 @@ A sleek blue box of "Ocean Catch" breaded cod fillets standing behind two golden
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-157) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Peanut Brittle Slab Snapped · ecommerce-158
 ![Peanut Brittle Slab Snapped](cases/gpt-image-2/apimodels-ecommerce-158/original.png)
@@ -242,7 +242,7 @@ A slab of glossy amber "Crackle & Co." peanut brittle snapped into jagged pieces
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-158) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Protein Shake RTD Bottles · ecommerce-159
 ![Protein Shake RTD Bottles](cases/gpt-image-2/apimodels-ecommerce-159/original.png)
@@ -252,7 +252,7 @@ Two frosted white bottles of "PowerBlend" ready-to-drink chocolate protein shake
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-159) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Rendered30g protein and other nutrition labels are generated packaging, not verified product facts.
+ProjectD: published-accepted (run42069117745). Rendered30g protein and other nutrition labels are generated packaging, not verified product facts.
 
 ## Chia Pudding Cups Set · ecommerce-160
 ![Chia Pudding Cups Set](cases/gpt-image-2/apimodels-ecommerce-160/original.png)
@@ -262,7 +262,7 @@ Three clear glass cups of "Seed & Spoon" overnight chia pudding layered with van
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#ecommerce-160) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Clario 4K Webcam · product-233
 ![Clario 4K Webcam](cases/gpt-image-2/apimodels-product-233/original.png)
@@ -272,7 +272,7 @@ Sharp product shot of a compact 4K webcam named 'Clario Focus' in matte graphite
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-233) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Office-tech advertising concept; 4K/privacy-label text is requested visual copy, not a verified device specification.
+ProjectD: published-accepted (run42069117745). Office-tech advertising concept; 4K/privacy-label text is requested visual copy, not a verified device specification.
 
 ## Flowdesk Standing Desk · product-234
 ![Flowdesk Standing Desk](cases/gpt-image-2/apimodels-product-234/original.png)
@@ -282,7 +282,7 @@ Aspirational product shot of a motorized sit-stand desk named 'Flowdesk Rise' wi
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-234) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Standing-desk advertising scene and tagline match; extra wall print is retained as source background design.
+ProjectD: published-accepted (run42069117745). Standing-desk advertising scene and tagline match; extra wall print is retained as source background design.
 
 ## Meridian Smart Desk Lamp · product-235
 ![Meridian Smart Desk Lamp](cases/gpt-image-2/apimodels-product-235/original.png)
@@ -292,7 +292,7 @@ Warm product shot of a minimalist smart desk lamp named 'Meridian Glow' with a s
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-235) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Lamp and exact tagline are retained as fictional design, with no verified smart-device capability.
+ProjectD: published-accepted (run42069117745). Lamp and exact tagline are retained as fictional design, with no verified smart-device capability.
 
 ## Papertrail Document Scanner · product-236
 ![Papertrail Document Scanner](cases/gpt-image-2/apimodels-product-236/original.png)
@@ -302,7 +302,7 @@ Practical product shot of a compact sheet-fed document scanner named 'Papertrail
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-236) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated scanner/document mockup and tagline; visible document/chart values are illustrative.
+ProjectD: published-accepted (run42069117745). Generated scanner/document mockup and tagline; visible document/chart values are illustrative.
 
 ## Slate Portable Monitor · product-237
 ![Slate Portable Monitor](cases/gpt-image-2/apimodels-product-237/original.png)
@@ -312,7 +312,7 @@ Clean product shot of a slim portable monitor named 'Slate Second' in brushed al
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-237) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Portable-monitor dashboard amounts are generated UI copy, not audited financial data.
+ProjectD: published-accepted (run42069117745). Portable-monitor dashboard amounts are generated UI copy, not audited financial data.
 
 ## Clario Conference Speakerphone · product-238
 ![Clario Conference Speakerphone](cases/gpt-image-2/apimodels-product-238/original.png)
@@ -322,7 +322,7 @@ Sleek product shot of a round conference speakerphone named 'Clario Meet' in sof
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-238) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Speakerphone and exact ad copy correspond; no real hardware performance is verified.
+ProjectD: published-accepted (run42069117745). Speakerphone and exact ad copy correspond; no real hardware performance is verified.
 
 ## Papertrail Label Printer · product-239
 ![Papertrail Label Printer](cases/gpt-image-2/apimodels-product-239/original.png)
@@ -332,7 +332,7 @@ Neat product shot of a compact thermal label printer named 'Papertrail Tag' in w
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-239) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Label-printer concept and generated labels retained; no barcode destination is asserted.
+ProjectD: published-accepted (run42069117745). Label-printer concept and generated labels retained; no barcode destination is asserted.
 
 ## Linen Shirt Flat-Lay Editorial · product-241
 ![Linen Shirt Flat-Lay Editorial](cases/gpt-image-2/apimodels-product-241/original.png)
@@ -342,7 +342,7 @@ Overhead flat-lay of an oversized oatmeal linen shirt from the invented label Vi
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-241) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Silk Slip Dress on Mannequin · product-242
 ![Silk Slip Dress on Mannequin](cases/gpt-image-2/apimodels-product-242/original.png)
@@ -352,7 +352,7 @@ A champagne silk-satin slip dress by the invented brand Aurelle draped on a matt
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-242) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Knit Sweater Cozy Flat-Lay · product-243
 ![Knit Sweater Cozy Flat-Lay](cases/gpt-image-2/apimodels-product-243/original.png)
@@ -362,7 +362,7 @@ Top-down flat-lay of a chunky cable-knit wool sweater in burnt terracotta from t
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-243) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generic notebook notes in the background retained; no real-author attribution is presented.
+ProjectD: published-accepted (run42069117745). Generic notebook notes in the background retained; no real-author attribution is presented.
 
 ## Tailored Blazer Mannequin Shot · product-244
 ![Tailored Blazer Mannequin Shot](cases/gpt-image-2/apimodels-product-244/original.png)
@@ -372,7 +372,7 @@ A double-breasted charcoal wool blazer by the invented house Meridian Tailors pr
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-244) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Summer Dress Pastel Flat-Lay · product-245
 ![Summer Dress Pastel Flat-Lay](cases/gpt-image-2/apimodels-product-245/original.png)
@@ -382,7 +382,7 @@ Overhead flat-lay of a breezy tiered cotton midi dress in soft butter yellow fro
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-245) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Denim Jacket Rugged Flat-Lay · product-246
 ![Denim Jacket Rugged Flat-Lay](cases/gpt-image-2/apimodels-product-246/original.png)
@@ -392,7 +392,7 @@ Top-down flat-lay of a rugged washed-indigo denim trucker jacket from the invent
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-246) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Trench Coat Mannequin Elegance · product-247
 ![Trench Coat Mannequin Elegance](cases/gpt-image-2/apimodels-product-247/original.png)
@@ -402,7 +402,7 @@ A classic double-breasted trench coat in warm camel gabardine by the invented br
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-247) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Loungewear Set Soft Flat-Lay · product-248
 ![Loungewear Set Soft Flat-Lay](cases/gpt-image-2/apimodels-product-248/original.png)
@@ -412,7 +412,7 @@ Overhead flat-lay of a matching ribbed modal loungewear set in dusty rose from t
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-248) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Wrap Blouse On Mannequin · product-249
 ![Wrap Blouse On Mannequin](cases/gpt-image-2/apimodels-product-249/original.png)
@@ -422,7 +422,7 @@ A flowing emerald-green satin wrap blouse from the invented label Verdant Thread
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-249) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cashmere Cardigan Flat-Lay · product-250
 ![Cashmere Cardigan Flat-Lay](cases/gpt-image-2/apimodels-product-250/original.png)
@@ -432,7 +432,7 @@ Top-down flat-lay of a fine-gauge cashmere cardigan in soft dove grey from the i
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-250) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## White Sneaker Studio Hero · product-251
 ![White Sneaker Studio Hero](cases/gpt-image-2/apimodels-product-251/original.png)
@@ -442,7 +442,7 @@ A crisp minimalist low-top leather sneaker in optic white from the invented bran
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-251) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Trail Runner Dynamic Shot · product-252
 ![Trail Runner Dynamic Shot](cases/gpt-image-2/apimodels-product-252/original.png)
@@ -452,7 +452,7 @@ A rugged trail running shoe in slate grey and volt-lime from the invented brand 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-252) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Leather Loafer Flat-Lay · product-253
 ![Leather Loafer Flat-Lay](cases/gpt-image-2/apimodels-product-253/original.png)
@@ -462,7 +462,7 @@ Top-down flat-lay of a pair of hand-stitched penny loafers in rich cognac leathe
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-253) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Heeled Sandal Elegant Product · product-254
 ![Heeled Sandal Elegant Product](cases/gpt-image-2/apimodels-product-254/original.png)
@@ -472,7 +472,7 @@ A single strappy stiletto sandal in metallic rose-gold from the invented brand O
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-254) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Ballet Flat Soft Product · product-256
 ![Ballet Flat Soft Product](cases/gpt-image-2/apimodels-product-256/original.png)
@@ -482,7 +482,7 @@ A pair of dainty ballet flats in soft blush suede from the invented brand Aerole
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-256) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Chunky Boot Editorial Shot · product-255
 ![Chunky Boot Editorial Shot](cases/gpt-image-2/apimodels-product-255/original.png)
@@ -492,7 +492,7 @@ A pair of chunky lug-sole combat boots in matte black grained leather from the i
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-255) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## High-Top Basketball Sneaker · product-257
 ![High-Top Basketball Sneaker](cases/gpt-image-2/apimodels-product-257/original.png)
@@ -502,4 +502,4 @@ A bold high-top basketball sneaker in deep royal-blue and metallic orange from t
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-257) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated sports-shoe concept; air-cushion/performance wording is source design language, not tested footwear capability.
+ProjectD: published-accepted (run42069117745). Generated sports-shoe concept; air-cushion/performance wording is source design language, not tested footwear capability.

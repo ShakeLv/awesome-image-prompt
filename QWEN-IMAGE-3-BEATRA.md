@@ -1,6 +1,6 @@
 # Beatra — complete Qwen Image3.0 gallery
 
-All40 source cases archived with the complete original Prompt block and exact native published images. Beatra explicitly licenses prompts and media CC BY4.0.38 pass ProjectD media review; two native images are under its minimum dimensions and remain held. Model/task labels are source-attested; no independently billed generation.
+All40 source cases archived with the complete original Prompt block and exact native published images. Beatra explicitly licenses prompts and media CC BY4.0.38 are published and accepted on ProjectD (run42069117745); two native images are under its minimum dimensions and remain held. Model/task labels are source-attested; no independently billed generation.
 
 [Source and full license](sources/beatra-qwen-image-3/README.md#license) · [Full per-item provenance/review](data/beatra-qwen-image-3-gallery.json)
 

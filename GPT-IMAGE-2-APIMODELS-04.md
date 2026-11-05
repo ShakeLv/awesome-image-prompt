@@ -12,7 +12,7 @@ A lightweight windproof running jacket in reflective slate-grey with neon-coral 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-310) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated jacket includes technical feature callouts; water/wind resistance is not independently validated.
+ProjectD: published-accepted (run42069117745). Generated jacket includes technical feature callouts; water/wind resistance is not independently validated.
 
 ## Yoga Set Serene Flat-Lay · product-311
 ![Yoga Set Serene Flat-Lay](cases/gpt-image-2/apimodels-product-311/original.png)
@@ -22,7 +22,7 @@ Top-down flat-lay of a matching ribbed yoga set — a cropped tank and high-wais
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-311) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Training Shorts Product Shot · product-312
 ![Training Shorts Product Shot](cases/gpt-image-2/apimodels-product-312/original.png)
@@ -32,7 +32,7 @@ A pair of lightweight two-in-one training shorts in matte black with a bold elec
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-312) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Athletic Socks Flat-Lay · product-314
 ![Athletic Socks Flat-Lay](cases/gpt-image-2/apimodels-product-314/original.png)
@@ -42,7 +42,7 @@ Top-down flat-lay of three pairs of cushioned crew athletic socks in coral, mint
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-314) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Windbreaker Vibrant Product · product-315
 ![Windbreaker Vibrant Product](cases/gpt-image-2/apimodels-product-315/original.png)
@@ -52,7 +52,7 @@ A retro-inspired colour-block windbreaker in sunset-orange, cream and teal from 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-315) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Gym Duffel & Gear Flat-Lay · product-316
 ![Gym Duffel & Gear Flat-Lay](cases/gpt-image-2/apimodels-product-316/original.png)
@@ -62,7 +62,7 @@ Top-down flat-lay of a sleek gym duffel in matte black recycled polyester from t
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-316) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Source frame lays bands flat rather than showing every requested roll; original arrangement retained.
+ProjectD: published-accepted (run42069117745). Source frame lays bands flat rather than showing every requested roll; original arrangement retained.
 
 ## Tennis Skort Fresh Product · product-317
 ![Tennis Skort Fresh Product](cases/gpt-image-2/apimodels-product-317/original.png)
@@ -72,7 +72,7 @@ A pleated tennis skort in crisp white with a soft lilac trim from the invented b
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-317) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Faux-Leather Skirt Flat-Lay · product-318
 ![Faux-Leather Skirt Flat-Lay](cases/gpt-image-2/apimodels-product-318/original.png)
@@ -82,7 +82,7 @@ Top-down flat-lay of a sleek A-line faux-leather mini skirt in deep espresso-bro
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-318) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Chelsea Boot Studio Product · product-320
 ![Chelsea Boot Studio Product](cases/gpt-image-2/apimodels-product-320/original.png)
@@ -92,7 +92,7 @@ A pair of sleek Chelsea boots in smooth chestnut leather from the invented brand
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-320) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Puffer Vest Outdoor Product · product-319
 ![Puffer Vest Outdoor Product](cases/gpt-image-2/apimodels-product-319/original.png)
@@ -102,7 +102,7 @@ A quilted down puffer vest in warm rust-orange with a matte-black zip from the i
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-319) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Slide Sandals Minimal Product · product-321
 ![Slide Sandals Minimal Product](cases/gpt-image-2/apimodels-product-321/original.png)
@@ -112,7 +112,7 @@ A pair of minimalist molded slide sandals in soft matte sand-beige from the inve
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-321) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cufflinks Macro Detail Shot · product-323
 ![Cufflinks Macro Detail Shot](cases/gpt-image-2/apimodels-product-323/original.png)
@@ -122,7 +122,7 @@ An extreme macro shot of a pair of elegant cufflinks in brushed silver with a de
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-323) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Statement Ring Bold Macro · product-328
 ![Statement Ring Bold Macro](cases/gpt-image-2/apimodels-product-328/original.png)
@@ -132,7 +132,7 @@ An extreme macro shot of a bold cocktail ring featuring a large oval citrine cab
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-328) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Pocket Square Flat-Lay · product-329
 ![Pocket Square Flat-Lay](cases/gpt-image-2/apimodels-product-329/original.png)
@@ -142,7 +142,7 @@ Top-down flat-lay of three folded silk pocket squares in a paisley print, a polk
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-329) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Tie & Clip Menswear Flat-Lay · product-331
 ![Tie & Clip Menswear Flat-Lay](cases/gpt-image-2/apimodels-product-331/original.png)
@@ -152,7 +152,7 @@ Top-down flat-lay of a silk necktie in deep forest-green with a subtle micro-dot
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-331) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Hoodie Streetwear Mannequin · product-332
 ![Hoodie Streetwear Mannequin](cases/gpt-image-2/apimodels-product-332/original.png)
@@ -162,7 +162,7 @@ An oversized heavyweight fleece hoodie in washed sand-beige with a tonal drawstr
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-332) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Pleated Skirt Mannequin Shot · product-334
 ![Pleated Skirt Mannequin Shot](cases/gpt-image-2/apimodels-product-334/original.png)
@@ -172,7 +172,7 @@ A flowing accordion-pleated midi skirt in shimmering champagne-gold from the inv
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-334) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Silk Camisole Flat-Lay · product-339
 ![Silk Camisole Flat-Lay](cases/gpt-image-2/apimodels-product-339/original.png)
@@ -182,7 +182,7 @@ Top-down flat-lay of a delicate silk-satin camisole in soft blush-pink with fine
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-339) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cross-Training Shoe Product · product-340
 ![Cross-Training Shoe Product](cases/gpt-image-2/apimodels-product-340/original.png)
@@ -192,7 +192,7 @@ A stable cross-training shoe in cool graphite with volt-yellow laces and a wide 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-340) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated feature-callout footwear artwork, not independently tested performance.
+ProjectD: published-accepted (run42069117745). Generated feature-callout footwear artwork, not independently tested performance.
 
 ## Ombre Sunglasses Flat-Lay · product-341
 ![Ombre Sunglasses Flat-Lay](cases/gpt-image-2/apimodels-product-341/original.png)
@@ -202,7 +202,7 @@ Top-down flat-lay of a pair of geometric hexagonal sunglasses with a thin rose-g
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-341) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Bucket Hat Denim Flat-Lay · product-344
 ![Bucket Hat Denim Flat-Lay](cases/gpt-image-2/apimodels-product-344/original.png)
@@ -212,7 +212,7 @@ Top-down flat-lay of a washed-indigo denim bucket hat with topstitched panels an
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-344) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Charm Bracelet Detail Shot · product-343
 ![Charm Bracelet Detail Shot](cases/gpt-image-2/apimodels-product-343/original.png)
@@ -222,7 +222,7 @@ A delicate gold charm bracelet with tiny enameled charms — a star, a moon and 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-343) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Enamel Pin Set Flat-Lay · product-346
 ![Enamel Pin Set Flat-Lay](cases/gpt-image-2/apimodels-product-346/original.png)
@@ -232,7 +232,7 @@ Top-down flat-lay of a set of playful hard-enamel lapel pins — a tiny cactus, 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#product-346) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Source includes an invented-brand website line; it is depicted design copy, not a verified outbound destination.
+ProjectD: published-accepted (run42069117745). Source includes an invented-brand website line; it is depicted design copy, not a verified outbound destination.
 
 ## Neutral Minimalist Mood Board · social-419
 ![Neutral Minimalist Mood Board](cases/gpt-image-2/apimodels-social-419/original.png)
@@ -242,7 +242,7 @@ An aesthetic mood-board post, 1:1. A four-panel grid collage in warm neutrals: a
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-419) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Coastal Blue Mood Board · social-420
 ![Coastal Blue Mood Board](cases/gpt-image-2/apimodels-social-420/original.png)
@@ -252,7 +252,7 @@ An aesthetic mood-board post, 4:5. A collage grid of coastal imagery: gentle oce
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-420) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Source collage adds generic coastal text beyond the requested imagery; full source collage retained.
+ProjectD: published-accepted (run42069117745). Source collage adds generic coastal text beyond the requested imagery; full source collage retained.
 
 ## Cozy Autumn Mood Board · social-421
 ![Cozy Autumn Mood Board](cases/gpt-image-2/apimodels-social-421/original.png)
@@ -272,7 +272,7 @@ An aesthetic mood-board post, 4:5. A soft feminine collage grid: a satin bow, bl
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-422) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Dark Academia Mood Board · social-423
 ![Dark Academia Mood Board](cases/gpt-image-2/apimodels-social-423/original.png)
@@ -282,7 +282,7 @@ An aesthetic mood-board post, 1:1. A moody scholarly collage grid: an old leathe
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-423) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Full native frame additionally reviewed; the short Jefferson quotation is confirmed by the Thomas Jefferson Foundation at Monticello, sourced to the1815 letter. Book-title/author displays contain no book-body excerpt; portrait is a generated collage element, not an archival-photo claim.
+ProjectD: published-accepted (run42069117745). Full native frame additionally reviewed; the short Jefferson quotation is confirmed by the Thomas Jefferson Foundation at Monticello, sourced to the1815 letter. Book-title/author displays contain no book-body excerpt; portrait is a generated collage element, not an archival-photo claim.
 
 ## Cottagecore Garden Mood Board · social-424
 ![Cottagecore Garden Mood Board](cases/gpt-image-2/apimodels-social-424/original.png)
@@ -292,7 +292,7 @@ An aesthetic mood-board post, 4:5. A whimsical cottage collage grid: a wildflowe
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-424) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Y2K Retro Mood Board · social-425
 ![Y2K Retro Mood Board](cases/gpt-image-2/apimodels-social-425/original.png)
@@ -302,7 +302,7 @@ An aesthetic mood-board post, 1:1. A playful Y2K collage grid: a translucent fro
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-425) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Scandi Minimal Mood Board · social-426
 ![Scandi Minimal Mood Board](cases/gpt-image-2/apimodels-social-426/original.png)
@@ -322,7 +322,7 @@ An aesthetic mood-board post, 1:1. A golden-hour collage grid: a sun flaring ove
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-427) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Botanical Green Mood Board · social-428
 ![Botanical Green Mood Board](cases/gpt-image-2/apimodels-social-428/original.png)
@@ -332,7 +332,7 @@ An aesthetic mood-board post, 4:5. A lush botanical collage grid: a monstera lea
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-428) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Frostpine Christmas Sale Banner · social-429
 ![Frostpine Christmas Sale Banner](cases/gpt-image-2/apimodels-social-429/original.png)
@@ -342,7 +342,7 @@ A festive Christmas sale banner for an invented home-goods brand 'Frostpine'. A 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-429) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented-brand sale percentage and date are demonstration copy, not an active retailer offer.
+ProjectD: published-accepted (run42069117745). Invented-brand sale percentage and date are demonstration copy, not an active retailer offer.
 
 ## Knitted Warm Wishes Card · social-431
 ![Knitted Warm Wishes Card](cases/gpt-image-2/apimodels-social-431/original.png)
@@ -352,7 +352,7 @@ A cozy Christmas greeting card where the whole scene looks knitted from chunky w
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-431) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cheers To 2027 New Year · social-430
 ![Cheers To 2027 New Year](cases/gpt-image-2/apimodels-social-430/original.png)
@@ -362,7 +362,7 @@ An elegant New Year's Eve social graphic. A pure black background carries a shim
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-430) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Lumo Gift Edit 3D · social-432
 ![Lumo Gift Edit 3D](cases/gpt-image-2/apimodels-social-432/original.png)
@@ -372,7 +372,7 @@ A playful 3D-rendered Christmas gift-guide graphic for invented shop 'Lumo'. In 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-432) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented-shop price caption is illustrative, not a current shopping recommendation.
+ProjectD: published-accepted (run42069117745). Invented-shop price caption is illustrative, not a current shopping recommendation.
 
 ## New Year New Chapter Minimal · social-433
 ![New Year New Chapter Minimal](cases/gpt-image-2/apimodels-social-433/original.png)
@@ -382,7 +382,7 @@ A minimal New Year intentions social post. A warm off-white paper-textured backg
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-433) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Cocoa Lane Winter Warmers · social-434
 ![Cocoa Lane Winter Warmers](cases/gpt-image-2/apimodels-social-434/original.png)
@@ -392,7 +392,7 @@ A charming winter-drinks promo for invented cafe 'Cocoa Lane'. A deep navy backg
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-434) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Cafe name and price are source-provided design copy, not verified commercial terms.
+ProjectD: published-accepted (run42069117745). Cafe name and price are source-provided design copy, not verified commercial terms.
 
 ## Toymaker Workshop Cartoon · social-435
 ![Toymaker Workshop Cartoon](cases/gpt-image-2/apimodels-social-435/original.png)
@@ -402,7 +402,7 @@ A cute cartoon Christmas story graphic. A round-bellied jolly toymaker in a red 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-435) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Everly Free Shipping Banner · social-437
 ![Everly Free Shipping Banner](cases/gpt-image-2/apimodels-social-437/original.png)
@@ -412,7 +412,7 @@ A clean e-commerce Christmas promo banner for invented brand 'Everly'. A bright 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-437) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Shipping deadline is a fictional promo-template statement, not a delivery guarantee.
+ProjectD: published-accepted (run42069117745). Shipping deadline is a fictional promo-template statement, not a delivery guarantee.
 
 ## Happy New Year Fireworks · social-436
 ![Happy New Year Fireworks](cases/gpt-image-2/apimodels-social-436/original.png)
@@ -422,7 +422,7 @@ A dramatic New Year fireworks graphic. A stylized dark city-skyline silhouette r
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-436) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Papercraft Advent Countdown · social-438
 ![Papercraft Advent Countdown](cases/gpt-image-2/apimodels-social-438/original.png)
@@ -432,7 +432,7 @@ A paper-craft advent-calendar social graphic where everything looks cut and fold
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-438) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. All24 calendar-door numbers are present; the requested open-door detail is not claimed to be perfectly reproduced.
+ProjectD: published-accepted (run42069117745). All24 calendar-door numbers are present; the requested open-door detail is not claimed to be perfectly reproduced.
 
 ## Lunar New Year Fortune Banner · social-439
 ![Lunar New Year Fortune Banner](cases/gpt-image-2/apimodels-social-439/original.png)
@@ -442,7 +442,7 @@ A vibrant Chinese New Year promo banner. A rich crimson background has a gold-fo
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-439) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated auspicious-character artwork retained; no independent calligraphic correctness is claimed.
+ProjectD: published-accepted (run42069117745). Generated auspicious-character artwork retained; no independent calligraphic correctness is claimed.
 
 ## Year Of The Horse Mascot · social-440
 ![Year Of The Horse Mascot](cases/gpt-image-2/apimodels-social-440/original.png)
@@ -452,7 +452,7 @@ A cute Lunar New Year mascot graphic for the Year of the Horse. A chubby cartoon
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-440) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Horse-zodiac motif is not assigned a calendar year by this catalogue record.
+ProjectD: published-accepted (run42069117745). Horse-zodiac motif is not assigned a calendar year by this catalogue record.
 
 ## Reunion Dinner Illustration · social-441
 ![Reunion Dinner Illustration](cases/gpt-image-2/apimodels-social-441/original.png)
@@ -462,7 +462,7 @@ A warm Spring Festival reunion-dinner illustration seen from above. A round tabl
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-441) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Lantern Festival Night · social-442
 ![Lantern Festival Night](cases/gpt-image-2/apimodels-social-442/original.png)
@@ -472,7 +472,7 @@ A dreamy Lantern Festival social graphic. Rows of glowing red-and-gold lanterns 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-442) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Papercut Window Flower · social-443
 ![Papercut Window Flower](cases/gpt-image-2/apimodels-social-443/original.png)
@@ -482,7 +482,7 @@ A traditional Chinese paper-cut style graphic. A single sheet of red paper is cu
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-443) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Jinli New Year Mega Sale · social-444
 ![Jinli New Year Mega Sale](cases/gpt-image-2/apimodels-social-444/original.png)
@@ -492,7 +492,7 @@ A festive Lunar New Year e-commerce sale banner for invented brand 'Jinli Living
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-444) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented-brand sale/date text is illustrative, not current commercial terms.
+ProjectD: published-accepted (run42069117745). Invented-brand sale/date text is illustrative, not current commercial terms.
 
 ## God Of Wealth Cartoon · social-445
 ![God Of Wealth Cartoon](cases/gpt-image-2/apimodels-social-445/original.png)
@@ -502,4 +502,4 @@ A cheerful cartoon God-of-Wealth greeting graphic. A smiling round figure in gol
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#social-445) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.

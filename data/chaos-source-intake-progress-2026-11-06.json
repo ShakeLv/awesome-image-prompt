@@ -16,5 +16,12 @@
   "nativeMediaDownloaded": 3631,
   "nativeGitBlobsVerified": 3631,
   "sourceMetaGitBlobsVerified": 3631,
-  "nativeBytes": 1334451348
+  "nativeBytes": 1334451348,
+  "githubArchiveStatus": "complete-and-remote-Git-verified",
+  "archivePairs": 3631,
+  "archivalReceipt": "https://github.com/ShakeLv/awesome-image-prompt/blob/main/data/chaos-remote-archive-acceptance-2026-11-06.json",
+  "individuallyReviewed": 48,
+  "individuallyApprovedNotImported": 39,
+  "individuallyHeld": 9,
+  "unreviewedSourcePairs": 3583
 }

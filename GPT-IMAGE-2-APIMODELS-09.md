@@ -162,7 +162,7 @@ A playful illustrated tourist map of the fictional tropical island 'Marisol'. A 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-875) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Explicitly fictional island map; not navigational or tourist-location evidence.
+ProjectD: published-accepted (run42069117745). Explicitly fictional island map; not navigational or tourist-location evidence.
 
 ## Life by Altitude · infographic-876
 ![Life by Altitude](cases/gpt-image-2/apimodels-infographic-876/original.png)
@@ -182,7 +182,7 @@ A geography infographic explaining a river system from source to sea, drawn as a
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-877) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## The Drifting Continents · infographic-878
 ![The Drifting Continents](cases/gpt-image-2/apimodels-infographic-878/original.png)
@@ -202,7 +202,7 @@ A clean-tech infographic explaining how a solar panel powers a home, drawn as a 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-879) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Conceptual energy-flow illustration; not installation or electrical-safety instructions.
+ProjectD: published-accepted (run42069117745). Conceptual energy-flow illustration; not installation or electrical-safety instructions.
 
 ## How Wi-Fi Works · infographic-880
 ![How Wi-Fi Works](cases/gpt-image-2/apimodels-infographic-880/original.png)
@@ -212,7 +212,7 @@ A technology infographic explaining how Wi-Fi delivers internet, shown as a laye
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-880) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## How an Electric Car Works · infographic-881
 ![How an Electric Car Works](cases/gpt-image-2/apimodels-infographic-881/original.png)
@@ -222,7 +222,7 @@ A technology infographic of how an electric car works, drawn as a cutaway side v
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-881) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Invented Voltano vehicle; range and charge figures are illustrative.
+ProjectD: published-accepted (run42069117745). Invented Voltano vehicle; range and charge figures are illustrative.
 
 ## How GPS Locates You · infographic-882
 ![How GPS Locates You](cases/gpt-image-2/apimodels-infographic-882/original.png)
@@ -232,7 +232,7 @@ A technology infographic explaining how GPS finds your location, drawn as a scen
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-882) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Conceptual GPS diagram; added precision figures are not a device guarantee.
+ProjectD: published-accepted (run42069117745). Conceptual GPS diagram; added precision figures are not a device guarantee.
 
 ## Inside a Jet Engine · infographic-884
 ![Inside a Jet Engine](cases/gpt-image-2/apimodels-infographic-884/original.png)
@@ -242,7 +242,7 @@ An engineering infographic of how a jet engine works, drawn as a detailed cutawa
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-884) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Conceptual engine cross-section; not engineering or maintenance instructions.
+ProjectD: published-accepted (run42069117745). Conceptual engine cross-section; not engineering or maintenance instructions.
 
 ## How a Touchscreen Senses You · infographic-883
 ![How a Touchscreen Senses You](cases/gpt-image-2/apimodels-infographic-883/original.png)
@@ -252,7 +252,7 @@ A technology infographic explaining how a capacitive touchscreen works, shown as
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-883) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## How an SSD Remembers · infographic-885
 ![How an SSD Remembers](cases/gpt-image-2/apimodels-infographic-885/original.png)
@@ -262,7 +262,7 @@ A technology infographic explaining how a solid-state drive stores data, contras
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-885) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Illustrative storage diagram; speed specifications are not verified device benchmarks.
+ProjectD: published-accepted (run42069117745). Illustrative storage diagram; speed specifications are not verified device benchmarks.
 
 ## How a Heat Pump Works · infographic-886
 ![How a Heat Pump Works](cases/gpt-image-2/apimodels-infographic-886/original.png)
@@ -272,7 +272,7 @@ A home-tech infographic explaining how a heat pump heats and cools a house, draw
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-886) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Conceptual cycle diagram; generated COP badge is not a tested efficiency rating.
+ProjectD: published-accepted (run42069117745). Conceptual cycle diagram; generated COP badge is not a tested efficiency rating.
 
 ## How 3D Printing Works · infographic-887
 ![How 3D Printing Works](cases/gpt-image-2/apimodels-infographic-887/original.png)
@@ -282,7 +282,7 @@ A maker-tech infographic explaining how an FDM 3D printer builds an object, draw
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-887) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## How Noise Cancelling Works · infographic-888
 ![How Noise Cancelling Works](cases/gpt-image-2/apimodels-infographic-888/original.png)
@@ -292,7 +292,7 @@ A technology infographic explaining active noise cancelling in headphones, drawn
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-888) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Conceptual noise-cancellation illustration; perfect silence is a simplification, not a performance guarantee.
+ProjectD: published-accepted (run42069117745). Conceptual noise-cancellation illustration; perfect silence is a simplification, not a performance guarantee.
 
 ## The Magic of Compounding · infographic-889
 ![The Magic of Compounding](cases/gpt-image-2/apimodels-infographic-889/original.png)
@@ -312,7 +312,7 @@ A personal-finance infographic explaining the 50/30/20 budgeting rule as a large
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-890) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Illustrative budgeting template with arithmetically matching $1500/$900/$600 split; not personalized financial advice.
+ProjectD: published-accepted (run42069117745). Illustrative budgeting template with arithmetically matching $1500/$900/$600 split; not personalized financial advice.
 
 ## What Builds Your Credit Score · infographic-892
 ![What Builds Your Credit Score](cases/gpt-image-2/apimodels-infographic-892/original.png)
@@ -332,7 +332,7 @@ A finance-literacy infographic contrasting bull and bear markets side by side. T
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-891) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generic bull/bear visual metaphor, not a real market report or trading signal.
+ProjectD: published-accepted (run42069117745). Generic bull/bear visual metaphor, not a real market report or trading signal.
 
 ## Risk vs Return · infographic-893
 ![Risk vs Return](cases/gpt-image-2/apimodels-infographic-893/original.png)
@@ -362,7 +362,7 @@ A personal-finance infographic explaining the emergency fund, drawn as a stairca
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-895) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Illustrative emergency-savings template, not personalized financial advice.
+ProjectD: published-accepted (run42069117745). Illustrative emergency-savings template, not personalized financial advice.
 
 ## What Is Inflation? · infographic-896
 ![What Is Inflation?](cases/gpt-image-2/apimodels-infographic-896/original.png)
@@ -402,7 +402,7 @@ A cooking infographic laying out how to bake sourdough bread as a numbered 6-ste
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-899) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Illustrative bread process; timing varies by starter, temperature and recipe.
+ProjectD: published-accepted (run42069117745). Illustrative bread process; timing varies by starter, temperature and recipe.
 
 ## Anatomy of a Ramen Bowl · infographic-900
 ![Anatomy of a Ramen Bowl](cases/gpt-image-2/apimodels-infographic-900/original.png)
@@ -412,7 +412,7 @@ A food infographic exploding a ramen bowl into its labeled components, drawn as 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-900) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Pour-Over, Step by Step · infographic-901
 ![Pour-Over, Step by Step](cases/gpt-image-2/apimodels-infographic-901/original.png)
@@ -422,7 +422,7 @@ A cooking infographic showing how to brew pour-over coffee as a clean numbered s
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-901) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Illustrative pour-over recipe; 20g to 320g equals requested 1:16.
+ProjectD: published-accepted (run42069117745). Illustrative pour-over recipe; 20g to 320g equals requested 1:16.
 
 ## Roll Your Own Sushi · infographic-902
 ![Roll Your Own Sushi](cases/gpt-image-2/apimodels-infographic-902/original.png)
@@ -432,7 +432,7 @@ A cooking infographic teaching how to roll a maki sushi roll in a 6-panel number
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-902) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Illustrated assembly concept; not complete raw-fish food-safety guidance.
+ProjectD: published-accepted (run42069117745). Illustrated assembly concept; not complete raw-fish food-safety guidance.
 
 ## Homemade Pizza, Step by Step · infographic-903
 ![Homemade Pizza, Step by Step](cases/gpt-image-2/apimodels-infographic-903/original.png)
@@ -442,7 +442,7 @@ A cooking infographic showing how to make pizza from scratch as a numbered 6-ste
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-903) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Illustrative pizza sequence; generated timing is not a universal cooking guarantee.
+ProjectD: published-accepted (run42069117745). Illustrative pizza sequence; generated timing is not a universal cooking guarantee.
 
 ## The Perfect French Omelette · infographic-905
 ![The Perfect French Omelette](cases/gpt-image-2/apimodels-infographic-905/original.png)
@@ -452,7 +452,7 @@ A cooking infographic teaching the classic French omelette as a numbered 5-step 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-905) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## Build a Smoothie Bowl · infographic-904
 ![Build a Smoothie Bowl](cases/gpt-image-2/apimodels-infographic-904/original.png)
@@ -462,7 +462,7 @@ A food infographic showing how to build a smoothie bowl, drawn as a labeled cros
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-904) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Generated nutrition labels are illustrative, not measured nutrient quantities.
+ProjectD: published-accepted (run42069117745). Generated nutrition labels are illustrative, not measured nutrient quantities.
 
 ## A Guide to Steeping Tea · infographic-906
 ![A Guide to Steeping Tea](cases/gpt-image-2/apimodels-infographic-906/original.png)
@@ -472,7 +472,7 @@ A cooking infographic guide to steeping tea by type, laid out as a comparison ch
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-906) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Illustrative steeping chart; suitable conditions depend on tea.
+ProjectD: published-accepted (run42069117745). Illustrative steeping chart; suitable conditions depend on tea.
 
 ## Build the Perfect Taco · infographic-908
 ![Build the Perfect Taco](cases/gpt-image-2/apimodels-infographic-908/original.png)
@@ -482,7 +482,7 @@ A cooking infographic showing how to build the perfect taco, drawn as an explode
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-908) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
+ProjectD: published-accepted (run42069117745). Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.
 
 ## A Guide to Knife Cuts · infographic-907
 ![A Guide to Knife Cuts](cases/gpt-image-2/apimodels-infographic-907/original.png)
@@ -492,4 +492,4 @@ A cooking-skills infographic illustrating basic knife cuts as a labeled grid of 
 ```
 
 [Original source](https://github.com/apimodels/gpt-image-2-prompts/blob/980d100f3bd0f2cde4cf38835daeb742bf1cac65/prompts.json#infographic-907) · Model: GPT Image 2 · Credit: APIModels · CC BY 4.0
-ProjectD: reviewed-not-imported. Illustrative cuts/size chart and claw-grip sketch, not a complete knife-safety course.
+ProjectD: published-accepted (run42069117745). Illustrative cuts/size chart and claw-grip sketch, not a complete knife-safety course.

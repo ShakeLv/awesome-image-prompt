@@ -4,7 +4,7 @@
 
 [Remote archive verification](data/github-gallery-remote-acceptance-2026-11-06.json) compares1,427 new media/prompt Git blobs against the actual GitHub tree. This archive count is separate from ProjectD publication.
 
-[3,631 additional ChaosRealmsAI GPT Image2 source pairs](GPT-IMAGE-2-CHAOS.md) retain complete prompts, unchanged author-published renditions and source references. These3,631 pairs await individual ProjectD editorial review; they are not newly approved or published ProjectD entries.
+[3,631 additional ChaosRealmsAI GPT Image2 source pairs](GPT-IMAGE-2-CHAOS.md) retain complete prompts, unchanged author-published renditions and source references. Individual ProjectD review is in progress:48 inspected,39 locally approved but not imported,9 held,3,583 unreviewed. These3,631 source pairs are separate from newly published ProjectD entries.
 
 ## GPT Image 2.6 — current focus
 
@@ -16,11 +16,13 @@
 - [1 independent creator recipe](GPT-IMAGE-2.6-CREATOR.md), with the original 14-word prompt and actual 2.6 attachment. Variant unspecified.
 - [50-group original source index](GPT-IMAGE-2.6.md) and [additional research outcomes](data/image26-research-expansion.json). Source-linked candidates are not automatically approved pairs.
 
-All 40 pairs have ProjectD publication receipts. Independent final public-browser acceptance is tracked separately.
+All 40 pairs have ProjectD publication receipts. All40 ordinary public details, full clipboard text and entire media hashes pass, along with ten-locale frames/pagination. The final ordinary HTTP/1 model-filter/history/visible-image pass also succeeds; previous failed attempts remain recorded.
 
 ## GitHub gallery expansion
 
-[All40 Beatra Qwen Image3.0 cases](QWEN-IMAGE-3-BEATRA.md), with complete prompts and exact local images.38 approved for ProjectD; two original previews remain below its minimum dimensions. [449 additional APIModels GPT Image 2 pairs](GPT-IMAGE-2-APIMODELS.md) have full prompts and native PNGs: 402 approved for ProjectD, 47 held with individual reasons. The 955-record source was reconciled against 491 already present and 15 previous holds.
+[All40 Beatra Qwen Image3.0 cases](QWEN-IMAGE-3-BEATRA.md), with complete prompts and exact local images.38 now published and accepted on ProjectD; two original previews remain below its minimum dimensions. [449 additional APIModels GPT Image 2 pairs](GPT-IMAGE-2-APIMODELS.md) have full prompts and native PNGs: 402 now published and accepted on ProjectD, 47 held with individual reasons. The 955-record source was reconciled against 491 already present and 15 previous holds.
+
+The new440 reviewed GitHub pairs have [completed publication and exact public acceptance](data/github-gallery-public-acceptance-2026-11-06.json). ProjectD now contains7,451 pairs.
 
 ## ProjectD historical backfill
 
