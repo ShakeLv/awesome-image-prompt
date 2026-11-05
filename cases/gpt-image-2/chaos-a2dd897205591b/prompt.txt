@@ -1,0 +1,14 @@
+Scene:
+A square macro product photograph of a cream cotton paper business card on a letterpress printer bed. Warm side light reveals paper fibers, deep impressions, and ink texture. The card is angled slightly, with a brass composing stick and blank paper off to the side as non-readable props. The mood is analog craft meeting software syntax.
+
+Subject:
+The card face is a readable JSON object printed in deep letterpress indentation. Use a fictional creative technologist profile with keys like "name", "craft", "format", "email", "tools", and "open_to". The text is monospaced, black and metallic gold, with quotation marks, colons, commas, square brackets, and braces clearly aligned. Syntax highlighting is achieved through ink color and pressure: keys in black, punctuation blind-debossed, values in gold.
+
+Important details:
+Make every JSON character look physically pressed into thick paper. Preserve clean indentation, equal line spacing, consistent quote marks, and no accidental extra characters. Letterpress texture should not destroy readability. The background may show printmaking equipment, but no readable labels or brand marks. The card should feel like a real premium business card that a developer might hand out at a design conference.
+
+Use case:
+JSON Business Card single study 4/8, testing readable code layout under analog letterpress texture.
+
+Constraints:
+No readable text except the specified JSON code block, no watermark, no logos, preserve exact 1:1 aspect ratio, no malformed JSON, no random type fragments, no ink smears over characters, no antique poster text, no printer brand marks, no warped card corners.

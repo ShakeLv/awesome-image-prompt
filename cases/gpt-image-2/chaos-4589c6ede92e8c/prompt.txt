@@ -1,0 +1,14 @@
+Scene:
+A square desk-side still life in a recording room with one warm lamp, a closed notebook or folded paper, pencil, and soft shadow gradients across wood grain. The frame should feel intimate and creative, evoking songwriting and preparation without needing a visible performer.
+
+Subject:
+The subject is a small zone of process: a closed notebook, a lamp pool, and a few carefully placed objects that suggest a music session in motion. The notebook must stay unreadable and secondary to the overall room atmosphere.
+
+Important details:
+The mood should be quiet, thoughtful, and tactile. Use warm shadow, wood texture, and just enough object detail to imply artistic work. This should support a live-session campaign as an emotional process image, not as stationery photography or office styling.
+
+Use case:
+Live Session single study 8/9 for the Live Session Poster and Recording Room Aesthetic Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable handwriting, no laptop screen, no office-supply clutter, no visible brand products, no bright daylight spilling in

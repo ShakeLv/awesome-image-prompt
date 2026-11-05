@@ -1,0 +1,14 @@
+Scene:
+A square urban wall study with the poster pasted onto rough plaster among torn edges and older paper remnants, photographed in soft overcast light so texture, glue bubbles, and surface scars stay visible. The poster should express woodblock poster language with flat color planes, carved keylines, wave patterns, cloud voids, and compressed perspective, using indigo, vermilion, muted cream, smoky pine green, and weathered charcoal outlines and a tactile surface appropriate to the medium.
+
+Subject:
+Create a version that feels made for the street, with the poster carrying enough formal force to survive abrasion, layering, and imperfect placement without losing its visual identity. Use bridges, river spray, layered robes, lantern shapes, rain bands, cloud scrolls, and urban commuters as the main visual ingredients, and organize them with cartouche-like title seals and vertical blocks rendered as abstract non-readable forms. For the contemporary-subject axis, thread in a city cyclist crossing a bridge in rain with phone light and train wires translated into woodblock logic. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Keep the main design intact but let the environment add grit: lifted corners, tiny tears, wrinkled paper, and older color fragments around the perimeter should amplify the style rather than dilute it. Preserve visible contour line discipline, flat depth stacking, patterned water, and rhythmic empty sky fields. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no glossy digital gradients, no lens blur, no hyperreal reflections, no cinematic depth-of-field.
+
+Use case:
+Ukiyo-e Remix single study 4/9, testing street-life durability and layered context.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

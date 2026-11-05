@@ -1,0 +1,14 @@
+Scene:
+A square conservation-table view of a vintage poster laid on gray felt under raking light, with visible fold lines, softened corners, and subtle aging that still preserves the integrity of the image. The poster should express machine-age futurist poster language with fractured motion, metallic planes, angular overlaps, and speed-worshiping thrust, using gunmetal silver, copper, cream, black, and electric red accents and a tactile surface appropriate to the medium.
+
+Subject:
+Present the poster as an archive copy that has been stored, unfolded, and carefully documented, letting age and handling reveal how the design holds up across time. Use trains, propellers, racing cars, turbines, smoke trails, city arcs, and explosive speed lines as the main visual ingredients, and organize them with chopped angular typographic shards used as non-readable motion accents. For the contemporary-subject axis, thread in high-speed rail, delivery drones, and urban night traffic translated into ecstatic machine momentum. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Aging must stay believable rather than theatrical: slight yellowing, fold memory, edge wear, and pigment variation should support the historical or crafted feeling of the style. Preserve dynamic rotation, vector thrust, hard overlaps, metallic sheen restraint, and aggressive directional rhythm. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no static composition, no soft nostalgic brushwork, no pastoral calm, no rounded playful forms.
+
+Use case:
+Italian Futurism single study 5/9, testing archival endurance and age character.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

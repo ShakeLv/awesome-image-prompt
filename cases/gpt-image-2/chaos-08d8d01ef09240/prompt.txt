@@ -1,0 +1,14 @@
+Scene:
+Create a square ultra-high-speed food photograph on a dark stage with precise flash freezing every crystal, fragment, and droplet. Cold vapor should sink and spread along the surface rather than billow upward like theatrical smoke. The scene must feel like a controlled scientific capture of an extreme thermal event, with deep blacks, disciplined highlights, and severe physical clarity. Use the same black-stage camera angle, flash clarity, and sinking vapor layer from the reference image, but let the subject spread wider across the frame so texture transformation becomes the star. The lighting should emphasize ridges, peaks, and crystal formation on a pale surface.
+
+Subject:
+Show a soft ribbon of whipped cream or semifreddo mixture at the exact instant it hardens under a cryogenic hit, with the outer edges crisping into frost while the center still reads creamy. Tiny shards and cold mist can lift from the surface, but the wave form must remain elegant and sculptural. The image should turn softness into architecture.
+
+Important details:
+The key challenge is believable thermal physics: frost bloom, brittle fracture, vapor density, wet-to-frozen transitions, and the texture of suddenly shocked food all need to feel accurate. Motion can be violent, but the image should remain legible and elegant. Every fragment must still read as part of a real food object. Preserve exact stage logic, flash character, and vapor behavior from the reference model while foregrounding the phase change from soft cream to brittle crystalline crust. The contrast between glossy softness and icy opacity must feel especially convincing.
+
+Use case:
+Liquid nitrogen frozen moment series study 4/9, closing the anchor system with a cream-to-crystal transition.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fire effects, no sci-fi blue laser glow, no generic splash stock-photo look, no readable gauges, no dramatic stage props, no milk splash tropes, no overexposed white clipping, no abstract smoke cloud.

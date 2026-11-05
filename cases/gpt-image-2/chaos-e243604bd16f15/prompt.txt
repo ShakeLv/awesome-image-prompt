@@ -1,0 +1,14 @@
+Scene:
+Create a square ultra-high-speed food photograph on a dark stage with precise flash freezing every crystal, fragment, and droplet. Cold vapor should sink and spread along the surface rather than billow upward like theatrical smoke. The scene must feel like a controlled scientific capture of an extreme thermal event, with deep blacks, disciplined highlights, and severe physical clarity. Use a square macro setup on a dark neutral stage with side flash and low vapor hugging the surface. The framing should be tight enough to make the herb structure feel monumental.
+
+Subject:
+Show several thin herb sprigs or edible leaves at the instant they snap and splinter after cryogenic treatment, with frost tracing the veins and tiny shards lifting away. Moisture crystals should cling to edges and stems. The image should feel botanical and culinary at once.
+
+Important details:
+The key challenge is believable thermal physics: frost bloom, brittle fracture, vapor density, wet-to-frozen transitions, and the texture of suddenly shocked food all need to feel accurate. Motion can be violent, but the image should remain legible and elegant. Every fragment must still read as part of a real food object. The success of the image depends on scale clarity: veins, frost grains, stem fibers, and brittle break lines all need to remain visible. The herb must still look edible, not dry or dead.
+
+Use case:
+Liquid nitrogen frozen moment single study 6/9, magnifying the brittle fracture of frozen herbs.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fire effects, no sci-fi blue laser glow, no generic splash stock-photo look, no readable gauges, no dramatic stage props, no flower-petal confetti aesthetic, no fake snow, no smoky blur.

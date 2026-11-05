@@ -1,0 +1,14 @@
+Scene:
+A square commercial mockup on a pale concrete surface with a translucent frosted acrylic business card casting soft layered shadows. The card is photographed overhead with slight perspective, clean daylight, and precise reflections along polished edges. A second blank acrylic card sits partly underneath to show depth without carrying any readable content.
+
+Subject:
+The top acrylic card contains a readable JSON identity block engraved and filled with white and copper ink. The fictional data object includes keys such as "name", "role", "lab", "email", "city", and "mode". The JSON braces frame the card like a design system. Syntax highlight is physical: copper punctuation, white keys, pale blue values, and clear indentation. The transparent material bends the shadows behind the code but does not distort the letters.
+
+Important details:
+This image tests readable text through transparent material. Keep the code block sharp, aligned, and optically plausible despite refraction. The acrylic should have frosted thickness, chamfered edges, small surface scratches, and engraved ink that sits inside the material. Avoid turning the card into a screen or neon sign. There may be decorative editor-window corner marks, but they must be generic and non-readable.
+
+Use case:
+JSON Business Card single study 3/8, testing JSON typography on translucent acrylic with realistic refraction.
+
+Constraints:
+No readable text except the specified JSON code block, no watermark, no logos, preserve exact 1:1 aspect ratio, no real company names, no distorted JSON characters, no duplicated code shadows, no extra labels, no glowing sci-fi interface, no fingerprints covering text.

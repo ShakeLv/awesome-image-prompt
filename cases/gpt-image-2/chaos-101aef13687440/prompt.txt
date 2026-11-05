@@ -1,0 +1,14 @@
+Scene:
+A square minimal studio mockup on a seamless off-white background. A single white business card lies perfectly flat, viewed straight down, with precise soft shadows and no extra props. The image should feel like a restrained identity-system presentation where the code block itself is the graphic design.
+
+Subject:
+The card contains a readable JSON object printed in ultra-clean black, gray, and one restrained red accent. The fictional object uses keys such as "name", "role", "email", "url", "location", and "pronouns". The layout is centered with generous margins, a line-number gutter represented only by tiny gray ticks, and syntax colors applied as print ink. The JSON must be the only readable content on the card.
+
+Important details:
+Because the card is minimal, precision matters: exact monospaced alignment, sharp quote marks, consistent indentation, complete braces, and no random generated glyphs. The white paper should show subtle thickness, fiber grain, and a slight letterpress bite around the text. The visual should be believable as a real business card photographed in a product studio, not a screenshot pasted on paper.
+
+Use case:
+JSON Business Card single study 6/8, testing clean readable JSON typography under strict minimal commercial mockup conditions.
+
+Constraints:
+No readable text except the specified JSON code block, no watermark, no logos, preserve exact 1:1 aspect ratio, no extra icons, no malformed JSON, no decorative quotes, no smudged punctuation, no colored background, no shadows covering text, no cropped card edges.

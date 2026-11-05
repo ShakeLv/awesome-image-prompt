@@ -1,0 +1,14 @@
+Scene:
+Create a square ultra-high-speed food photograph on a dark stage with precise flash freezing every crystal, fragment, and droplet. Cold vapor should sink and spread along the surface rather than billow upward like theatrical smoke. The scene must feel like a controlled scientific capture of an extreme thermal event, with deep blacks, disciplined highlights, and severe physical clarity. Use a square three-quarter dark-stage composition with backlight strong enough to make citrus flesh glow through the rind and segments. Low cold vapor should cascade around the fruit like a dense waterfall across the surface.
+
+Subject:
+Present one or two thick citrus slices as a cryogenic stream passes over them, freezing surface moisture and lifting fine icy droplets from the exposed pulp. Segment membranes, rind pores, and tiny frost crystals must remain visible. The event should feel luminous, acidic, and sharply physical.
+
+Important details:
+The key challenge is believable thermal physics: frost bloom, brittle fracture, vapor density, wet-to-frozen transitions, and the texture of suddenly shocked food all need to feel accurate. Motion can be violent, but the image should remain legible and elegant. Every fragment must still read as part of a real food object. Translucent pulp, wet membranes, and newly forming frost need to coexist convincingly. The vapor should feel heavy and downward-moving, framing the fruit rather than hiding it.
+
+Use case:
+Liquid nitrogen frozen moment single study 8/9, contrasting glowing citrus translucency with heavy cold vapor.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fire effects, no sci-fi blue laser glow, no generic splash stock-photo look, no readable gauges, no dramatic stage props, no juice splash cliches, no tropical cocktail styling, no fake blue freeze tint.

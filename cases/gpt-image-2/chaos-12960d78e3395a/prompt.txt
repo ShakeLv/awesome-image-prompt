@@ -1,0 +1,14 @@
+Scene:
+A square close-up commercial mockup of a deep navy business card resting on a dark walnut table. The card is photographed with low raking light so embossed and debossed details become visible. The composition includes a second card edge and a small blank envelope as props, both without readable content.
+
+Subject:
+The business card presents a readable JSON block as if it were an API response. The fictional object includes keys such as "endpoint", "name", "role", "email", "rate", and "response". Curly braces and commas are raised in glossy clear embossing, keys are printed in pale blue, values in silver, and one status-like value is in green foil. The result should feel like a premium developer services card, with code as the only identity system.
+
+Important details:
+Keep the JSON formally coherent: aligned indentation, complete braces, properly quoted strings, no broken commas, no orphan keys. The embossed punctuation should be visible but not so shiny that it obscures readability. Use physical paper texture, realistic shadows inside debossed strokes, and clean commercial-mockup focus. There should be no real API provider name, no QR code, no website chrome, and no extra contact text outside the code.
+
+Use case:
+JSON Business Card single study 5/8, testing API-response typography as embossed print on a physical card.
+
+Constraints:
+No readable text except the specified JSON code block, no watermark, no logos, preserve exact 1:1 aspect ratio, no real service names, no invalid JSON syntax, no random code comments, no QR code, no overexposed foil, no unreadable tiny values, no floating UI windows.

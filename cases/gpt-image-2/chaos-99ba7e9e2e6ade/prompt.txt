@@ -1,0 +1,14 @@
+Scene:
+A square wall pinboard inside a studio, holding a curated arrangement of session stills, room textures, portrait fragments, and abstract promo prints. The camera faces the board directly so it reads like a compact campaign-development surface inside the recording environment.
+
+Subject:
+The subject is the live-session visual family itself: pinned images of instruments, warm rooms, portrait silhouettes, and mood swatches arranged with editorial care. The board should imply campaign planning and aesthetic cohesion without any readable notes or text labels.
+
+Important details:
+Keep the board disciplined and believable, not scrapbook-like. Pins, paper curl, and wall texture can add realism, but the composition should remain clean enough to function as a polished visual-reference image. This is a bridge between recording atmosphere and promotional rollout.
+
+Use case:
+Live Session single study 9/9 for the Live Session Poster and Recording Room Aesthetic Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable notes, no moodboard software UI, no random magazine cutouts, no bright colors breaking the room mood, no cluttered desk elements in front

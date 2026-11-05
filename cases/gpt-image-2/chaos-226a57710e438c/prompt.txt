@@ -1,0 +1,14 @@
+Scene:
+A square premium startup-brand mockup with a holographic foil business card on a dark neutral table. The card is tilted so rainbow foil shifts across the code while the printed characters remain sharp. Lighting is dramatic but controlled, with a second blurred card in the background showing only abstract foil bands and no readable marks.
+
+Subject:
+The front card displays a readable JSON identity block for a fictional AI product designer. Use keys such as "name", "role", "product", "email", "timezone", and "ship_mode". Syntax highlighting is made from holographic foil: braces and punctuation in rainbow foil, keys in white ink, string values in cyan and magenta foil accents. The code block sits inside a subtle editor-window frame with generic controls, not a real application logo.
+
+Important details:
+Readable text is the core challenge. Foil reflections must enhance syntax highlighting without hiding the JSON. Keep indentation stable, quotes clean, commas in correct positions, and no extra lines beyond the object. The card should feel tactile and commercial: thick stock, bevel, foil grain, tiny edge wear, and realistic reflection. Avoid sci-fi UI clutter or decorative data streams.
+
+Use case:
+JSON Business Card single study 7/8, testing readable JSON code under holographic foil and startup-style commercial mockup lighting.
+
+Constraints:
+No readable text except the specified JSON code block, no watermark, no logos, preserve exact 1:1 aspect ratio, no real startup names, no malformed JSON, no hidden extra words, no QR code, no overbright glare, no fake screen, no illegible rainbow smearing.

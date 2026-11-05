@@ -1,0 +1,14 @@
+Scene:
+A square dusk street photograph of a backlit transit poster glowing inside glass, with faint rain reflections, soft city blur in the distance, and the poster remaining fully legible as a composition. The poster should express woodblock poster language with flat color planes, carved keylines, wave patterns, cloud voids, and compressed perspective, using indigo, vermilion, muted cream, smoky pine green, and weathered charcoal outlines and a tactile surface appropriate to the medium.
+
+Subject:
+Adapt the poster into a public-facing lightbox version that still honors the original style grammar while feeling bold enough to stop a passerby from several meters away. Use bridges, river spray, layered robes, lantern shapes, rain bands, cloud scrolls, and urban commuters as the main visual ingredients, and organize them with cartouche-like title seals and vertical blocks rendered as abstract non-readable forms. For the contemporary-subject axis, thread in a city cyclist crossing a bridge in rain with phone light and train wires translated into woodblock logic. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Let the style survive the illumination test: color blocking, silhouette contrast, and abstract lettering should stay controlled under bright internal light and reflective glass. Preserve visible contour line discipline, flat depth stacking, patterned water, and rhythmic empty sky fields. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no glossy digital gradients, no lens blur, no hyperreal reflections, no cinematic depth-of-field.
+
+Use case:
+Ukiyo-e Remix single study 3/9, testing distance readability in public display.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

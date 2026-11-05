@@ -1,0 +1,14 @@
+Scene:
+A square session still in the same recording room, now composed around a single microphone stand, warm lamp spill, and softly receding acoustic walls. The camera should feel present but unobtrusive, like documentation of a real vocal take inside a stripped-back session.
+
+Subject:
+Preserve the exact same musician from the reference image, including face shape, hair base, skin tone, body proportions, and wardrobe silhouette. The artist stands or leans toward a simple microphone stand with quiet concentration, remaining the same person from the root image rather than a restyled campaign character.
+
+Important details:
+The microphone is a context cue, not the main spectacle. Keep the room tactile and believable, the expression focused, and the lighting gentle. This should feel like a true session poster still that could promote a live recording or acoustic release without exaggeration or brand-heavy studio fetishism.
+
+Use case:
+Live Session series study 3/9 for the Live Session Poster and Recording Room Aesthetic Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no pop-star stage pose, no crowd, no booth glass text, no visible gear brand, no dramatic concert beams

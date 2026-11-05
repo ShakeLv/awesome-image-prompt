@@ -1,0 +1,14 @@
+Scene:
+A square live-session still in the same recording environment, now framed near an upright piano corner with warm side light and a little more shadow. The room must still read as the same session space, with similar wood and acoustic textures, only shifting the focal corner and instrument presence.
+
+Subject:
+Preserve the exact same musician from the reference image with identical face shape, hair base, skin tone, body proportions, and styling baseline. The artist now leans near the piano or rests a hand on it, while keeping the same understated live-session attitude and believable musician presence.
+
+Important details:
+Keep intimacy, realism, and room continuity absolute. The piano should extend the session story without turning the scene into a formal recital. Lamp glow, analog detail, and acoustic surfaces should still anchor the environment. This must feel like another still from the same recording day, not a new photoshoot.
+
+Use case:
+Live Session series study 2/9 for the Live Session Poster and Recording Room Aesthetic Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no stage glamour, no extra bandmates, no sheet-music text, no glossy music-video styling, no visible brand names on the instrument

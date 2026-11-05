@@ -1,0 +1,14 @@
+Scene:
+A square live-session still in the same broader studio world, now framed toward a compact drum-room corner with low midnight light, soft practical glow, and darker wood surfaces. The room should feel like a neighboring pocket of the same recording environment, not a totally different venue.
+
+Subject:
+Preserve the exact same musician from the reference image with identical face shape, hair base, skin tone, body proportions, and styling baseline. The artist is now positioned near a modest drum setup, maintaining the same understated authenticity and intimate session presence rather than performing theatrically.
+
+Important details:
+Let the drum kit add rhythmic context without taking over. Maintain the same warm room palette, same acoustic intimacy, and same believable musician behavior. This should read as the same artist and same recording session evolving across corners of one real studio environment.
+
+Use case:
+Live Session series study 4/9 for the Live Session Poster and Recording Room Aesthetic Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no concert stage lighting, no drummer double, no readable notes, no large crowd kit spectacle, no visible brand marks on drums

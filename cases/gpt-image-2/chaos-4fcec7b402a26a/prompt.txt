@@ -1,0 +1,14 @@
+Scene:
+A square interior view through studio glass into an isolation booth, with warm practical light, soft reflections, and a minimal microphone silhouette inside. The image should feel quiet, intimate, and documentary, as if capturing a session in progress without spectacle.
+
+Subject:
+The subject is the threshold between rooms: glass reflections, a mic silhouette, acoustic panel texture, and the glow of a small lamp or meter inside the booth. It should evoke recording presence even without showing a full person.
+
+Important details:
+Keep the reflections subtle and the atmosphere believable. The booth should feel like part of a real studio, not a sci-fi chamber. This image should support a live-session campaign by showing the emotional architecture of recording rather than the performance itself.
+
+Use case:
+Live Session single study 6/9 for the Live Session Poster and Recording Room Aesthetic Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable notes on glass, no brand logos, no large computer monitors, no excessive neon, no visible crowd or spectators

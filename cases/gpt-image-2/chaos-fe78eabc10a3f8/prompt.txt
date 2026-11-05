@@ -1,0 +1,14 @@
+Scene:
+Create a square ultra-high-speed food photograph on a dark stage with precise flash freezing every crystal, fragment, and droplet. Cold vapor should sink and spread along the surface rather than billow upward like theatrical smoke. The scene must feel like a controlled scientific capture of an extreme thermal event, with deep blacks, disciplined highlights, and severe physical clarity. Place the action on a black reflective stage with the camera at a slightly low three-quarter angle so the vapor layer can spread visibly across the floor plane. Crisp flash should isolate the cold medium, the target food, and the first crystallizing edges against a near-black background.
+
+Subject:
+Capture the instant a clear cryogenic stream pours over a plated cluster of berries and softly whipped cream, with vapor rolling outward and the first frost crystals forming on the surfaces. Tiny droplets and fragments should suspend in air, but the core geometry of the dish must remain legible. The moment should feel exact, dangerous, and beautiful.
+
+Important details:
+The key challenge is believable thermal physics: frost bloom, brittle fracture, vapor density, wet-to-frozen transitions, and the texture of suddenly shocked food all need to feel accurate. Motion can be violent, but the image should remain legible and elegant. Every fragment must still read as part of a real food object. This first image establishes the camera angle, flash logic, vapor density, and black-stage reflection behavior for the series, so every physical cue must feel stable enough for later variations to inherit. The vapor must sink believably and the forming frost should register at micro scale.
+
+Use case:
+Liquid nitrogen frozen moment series study 1/9, defining the anchor capture of a cryogenic pour.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fire effects, no sci-fi blue laser glow, no generic splash stock-photo look, no readable gauges, no dramatic stage props, no exploding liquid sheet without cause, no dry-ice party mood, no readable equipment branding.

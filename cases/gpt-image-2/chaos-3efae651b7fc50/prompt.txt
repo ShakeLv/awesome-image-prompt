@@ -1,0 +1,14 @@
+Scene:
+Create a square ultra-high-speed food photograph on a dark stage with precise flash freezing every crystal, fragment, and droplet. Cold vapor should sink and spread along the surface rather than billow upward like theatrical smoke. The scene must feel like a controlled scientific capture of an extreme thermal event, with deep blacks, disciplined highlights, and severe physical clarity. Create a square dark-stage action image with crisp flash and selective side light that reveals both airy volume and sudden hardening. The background must stay empty so the fragile structure remains readable.
+
+Subject:
+Show a light meringue nest or tower at the instant cryogenic shock causes part of it to collapse while outer ridges freeze into brittle crystalline edges. Powdery fragments, tiny peaks, and vapor all interact in one suspended moment. The image should feel paradoxical: airy and brittle at once.
+
+Important details:
+The key challenge is believable thermal physics: frost bloom, brittle fracture, vapor density, wet-to-frozen transitions, and the texture of suddenly shocked food all need to feel accurate. Motion can be violent, but the image should remain legible and elegant. Every fragment must still read as part of a real food object. Make the meringue read as sugar foam transformed by cold, with fine bubble structure still visible inside the broken pieces. The collapse pattern should feel delicate and gravity-driven, not explosive.
+
+Use case:
+Liquid nitrogen frozen moment single study 9/9, capturing the fragile collapse of meringue under extreme cold.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fire effects, no sci-fi blue laser glow, no generic splash stock-photo look, no readable gauges, no dramatic stage props, no bakery countertop context, no confectionery sprinkles, no soft-focus haze.

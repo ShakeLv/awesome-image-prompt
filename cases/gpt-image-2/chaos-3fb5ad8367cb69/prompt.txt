@@ -1,0 +1,14 @@
+Scene:
+A square commercial mockup of a black business card designed like a physical terminal window, placed on a slate desk with one blank cable and a soft green reflection. The card is shot from above at a slight angle, with clean edges, realistic paper thickness, and a subtle varnish sheen. The look is developer-culture playful but premium.
+
+Subject:
+The card face contains a readable JSON object printed in terminal-green ink, framed by a thin generic window outline. The fictional object includes keys such as "name", "alias", "role", "email", "repo", and "status". Use exact quote marks, colons, commas, braces, and two-space indentation. A block cursor may appear as a small solid rectangle after the closing brace, but it should not introduce extra readable text.
+
+Important details:
+The visual joke is that the business card is a terminal output object. The JSON must remain valid-looking and legible while still feeling physically printed on black card stock. Add subtle spot varnish on punctuation, tiny screen-like scan texture as ink grain, and a bottom card edge highlight. Do not include command prompts, shell labels, real repository hosts, or readable UI menu words.
+
+Use case:
+JSON Business Card single study 8/8, testing terminal-inspired readable JSON as a tactile printed business card.
+
+Constraints:
+No readable text except the specified JSON code block, no watermark, no logos, preserve exact 1:1 aspect ratio, no real platform names, no command line prompt text, no malformed JSON, no random symbols, no glowing monitor surface, no extra labels, no unreadable green blur.

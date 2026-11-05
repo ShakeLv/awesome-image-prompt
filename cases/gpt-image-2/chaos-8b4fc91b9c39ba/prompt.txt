@@ -1,0 +1,14 @@
+Scene:
+Create a square ultra-high-speed food photograph on a dark stage with precise flash freezing every crystal, fragment, and droplet. Cold vapor should sink and spread along the surface rather than billow upward like theatrical smoke. The scene must feel like a controlled scientific capture of an extreme thermal event, with deep blacks, disciplined highlights, and severe physical clarity. Maintain the exact black-stage angle, flash discipline, and low vapor sheet from the reference image so the series continuity remains unmistakable. The reflections should stay subtle, allowing the fruit fragments and frost to dominate the frame.
+
+Subject:
+Capture several ripe berries at the instant they split under cryogenic stress, with skins peeling back, frozen juice crystals scattering, and tiny seeds suspended around the rupture. The cluster should remain centered enough to read as one event rather than random debris. The image must feel brutally precise.
+
+Important details:
+The key challenge is believable thermal physics: frost bloom, brittle fracture, vapor density, wet-to-frozen transitions, and the texture of suddenly shocked food all need to feel accurate. Motion can be violent, but the image should remain legible and elegant. Every fragment must still read as part of a real food object. Preserve exact stage geometry, flash character, and gravity-aware vapor from the reference model while emphasizing skin tension, wet crystal breakup, and seed detail. The fracture pattern should suggest real berry structure and moisture content.
+
+Use case:
+Liquid nitrogen frozen moment series study 3/9, using the anchor stage to study berry rupture and ice spray.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fire effects, no sci-fi blue laser glow, no generic splash stock-photo look, no readable gauges, no dramatic stage props, no syrup splash aesthetics, no candy-like seed colors, no chaotic particle field.

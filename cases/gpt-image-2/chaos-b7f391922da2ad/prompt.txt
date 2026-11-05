@@ -1,0 +1,14 @@
+Scene:
+Set the view on a dramatic but observational descent through stacked cloud layers, with an adult giant angling downward into darker atmospheric bands. Lightning should illuminate the underside of the scene intermittently, revealing depth without turning the image into a spectacle poster. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Show the adult’s ventral sails, ballast organs, and muscular steering ridges working together as it leaves calmer air for a chemically richer layer. The body should look heavier, older, and more scarred than juvenile forms. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume these giants maintain buoyancy with gas-filled tissues, membrane sails, and chemistry-driven metabolism in a dense upper atmosphere. Their behavior should respond to pressure bands, storm fronts, nutrient aerosols, and electrical weather rather than ocean analogies pasted into the sky. Use lighting to reveal function: membranes thin enough to glow at the edges, denser support tissues along load lines, and pressure-adapted contours that make sense in a fluid atmosphere. The descent should feel careful and energy-aware. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Jovian Cloud Whale Migration single study 5/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no monster attack pose, no aircraft comparison, no shark-like jaws, no fantasy god-ray dramatics, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

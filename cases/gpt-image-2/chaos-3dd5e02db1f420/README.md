@@ -1,0 +1,12 @@
+# Reference Onboarding Stack
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/learning-app-onboarding-and-lesson-ui/packages/series-core-system/images/01-reference-onboarding-stack/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/45ca176c97a178604113050b24726a5f28ab1bab9f29a9dbd2e1a2b2b4fd0a01.webp)
+- SHA-256:45ca176c97a178604113050b24726a5f28ab1bab9f29a9dbd2e1a2b2b4fd0a01
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.
