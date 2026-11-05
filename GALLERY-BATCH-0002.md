@@ -4,7 +4,7 @@
 
 ## Launch Wordmark
 
-![Launch Wordmark](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/01-images2point5_16-9.jpg)
+![Launch Wordmark](images/fb429ddc60f5db-b7e11914fc7ace91.webp)
 
 Create a minimalist 16:9 launch graphic on a pure warm-white background with enormous amounts of clean negative space.
 Centered composition.
@@ -18,7 +18,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Mid-century Poster Grid
 
-![Mid-century Poster Grid](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/06-mid-century-modern-posters.jpg)
+![Mid-century Poster Grid](images/b3f3bbdd300113-4af143c67b9663ae.webp)
 
 Create a perfectly aligned 3 x 3 grid of nine mid-century modern motivational posters sharing one limited palette.
 Exact headlines: Travel Farther, CREATE, GROW TOGETHER, LISTEN MORE, FIND YOUR BALANCE, DRINK MORE WATER, LEARN SOMETHING NEW, SEE THE BEAUTY, CHOOSE KINDNESS.
@@ -28,7 +28,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## National Park Stamps
 
-![National Park Stamps](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/07-vintage-national-park-stamps.jpg)
+![National Park Stamps](images/b0ed8e8d710fee-ecb0a680afd711d1.webp)
 
 A collectible sheet of eight vintage U.S. national park postage stamps in a 4 x 2 grid on black.
 Yellowstone, Grand Canyon, Acadia, Zion, Glacier, Great Smoky Mountains, Denali, Everglades.
@@ -38,7 +38,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Wedding Invitation Flat-lay
 
-![Wedding Invitation Flat-lay](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/08-wedding-invitation.jpg)
+![Wedding Invitation Flat-lay](images/77b2925319fd89-ec161062b071e364.webp)
 
 Luxurious editorial flat-lay of an old-world European wedding invitation on ivory cotton paper with gold engraving.
 Exact names Amelia Rose and Ethan James, Villa Eterna, Lake Como.
@@ -48,7 +48,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Science Deck Screenshot
 
-![Science Deck Screenshot](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/09-presentation-image.jpg)
+![Science Deck Screenshot](images/104f0628475a54-0b05722356bac6e2.webp)
 
 Realistic screenshot of Google Slides in Chrome on macOS.
 Deck title: Our Dynamic Sun. Selected slide: What Causes Solar Flares?
@@ -58,7 +58,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Impressionist Cityscape
 
-![Impressionist Cityscape](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/11-impressionist-cityscape-a.jpg)
+![Impressionist Cityscape](images/af1329094773eb-cce2173ea417ebe0.webp)
 
 A vertical impressionist gouache and thick-oil painting of San Francisco on a bright clear day.
 View downhill along a steep residential street toward San Francisco Bay. Pastel-colored houses and dense rounded trees frame both sides of the descending street.
@@ -70,7 +70,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Restrained Cyberpunk City
 
-![Restrained Cyberpunk City](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/12-cyberpunk.jpg)
+![Restrained Cyberpunk City](images/6afb0d66e05c35-77bbad96de5cc82c.webp)
 
 A vast dystopian cyberpunk megacity at night, viewed from a dark elevated rooftop terrace.
 Extreme vertical scale, rain, fog, elevated highways, a lone silhouette at a wet railing, a monumental monochrome blue face on a skyscraper.
@@ -80,7 +80,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Orbital Colony Retrofuturism
 
-![Orbital Colony Retrofuturism](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/13-retrofuturism.jpg)
+![Orbital Colony Retrofuturism](images/32cc037c1b8553-ceb13da621a5f6d7.webp)
 
 Optimistic mid-century retrofuturist illustration of a 1950s family looking into a rotating cylindrical space colony.
 Landscape curves upward. Gouache and airbrush, Popular Science magazine painting. 16:9.
@@ -90,7 +90,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 1980s Studio Headshot
 
-![1980s Studio Headshot](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/15-80s-headshot.jpg)
+![1980s Studio Headshot](images/c6d83dca6aa608-c1007b41deb80fb7.webp)
 
 Show me what I would look like if I was in the '80s
 
@@ -98,7 +98,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Canvas Forge UI Screenshot
 
-![Canvas Forge UI Screenshot](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/17-canvas-forge-ui.jpg)
+![Canvas Forge UI Screenshot](images/8083ed11e6fab8-621e4f3d42736267.webp)
 
 Create one high-fidelity desktop web app screenshot for a fictional AI image-generation workbench called Canvas Forge. This is a single polished 16:9 product UI screen, not a collage or presentation.
 Dark editorial interface with a left navigation rail, a central 3-column image-generation workspace, and a right inspector panel.
@@ -111,7 +111,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 毛茸茸南瓜灯
 
-![毛茸茸南瓜灯](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/068-imported-.png)
+![毛茸茸南瓜灯](images/fbfcaa4a93bc50-d4db7d23152f1e14.webp)
 
 将简单平面的矢量图标🎃转化为柔软、立体、毛茸茸的可爱物体：整体被浓密蓬松的橙色绒毛完全覆盖，毛发质感极其真实，带柔和阴影；南瓜灯的锯齿眼睛与微笑由深棕色绒毛精心拼出。物体居中悬浮于干净的浅灰色背景中，轻盈漂浮。整体风格超现实、富有触感和现代感，带来舒适俏皮的视觉感受。摄影棚级灯光，高分辨率渲染，1:1。
 
@@ -119,7 +119,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 折叠式纸雕立体绘本
 
-![折叠式纸雕立体绘本](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/070-imported-.png)
+![折叠式纸雕立体绘本](images/a8c0a3e4d438ac-c8e11f3ce80224eb.webp)
 
 多层折叠式纸雕立体绘本，放在一张书桌上，背景纯净突出主题，比例 3:2 横版。翻开的跨页呈现「哪吒闹海」的场景：脚踏风火轮的少年、翻涌的层叠海浪与龙宫剪影，所有元素皆可精细折叠组合，呈现逼真细腻的纸张折叠质感与多层景深。构图统一采用正面视角，整体视觉梦幻唯美，色彩缤纷绚丽，充满奇幻生动的故事氛围。
 
@@ -127,7 +127,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 动漫贴纸集合
 
-![动漫贴纸集合](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/071-imported-.png)
+![动漫贴纸集合](images/43e2f1918c84a7-c1e77c0a266cbbf4.webp)
 
 一套原创忍者题材动漫贴纸集合，共 6 枚，2x3 网格排列：白发小忍者双手结印、偷吃团子被抓包的呆滞脸、脚踩巨大卷轴飞行、雨中蹲坐 emo、放出一颗冒烟的分身、被猫忍者踩脸惨叫。统一水彩加马克笔上色风格，粗描边，每枚带白色描边贴纸切割线，透明背景，角色造型前后一致。
 
@@ -135,7 +135,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 35mm 胶片风格飞岛
 
-![35mm 胶片风格飞岛](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/072-imported-35mm.png)
+![35mm 胶片风格飞岛](images/14925e7a4a0d9c-a96746a2c4234a56.webp)
 
 35 毫米胶片风格的照片：里斯本漂浮在天空中的飞行岛屿上——红色屋顶层层叠叠，黄色电车轨道悬在云海边，热气球停在钟楼旁，一位老人在岛缘钓鱼，鱼线垂入云海。胶片颗粒感、轻微漏光与柔和的边缘暗角，清晨斜射的暖光。
 
@@ -143,7 +143,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 名画人物 OOTD
 
-![名画人物 OOTD](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/073-imported-ootd.png)
+![名画人物 OOTD](images/2fcc8074f83270-aed4f22a6deb87bd.webp)
 
 以《戴珍珠耳环的少女》画中人物为主角，生成一组时尚穿搭 OOTD 图：Q 版 3D、C4D 渲染，保持她蓝黄头巾与珍珠耳环的特征色系，姿势保持一致，腿部比例修长。纯色背景与穿搭色系一致。9:16 竖构图，顶部文字「OOTD · VOL.1」，左侧为人物 Q 版形象，右侧竖排展示穿搭单品：燕麦色风衣、银色耳机、帆布包、德训鞋。职业主题：插画师。
 
@@ -151,7 +151,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 极简主义 3D 插画（JSON 格式）
 
-![极简主义 3D 插画（JSON 格式）](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/074-imported-3d-json.png)
+![极简主义 3D 插画（JSON 格式）](images/8b502ffc6106cc-c3beff4f46ecadf7.webp)
 
 使用以下 JSON 配置生成一个马桶：{ "art_style_profile": { "style_name": "Minimalist 3D Illustration", "shape_language": "rounded edges, smooth soft forms, simplified geometry", "colors": { "primary": ["beige", "light grey"], "accent": "warm orange", "shading": "soft gradients, smooth transitions, no harsh shadows" }, "rendering": { "engine": "C4D", "background": "pure light grey", "camera": "isometric, centered", "texture": "matte ceramic, subtle grain" } }, "subject": "a toilet", "accent_usage": "flush button and tank lid in warm orange" }
 
@@ -159,7 +159,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 小红书封面
 
-![小红书封面](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/075-imported-.png)
+![小红书封面](images/4c442fab81aa68-b30c3bffc1792891.webp)
 
 画一张小红书封面，要求：有足够吸引力让用户点击；字体醒目、有个性；文字大小按重要度分级，标题至少是普通文字的两倍；段落之间留白；仅对要强调的关键词用醒目色；背景使用吸引眼球的图案（纸张记事本或聊天窗口，选其一）；用少量图标增加视觉层次但减少干扰。文案：重磅！GPT Image 2.5 上手实测🔥 参考图更像本人✨ 局部编辑不翻车💪 多轮改图不崩🎨 9:16 竖版。
 
@@ -167,7 +167,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 手办与真人同框
 
-![手办与真人同框](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/076-imported-.png)
+![手办与真人同框](images/f293be723bb02f-e906c9d4d5d7e892.webp)
 
 手机随手拍摄的日常风格：书桌上摆放着一款虚构武打明星「雷小龙」的动漫手办——白背心、双节棍，动作夸张帅气、装备齐全。镜头同时拍到真人版的「雷小龙」（虚构人物）站在书桌旁摆出同款姿势，与手办形成有趣的手办与真人同框对比。构图和谐自然，传递温暖的生活气息，浅景深，室内暖光。
 
@@ -175,7 +175,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 玩具盒中的国家立体模型
 
-![玩具盒中的国家立体模型](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/077-imported-.png)
+![玩具盒中的国家立体模型](images/e2f8ec02a6a2ee-64c50d86b4a05401.webp)
 
 一张超写实的俯拍摄影作品：两只手撑开一个米色纸板盒的盒盖，盒内是 3D 打印的「中国」微缩立体模型——长城蜿蜒、黄土高原梯田、江南水乡、上海天际线、大熊猫栖息的竹林，以及大量微小精细的人物模型。全部采用触感舒适的玩具风格，哑光 3D 打印纹理并带可见的打印层纹。盒盖内侧用大号、色彩鲜艳的凸起塑料字母显示「CHINA」。光线温暖且具电影感，突出纹理与阴影。
 
@@ -183,7 +183,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 复古CRT电脑启动屏幕
 
-![复古CRT电脑启动屏幕](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/078-imported-crt.png)
+![复古CRT电脑启动屏幕](images/932e3d1468ab6f-b111bbe845c2a02c.webp)
 
 复古 CRT 电脑启动屏幕：墨绿色荧光屏上先滚动显示自检文字（内存检查、磁盘扫描、驱动加载），随后逐行打印出一只坐姿猫咪的 ASCII 艺术图，最后光标闪烁。屏幕带扫描线、轻微辉光与玻璃反光，米黄色机壳边框入画，整体是 1998 年机房里的怀旧氛围。
 
@@ -191,7 +191,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 讽刺海报生成
 
-![讽刺海报生成](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/079-imported-.png)
+![讽刺海报生成](images/ff94a9498a355d-6e7a8730e5a034c4.webp)
 
 生成一张幽默讽刺海报，主题：「GPT Image 2.5 狂卷之后——设计师的出路是学会骑独轮车」。画面中央一位设计师骑着独轮车，穿过漂浮在空中的图层面板与色板，表情淡定。大字标语居中醒目，复古丝网印刷风格，双色（墨绿 + 橙），带纸张纹理质感，边框做旧。
 
@@ -199,7 +199,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## PS2 游戏封面
 
-![PS2 游戏封面](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/080-imported-ps2.png)
+![PS2 游戏封面](images/86d5a190f6c639-933e9a2a9b40960c.webp)
 
 制作一张 PS2 游戏封面图像：标题《Grand Theft Auto: Goblin Market》。GTA 式开放世界游戏封面，但设定在剑与魔法的世界——哥布林集市里兽人赶着马车漂移、巫师用火球术开路、巨龙盘旋在钟楼上空、精灵小偷偷走法杖。封面顶部是系列感的粗体标题字，主视觉周围环绕四格小画面，仿 PS2 封面的印刷质感，右下角一个虚构的「E10+」风格评级角标。
 
@@ -207,7 +207,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 讽刺漫画生成
 
-![讽刺漫画生成](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/081-imported-.png)
+![讽刺漫画生成](images/729f6324a2c453-a2869875c01cc9b3.webp)
 
 一幅讽刺漫画风格的插画，采用复古美式漫画画风：背景是超市多层货架，货架上摆满一样的红色棒球帽，帽子正面印大字标语「MAKE ART GREAT AGAIN」，帽侧贴白色标签写着「MADE BY AI」。特写视角聚焦其中一顶帽子。画面下方有价格牌：原价「$50.00」被粗黑线划掉，改为「$77.00」。色调为怀旧的土黄与暗红，阴影带 90 年代复古印刷质感，构图夸张，具讽刺消费主义意味。
 
@@ -215,7 +215,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 极简未来主义海报
 
-![极简未来主义海报](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/082-imported-.png)
+![极简未来主义海报](images/d86108d5d314b3-fe7ba8ffdd28458d.webp)
 
 一张纵向 3:4、4K 分辨率的极简未来主义展览海报，背景为超浅冷灰 #f4f4f4。海报中心有一枚流体 3D metaball，形态为虚构汽水品牌「SUNDROP 霞汽」的经典玻璃汽水瓶，磨砂玻璃材质并带细腻颗粒噪点。流体渐变：落日橙 #FF6A3D → 珍珠白 #FFFFFF，呈现丝滑玻璃质感。高位 softbox 柔光照明，投射长而柔的彩色阴影与淡淡光晕。流体叠在文字之上，被遮挡的字母透过磨砂玻璃呈轻微高斯模糊。主标题「SUNDROP」，副标题「气体与光的展览 · 09.29」。
 
@@ -223,7 +223,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 个性化房间设计
 
-![个性化房间设计](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/083-imported-.png)
+![个性化房间设计](images/9b80a78a799833-d1265a23703d8eaf.webp)
 
 为我生成一间理想房间设计：床、书架、沙发、绿植、电脑桌和双屏电脑，墙上挂着三幅插画，窗外是城市夜景与远处霓虹。可爱 3D 风格，C4D 渲染，等距轴测图，柔和室内灯光与暖色点缀，细节丰富但构图干净。
 
@@ -231,7 +231,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 复古宣传海报
 
-![复古宣传海报](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/084-imported-.png)
+![复古宣传海报](images/281709561471a7-909167767846feea.webp)
 
 复古宣传海报风格，中文文字醒目，背景为红黄放射状图案。画面中心一位美丽的年轻女性以精致复古画法绘制，面带微笑，气质优雅，有亲和力。主题是虚构 AI 绘画服务「妙笔优画」的促销广告：强调「惊爆价 9.9/张」「适用各种场景、图像融合、局部重绘」「每张提交 3 次修改」「AI 直出效果，无需修改」，底部醒目标注「有意向点右下『我想要』」，右下角绘制一个手指点击按钮的动作。
 
@@ -239,7 +239,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Q版求婚场景
 
-![Q版求婚场景](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/085-imported-q.png)
+![Q版求婚场景](images/fc79427f3c4da0-e09582b5a83cd7a6.webp)
 
 将一对年轻情侣转换成 Q 版 3D 人物：男生戴黑框眼镜、穿浅蓝衬衫，女生齐肩黑发、穿米白色连衣裙。场景换成求婚——男生单膝跪地举着打开的戒指盒，女生双手捂嘴、眼里闪着惊喜。背景是淡雅五彩花瓣做的拱门，浪漫的奶油色调，地上散落玫瑰花瓣。除了人物采用 Q 版 3D 风格，其他环境均为写实风格。
 
@@ -247,7 +247,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 吉卜力风格
 
-![吉卜力风格](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/086-imported-.png)
+![吉卜力风格](images/98b6d5566435ae-bb63175700b15838.webp)
 
 以吉卜力工作室手绘动画风格创作一幅场景插画：夏日午后，一位红头发的小女孩戴着草帽，和一只圆滚滚的白色大猫一起，站在开满波斯菊的铁道坡道旁；远处是积雨云、稻田和一座小小的车站。赛璐璐上色，柔和水彩背景，充满空气感的夏天，细腻的手绘线条。
 
@@ -255,7 +255,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 3D Q版风格场景
 
-![3D Q版风格场景](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/087-imported-3d-q.png)
+![3D Q版风格场景](images/702d4be5911d62-dff45317dbf473a6.webp)
 
 将以下场景转化为 3D Q 版风格：深夜的程序员书房，扎丸子头的年轻程序员抱着笔记本电脑瘫在电竞椅上，一只橘猫正踩过键盘，桌上两杯凉掉的咖啡，屏幕的蓝光映在他脸上。保持原本的场景布置与服装造型不变，人物和猫都转为大头小身子的 Q 版比例，C4D 渲染，柔和灯光。
 
@@ -263,7 +263,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 皮克斯3D风格原创角色
 
-![皮克斯3D风格原创角色](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/088-imported-3d.png)
+![皮克斯3D风格原创角色](images/e8c3a131849819-d424c70ff9c63059.webp)
 
 以皮克斯 3D 动画风格创作一个原创角色：一位退休的马戏团魔术师爷爷，白色八字胡，酒红色天鹅绒礼服外套缝满补丁，鼻梁上架着单片眼镜，肩头蹲着一只戴小礼帽的白鸽。温暖柔光，大而富有表现力的眼睛，细腻的皮肤质感与次表面散射，半身特写，深色丝绒幕布背景。
 
@@ -271,7 +271,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Q版角色表情包
 
-![Q版角色表情包](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/089-imported-q.png)
+![Q版角色表情包](images/7d85773f800cb9-c8fff7a90cdc4e7b.webp)
 
 创作一套原创 Q 版表情包，主角是扎丸子头的咖啡店店员「小茉」，共 9 个表情，3x3 网格排列，透明背景，1:1 构图。统一的 Q 版卡通风格，色彩鲜艳。每个表情的动作、神态各不相同，体现「骚、贱、萌、抓狂」等多样情绪：翻白眼、捶地狂笑、灵魂出窍、原地石化、撒咖啡豆当钱、干饭状态、社交恐惧发作、被夸时职业假笑、下班瞬间整个人发光。每个形象完整无残缺，带统一的白色描边贴纸效果，画面中无多余文字。
 
@@ -279,7 +279,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Funko Pop 公仔包装
 
-![Funko Pop 公仔包装](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/090-imported-funko-pop.png)
+![Funko Pop 公仔包装](images/76fc97734d54e3-70998ba8481085e3.webp)
 
 把一位虚构侦探变成 Funko Pop 公仔包装盒风格的等距视角产品图：盒内是大头公仔「神探橘」——姜黄色风衣、总是举着放大镜，头顶飘着一个问号；包装盒内旁边搭配他的必备物品（烟斗、怀表、放大镜、一顶猎鹿帽）。包装盒上标注标题「DETECTIVE ORANGE」。盒子旁边呈现该公仔本体的实物效果，逼真、具有真实感的渲染风格，浅色桌面产品摄影。
 
@@ -287,7 +287,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 名画人物麦片广告
 
-![名画人物麦片广告](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/091-imported-.png)
+![名画人物麦片广告](images/729af2f977dfc0-a6af5a513ed413a3.webp)
 
 《大师麦片》广告大片：以《戴珍珠耳环的少女》的画中人物为主角，根据她的气质设计一款燕麦产品（蓝莓、酸奶、燕麦与珍珠大麦的搭配），并生成她作为包装盒封面人物的广告场景。人物保留名画中的蓝黄头巾与珍珠耳环特征，但转为可爱 Q 版 3D、C4D 渲染风格。包装盒印品名「VERMEER 珍珠麦片」与 slogan「每一口都是名画」，盒子摆在极简主义设计台面上，柔和晨光。
 
@@ -295,7 +295,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Q版可爱俄罗斯套娃
 
-![Q版可爱俄罗斯套娃](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/092-imported-q.png)
+![Q版可爱俄罗斯套娃](images/03458ae3b1f695-abefda2ef9d72f7e.webp)
 
 把《戴珍珠耳环的少女》的画中人物变成 Q 版可爱俄罗斯套娃🪆，从大到小一共五个：最大的保持完整的名画造型（蓝头巾、黄衣领、珍珠耳环），依次越变越小、越变越圆，最迷你的一颗只剩下头巾和一双大眼睛。五个套娃整齐摆在精致的木桌上，旁边放着一个打开的半壳，3:2 横幅，柔和窗光。
 
@@ -303,7 +303,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 可爱珐琅别针
 
-![可爱珐琅别针](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/093-imported-.png)
+![可爱珐琅别针](images/92092679a9e489-6051eb7031692911.webp)
 
 将一位虚构的魔法图书管理员（银发盘发、月牙发饰、深蓝色长袍）转换成可爱的珐琅徽章风格插画：使用光亮金属描边和鲜艳的珐琅填色，她怀抱一本微微发光的古书，徽章边缘饰有星月纹样。方形效果图格式，白色背景，徽章下方画出别针扣细节。不添加任何额外元素。
 
@@ -311,7 +311,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 半透明玻璃质感变换
 
-![半透明玻璃质感变换](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/094-imported-.png)
+![半透明玻璃质感变换](images/380757893b0253-7fb048c114b238a6.webp)
 
 将一台黑胶唱机变换为柔软的 3D 半透明玻璃材质：保留原始造型与细节比例，具有磨砂哑光效果和细致纹理，保留淡雅的原色（琥珀与烟灰），以浅灰色背景为中心在空间中轻轻漂浮，投下柔和的阴影，自然的光线。超现实静物感，4:3 构图，高品质渲染。
 
@@ -319,7 +319,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 玻璃材质重塑（JSON）
 
-![玻璃材质重塑（JSON）](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/095-imported-json.png)
+![玻璃材质重塑（JSON）](images/37e098a715aac4-e80c8e610e8e4aa1.webp)
 
 基于以下 JSON 美学定义，将一把撑开的老虎伞重新渲染为玻璃材质：{ "style": "photorealistic 3D render", "material": "translucent colored glass", "object": "a classic open umbrella with tiger-orange panels", "background": "plain white", "lighting": "soft, diffused studio lighting", "camera": "centered, slight top-down" }。玻璃需带彩虹色折射，伞骨为金属银色，整体干净通透，细节精致。
 
@@ -327,7 +327,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 古代藏宝图
 
-![古代藏宝图](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/096-imported-.png)
+![古代藏宝图](images/1a2b495567bef1-6602737a8f8b3d3f.webp)
 
 绘制一张画在古老羊皮纸上的虚构海岛藏宝图：羊皮纸带烧焦的边缘、折痕与咖啡渍。图上绘制详细元素——海面上的帆船、海岸线上的古老港口、山脉、棕榈树和装饰性的罗盘玫瑰；一条虚线路径从码头蜿蜒通向标注大「X」的宝藏点，X 旁插着一面小骷髅旗。整体风格让人联想到旧时海盗冒险电影，地图角落用褪色墨水写着「无人岛 · 藏宝图 No.7」。
 
@@ -335,7 +335,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 自拍生成摇头娃娃
 
-![自拍生成摇头娃娃](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/097-imported-.png)
+![自拍生成摇头娃娃](images/47c32c18308fc2-b11e39a66eef0248.webp)
 
 创作一个钓鱼老爷爷摇头娃娃的产品照片：晒成古铜色的圆脸，白色渔夫帽，标志性灰白八字胡。头部稍微放大且可轻轻摇晃，身体卡通化——穿着橙色救生马甲，手举一根小鱼竿，鱼线末端挂着一只小靴子。把摇头娃娃摆放在木质书架上，旁边是一排钓鱼小说和小浮漂收藏，温暖室内光。
 
@@ -343,7 +343,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 定制动漫手办
 
-![定制动漫手办](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/098-imported-.png)
+![定制动漫手办](images/0c3086b0c3c358-c36f963ea44f21e0.webp)
 
 生成一张摆在桌面上的动漫风格手办照片，以手机随手拍的轻松休闲视角呈现。手办是原创角色「星野栞」：银白短发挑染淡紫色，校服外套半披在肩上，单手托着一颗发光的小星星，全身姿势与面部表情生动还原设定。整体设计精致细腻，发丝与服饰采用自然柔和的渐变色彩与细腻质感，日系动漫风，细节丰富，观感精美。背景是虚化的书桌与暖光台灯，1:1。
 
@@ -351,7 +351,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 双色调摄影棚时尚肖像
 
-![双色调摄影棚时尚肖像](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/099-imported-.png)
+![双色调摄影棚时尚肖像](images/055df880137ddf-7ff3824836406d49.webp)
 
 创作一张超写实的特写摄影棚肖像，主角是一位神情自信、深思熟虑的成年男性，采用高端现代编辑风格，取景范围从胸部以上。
 
@@ -371,7 +371,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 巨型月亮下的夜色剪影
 
-![巨型月亮下的夜色剪影](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/100-imported-.png)
+![巨型月亮下的夜色剪影](images/8dad99bb61f4ee-c5e93d9dd03a6503.webp)
 
 超写实电影级编辑摄影作品，画面中一位 {argument name="subject" default="20 出头、外形俊朗的年轻男子"} 独自站在 {argument name="location" default="夜晚广阔的旷野"} 上，以极具张力的剪影呈现。他留着浓密、自然的波浪状乌黑头发，拥有轮廓分明的男性下颌线、突出的颧骨和自信挺拔的姿态。在他身后悬挂着一轮 {argument name="moon" default="巨大且令人惊叹的满月"}，其尺寸大得不可思议，占据了整个天空，月球表面的陨石坑细节清晰可见，并散发着柔和的大气光晕。月光在他的头发、肩膀和身体边缘勾勒出明亮的银蓝色轮廓光，而他的面部则大部分处于阴影之中。高高的草丛轻轻环绕着他，淡淡的薄雾在田野间飘荡，深邃的藏青色夜空，被月光照亮的微弱云层，大气深度，梦幻而充满力量的氛围，史诗般的尺度，神秘的孤独感，电影级构图，逼真的自然纹理，体积光月光，高动态范围，照片级真实感，超精细，8K，专业摄影，85mm 镜头，浅景深，无其他人，无建筑物，无文字，无水印。
 
@@ -379,7 +379,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 都市奢华男士肖像
 
-![都市奢华男士肖像](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/101-imported-.png)
+![都市奢华男士肖像](images/4c22cbfa8b0ff1-0dcf7cb35dfe2ce3.webp)
 
 让一个 {argument name="subject" default="时尚男士"} 使用图像作为面部参考，他留着整洁的胡须，梳着大背头，以低角度中近景户外镜头拍摄。他戴着深色墨镜，身穿 {argument name="outerwear" default="浅灰色大衣"}，内搭黑色毛衣、白色衬衫和修身黑色领带。一只手抓着外套，另一只手插在口袋里，尽显自信。左手上戴着一枚戒指。{argument name="background" default="深色都市大理石背景"} 带有浅色纹理和精致的绿植点缀，增添了现代奢华感。光线柔和，增强了质感与对比度。
 
@@ -387,7 +387,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 佩戴分子发夹的动漫女学生
 
-![佩戴分子发夹的动漫女学生](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/102-imported-.png)
+![佩戴分子发夹的动漫女学生](images/f8d4333e4a23dd-3596ac2db0276eb9.webp)
 
 创作一张精致的动漫风格半身肖像，主角是一位在纯黑色背景下显得活泼开朗的女学生。她拥有一头非常长的 {argument name="hair color" default="明亮的金黄色"} 头发，留着厚实的层次感刘海，长发垂在背后，右侧扎着一个高马尾。她有着一双明亮生动的 {argument name="eye color" default="翡翠绿色"} 大眼睛，张嘴微笑着，双颊带着淡淡的红晕，线条清晰利落。让她以自信友好的姿态面向观众：左手举在脸旁比出 V 字手势，右手叉腰，双肩微微倾斜。为她穿上日本校服：一件合身的宝蓝色西装外套，总共可见 5 枚金色的六角形纽扣，分布为左侧袖口 2 枚，外套正前方 1 枚，右侧袖口 2 枚；内搭白色衬衫、带有罗纹 V 领的棕褐色毛衣背心、紫色斜纹金条领带，底部可见绿色百褶裙。在侧马尾上方添加一个独特的红色化学结构发饰：从头发延伸出一根细细的红色杆，连接着两个带有红色发光节点的六角形分子环，右侧带有红色字母“NH”。采用清晰的赛璐珞动漫渲染风格，色彩过渡平滑，头发和眼睛带有光泽感，衣物褶皱自然，手部刻画准确，构图为居中的高清正方形。背景简洁，无多余元素，无水印，除发饰上的“NH”外，不包含任何额外文字。
 
@@ -395,7 +395,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 黄金时刻电影感男性肖像
 
-![黄金时刻电影感男性肖像](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/103-imported-.png)
+![黄金时刻电影感男性肖像](images/9c644a644a94c8-46e23b0eec8b03c6.webp)
 
 逼真的电影感肖像，主角是一位英俊的成年男性，留着 {argument name="hair style" default="凌乱的中长棕色头发"} 和修剪整齐的胡须，身穿 {argument name="clothing" default="柔软的米色针织圆领毛衣"}。他面向镜头，表情冷静、自信且略带沉思。温暖的金色轮廓光在他的头发和肩膀周围形成光晕，强烈的柔光主光照亮了他的面部。背景深邃且富有情绪感，带有淡淡的琥珀色薄雾和大气烟雾，戏剧性的高对比度照明，自然的皮肤纹理，锐利的双眼，逼真的面部细节，浅景深，专业影棚摄影，85mm 人像镜头，f/1.8，奶油般虚化的背景，温暖的电影级调色，奢华杂志美学，超精细，照片级真实，8K。
 
@@ -403,7 +403,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 佩戴骷髅戒指的忧郁肖像
 
-![佩戴骷髅戒指的忧郁肖像](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/104-imported-.png)
+![佩戴骷髅戒指的忧郁肖像](images/6ff14bc962d6f7-f200b9c46afa31c5.webp)
 
 一张忧郁的特写肖像，主角是一位神秘的年轻 {argument name="ethnicity" default="东亚女性"}，拥有迷人的 {argument name="eye color" default="浅蓝色眼睛"}，身穿 {argument name="clothing" default="超大款黑色连帽衫"}，兜帽拉起遮住头部。连帽衫使她半边脸沉浸在戏剧性的阴影中，营造出高对比度的明暗对照法光影效果。她的手靠近脸颊，佩戴着一枚带有小角的精致银色骷髅戒指。深色头发隐约露出，纯黑背景，目光锐利深邃，电影级写实美学，超精细纹理，8k 分辨率，9:16 纵横比。
 
@@ -411,7 +411,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 电影感黑白影棚肖像
 
-![电影感黑白影棚肖像](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/105-imported-.png)
+![电影感黑白影棚肖像](images/27b7806484321c-a06dabebf3d983ab.webp)
 
 一张电影感的黑白影棚肖像，主角是一位英俊的成年男性，留着 {argument name="hair style" default="短而微乱的深色头发"} 和修剪整齐的浓密胡须，身穿 {argument name="clothing" default="简约黑色连帽衫"}。他以四分之三侧面出镜，目光向上并投向右侧，神情冷静、深思且坚定。戏剧性的高对比度伦勃朗式光影照亮了他的一侧脸庞，而另一侧则隐入深邃的阴影中。面部特征细节丰富，皮肤纹理真实，眼神锐利，颧骨和胡须轮廓分明，发丝带有细腻的高光，深邃的黑色调，暗色无缝背景，充满阳刚之气的氛围，极简构图，专业时尚/编辑摄影，浅景深，上方/前方柔和的定向主光，强烈的明暗对比，超写实，照片级真实感，单色，85mm 肖像镜头，f/1.8，高细节，细腻胶片颗粒，4K。一张英俊成年男性的肖像，留着短而微乱的深色头发和修剪整齐的浓密胡须，身穿简约黑色连帽衫。他以四分之三侧面出镜，目光向上并投向右侧，神情冷静、深思且坚定。戏剧性的高对比度伦勃朗式光影照亮了他的一侧脸庞，而另一侧则隐入深邃的阴影中。面部特征细节丰富，皮肤纹理真实，眼神锐利，颧骨和胡须轮廓分明，发丝带有细腻的高光，深邃的黑色调，暗色无缝背景，充满阳刚之气的氛围，极简构图，专业时尚/编辑摄影，浅景深，上方/前方柔和的定向主光，强烈的明暗对比，超写实，照片级真实感，单色，85mm 肖像镜头，f/1.8，高细节，细腻胶片颗粒，4K。
 
@@ -419,7 +419,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 幼儿快餐喜剧剧照
 
-![幼儿快餐喜剧剧照](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/106-imported-.png)
+![幼儿快餐喜剧剧照](images/57f23ef5c82800-9b8a7ebc5597f2bc.webp)
 
 在明亮的快餐汉堡店内，创作一张 9:16 的照片级逼真社交媒体视频截图。画面中木质柜台后方正好有 2 人：左侧是一个可爱的幼儿男孩，面向镜头微侧，头戴带有红色条纹的白色纸质快餐帽，身穿浅蓝色 T 恤和印有红色小字餐厅标识的白色围裙；右侧是一名微笑的成年女性，双手撑在柜台上向前倾身，身穿灰色衬衫外搭蓝色牛仔外套，留着齐肩金色卷发，戴着结婚戒指。女性正以一种愉悦、鼓励的表情温和地看着孩子，而孩子则表现出冷静且略带调皮的神情。在图像中下部居中位置添加醒目的字幕 {argument name="caption text" default="Please"}，使用带有黑色投影的白色大号圆体字。背景：柔焦处理的快餐店内部，天花板上悬挂着 2 盏红色吊灯，左上方有 1 个大型数字菜单项目，身后有 1 个发光的圆形霓虹灯牌，墙面贴砖，配有红色座椅，窗外透进自然光。采用浅景深、逼真的皮肤纹理、自然的室内光线、暖色调，呈现出病毒式喜剧视频的抓拍构图，无额外人物，无水印。
 
@@ -427,7 +427,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 便利店里的动漫女学生
 
-![便利店里的动漫女学生](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/107-imported-.png)
+![便利店里的动漫女学生](images/cc488a3f2ff2b5-456419828f0ef87a.webp)
 
 创作一张精致的竖构图动漫插画，主角是 {argument name="character name" default="一位日本女高中生"}，她站在明亮的便利店里，身旁是冷藏饮料货架。她是画面中唯一的中心人物，采用大腿以上的中景构图，身体微向左侧，目光看向左侧，表情柔和好奇，嘴唇微张。她留着 {argument name="hair color" default="乌黑亮丽"} 的头发，带有细碎的刘海，胸前垂下两条长辫子，拥有温暖的棕色眼睛、白皙的皮肤和淡淡的红晕，戴着细圆框眼镜。她的校服包含 5 个清晰的服装组件：短袖白色水手衫、海军蓝水手领、白色条纹饰边、胸前系着深红色大蝴蝶结，以及深海军蓝百褶裙。添加 3 个主要的配饰或手持物品：脸上的圆框眼镜、左肩背着的海军蓝大号书包，以及双手捧着的一瓶带有淡黄绿色标签的透明塑料瓶装茶饮。将她置于右侧冷藏货架旁，货架上摆放着整齐的瓶装饮料和日式小标签，标签细节柔和，无需清晰可辨。背景应展现便利店的入口或窗户，透进明亮的日光，窗外是模糊的绿植和街道轮廓，室内表面带有清凉的反射感。使用 {argument name="visual style" default="高质量现代动漫风格、半写实光影、细腻的线条、柔和的绘画式阴影"}，配合浅景深、明亮的背光、头发上微妙的轮廓光、自然的肤色、对人物的清晰对焦，营造出宁静的放学后夏日氛围。使用 2:3 的竖向构图，无文字覆盖，无水印，无多余角色。
 
@@ -435,7 +435,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 电影感雨中欧洲街道人像
 
-![电影感雨中欧洲街道人像](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/108-imported-.png)
+![电影感雨中欧洲街道人像](images/af03b55be56785-3f92f892cd90c6d9.webp)
 
 一张超写实的电影感时尚摄影作品，一位 20 出头、外貌出众的英俊青年在雨夜自信地走在古老的欧洲街道上。他留着浓密且自然的黑色波浪卷发，被凉爽的微风吹得略显凌乱；拥有浓密且轮廓分明的眉毛、深邃而富有表现力的深褐色眼睛、挺拔的鼻梁、突出的颧骨、棱角分明的男性下颌线以及淡淡的自然胡茬。他身穿剪裁考究的炭灰色长款羊毛大衣，内搭干练的黑色高领毛衣，下着优雅的定制长裤，脚蹬擦得锃亮的深褐色皮鞋。狭窄的历史街道两旁是风化感十足的欧洲建筑、华丽的阳台、复古路灯、木门和透出暖光的咖啡馆窗户。雨水覆盖着凹凸不平的鹅卵石路面，映照出温暖灯光的电影感倒影。他单手插在大衣口袋里，表情从容自信，视线略微看向镜头之外。忧郁的阴天氛围，柔和的漫射光，淡淡的薄雾，逼真的湿润质感，浅景深，精致的欧洲时尚美学，柔和的大地色调，电影级调色，85mm 镜头，f/1.8 光圈，自然的皮肤纹理，照片级真实感，奢侈时尚杂志大片，高细节，8K 分辨率。
 
@@ -443,7 +443,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 富士山水彩风格转换
 
-![富士山水彩风格转换](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/109-imported-.png)
+![富士山水彩风格转换](images/12eab93ef49262-279fa23f7b22197d.webp)
 
 创建一个垂直的“前后”对比图，展示普通景观如何转变为极简主义的水墨水彩插画。画布：纵向 4:5 比例。布局：水平平分为两个等大的面板，无边框；顶部面板为写实景观照片，底部面板为印在暖色米白色水彩纸上的风格化插画。顶部面板：清晰的日间场景，远景中心为 {argument name="mountain name" default="Mount Fuji"}，蓝天伴有淡淡的薄云，积雪的山峰，低矮的山脉，中景处有一排白色拱桥，干枯的棕褐色河岸草丛，前景为平静的深蓝色河流及其倒影，色彩自然清晰，细节丰富。底部面板：保持完全相同的构图，但将其简化为精致的极简主义水彩和细线条墨水草图；中心为小型岛屿状景观主题，包含蓝色山脉轮廓和白色雪峰、白色拱桥、棕褐色河岸、下方柔和的蓝色水面倒影，周围留有大量空白，轻盈的色彩渲染，柔和的边缘晕染，稀疏的精细线条，呈现优雅的日式旅行写生感。在插画下方中心处包含一个极小的手写签名式标记，非常隐晦且不可辨认。使用 {argument name="sky color" default="clear vivid blue"}、{argument name="watercolor paper tone" default="warm ivory"} 以及 {argument name="illustration style" default="delicate minimalist watercolor and ink"}。避免添加多余的文字、人物、车辆、边框、厚重的轮廓线或杂乱元素。
 
@@ -451,7 +451,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 烹饪速写插画叙事
 
-![烹饪速写插画叙事](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/110-imported-.png)
+![烹饪速写插画叙事](images/eae9b1e555e605-bb450242538986d5.webp)
 
 将主体转化为一个视觉故事，通过 {argument name="frame count" default="4–6 个小型插画帧"} 进行呈现。在保持主体可辨识度的同时，将其重新诠释为迷人的手绘序列，展示其食材、准备过程、质地和最终形态。
 
@@ -465,7 +465,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 现代艺术活动海报
 
-![现代艺术活动海报](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/111-imported-.png)
+![现代艺术活动海报](images/92ce622aabae5e-0a15baeafeebe889.webp)
 
 [活动信息]
 - 活动名称：{argument name="event name" default="Margin and Structure"}
@@ -489,7 +489,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 英文社论报纸排版
 
-![英文社论报纸排版](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/112-imported-.png)
+![英文社论报纸排版](images/f33ce5972b8cfd-12563f8b211b8b90.webp)
 
 主题：{argument name="subject" default="文化评论"} / 英语等级：{argument name="English level" default="B2"} / 字数：{argument name="word count" default="400"}
 
@@ -511,7 +511,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 定制地标旅行海报模板
 
-![定制地标旅行海报模板](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/113-imported-.png)
+![定制地标旅行海报模板](images/d8ea5c110a33e3-5eb998ca6a9a6a66.webp)
 
 创作一张超高分辨率的 4:5 竖版旅行海报，主题围绕 {argument name="location" default="TOKYO"}。所有可见文字必须仅使用英文，拼写完美且排版专业，不得出现字母扭曲、随机符号或 AI 乱码。核心设计：将巨大的单词“{argument name="location" default="TOKYO"}”醒目地置于中心。使用高大、粗体的无衬线字体，每个字母内包含该地点不同的插画场景。将字母视为“画廊橱窗”，融入可识别的地标、建筑、街道、交通、自然、文化和当地氛围。将各字母间的场景连接起来，形成一幅连贯的视觉全景图。顶部条带：在排版上方添加一条细长的全景条带，根据需要加入简化的当地元素，如天际线、道路、车辆、火车、船只、桥梁、鸟类、云朵、太阳或海岸线。风格：中世纪现代编辑海报、瑞士平面设计、高端旅行品牌感、极简扁平矢量插画、建筑信息图表美学、几何形状、边缘利落、细腻的线条艺术细节、强烈的留白以及精致的构图。色彩：根据 {argument name="location" default="TOKYO"} 自动提取协调的调色板。仅使用 4–6 种柔和的粉彩色调，呈现优雅、低饱和度的旅行海报质感。
 
@@ -519,7 +519,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 四格香蕉奶昔食谱拼图
 
-![四格香蕉奶昔食谱拼图](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/114-imported-.png)
+![四格香蕉奶昔食谱拼图](images/c92171bd200f9a-9df58739f99e2b88.webp)
 
 创建一个 2×2 的四格写实风格食谱拼图，展示在 {argument name="table style" default="乡村风格深色木质餐桌"} 上制作 {argument name="smoothie type" default="奶油香蕉奶昔"} 的过程。
 
@@ -537,7 +537,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 复古植物学勿忘我海报
 
-![复古植物学勿忘我海报](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/115-imported-.png)
+![复古植物学勿忘我海报](images/dc191b9f52098e-90f2d8faecf23096.webp)
 
 一张印在米色纸张上的科学植物学海报。画面中心是一朵巨大的 {argument name="flower" default="勿忘我"} 水彩画，包含根部，茎和花瓣上带有细小的编号标签。顶部为斜体衬线字体标题："FORGET-ME-NOT"。副标题："A FIELD PLATE"。底部："{argument name="plate number" default="PLATE VII · 1887"}"。边缘处有铅笔笔记。米色、靛蓝色、绿色，2:3 纵横比。
 
@@ -545,7 +545,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 爱因斯坦手写论文风格
 
-![爱因斯坦手写论文风格](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/116-imported-.png)
+![爱因斯坦手写论文风格](images/2300cf3f407123-2bbb32fd2cc1bdf0.webp)
 
 一张逼真的手机拍摄照片，内容为用铅笔书写的手写论文，采用 Albert Einstein 的笔迹，书写在 8.5x11 英寸的横线纸上，主题关于 {argument name="essay topic" default="世界货币史"}。请确保笔迹呈现出 Einstein 特有的书写风格变化。在右上角添加一点 {argument name="stain type" default="咖啡渍"}
 
@@ -553,7 +553,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 电影感沙漠“火之环”专辑封面
 
-![电影感沙漠“火之环”专辑封面](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/117-imported-.png)
+![电影感沙漠“火之环”专辑封面](images/2ea2fc558f585f-a28b66d7df1f2d2d.webp)
 
 超写实电影感专辑封面，描绘了一位男歌手独自站在夜晚广阔荒凉的沙漠中央，身穿一件在风中自然飘动的黑色长风衣，搭配深色靴子和极简配饰。歌手直视镜头，表情冷静却充满强烈的情感。在他身后，一个巨大的圆形结构正在缓慢燃烧，在黑暗中形成一个巨大的火环，完美地置于他身后，宛如象征性的光环。火焰以强烈的暖橙色光芒照亮了他的轮廓边缘，而冷蓝色的月光则照亮了他脸部的另一侧，营造出极具戏剧性的电影感对比。浓烟升入夜空，发光的余烬在空中飘浮，微风吹动着他的衣物，地面呈现出沙漠的质感，远处的山脉在朦胧的大气中隐约可见。整体画面象征着毁灭、重生、自由与情感的蜕变。史诗般的另类摇滚专辑美学，极具艺术感且真实，充满强有力的象征意义，戏剧性的广角构图，歌手始终是视觉焦点。超精细的面部特征，真实的皮肤质感，自然的火焰反射，体积烟雾，电影级布光，细腻的模拟胶片颗粒感，丰富的阴影层次，使用 Canon EOS R5 和 35mm 电影镜头拍摄，超写实，高端音乐摄影，8K 分辨率，1:1 正方形专辑封面，无文字，无字母，无水印，非奇幻风格插画，无畸形解剖结构，无多余肢体。超写实电影感专辑封面，描绘了一位女歌手独自站在夜晚广阔荒凉的沙漠中央，身穿一件在风中自然飘动的黑色长风衣，搭配深色靴子和极简配饰。歌手直视镜头，表情冷静却充满强烈的情感。在她身后，一个巨大的圆形结构正在缓慢燃烧，在黑暗中形成一个巨大的火环，完美地置于她身后，宛如象征性的光环。火焰以强烈的暖橙色光芒照亮了她的轮廓边缘，而冷蓝色的月光则照亮了她脸部的另一侧，营造出极具戏剧性的电影感对比。浓烟升入夜空，发光的余烬在空中飘浮，微风吹动着她的衣物，地面呈现出沙漠的质感，远处的山脉在朦胧的大气中隐约可见。整体画面象征着毁灭、重生、自由与情感的蜕变。史诗般的另类摇滚专辑美学，极具艺术感且真实，充满强有力的象征意义，戏剧性的广角构图，歌手始终是视觉焦点。超精细的面部特征，真实的皮肤质感，自然的火焰反射，体积烟雾，电影级布光，细腻的模拟胶片颗粒感，丰富的阴影层次，使用 Canon EOS R5 和 35mm 电影镜头拍摄，超写实，高端音乐摄影，8K 分辨率，1:1 正方形专辑封面，无文字，无字母，无水印，非奇幻风格插画，无畸形解剖结构，无多余肢体。
 
@@ -561,7 +561,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 赛博朋克犬耳女剑客
 
-![赛博朋克犬耳女剑客](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/118-imported-.png)
+![赛博朋克犬耳女剑客](images/2d645aba9c2632-9545f973cf313929.webp)
 
 创作一张电影级动漫主视觉图，画面中心为 {argument name="character name" default="一位年轻的犬耳女剑客"}，她正站在混乱的霓虹赛博朋克战场中央。她留着一头飘逸的 {argument name="hair color" default="浅金色"} 长发，发丝戏剧性地向左飘动，前额扎着两条粗辫子，有着下垂的动物耳朵、疲惫的青蓝色双眼，表情空洞冷漠，脸上带有细小的伤口和血迹。她身穿一件深色修身军装夹克，内搭一件染血的白衬衫，配有黑色战术绑带和腰带，穿着深色长裤，整体轮廓饱满且带有战斗磨损感。画面中必须清晰呈现两把剑：一把武士刀斜挎在背上，刀柄上系着红色流苏；另一把剑或武器收在鞘中，通过链条悬挂在身体左侧低处。背景为抽象的废墟未来城市或数字虚空，充斥着强烈的动态模糊、故障伪影、色差效果、水平扫描线碎片、黑色碎片剪影，以及爆炸般的红、洋红、紫、蓝、青和橙色光束。在她头后放置一个明亮的白色圆形光环，右侧有垂直的蓝色结构，左侧则是温暖的红色混乱景象。采用深色高对比度调色，强调戏剧性的轮廓光，运用绘画风格的动漫渲染，刻画锐利的面部细节，展现动态发丝、电影级景深、充满活力的构图以及悲剧性的末日氛围。画面中无任何可读文字，无水印，采用 3:2 宽屏比例。
 
@@ -569,7 +569,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 冬日暮色中的灯笼摄影
 
-![冬日暮色中的灯笼摄影](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/119-imported-.png)
+![冬日暮色中的灯笼摄影](images/6fa5b8c02a59df-bc861fc25874025d.webp)
 
 { "title": "{argument name=\"title\" default=\"冬日暮色中的灯笼\"}", "scene": "暮色中宁静的冬日森林。柔和的雪花从天空中轻轻飘落，周围的树木隐没在梦幻般的蓝色冬日雾气中。", "subject": "{argument name=\"subject\" default=\"一位年轻女性独自站在飘落的雪花下，身穿一件米色长款羊毛大衣，围着厚实的针织围巾。她神情平静安详，将一盏发光的复古灯笼轻轻抱在胸前。\"}", "detail": "温暖的灯光照亮了她的脸庞，并映照出飘落的雪花，营造出闪烁的高光。雪花柔和地落在她的大衣和头发上，而远处的森林则在寒冷的蓝色薄雾中保持模糊。", "atmosphere": "宁静、神奇、电影感、平和、感性、梦幻且永恒。", "lighting": "{argument name=\"lighting\" default=\"温暖的金色灯光与冷色调的暮色形成对比，体积光，逼真的光线穿过降雪产生散射，柔和的阴影，电影级光晕。\"}", "composition": "亲密的电影感肖像，居中构图，浅景深，奶油般虚化的背景，柔和模糊的雪林背景，平视视角。", "style": "照片级逼真，电影杰作，柯达胶片色彩，超逼真的皮肤纹理，写实的降雪效果，体积光，奶油般虚化，浅景深，HDR，8K，高度细节，获奖摄影作品。", "mood": "在冬日的寂静中，那一刻宁静的温暖与希望。" }
 
@@ -577,7 +577,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 海盗放克播放列表封面
 
-![海盗放克播放列表封面](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/120-imported-.png)
+![海盗放克播放列表封面](images/64d5aaf8536dcc-83e198023cbc7107.webp)
 
 为 {argument name="playlist title" default="FUNK GUERRA!"} 创建正方形 Spotify 播放列表封面艺术，风格设定为大胆的复古丝网印刷海盗放克专辑海报。使用黑色背景，搭配暖奶油色和鲜艳红橙色的受限色调，呈现厚重的做旧墨迹质感、粗糙的半调/颗粒感、锐利的高对比度矢量形状以及戏剧性的漫画书式光影。中心主体是一位侧脸向右的凶猛海盗船长，留着长长的黑色辫子和浓密胡须，佩戴圆环耳环，头戴印有骷髅交叉骨标志的三角帽，身穿带有奶油色轮廓和纽扣的深色海军大衣。他在右下角前景处紧握一个巨大的船舵。在他身后，包含 2 个海盗符号：一个位于帽子上，另一个位于右侧的黑色旗帜上。在左上角海盗身后添加一个巨大的红橙色做旧月亮。在右上角放置一个小的长方形红橙色轮廓标签，内含以粗体大写字母书写的 {argument name="duration label" default="1 HOUR"}。下半部分由超大的堆叠排版占据：第一个单词 {argument name="top title word" default="FUNK"} 为奶油色，第二个单词 {argument name="bottom title word" default="GUERRA!"} 为红橙色，两者均采用巨大的压缩无衬线板式/块状字体，字间距紧凑。整体构图应呈现出具有侵略性的朋克放克海盗宣传画风格，确保在缩略图尺寸下清晰易读，且不包含额外文本、水印、写实照片渲染或额外角色。
 
@@ -585,7 +585,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 晨曦光圈动漫都市
 
-![晨曦光圈动漫都市](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/123-imported-.png)
+![晨曦光圈动漫都市](images/63e95aeca5ae74-02e5a443dd0960fa.webp)
 
 创作一幅高度精细的电影感动漫插画，标题为 {argument name="title concept" default="EIRUNE | MORNING APERTURE"}：一位白发少女在日出时分站在高层公寓阳台上，双手捧着冒热气的马克杯，静静地仰望天空，看着城市上方的天空缓缓开启。她留着凌乱的银白色短发，皮肤白皙，有着柔和的灰蓝色眼眸，表情宁静，佩戴着小耳环，耳边有一个带有黑色流苏的未来感圆形蓝色发饰。她身穿一件超大号深炭灰色连帽外套，内搭浅色衬衫和长款素色裙子，微风轻轻拂动衣角。阳台杂乱而温馨，配有金属栏杆、盆栽绿植、小长椅或户外家具、管道、电缆、工业风公寓设施，左侧还有一只正在睡觉的猫。在她身后是黄金时刻的密集未来感滨水城市：层叠的中高层建筑、高架轨道、穿过场景的黄白相间通勤列车、桥梁、港口水域、远处的摩天大楼、薄雾和温暖的阳光。天际线上方，巨大的分段式轨道巨型结构面板像机械百叶窗或花瓣一样在天空中弯曲开启，露出深色的框架、面板接缝、螺栓、风化痕迹，缝隙间透出带有零星云朵的湛蓝天空；太阳位于开启的光圈附近，投射出放射状的光束，并透过结构形成镜头般的光晕。采用超精致的日本科幻生活片段风格，背景细节繁复，具有真实的空气透视感，柔和的轮廓光，体积感晨光，细腻的胶片颗粒，精致的线条，绘画般的写实感，以及充满希望的沉思氛围。在环境中集成 4 个清晰可见的标志/文字元素：1) 左侧垂直的白色布质横幅，写着「おはよう」，下方绘有一个简单的猫脸；2) 左下方的一个小白牌，写着“A Better Morning Ahead.”；3) 右侧的塔式标志，写着“KAZE MIRAI CITY”；4) 右下方的一块大型深色墙面广告牌，上面有日语文字和英文短语“SAME SKY, A BRIGHTER DAY.”。保持构图为竖构图，肖像方向，人物位于左下角前景，城市延伸至中景，巨大的天空光圈占据上半部分，不要添加额外角色，不要添加水印。
 
@@ -593,7 +593,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 雨天清晨的仓鼠玻璃艺术
 
-![雨天清晨的仓鼠玻璃艺术](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/124-imported-.png)
+![雨天清晨的仓鼠玻璃艺术](images/9c55c97c0aacdb-007470f9359f3c98.webp)
 
 创作一幅梦幻般的竖版故事书插画，采用反向绘制的彩色玻璃风格，具有半透明的层次感、精细的金色花丝轮廓、柔和的水彩质感以及明亮的反光。画面展示了 {argument name="character" default="一只睡眼惺忪的圆滚滚仓鼠"} 在雨天清晨醒来，躺在深陷的奶油色绗缝床上，身旁是一扇高大的古老窗户；仓鼠有着棕白相间的毛发，小爪子搭在毯子上，粉嫩的鼻子，乌黑发亮的眼睛，正困倦地眨着眼。窗外是雨水冲刷过的朦胧蓝灰色欧洲哥特式城市，有着陡峭的屋顶、塔楼、温暖的黄色灯光、雾气和风暴云。室内采用温馨的天体主题：蓬松的奶油色被子上绣着金色的星星和新月，点缀着蓝色拼布，仓鼠身边塞着一只毛绒小羊，温暖的灯光与寒冷的雨天室外形成对比。在窗户附近的空中包含 3 条半透明的玻璃鱼：右侧中心偏大的一条，左下角一条小的，以及大鱼下方一条极小的。在鱼之间包含 5 个漂浮的小玻璃气泡和 1 颗发光的玻璃星星。添加 2 个水晶球：左侧悬挂着一个装有精致金枝的大球，右侧桌面上摆放着一个装有新月和星星的球。右上角添加 1 条悬挂的新月水晶装饰链。右侧窗台上摆放着精致的白花，左下角前景处有模糊的深色叶片植物。色调应为 {argument name="color palette" default="朦胧的粉蓝色、珍珠奶油色、柔和的金色和温暖的琥珀色"}；光影应呈现出 {argument name="mood" default="宁静的雨天黎明，温馨而神奇"} 的感觉。使用竖版 {argument name="aspect ratio" default="2:3"} 构图，高度细节化，带有闪烁的玻璃高光，柔和的景深，无文字，无水印。
 
@@ -601,7 +601,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 冲锋的双头地狱犬
 
-![冲锋的双头地狱犬](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/125-imported-.png)
+![冲锋的双头地狱犬](images/98d02b866d895f-7cfaed9732b8bb38.webp)
 
 创作一幅极具戏剧性的黑白奇幻插画，主角是 {argument name="creature name" default="Orthrus"}，一只巨大的双头地狱犬正穿过茂密的古老森林向观众直冲而来。该生物拥有 2 个咆哮的犬头：左侧头部朝前，下颚大张，露出长长的獠牙，舌头可见，耳朵竖起，毛发炸开；右侧头部稍靠后并转向右方，同样张开利齿咆哮。赋予这头野兽肌肉发达的狼形躯体、厚实蓬松的灰黑色皮毛、跨过倒木的巨大爪子、左侧可见的卷曲尾巴，以及脖颈上沉重的金属项圈、圆环和链条。场景设定在混乱的林地中，背景有高大的树干、缠绕的枝条、落叶、破碎的枯木、岩石，以及爪下扬起的尘土或碎屑。采用强烈的低角度正面视角、紧凑构图、动态感和迫在眉睫的攻击感。以粗粝的黑白墨水、木炭和石墨排线风格呈现，线条密集且带有刮痕感，高对比度，粗糙的纸张纹理，富有表现力的深色阴影，无色彩，无文字，无边框，无水印。强调凶猛感、神话恐怖感以及手绘暗黑奇幻概念艺术风格，采用方形构图。
 
@@ -609,7 +609,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Desert Observatory Keyframe
 
-![Desert Observatory Keyframe](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/18-desert-observatory-keyframe.png)
+![Desert Observatory Keyframe](images/8ef290af33a09a-529bc3013a7c107a.webp)
 
 Create a polished cinematic 16:9 keyframe for an AI image showcase: a tiny handmade astronaut repairing a glowing observatory telescope on a desert mesa at blue hour, warm lantern light contrasting with a deep indigo sky, readable silhouette, stable costume details, clear foreground midground background separation, tactile miniature materials, realistic shadows, editorial color grading, no text, no watermark, no duplicate objects. This is one single finished image, not a collage.
 
@@ -617,7 +617,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## AdRevival Private Management Storyboard
 
-![AdRevival Private Management Storyboard](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/139-adrevival-storyboard.png)
+![AdRevival Private Management Storyboard](images/e50efe3ec940ba-42ffd3ac6a84b9c7.webp)
 
 Create a complete cinematic storyboard and styleframe board for a premium fintech / advertising management SaaS product called “AdRevival Private Management”.
 
@@ -767,7 +767,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## X Open Source AI Index UI
 
-![X Open Source AI Index UI](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/140-x-open-source-ai-index.png)
+![X Open Source AI Index UI](images/64423a993d5a7a-fe6093af196b922e.webp)
 
 @创建图片 Create a highly realistic desktop screenshot of the X / Twitter web app in dark mode.
 
@@ -1036,7 +1036,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Feishu Collaboration UI
 
-![Feishu Collaboration UI](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/141-feishu-collaboration-ui.png)
+![Feishu Collaboration UI](images/d2cde6c9a7bf2b-daddf3abcf96f310.webp)
 
 @创建图片 Create a highly realistic desktop screenshot of a Chinese enterprise collaboration and messaging app in dark mode, strongly inspired by the modern Feishu / Lark desktop interface.
 
@@ -1052,7 +1052,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Summer Beach Anime Duo
 
-![Summer Beach Anime Duo](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/142-summer-beach-anime-duo.png)
+![Summer Beach Anime Duo](images/1dac4caa063b73-a641dec39bcf291c.webp)
 
 新case：Create a polished Japanese anime-style summer beach illustration featuring two clearly adult women, both age 21+, standing together in shallow seawater near the shoreline.
 
@@ -1171,7 +1171,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Vintage Camera Repair Shop Window
 
-![Vintage Camera Repair Shop Window](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_001.jpg)
+![Vintage Camera Repair Shop Window](images/bd8f3de2d89616-6493d8d47d50ddd5.webp)
 
 A photorealistic storefront window of a vintage camera repair shop at dusk, shot straight on. Hand-painted gold leaf lettering on the glass reads "HARLOW & SON — CAMERA REPAIR" in an arc, with "EST. 1948" beneath it in smaller serif caps. Behind the glass: three tiers of wooden shelves holding disassembled rangefinders, brass lens elements laid on green felt, and a handwritten cardboard tag that reads "BACK IN 20 MIN". A neon sign in the top right corner glows "OPEN" in warm red. Reflections of a wet street and a passing bus are visible in the glass but never obscure the lettering. Warm tungsten interior light against cool blue exterior light, 35mm lens, deep focus so every label stays readable.
 
@@ -1179,7 +1179,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Conference Badge Sheet Mockup
 
-![Conference Badge Sheet Mockup](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_002.jpg)
+![Conference Badge Sheet Mockup](images/e43bfd4f17c4b1-10c976b2cf36c1ee.webp)
 
 A top-down photograph of an uncut sheet of six conference name badges on a light grey desk. Each badge is 3:2 landscape with the same layout: a thin teal rule across the top, the event name "NORTHFIELD DESIGN SUMMIT" in condensed sans caps, a large attendee name below it, a smaller role line under that, and a square QR-code placeholder in the bottom right corner. The six names read: ELENA VOSS / Speaker, MARCUS HALE / Attendee, PRIYA RAMESH / Organizer, TOM OKADA / Press, LUISA MARTEL / Attendee, DANIEL KIM / Volunteer. Crop marks at the sheet corners. Even soft studio light, no glare, every line of type crisp and correctly spelled.
 
@@ -1187,7 +1187,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Isolated Brass Desk Lamp Cutout
 
-![Isolated Brass Desk Lamp Cutout](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_003.png)
+![Isolated Brass Desk Lamp Cutout](images/f12d2094226535-d4decefd9cbb5b94.webp)
 
 A single mid-century brass desk lamp with an articulated arm and a perforated dome shade, photographed as a product cutout on a fully transparent background. Three-quarter view, shade tilted slightly toward the camera. Soft top-left key light with a subtle rim highlight along the arm; visible material detail in the brushed brass and the woven cloth cord. Edges must be clean and anti-aliased around the thin arm, the cord and the perforations, with no halo, no drop shadow and no background fill. PNG with alpha.
 
@@ -1195,7 +1195,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Sticker Pack Of Six Kitchen Tools
 
-![Sticker Pack Of Six Kitchen Tools](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_004.png)
+![Sticker Pack Of Six Kitchen Tools](images/38d41c24993b59-3949ef3609bfb499.webp)
 
 Six flat-illustration kitchen tool stickers arranged in two rows of three on a fully transparent background: a copper whisk, a wooden rolling pin, a cast-iron skillet, a citrus juicer, a pepper grinder and a stand mixer. Each has the same 6px warm-white die-cut outline and a soft interior shadow, drawn in a limited palette of terracotta, sage and cream with subtle paper-grain texture. Even spacing, consistent scale, no background, no cast shadows outside the outlines. PNG with alpha.
 
@@ -1203,7 +1203,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Coffee Brewing Ratio Wall Chart
 
-![Coffee Brewing Ratio Wall Chart](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_005.jpg)
+![Coffee Brewing Ratio Wall Chart](images/d95ed6bddfe0de-998e7ff319118992.webp)
 
 A printed kitchen wall chart titled "POUR-OVER RATIOS" in bold slab serif, on warm off-white paper with a thin charcoal border. Three labelled columns compare brew strengths: LIGHT (1:17, 20 g coffee, 340 g water), STANDARD (1:16, 22 g coffee, 352 g water), STRONG (1:15, 24 g coffee, 360 g water). Below the columns, a four-step timeline with small line icons and captions: 0:00 BLOOM 50 g, 0:45 FIRST POUR, 1:30 SECOND POUR, 3:00 DRAWDOWN. A small footnote reads "Water 94-96 C · Medium grind". Flat editorial illustration style, muted terracotta and charcoal on cream, every number legible and consistent with its ratio.
 
@@ -1211,7 +1211,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Three-City Rail Journey Map
 
-![Three-City Rail Journey Map](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_006.jpg)
+![Three-City Rail Journey Map](images/67f3a46dd5574c-295d98f13454d958.webp)
 
 A clean schematic rail journey graphic on a pale ivory background. A single horizontal route line runs left to right with three station nodes labelled LISBON, PORTO and BRAGA, each node a ringed dot with a small platform icon. Under each node: departure and arrival times (LISBON 08:15, PORTO 11:02 / 11:20, BRAGA 12:41) and a duration pill on each segment reading 2h 47m and 1h 21m. Along the bottom, a three-item legend with square swatches: EXPRESS (deep blue), REGIONAL (light blue), TRANSFER (dashed grey). Swiss-style typography, generous whitespace, no overlapping labels, all times and durations arithmetically consistent.
 
@@ -1219,7 +1219,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Risograph Poster Of A Night Market
 
-![Risograph Poster Of A Night Market](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_007.jpg)
+![Risograph Poster Of A Night Market](images/783a5f20488034-40c56131c9c19a48.webp)
 
 A two-colour risograph-style poster of a night market street, printed in fluorescent pink and teal on uncoated cream stock. Stalls recede into the distance under strings of bulbs; a vendor ladles broth into a bowl in the foreground. Deliberate 2mm ink misregistration on the pink plate, visible paper tooth, ink mottling in the solid areas and a slightly starved roller streak across the top third. Hand-lettered title "NIGHT MARKET" runs vertically down the right edge in teal, with "FRI-SUN · 6PM TILL LATE" in small caps at the bottom. Flat shapes, halftone shading, no gradients, no gloss.
 
@@ -1227,7 +1227,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Technical Blueprint Of A Folding Bicycle
 
-![Technical Blueprint Of A Folding Bicycle](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_008.jpg)
+![Technical Blueprint Of A Folding Bicycle](images/0ae5328ba62300-69a83a46ebb937a2.webp)
 
 A technical blueprint of a folding commuter bicycle on deep cyanotype blue paper with white line work. Three orthographic views arranged in a grid: side elevation (folded), side elevation (unfolded) and top view. Thin white dimension lines with arrowheads and metric callouts (WHEELBASE 1010 mm, FOLDED 780 x 650 x 320 mm, FRAME 6061-T6). Six numbered leader lines point to components with a matching parts key in the lower right: 1 HINGE CLAMP, 2 SEAT POST, 3 CHAIN TENSIONER, 4 FOLDING PEDAL, 5 REAR RACK, 6 QUICK RELEASE. Title block in the bottom right reads "FOLDING BICYCLE — REV C". Uniform stroke weights, no shading, no perspective.
 
@@ -1235,7 +1235,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Farmers Market Flyer Template
 
-![Farmers Market Flyer Template](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_009.jpg)
+![Farmers Market Flyer Template](images/fdd14eb50ed07b-343d5fba54a54e98.webp)
 
 A portrait A4 flyer for a farmers market, illustrated in warm gouache. Top third: hand-lettered headline "RIVERSIDE FARMERS MARKET" over a loose watercolour banner. Middle: an illustrated basket of leeks, plums, sourdough and a jar of honey. Lower third, arranged as three tidy blocks of text: "EVERY SATURDAY · 7AM-1PM", "MILLBROOK GREEN, RIVERSIDE", and a four-line vendor list reading Fenn Farm Produce, Ashby Bakehouse, Copper Hive Honey, Two Rivers Cheese. A small footer line reads "Free entry · Dogs welcome · Cash and card". Cream paper, terracotta and olive palette, clear typographic hierarchy, all text sharp and correctly spelled.
 
@@ -1243,7 +1243,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Band Merch Tee Layout
 
-![Band Merch Tee Layout](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_010.jpg)
+![Band Merch Tee Layout](images/73d74cd21c34a3-dcf85037304226f0.webp)
 
 A flat-lay photograph of a heather-grey cotton t-shirt on a concrete surface, with a screen-printed graphic centred on the chest. The graphic: a linocut-style crescent moon over a mountain ridge in a single cream ink, encircled by curved text reading "THE LONG QUIET" above and "AUTUMN TOUR 2026" below. A small four-city list is printed on the left sleeve in tiny caps: OSLO, LEEDS, GENT, PORTO. Visible ink texture and slight halftone break-up where the print crosses the fabric weave, soft daylight from the left, gentle fabric wrinkles, no mockup gloss or watermark.
 
@@ -1251,7 +1251,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Ceramic Pour-Over Set On Travertine
 
-![Ceramic Pour-Over Set On Travertine](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_011.jpg)
+![Ceramic Pour-Over Set On Travertine](images/038b5f7bc399d7-184461d59cfbeeb7.webp)
 
 A commercial still life of a matte-white ceramic pour-over dripper and carafe set on a honed travertine slab, shot with a 100mm macro at f/8. Single large softbox from the upper right creating a long soft gradient across the ceramic, plus a narrow strip reflector on the left to lift the shadow side. A thin ribbon of steam rises from the carafe. Loose coffee grounds and one whole bean sit in the foreground, slightly out of focus. Background is a seamless warm-grey sweep. Rich material separation between the chalky ceramic glaze, the porous stone and the glossy coffee surface; no clipped highlights, no visible reflector edges.
 
@@ -1259,7 +1259,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Skincare Bottle With Water Crown
 
-![Skincare Bottle With Water Crown](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_012.jpg)
+![Skincare Bottle With Water Crown](images/71096fa54ca59c-32d574dee2c0f040.webp)
 
 A frosted glass serum bottle standing in a shallow pool of water, photographed the instant a droplet impact throws a symmetrical water crown around its base. The minimal label reads "AURELE" in thin caps with "HYDRATING SERUM · 30 ML" beneath. Backlit with a hard rim light that catches every droplet, cool blue-green palette, black background, 1/8000s freeze so individual droplets are sharp. Slight caustic light patterns on the surface under the bottle. The label stays perfectly legible and undistorted through the frosted glass.
 
@@ -1267,7 +1267,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Napkin Sketch To Finished Interior
 
-![Napkin Sketch To Finished Interior](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_013.jpg)
+![Napkin Sketch To Finished Interior](images/3285984297eeb5-9d49f32fc7abd555.webp)
 
 Interpret this rough napkin sketch as the layout guide for a finished photograph, keeping the drawn arrangement but rendering it photorealistically: a narrow attic reading nook with a dormer window on the left, a built-in bench under the window with three cushions, floor-to-ceiling bookshelves on the right wall, and a low round table in the centre. Late afternoon sun rakes through the dormer and lands on the bench. Warm oak, off-white plaster, one deep green cushion for accent. Keep the sketched proportions and the position of every element; add realistic materials, contact shadows and dust in the light beam. 35mm, eye level from the doorway.
 
@@ -1275,7 +1275,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Doodle Creature As Vinyl Toy
 
-![Doodle Creature As Vinyl Toy](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_014.jpg)
+![Doodle Creature As Vinyl Toy](images/134182b8e79d9e-9bc5ad220a03b62d.webp)
 
 Treat this crude marker doodle as the character design brief and render it as a photographed vinyl collectible toy: a round-bodied creature with three stubby legs, one oversized eye, a small dorsal fin and a lopsided grin. Soft matte vinyl in mint green with a glossy amber eye and cream belly, visible seam lines and a small copyright stamp under one foot. Standing on a white acrylic riser against a pale grey backdrop, three-point studio lighting with a soft top highlight along the crown. Keep the doodle's proportions and asymmetry exactly, including the uneven legs.
 
@@ -1283,7 +1283,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Studio Portrait For Reference Chains
 
-![Studio Portrait For Reference Chains](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_015.jpg)
+![Studio Portrait For Reference Chains](images/e56a37a3c264ae-dad990debce76409.webp)
 
 A studio portrait of a woman in her early thirties with shoulder-length dark curly hair, warm brown eyes, a small mole above her left eyebrow and light freckles across the nose. Neutral expression, head and shoulders, facing the camera straight on. Charcoal crew-neck sweater. Even beauty lighting: large softbox front-left, subtle fill on the right, faint hair light from behind. Seamless light-grey background, 85mm at f/4, natural skin texture with pores and fine lines retained, no retouching, no makeup styling. Sharp, evenly exposed, suitable for use as a reference photograph.
 
@@ -1291,7 +1291,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Product Hero For Variant Sets
 
-![Product Hero For Variant Sets](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_016.jpg)
+![Product Hero For Variant Sets](images/c32a2cfe1b2aa1-df41c5f3e51a40c8.webp)
 
 A hero product photograph of a matte black insulated water bottle with a bamboo lid and a thin copper band below the collar, standing dead centre on a seamless mid-grey background. Straight-on eye-level view, bottle perfectly vertical, subtle gradient softbox from above and behind creating a clean vertical highlight down the left side and a soft contact shadow at the base. Brand mark is a small embossed circle, no printed text. Colour-accurate, no colour cast, no props, generous margin around the subject so it can be recomposed later.
 
@@ -1299,7 +1299,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Museum Exhibition Wall Panel
 
-![Museum Exhibition Wall Panel](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_017.jpg)
+![Museum Exhibition Wall Panel](images/bed7aa2753973c-9c9ae176e15585be.webp)
 
 A photograph of a museum exhibition wall panel mounted on a pale limewash wall, lit by a warm track spot from above. The panel is a matte white board with four clearly separated typographic zones: the heading "TIDE AND STONE" in large light-weight serif caps; a subheading "Coastal engineering on the Atlantic edge, 1890-1935"; a three-paragraph body text block in small serif type, justified, roughly 90 words; and at the bottom, a caption in italic reading "Photograph: harbour works at Peniche, 1911" followed by a credit line in tiny caps "COLLECTION OF THE MARITIME ARCHIVE". Slight panel shadow on the wall, faint wall texture, all type crisp and hierarchically correct.
 
@@ -1307,7 +1307,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Ukiyo-e Print Of A Container Port
 
-![Ukiyo-e Print Of A Container Port](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_018.jpg)
+![Ukiyo-e Print Of A Container Port](images/f36a327a1410a5-99d91628b695c1c6.webp)
 
 A woodblock print of a modern container port rendered in classical ukiyo-e idiom: flat colour fields, visible woodgrain in the sky, keyblock outlines and a bokashi gradient at the horizon. Gantry cranes stand like torii over stacked containers; a container ship rides a stylised wave with clawed foam crests; Mount Fuji is replaced by a distant cooling tower plume. Palette limited to indigo, ochre, oxidised red and paper cream. A rectangular cartouche in the upper right holds vertical title text, and a small circular publisher's seal sits in the lower left. Aged paper with foxing at the edges, no photographic shading or perspective.
 
@@ -1315,7 +1315,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Bicycle Tyre Pressure Reference Card
 
-![Bicycle Tyre Pressure Reference Card](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_019.jpg)
+![Bicycle Tyre Pressure Reference Card](images/753aadb708df01-96909dea1b3fadf2.webp)
 
 A pocket-sized reference card titled "TYRE PRESSURE" printed on stiff cream card, photographed flat with a soft shadow. A four-row table with columns TYRE WIDTH / PSI / BAR / SURFACE: 25 mm, 95 psi, 6.5 bar, Road; 32 mm, 70 psi, 4.8 bar, Mixed; 40 mm, 45 psi, 3.1 bar, Gravel; 50 mm, 30 psi, 2.1 bar, Trail. Thin rules between rows, a small pressure-gauge line icon in the header, and a footnote reading "For 75 kg rider · reduce 5 psi front". Two-colour print in ink blue and warm red on cream, condensed grotesque type, every figure legible and each psi-to-bar pair correctly converted.
 
@@ -1323,7 +1323,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Bakery Packaging Set Flat Lay
 
-![Bakery Packaging Set Flat Lay](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_020.jpg)
+![Bakery Packaging Set Flat Lay](images/1dc3970c6318ab-d60794dbe4b9ca94.webp)
 
 An overhead flat lay of a small bakery's packaging family on a flour-dusted steel table: a kraft paper bread bag, a folded pastry box, a round sticker sheet and a ribbed paper cup with a lid. All four carry the same identity: a two-line wordmark reading "MERIDIAN" over "BAKEHOUSE" in a warm ink brown, a wheat-ear monogram, and a thin double rule. The bread bag also shows an ingredient line in small type. Consistent logo scale relative to each surface, correct wrap and distortion on the cup's curve, soft north-facing window light, a scatter of flour and two rye ears as props.
 
@@ -1331,7 +1331,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Swap The Sofa, Keep The Room
 
-![Swap The Sofa, Keep The Room](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_021_after.jpg)
+![Swap The Sofa, Keep The Room](images/c5d7f39da63687-20c111ddb1399575.webp)
 
 Replace only the cream boucle sofa with a dark forest-green velvet chesterfield of the same three-seat footprint, matching the original camera angle and perspective. Keep everything else in the frame exactly as it is: the coffee table and the two books, the ceramic vase, the fig tree, the floorboards, the window and the direction and softness of the light. Rebuild the contact shadow and the ambient occlusion under the new sofa so it sits in the same place on the floor, and let the green velvet pick up the same cool light from the window.
 
@@ -1339,7 +1339,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Change The Label Copy Only
 
-![Change The Label Copy Only](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_022_after.jpg)
+![Change The Label Copy Only](images/64d83ff5ab4aa8-84fd04a0e524f7ec.webp)
 
 Change only the printed copy on the label: the wordmark should now read "NORTHSIDE" over "CEDAR & LIME · 30 ML", keeping the exact same typeface, weight, letter-spacing, colour and position on the label. Do not alter the bottle, the dropper cap, the label paper texture, the moisture droplets, the slate surface, the shadow direction or the background. The new text must follow the same slight curve of the label around the glass.
 
@@ -1347,7 +1347,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Remove The Bystander Cleanly
 
-![Remove The Bystander Cleanly](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_023_after.jpg)
+![Remove The Bystander Cleanly](images/f9c8d43b0ea2cd-1c1e297bf0fb0646.webp)
 
 Remove the man in the red windbreaker entirely and reconstruct what was behind him: continue the cast-iron railing with the same rhythm of balusters and the same worn paint, extend the sea and horizon line at the correct height, and complete the granite paving with plausible wear and joint lines. Remove his shadow from the paving as well. Leave the rest of the photograph, the sun direction, the colour grade and the grain untouched.
 
@@ -1355,7 +1355,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Add Signage Without Drift
 
-![Add Signage Without Drift](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_024_after.jpg)
+![Add Signage Without Drift](images/5186c9b2de5d5b-85845d8e331ed5f8.webp)
 
 Add a hand-painted sign board above the windows reading "CORNER & CO" in cream serif caps on the teal facade, with a smaller line beneath reading "COFFEE · PASTRIES". Match the facade's existing paint sheen and the flat overcast lighting, and add the faint shadow the board casts on the wall. Everything already in the photograph must stay pixel-consistent: the brass window frames, the awning, all four chairs and both tables, the bicycle and lamppost, the cobbles and the colour grade.
 
@@ -1363,7 +1363,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Restyle The Season Only
 
-![Restyle The Season Only](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_025_after.jpg)
+![Restyle The Season Only](images/3667c035d7f1a6-b39e761407b3b1a0.webp)
 
 Change only the season and weather to a still winter morning after fresh snow: snow on the slate roof, the wall copings and the gravel path, bare stems where the climbing rose was, frost on the grass, and a cold overcast sky with a low pale sun. Keep the cottage's architecture, proportions, stonework, the blue door and both sash windows, the dry-stone wall, the iron gate and the exact camera position and framing identical to the original. No new objects, no footprints, no smoke.
 
@@ -1371,7 +1371,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## Same Subject, New Setting
 
-![Same Subject, New Setting](https://static.atlascloud.ai/prompt/gpt-image-2-5/gi25_026_after.jpg)
+![Same Subject, New Setting](images/252e4c5fca43e2-24eca0cb65a263b0.webp)
 
 Place this same man in a new setting without changing who he is: standing at a workbench in a timber workshop at the end of the day, low warm sun coming through a dusty window on the right and rim-lighting the left side of his face, sawdust in the air, hand planes and offcuts softly out of focus behind him. Three-quarter view, waist up, 50mm at f/2. Preserve his facial structure, the beard pattern, the eyebrow scar, the hairline and his skin texture exactly; only the environment, pose, wardrobe wear and lighting change.
 
@@ -1379,7 +1379,7 @@ Model: GPT Image 2 | Author: Atlas Cloud | [Source](https://github.com/AtlasClou
 
 ## 实物与手绘涂鸦创意广告
 
-![实物与手绘涂鸦创意广告](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/019-imported-.png)
+![实物与手绘涂鸦创意广告](images/c8c3d81d6f8e16-9fa02997db2c76d9.webp)
 
 一则简约且富有创意的商品广告，纯白背景。一台真实的复古胶片相机与手绘黑色墨水涂鸦相结合，线条松散而俏皮：涂鸦小人正用小推车搬运胶卷、踮脚给相机喂一颗齿轮形状的糖，一只涂鸦小鸟停在闪光灯上梳理羽毛。画面上方加入粗体黑色广告文案「拍下生活的每一格」，底部放置简洁的「菲林社 FILM CLUB」文字标志与一个小太阳图形。视觉效果简洁、有趣、高对比度，构思巧妙。
 
@@ -1387,7 +1387,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 黑白肖像艺术
 
-![黑白肖像艺术](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/020-imported-.png)
+![黑白肖像艺术](images/e99567fe5196f8-5d848500778c48b8.webp)
 
 高分辨率的黑白肖像艺术作品，编辑类与艺术摄影风格。背景为柔和渐变，从中灰过渡到近乎纯白，营造层次与寂静氛围；细腻的胶片颗粒质感增添模拟摄影般的柔和质地。画面右侧，一位戴圆框眼镜的年轻魔法学者的面容从阴影中隐约浮现——并非传统摆拍，而是被捕捉于思索或呼吸之间的瞬间。脸部只露出一部分：一只眼睛、一块颧骨和唇角的轮廓，唤起神秘、亲密与优雅之感。额前一缕凌乱碎发，五官精致深刻，散发忧郁与诗意之美。高对比侧光勾勒轮廓，其余隐入深灰。
 
@@ -1395,7 +1395,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 磨砂玻璃后的虚实对比剪影
 
-![磨砂玻璃后的虚实对比剪影](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/021-imported-.png)
+![磨砂玻璃后的虚实对比剪影](images/11d5798c5c9c90-e3607a8829e3b065.webp)
 
 一张黑白照片：一只柯基犬在磨砂玻璃后的模糊剪影。它紧贴玻璃的鼻尖与一只立起的耳朵轮廓格外清晰，与其余朦胧虚化的身形形成鲜明对比。背景为柔和的灰色渐变色调，增强神秘与艺术氛围，3:2 横构图。
 
@@ -1403,7 +1403,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 三只动物与地标自拍
 
-![三只动物与地标自拍](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/022-imported-.png)
+![三只动物与地标自拍](images/2c41efaffc7b2c-79968777fa4d8c31.webp)
 
 三只动物——柴犬、橘猫和小熊猫——在埃菲尔铁塔前的特写自拍照，表情各异，拍摄于黄金时刻，电影般的灯光。它们头挨着头凑近镜头模仿自拍姿势，分别展现喜悦、惊讶和平静的表情。背景呈现铁塔完整的铁艺网格细节，天空泛着暖橙与淡粉，光线柔和温暖。摄影感、写实卡通风格，高细节，1:1 宽高比。
 
@@ -1411,7 +1411,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 品牌化键盘键帽
 
-![品牌化键盘键帽](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/023-imported-.png)
+![品牌化键盘键帽](images/53c6288022c450-b4a5bcaf0b5409e1.webp)
 
 超逼真的 3D 渲染图：四个机械键盘键帽排成紧密的 2x2 网格，彼此相触，等轴测视角。一个键帽为透明材质，上面印着红色的「{run}」字样；另外三个键帽分别为黑色、紫色和白色，其中一个印有虚构开源社区「DevHub」的小猫章鱼圆形 logo，另外两个分别雕刻着「{build}」和「{it}」。逼真的塑料纹理，圆润的雕刻键帽，柔和的阴影，干净的浅灰色背景。
 
@@ -1419,7 +1419,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 镀铬emoji徽章
 
-![镀铬emoji徽章](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/024-imported-emoji.png)
+![镀铬emoji徽章](images/b7f19fe7e8f823-623e0effb40ee42a.webp)
 
 高精度 3D 渲染：一枚金属质感徽章，主体是立体圆润的⭐星星 emoji 造型，超光滑镀铬质感，固定在竖直的商品展示卡上，风格化的未来主义设计，柔和反光与干净阴影。纸质卡片顶部中央带一个冲切欧式挂孔，徽章上方是醒目标题「STAR POWER」，下方配趣味标语「Shine on, you crazy pixel!」。背景柔和灰色，柔光摄影棚灯光，极简风格。
 
@@ -1427,7 +1427,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 儿童涂色页插画
 
-![儿童涂色页插画](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/025-imported-.png)
+![儿童涂色页插画](images/74915ebf7e14c0-a3e39e8d337d30c7.webp)
 
 一张黑白线描涂色插画，适合直接打印在标准 A4 纸上，无纸张边框。整体风格清新简洁，使用清晰流畅的黑色轮廓线条，无阴影、无灰阶、无颜色填充，背景纯白，便于涂色。适合人群：6-9 岁小朋友。画面描述：一只微笑的独角兽在森林草地上漫步，鬃毛随风飘动，周围有蘑菇、蝴蝶和矮树丛，阳光明媚，蓝天上飘着两朵云。请在画面右下角以小尺寸生成这幅画的完整彩色版本，作为涂色参考。
 
@@ -1435,7 +1435,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 字母与单词含义融合
 
-![字母与单词含义融合](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/026-imported-.png)
+![字母与单词含义融合](images/7ae12551334c20-1d8e3c8a837edf09.webp)
 
 创作一幅字体设计插画：将图形与字母巧妙融合，让单词的含义长在字形里。单词：{grow}——字母 g、r、o、w 的笔画延伸出藤蔓、新芽与叶片，「o」化为一棵树冠饱满的小树，字母整体保持清晰可读。单词下方加一行简短中文说明：「生长：让字母自己长成一片森林」。
 
@@ -1443,7 +1443,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 双重曝光
 
-![双重曝光](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/027-imported-.png)
+![双重曝光](images/7cd9808df4fde9-3eeb694275743bf5.webp)
 
 双重曝光艺术杰作：一位身披旧斗篷的巡林人侧影，与他记忆中的故乡山野和谐交织——沐浴阳光的松林、锯齿状雪峰、一匹孤独穿过小径的马，都从他身形的纹理中向外延展，增添叙事与孤独的层次。剪影之外是干净的单色浅米背景，锐利对比将所有焦点吸引到层次丰富的双重曝光内部。大师级构图，8K 细节，2:3 竖构图。
 
@@ -1451,7 +1451,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 超现实交互场景
 
-![超现实交互场景](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/028-imported-.png)
+![超现实交互场景](images/f227ecff148faf-41fe0a400c327529.webp)
 
 一幅铅笔素描：一只以手绘素描风格绘制的狮子，正低头与一只以照片级全彩呈现的金鱼安静对视，金鱼悬浮在半空中的一颗水滴里。全彩的金鱼与素描的狮子、素描的背景形成超现实对比，仿佛色彩闯入了铅灰色的世界。纸面保留轻微铅笔肌理与橡皮擦拭痕迹。
 
@@ -1459,7 +1459,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 动物硅胶腕托
 
-![动物硅胶腕托](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/029-imported-.png)
+![动物硅胶腕托](images/adee9eeb605be9-98d81375b223fc73.webp)
 
 创建图片：一个可爱 Q 版的硅胶护腕托，外形基于🐼熊猫，采用柔软食品级硅胶材质，表面亲肤哑光质感，内部填充慢回弹棉。拟人化卡通风格，表情生动，双手张开趴在桌面上，呈现拥抱手腕的姿势，整体造型圆润软萌，黑白熊猫配色，治愈可爱，适合办公使用。白色纯色背景，柔和布光，产品摄影风格，45° 俯视视角，高清细节突出硅胶质感与舒适功能。
 
@@ -1467,7 +1467,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 发光线条解剖图
 
-![发光线条解剖图](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/030-imported-.png)
+![发光线条解剖图](images/93265d18bf4df3-b242e1665fa591bb.webp)
 
 一幅数字插画：一只信天翁的形态由一组发光、干净且纯净的蓝色线条勾勒而成，悬浮于深色背景之上，突出其形态与特征。翼部的骨骼结构通过红色光晕加以强调，表示这一部位的特殊意义。整体风格兼具教育性与视觉吸引力，如同某种先进的生物成像技术，画面右下角配小号标注文字「ALBATROSS · 翼骨结构」。
 
@@ -1475,7 +1475,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 特色城市天气预报
 
-![特色城市天气预报](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/031-imported-.png)
+![特色城市天气预报](images/0a16d7ebcdfd75-e362e03fe1110cb5.webp)
 
 以清晰的 45° 俯视角度展示一个等距微缩模型场景：上海东方明珠塔与外滩历史建筑群，多云天气效果巧妙融入场景，云影在楼宇间轻轻移动。使用基于物理的渲染（PBR）与逼真光照，纯色背景，居中构图，凸显三维模型精准细腻的美感。图片上方展示文字「上海 · 多云 20°C」，并附一朵云的天气图标。
 
@@ -1483,7 +1483,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 代码风格名片
 
-![代码风格名片](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/032-imported-.png)
+![代码风格名片](images/d96ab9b913f3fe-692c48d84ec81be3.webp)
 
 特写镜头：一只手正拿着一张设计成 VS Code 中 JSON 文件外观的名片，名片上的代码以真实的 JSON 语法高亮格式呈现。窗口界面包含典型的工具栏图标和标题栏，标题显示为 Business Card.json，整体风格与 VS Code 界面完全一致，背景略微虚化。名片上的 JSON 代码为：{ "name": "Lin Yao", "title": "Product Designer", "email": "lin@studio.design", "theme": "minimal", "mood": "curious" }
 
@@ -1491,7 +1491,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 乐高城市景观
 
-![乐高城市景观](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/033-imported-.png)
+![乐高城市景观](images/737aa21475af51-79ed49e827ece8a2.webp)
 
 创作一幅高度精细且色彩鲜艳的乐高版上海外滩景象。前景是经典的外滩历史建筑群，用乐高砖块精致还原西式与新古典主义立面，包括钟楼、穹顶与柱廊；乐高小人们沿江漫步、拍照、观光，街道旁停着经典样式的乐高汽车。中景是蓝色半透明乐高砖拼出的黄浦江，江上有乐高渡轮与游览船。对岸陆家嘴高楼林立：东方明珠塔、上海中心、金茂大厦等超现代乐高摩天楼色彩丰富、造型逼真。天空为乐高明亮蓝色，点缀白色积木云朵，午后阳光，等距俯视全景。
 
@@ -1499,7 +1499,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 水晶球故事场景
 
-![水晶球故事场景](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/034-imported-.png)
+![水晶球故事场景](images/c95e6507c11268-6d89f61ef720d419.webp)
 
 一枚精致的水晶球静静摆放在窗旁温暖的桌面上，背景虚化朦胧，暖色调阳光轻柔穿透球体，折射出点点金光，照亮微暗的空间。水晶球内部呈现一个以「嫦娥奔月」为主题的迷你立体世界：Q 版嫦娥衣袂飘飞奔向圆月，玉兔回头张望，云纹与桂花树环绕，细腻精美的 3D 景观，人物之间充满灵动的情感互动。整体氛围充满东亚奇幻色彩，魔幻现实主义质感，如诗如梦，华美典雅。
 
@@ -1507,7 +1507,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 怀旧动漫风格电影海报
 
-![怀旧动漫风格电影海报](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/035-imported-.png)
+![怀旧动漫风格电影海报](images/c9b10e864f50c0-c37da41d96bdf753.webp)
 
 一张复古老动漫风格的电影海报：史诗奇幻题材，画风类似 90 年代日本赛璐璐动画。海报上可见明显折痕，因长年反复折叠，褶皱处有物理性损伤与擦痕，部分颜色褪色；表面遍布无规律的折痕、翻折印记与划痕，如同岁月熵增不可逆的痕迹。然而画面本身始终鲜活：年轻剑士与巨龙在晚霞山谷中对峙，远方漂浮着古堡。凝视这张怀旧海报时，感受到的是被时间打磨却从未褪色的热爱。3:4 竖版。
 
@@ -1515,7 +1515,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Logo 形状创意书架
 
-![Logo 形状创意书架](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/036-imported-logo.png)
+![Logo 形状创意书架](images/caed28fe1524dc-558712c2fc188b0d.webp)
 
 拍摄一张现代书架的照片，造型灵感来源于无穷符号 ∞ 的形状：书架由流畅、互相连接的曲线构成，形成多个大小不一的分区。材质为光滑的哑光黑色金属，曲线内部设木质层板，柔和暖色的 LED 灯带勾勒内侧曲线轮廓。书架安装在中性色调的墙面上，摆放色彩丰富的书籍、小型绿植和极简风格艺术摆件。整体氛围富有创意、优雅且略带未来感。
 
@@ -1523,7 +1523,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 迷你赛博朋克移轴景观
 
-![迷你赛博朋克移轴景观](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/037-imported-.png)
+![迷你赛博朋克移轴景观](images/4a11d7e3bd4e5a-e66030c92a239563.webp)
 
 从上方俯瞰的超高细节迷你赛博朋克城市景观，采用倾斜移轴镜头效果。场景充满玩具般的元素：穿行的磁悬浮车、闪烁的霓虹招牌、高架小吃摊、晾衣杆上的机械鸟，全部以高解析度 CG 呈现。光线戏剧化，营造大片氛围，色彩鲜明对比强烈，强调景深效果与拟真微观视角，仿佛俯瞰一个玩具世界般的迷你现实，画面中埋藏大量视觉彩蛋与极具重复观看价值的细节。
 
@@ -1531,7 +1531,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 剪影艺术
 
-![剪影艺术](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/038-imported-.png)
+![剪影艺术](images/7a354bf7f727c5-84af1457f3938cbe.webp)
 
 一台复古黄铜单筒望远镜的基础轮廓剪影，纯黑色实心填充，背景为明亮的黄色。极简图形风格，边缘干净锐利，居中构图，无任何渐变与纹理。
 
@@ -1539,7 +1539,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 未来主义 Logo 交易卡
 
-![未来主义 Logo 交易卡](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/039-imported-logo.png)
+![未来主义 Logo 交易卡](images/e32475602cabac-3cb4ff92f2e204d5.webp)
 
 A futuristic trading card with a dark, moody neon aesthetic and soft sci-fi lighting. The card features a semi-transparent rounded rectangle with slightly muted glowing edges, appearing as if made of holographic glass. At its center floats the emblem of a fictional AI company: a minimalist geometric owl inside a hexagon, rendered in a cyan-to-violet gradient. The card top reads "NOCTUA LABS", the bottom reads "FOUNDER SERIES · 001". Subtle circuit traces and floating particles decorate the card. 3:2 landscape, ultra-detailed, premium collectible feel.
 
@@ -1547,7 +1547,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 超写实3D游戏角色怀旧场景
 
-![超写实3D游戏角色怀旧场景](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/040-imported-3d.png)
+![超写实3D游戏角色怀旧场景](images/7bf58f238bf8d2-3e38e08cbab0a601.webp)
 
 超写实的 3D 渲染画面：2008 年风格即时战略游戏的女主角「薇拉」，红色军装外套配贝雷帽，完全依照想象中的原版建模复刻。场景是昏暗杂乱的 2008 年代卧室：零食包装袋、汽水罐、游戏海报、纠缠在一起的电线。角色坐在地毯上，面对一台正在播放老游戏过场动画的显像管电视，手边是有线游戏手柄。她被抓拍到转头的一瞬，回眸看向镜头，标志性的空灵面容带着一抹纯真微笑，上半身微微扭转、动态自然。怀旧低饱和色调，轻微胶片颗粒，3:2 横构图。
 
@@ -1555,7 +1555,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 创意丝绸宇宙
 
-![创意丝绸宇宙](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/041-imported-.png)
+![创意丝绸宇宙](images/97c281f9499864-0474f5b3fb586a30.webp)
 
 将❄️雪花 emoji 变成一个柔软的 3D 丝绸质感物体：整个表面包裹着顺滑流动的丝绸面料，带有超现实的褶皱细节、柔和的高光与阴影。物体轻轻漂浮在干净的浅灰色背景中央，营造轻盈优雅的氛围。整体风格超现实、触感十足且现代，传递舒适与精致趣味。工作室灯光，高分辨率渲染，1:1。
 
@@ -1563,7 +1563,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 奇幻水下场景冰棒
 
-![奇幻水下场景冰棒](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/042-imported-.png)
+![奇幻水下场景冰棒](images/e736871e330a6c-161707dd91bf4f65.webp)
 
 倾斜的第一人称视角：一只手握着一支超现实冰棒。透明的蓝色冰壳里封存着一个微型水下世界——小潜水员、几条小鱼、漂浮的气泡和翻滚的海浪，一根绿色冰棒棍贯穿中心。冰棒略微融化，一滴水正顺着木棍滑落。背景是柔焦的上海梧桐区街景，高端产品摄影风格，3:4 竖版。
 
@@ -1571,7 +1571,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 蒸汽朋克机械鱼
 
-![蒸汽朋克机械鱼](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/043-imported-.png)
+![蒸汽朋克机械鱼](images/049a46c202a533-58051cec48ec339f.webp)
 
 一只蒸汽朋克风格的机械鱼：黄铜身体，清晰可见游动时联动的机械齿轮结构。能略微看到它的机械牙齿，整齐紧闭，每颗牙齿呈三角状，材质如金刚石。尾鳍为金属丝编织结构，其余鱼鳍是半透明的琥珀色玻璃，内含不明显的微小气泡。眼睛是多面切割的红宝石，清晰反射温润光泽。鳃后有一块蚀刻铭牌「FM-7」。正方形画面，鱼的全身居中，鱼头朝右，深色木纹背景，博物馆级静物布光。
 
@@ -1579,7 +1579,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Emoji 奶油雪糕
 
-![Emoji 奶油雪糕](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/044-imported-emoji.png)
+![Emoji 奶油雪糕](images/a178f1970eb5ed-a9e0a1f63c517f9f.webp)
 
 生成图片：将🍓变成一根奶油雪糕，奶油在雪糕顶部呈丝滑曲线流动，看起来美味可口，45° 悬浮在空中，Q 版 3D 可爱风格，与草莓色系一致的纯色背景，柔和影棚光，1:1。
 
@@ -1587,7 +1587,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 虚构推文截图
 
-![虚构推文截图](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/045-imported-.png)
+![虚构推文截图](images/187a11118b8a36-c7a927f47745b58a.webp)
 
 一张超写实的推文截图：一位酷似老照片中的相对论提出者——白发乱蓬蓬、蓄着小胡子的虚构物理学家「A. Einsteinstein」——刚完成毕生研究后发的推文。配图是自拍：背景里清晰可见写满潦草公式的黑板，他对镜头俏皮地吐舌头。推文文案：「E=mc²，就这么简单。」下方显示点赞来自「N. Teslawicz」，并附一条傲娇评论：「又偷用我交流电的灵感？ ;)」界面细节逼真，浅色模式。
 
@@ -1595,7 +1595,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Emoji 簇绒地毯
 
-![Emoji 簇绒地毯](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/046-imported-emoji.png)
+![Emoji 簇绒地毯](images/e6ab3b70eac96b-03aa683a626a8d64.webp)
 
 创建一张图像：一块彩色手工簇绒地毯，形状为🦖恐龙 emoji，铺设在简约的木地板上。地毯设计大胆俏皮，柔软蓬松的质感配粗线条细节，绿色为主、奶白点缀。从上方俯拍，自然光照，整体风格略带古怪的 DIY 手作美感——类似手工簇绒艺术地毯，边缘绒线微微翘起。
 
@@ -1603,7 +1603,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 彩色矢量艺术海报
 
-![彩色矢量艺术海报](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/047-imported-.png)
+![彩色矢量艺术海报](images/c67d4a809191a7-6fc44fd554222e85.webp)
 
 生成一张夏季主题的彩色矢量艺术海报，地点是英国伦敦：画面为扁平几何风格的伦敦地标——塔桥、大本钟、红色电话亭与双层巴士，云朵与海鸥点缀，色彩明快。海报顶部有大字标题「LONDON」，下方较小标题「UNITED KINGDOM」，底部一条细线与小字「SUMMER TRAVEL SERIES」。
 
@@ -1611,7 +1611,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 云彩艺术
 
-![云彩艺术](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/048-imported-.png)
+![云彩艺术](images/f25db682e0d887-bbf3412632001efa.webp)
 
 生成一张白天拍摄的照片：天空中散落的云朵恰好组成一只正在遨游的巨型抹香鲸的形状，位于青海湖上空。湖面平静如镜倒映着鲸状云影，几只水鸟掠过水面。自然纪实摄影风格，广角构图，空气通透，光线柔和。
 
@@ -1619,7 +1619,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 8位像素图标
 
-![8位像素图标](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/049-imported-8.png)
+![8位像素图标](images/ab3b36b3b065e1-e1f8850f839d562a.webp)
 
 创建一个极简主义的 8 位像素风格🍔汉堡图标，居中放置在纯白背景上。使用有限的复古调色板（番茄红、芥末黄、生菜绿、面包棕），像素化细节、锐利边缘和干净的块状形态。图标简洁、具有标志性，在像素艺术风格中清晰可辨——灵感来自经典街机游戏美学，1:1。
 
@@ -1627,7 +1627,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 迷你 3D 建筑
 
-![迷你 3D 建筑](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/050-imported-3d.png)
+![迷你 3D 建筑](images/d725361b9029d0-7124ec02c821ef38.webp)
 
 3D Q 版迷你风格：一座奇趣的迷你咖啡店「云朵咖啡」，外观是一个巨大的外带咖啡杯造型，带杯盖和吸管，杯身印着小小的云朵 logo。建筑共两层，大大的玻璃窗展示出内部温馨精致的装修：木质家具、温暖的灯光、忙碌的咖啡师。街道上有可爱的小人偶漫步或小坐，四周布置长凳、街灯和植物盆栽，营造迷人的城市一角。城市微缩景观风格，细节丰富逼真，午后柔和光线，等距视角。
 
@@ -1635,7 +1635,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 创意绿植花盆
 
-![创意绿植花盆](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/051-imported-.png)
+![创意绿植花盆](images/6472ba8ca82e7c-b3ad76f5048eccd9.webp)
 
 一张高质量照片：一个可爱的陶瓷柴犬形状花盆，釉面光滑，里面种满生机勃勃的多肉植物——尖刺的十二卷、莲座状的石莲花和精致的白色小花。花盆带一张友好的微笑面孔，放置在柔和的中性背景上，漫射自然光照明，展示细腻的釉面纹理与植物的色彩对比，构图简洁、极具简约风格。
 
@@ -1643,7 +1643,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## “极其平凡”的iPhone自拍
 
-![“极其平凡”的iPhone自拍](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/052-imported-iphone.png)
+![“极其平凡”的iPhone自拍](images/103da721c29893-933623d8ca93acb6.webp)
 
 画一张极其平凡无奇的 iPhone 自拍照：没有明确的主体或构图感，就像随手一拍的快照。照片略带运动模糊，店内灯光不均导致轻微曝光过度，角度尴尬、构图混乱，整体呈现刻意的平庸感——像从口袋里掏手机时不小心拍到。主角是两个虚构的年轻男生，夜晚站在香港维多利亚港旁，身后是会展中心和对岸的万家灯火。
 
@@ -1651,7 +1651,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## Emoji 充气感靠垫
 
-![Emoji 充气感靠垫](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/053-imported-emoji.png)
+![Emoji 充气感靠垫](images/aa16a12ff1afbf-40ae7beac8915e16.webp)
 
 创建一个高分辨率的 3D 渲染图：将🥹设计成一个充气鼓胀的靠垫物体，形状柔软、圆润、充满空气，类似毛绒气球或充气玩具。使用光滑哑光材质，带细微布料折痕和缝线以强化充气效果；整体形态略不规则、柔软塌陷，配柔和阴影与软光照突出体积感与真实感。置于干净简约的浅灰蓝色背景上，风格俏皮而具雕塑感。
 
@@ -1659,7 +1659,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 纸艺风格 Emoji 图标
 
-![纸艺风格 Emoji 图标](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/054-imported-emoji.png)
+![纸艺风格 Emoji 图标](images/f69b506913d1c4-a271803486733451.webp)
 
 一个纸艺风格的🔥火焰 emoji 图标，漂浮在纯白背景上。这个表情符号由彩色剪纸手工制作而成，具有可见的纸张纹理、折痕和分层形状：橙红渐变的火苗用三层剪纸叠出立体感。它在下方投下柔和阴影，营造轻盈感与立体感。整体设计简洁、有趣、干净，图像居中，周围留白充分，柔和影棚光照突出纸张质感与边缘。
 
@@ -1667,7 +1667,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 护照入境印章
 
-![护照入境印章](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/055-imported-.png)
+![护照入境印章](images/83a354b6d0b544-d6a10740b6221c17.webp)
 
 创建一个逼真的护照内页，盖上一枚「北京，中国」入境章。章面以粗体英文写「WELCOME TO BEIJING」，圆形并带装饰性边框，含「ARRIVAL」字样和日期「2026-09-08」。章面背景融入故宫角楼轮廓的微妙水印细节。使用深蓝色油墨并略加晕染增强真实感，章面略微倾斜，如同手工压印。护照页清晰可见纸张纹理与安全底纹，页面上另有几枚其他国家风格的旧签证章作点缀。
 
@@ -1675,7 +1675,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 物理破坏效果卡片
 
-![物理破坏效果卡片](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/056-imported-.png)
+![物理破坏效果卡片](images/dabbeed1353b9b-744e8ff4c987fd67.webp)
 
 一幅超写实、电影感的插画：原创女冒险家「艾拉·石心」动态撞破一张「古墓探险」集换式卡牌的边框。她正处于绳索摆荡中，身穿冒险装备，双枪枪口的火焰震碎卡牌古老的石雕边框，破口周围产生可见的维度破裂效果——能量裂纹与空间扭曲，灰尘碎片四散飞溅。她的身体前冲带有明显的运动深度，突破卡牌平面；卡牌内部背景描绘茂密丛林遗迹与布满陷阱的古墓。卡牌碎屑、碎石、藤蔓和古钱币飞出卡外，散落在写实的木质桌面上，12:7 横版。
 
@@ -1683,7 +1683,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 时尚杂志封面风格
 
-![时尚杂志封面风格](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/057-imported-.png)
+![时尚杂志封面风格](images/db44aab63bb8cb-6ef6c5726f534b4d.webp)
 
 时尚杂志封面风格大片：一位东方女性身穿粉色改良旗袍，头戴精致花饰，秀发中点缀色彩缤纷的花朵，颈间装饰优雅的白色蕾丝领，一只手轻托着几只大型蝴蝶。整体高清细节质感，画面上方中央标有刊名文字「FASHION DESIGN」，背景为简约的纯浅灰色以突出人物主体，3:4 竖版。
 
@@ -1691,7 +1691,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 体素风格 3D 图标
 
-![体素风格 3D 图标](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/058-imported-3d.png)
+![体素风格 3D 图标](images/11b3378bb5d404-f5e880a8d0ce29a9.webp)
 
 将一台复古拍立得相机转换为体素（voxel）3D 图标：立方体素块拼出银灰色机身、彩虹条纹带与圆形镜头，方块之间有清晰的阶梯状体素过渡。Octane 渲染，8K 细节，柔和影棚光，浅灰背景，45° 等距视角，1:1 构图。
 
@@ -1699,7 +1699,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 键盘ESC键帽微型立体模型
 
-![键盘ESC键帽微型立体模型](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/059-imported-esc.png)
+![键盘ESC键帽微型立体模型](images/29e8a0d5151fd5-e6b40a5eafc9e22f.webp)
 
 一个超写实的等距视角 3D 渲染图：一个微型电脑工作空间被装在一个半透明机械键盘键帽内，键帽特别放置在一块哑光机械键盘的 ESC 键上。键帽内部，一个穿着舒适连帽衫的小人坐在人体工学椅上，专注面对发光的电脑屏幕工作；空间布满逼真的微型配件——真实材质台灯、带反光的显示器、微小扬声器格栅、缠绕的电缆和陶瓷杯。键帽底部由土壤、岩石和苔藓构成，照片级材质质感；内部光照模拟温暖的傍晚氛围，与冷色屏幕光形成对比。
 
@@ -1707,7 +1707,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 3D Q版大学拟人化形象
 
-![3D Q版大学拟人化形象](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/061-imported-3d-q.png)
+![3D Q版大学拟人化形象](images/74f3681649b5e9-6db98df608e7e550.webp)
 
 给西北工业大学画一个拟人化的 3D Q 版美少女形象，体现「航空航天航海」三航特色：深蓝色制服上绣有飞机、帆船与火箭纹样，肩上别着星舰形状的发卡，一只手托着小火箭模型，身后背景里有一艘掠过水面的帆船剪影与一道上升的航迹云。C4D 渲染，柔和渐变背景，3:4 竖版。
 
@@ -1715,7 +1715,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## RPG 风格角色卡片制作
 
-![RPG 风格角色卡片制作](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/062-imported-rpg.png)
+![RPG 风格角色卡片制作](images/20f83fdf38c872-b4281ee565c38392.webp)
 
 创建一张 RPG 收藏风格的数字角色卡。角色设定：程序员「阿澜」，自信站立，身边漂浮着迷你键盘、咖啡杯和一只机械小猫宠物。3D 卡通风格，柔和光照，个性鲜明。卡面添加技能条：Creativity +10、Debug +9、Coffee Tolerance +12。卡片顶部添加标题横幅「CODE WIZARD · SR」，底部放置角色名牌。卡片边框干净利落，如同真实的收藏公仔包装盒；背景为星空与代码雨，配色使用温暖高光与蓝紫色调。
 
@@ -1723,7 +1723,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 微型立体场景（西游主题）
 
-![微型立体场景（西游主题）](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/063-imported-.png)
+![微型立体场景（西游主题）](images/b8cc6cc2653a45-43e4ef34a917bd0c.webp)
 
 微型立体场景呈现：运用移轴摄影技法，呈现 Q 版【孙悟空三打白骨精】——抡起金箍棒的悟空、化作一缕青烟遁走的白骨精、躲闪的小妖，全部压缩在约 30 厘米宽的微缩台面上。黏土质感的迷你人物，微缩山石与云海布景，浅景深，暖色舞台灯光，细节丰富。
 
@@ -1731,7 +1731,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 奇幻卡通插画
 
-![奇幻卡通插画](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/064-imported-.png)
+![奇幻卡通插画](images/837aa451043882-c7c1f60d095b5795.webp)
 
 一个卡通风格的角色：头部是一台带着笑脸的老式 CRT 显示器，戴着白色手套和圆头靴子，正开心地跳跃穿过一个发光的蓝色圆形传送门，背景是郁郁葱葱的奇幻森林——高大的树木、发光蘑菇、鲜花、宁静的河流、漂浮的岛屿，以及悬着三个月亮的星夜天空。整体明亮鲜艳的色彩搭配柔和光效，奇幻插画画风，细节丰富。
 
@@ -1739,7 +1739,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 手绘信息图卡片（深度工作）
 
-![手绘信息图卡片（深度工作）](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/065-imported-.png)
+![手绘信息图卡片（深度工作）](images/62173e3e80048e-0d0f42963d01813b.webp)
 
 创作一张手绘风格的信息图卡片，9:16 竖版。卡片主题鲜明，背景为带纸质肌理的米白色，整体质朴、亲切。卡片上方以红黑相间、对比鲜明的大号毛笔草书突出标题「深度工作的四个习惯」。正文分为四个小节，每节一句精炼中文短语：① 给一天定一个「灯塔任务」；② 让手机住进抽屉；③ 90 分钟冲刺，20 分钟散步；④ 收工前写三行复盘。字体保持草书流畅的韵律感，清晰可读又富有艺术气息。点缀简单有趣的手绘插画：台灯、闹钟、打盹的小猫、茶杯。周边适当留白。
 
@@ -1747,7 +1747,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 柔和风格3D广告
 
-![柔和风格3D广告](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/066-imported-3d.png)
+![柔和风格3D广告](images/5c71341ca878e6-363c2c61364cce58.webp)
 
 一个柔和的 3D 卡通风格雕塑广告：虚构无线耳机品牌「AirPebble」，由光滑的粘土质感与鲜艳柔和的色彩制成。简约等距场景中，鹅卵石形状的充电盒半开，两枚耳机像小石子一样悬浮升起，旁边点缀真的鹅卵石与苔藓。构图简洁，光线柔和，阴影微妙，画面下方清晰显示产品 logo 与三词口号「小石头，大安静」。
 
@@ -1755,7 +1755,7 @@ Model: GPT Image 2.5 | Author: LaplaceYoung | [Source](https://github.com/Laplac
 
 ## 极简主义 3D 插画（Markdown 格式）
 
-![极简主义 3D 插画（Markdown 格式）](https://raw.githubusercontent.com/LaplaceYoung/awesome-gpt-image-2.5/65c2b1245be8f87221a01a3011008bd615b06ace/assets/generated/067-imported-3d-markdown.png)
+![极简主义 3D 插画（Markdown 格式）](images/3c0d65648405b5-fb12ab63a1c791c3.webp)
 
 画一个马桶，严格遵循以下 Markdown 风格规范：## 艺术风格：极简主义3D插画。### 造型语言：圆润的边缘、平滑柔和的外形，简化几何造型。### 色彩：主色调为柔和米色、浅灰色；强调色为暖橙色，用于焦点元素（按钮与水箱盖）；明暗为柔和渐变、平滑过渡，避免强烈阴影。### 构图：居中，背景纯净浅灰，等距视角，柔和摄影棚光。### 质感：哑光陶瓷触感，轻微颗粒噪点。
 
