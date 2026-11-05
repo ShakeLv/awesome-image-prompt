@@ -4,6 +4,8 @@ Image and prompt pairs with original author, source, actual generation model, re
 
 ## GPT Image 2.6 — current focus
 
+[21 complete image + full-prompt pairs, stored in this repository](GPT-IMAGE-2.6-FULL.md). Official model labels, native image hashes, MIT prompt-text attribution and per-item review retained. ProjectD publication is tracked separately.
+
 [Browse 50 source-linked 2.6 case groups (41 distinct prompt texts)](GPT-IMAGE-2.6.md). Includes exact prompt source links, pinned output images and API settings where available. These are indexed candidates; ProjectD import and publication are tracked separately.
 
 ## Initial ProjectD backfill
