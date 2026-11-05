@@ -1,0 +1,14 @@
+Scene:
+A square studio turnaround sheet presented exactly like the earlier images in the package: flat neutral board, precise layout grid, balanced margins, and soft top light with no dramatic shadows. The sheet should feel like the final approved page in the same production binder, keeping the same view order, spacing, and restrained document aesthetic.
+
+Subject:
+Use the reference as the primary character and proportion guide. Show the same courier heroine in four aligned full-body views on one sheet: front, forty-five-degree, side, and back, all in the same T-pose. She now wears a ceremonial harbor-uniform version of her gear: fitted teal parade coat with copper trim, rust sash folded into a disciplined geometric wrap, polished graphite shoulder hardware, harbor-signal pennant motifs reduced to abstract shapes, formal gloves, and the same mechanical left forearm integrated into a dress cuff with exposed amber slits still visible. Preserve the exact face, eyebrow notch scar, haircut, body proportions, and boot foundation from image 01, even though the costume is more formal and architectural.
+
+Important details:
+This image should prove that costume elevation does not break identity consistency. Keep the same cranial shape, chin line, shoulder width, knee height, and hand scale across all four views. The ceremonial design should remain believable for a working port authority rather than fantasy royalty. Include non-readable insignia blocks, a tick-mark ruler, and tidy accessory callouts for glove, clasp, and sash knot. Surfaces should feel premium and functional: heavy woven fabric, brushed metal, lacquered trim, and practical seam logic.
+
+Use case:
+Character Turnaround series study 4/8, testing whether the same character can survive a formal ceremonial redesign without losing industrial sheet precision.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no throne-room background, no fantasy crown, no different face, no ornate clutter overwhelming the sheet, no missing mechanical-arm cues, no inconsistent proportions between views.

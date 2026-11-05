@@ -1,0 +1,14 @@
+Scene:
+Create a square cinematic still for Cathedral Light Beam of Worship. Use production-grade photoreal lighting, disciplined lens behavior, and a composition that feels like a finished key frame from an original film rather than a casual snapshot. A vast Gothic nave is carved by one sharply defined shaft of early sun entering from high clerestory windows on the left, with cold blue shadows in the aisles, faint amber heat around the altar, and visibly suspended dust or incense in the air. Shift to an oblique or lateral point of view that reveals different depth layers while staying inside the same place and the same atmospheric event.
+
+Subject:
+Build a coherent original scene whose emotional center comes from atmosphere, light physics, and spatial clarity. Avoid relying on celebrity likeness, franchise iconography, or stylized illustration shortcuts. Stone columns, ribbed vaults, carved pews, a restrained altar glow, and a few worshippers or attendants in silhouette should define the human scale without turning the image into a crowd scene or ceremony spectacle. Hold the reference structure, but use the new angle to show secondary planes, foreground interruption, or a changed distance relationship.
+
+Important details:
+Preserve a believable physical world with strong depth layering, careful color separation, and premium image discipline. Treat the volumetric beam as the true protagonist, with physically coherent light falloff, believable bounce on worn stone, clean separation between shadow layers, and a solemn emotional register that feels sacred rather than theatrical. The success condition is continuity with the reference plus a richer sense of depth, not a new location or a new lighting system.
+
+Use case:
+Cathedral Beam series study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fantasy creatures, no electric stage lights, no readable scripture, no tourist clutter, no exaggerated stained-glass rainbows.

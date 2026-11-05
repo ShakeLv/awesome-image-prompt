@@ -1,0 +1,14 @@
+Scene:
+Create a square competition-style pastry studio photograph with one sculptural chocolate showpiece on a dark pedestal against a controlled neutral or black backdrop. Softbox reflections should skim the tempered surfaces with glass-like sharpness, while shadows stay deep and elegant. The object must feel large, balanced, and professionally lit, as if documented after winning a grand pastry prize. Maintain the exact pedestal height, camera distance, black studio depth, and softbox reflection structure from the reference image so the showpieces feel photographed under one competition setup. The mood should remain severe and elegant.
+
+Subject:
+Show a tall central spire of dark tempered chocolate surrounded by thinner feather-like blades and suspended circular elements that imply orbital motion. The sculpture should feel lighter and more vertical than the ribbon variation, with a disciplined mix of mirror-dark lacquer and selective gold leaf. Structural balance must remain convincing.
+
+Important details:
+Tempered chocolate realism is critical: mirror reflections, crisp edges, matte-to-gloss transitions, gold leaf, sugar accents, and structural balance all need to feel plausible. The sculpture can be impossible in composition, but never sloppy in craft. Every support point and reflection line should suggest deliberate pastry engineering. Preserve exact studio system and reflection logic from the reference model while shifting the geometry toward thin blades, slender spans, and vertical lift. Edge sharpness and support points are especially important so the sculpture does not feel digitally impossible.
+
+Use case:
+Chocolate lacquer sculpture series study 3/9, adapting the anchor showpiece into a slender spire and orbit structure.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no candy-bar packaging cues, no readable competition banners, no cartoon dessert palette, no smudged fingerprints, no cluttered workshop background, no broken thin elements, no decorative sugar confetti, no text signage.

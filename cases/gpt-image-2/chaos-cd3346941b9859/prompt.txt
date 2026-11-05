@@ -1,0 +1,14 @@
+Scene:
+A square concept-art turnaround sheet with the same straight-on studio presentation as the reference package: bright neutral board, disciplined margins, thin guide lines, and quiet document lighting. The sheet should feel functionally identical to image 01, as if the studio reused the same template for a new environmental variant. Keep the overall brightness and diagram clarity high so every silhouette edge is inspectable.
+
+Subject:
+Use the reference as the primary identity anchor. Show the same courier heroine in four matching views on one sheet: front, forty-five-degree, side, and back, all in the same T-pose and scale. Convert her outfit into a desert-scout kit while keeping face and proportions identical: light sand-colored overwrap over the cropped teal base jacket, rust cooling scarf, mesh underpanels, sun hood folded behind the neck, hydration canister on the lower back, dust gaiters clipped over the same boots, and the same mechanical left forearm now fitted with heat-shield plating and fine cable channels. Preserve the eyebrow scar, bob haircut, compact athletic build, and recognizable hardware placements from image 01.
+
+Important details:
+The challenge is controlled identity continuity under wardrobe transformation. Do not let the desert fabric change her body size, head shape, or limb length. Keep the same boot sole, glove length, belt position, and elbow placement across views. Add industrial-sheet details such as non-readable swatches, angle wedges, and small accessory insets for the hood and canister. Materials should feel plausible for heat, dust, and mobility: woven fabric, ceramic snaps, matte polymer tubing, and softly abraded metal.
+
+Use case:
+Character Turnaround series study 3/8, testing identity consistency and technical-sheet reasoning for a heat-adapted scout variant.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no action pose, no giant cape shape hiding anatomy, no changed hairstyle, no futuristic hologram UI, no mismatched boot design, no different person in any view.

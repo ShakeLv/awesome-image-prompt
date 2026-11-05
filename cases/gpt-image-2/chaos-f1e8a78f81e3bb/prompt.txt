@@ -1,0 +1,14 @@
+Scene:
+Create a square dependent campaign visual inside the same flagship holiday retail world, but frame it slightly closer and lower so the hamper reads as the hero deliverable. Keep the same amber store light, spruce-and-brass palette, frosted window glow, and premium merchandising calm established by the reference image. The camera should feel physically related to the anchor rather than like a different brand or a different store.
+
+Subject:
+Feature a structured premium hamper with layered compartments, wrapped jars, folded linens, candles, confectionery tins, and evergreen sprigs gathered into one impressive Christmas gift bundle. Preserve the exact wrapping materials, ribbon character, ornament language, and display logic from the reference model while changing the assortment and scale emphasis. The hamper must feel giftable, tactile, and sellable rather than decorative only.
+
+Important details:
+Preserve exact palette blocking, material hierarchy, lighting direction, prop grammar, and retail warmth from the reference image. Only change the gifting tier and composition emphasis. Keep the hamper architecture disciplined, with visible premium surfaces, believable packing logic, and enough negative space that the bundle can function as a hero ad image. The final result should look like a high-conversion seasonal merchandising asset, not a random holiday still life.
+
+Use case:
+Christmas Retail series study 2/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no unrelated toy props, no chaotic confetti, no crowd, no readable tags, no brand marks, no exaggerated fantasy snow, no color drift into neon.

@@ -1,0 +1,14 @@
+Scene:
+Create a square street-level storefront image at winter dusk with soft snowfall, wet pavement reflections, and a warm inviting interior glow. The scene should read like a premium retail exterior hero rather than a tourism postcard. Use composed architectural framing, disciplined contrast, and a cozy but upscale palette so the storefront can function as a campaign atmosphere image for holiday retail, loyalty messaging, or seasonal landing pages.
+
+Subject:
+Show a boutique storefront dressed for Christmas with curated window gifts, evergreen swags, hanging lights, and glimpses of wrapped products inside. Keep human presence minimal or absent so the merchandising remains central. The door, windows, display plinths, and reflected street surface should all support a believable premium retail story without drifting into fantasy village cliché or theme-park excess.
+
+Important details:
+Emphasize believable retail atmosphere: warm light spilling onto wet stone, careful window composition, tasteful ornament density, and products arranged with commercial clarity. Snow should support mood, not hide detail. Keep the scene highly usable as a retail-brand seasonal image, with realism in glass reflections, moisture, metal hardware, and the depth from exterior cold to interior warmth. Everything should feel sellable and grounded.
+
+Use case:
+Christmas Retail single study 6/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable store sign, no pedestrians blocking the window, no Santa character, no sleigh imagery, no cartoon reindeer, no oversized candy props, no branded shopfront, no excessive snowstorm blur.

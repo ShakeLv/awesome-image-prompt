@@ -1,0 +1,14 @@
+Scene:
+Create a square doorstep delivery scene at early evening with crisp cold air, soft porch lighting, and a premium residential threshold decorated for the holidays. The composition should feel like a finished campaign image about service and gifting convenience, not a candid documentary. Keep architecture tasteful, weather believable, and the package placement organized enough that the viewer reads reliable premium fulfillment at a glance.
+
+Subject:
+Feature two or three wrapped Christmas parcels at a decorated doorstep with evergreen wreath texture, subtle lantern light, and careful packaging details. The courier can be implied through placement and motion traces rather than shown directly. Focus on the parcels, the threshold, and the emotional promise of a well-delivered holiday gift experience rather than on people or branded logistics.
+
+Important details:
+Make the scene feel trustworthy, calm, and upscale. Cardboard, paper wrap, ribbon, stone steps, metal hardware, and evergreen should all have realistic material behavior. Keep the composition balanced and commercially useful for shipping messages, last-mile gifting ads, or service banners. The result should communicate seasonal convenience without slipping into generic stock-photo sentimentality or low-end parcel chaos.
+
+Use case:
+Christmas Retail single study 9/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable shipping labels, no company logos, no visible house numbers, no people taking center stage, no messy cardboard pile, no cartoon snow, no vehicle in frame, no porch sign text.

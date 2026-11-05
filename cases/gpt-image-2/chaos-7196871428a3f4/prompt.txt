@@ -1,0 +1,14 @@
+Scene:
+Create a square view of an open storybook spread seen almost straight-on, as if photographed for a publisher presentation. The page should contain a warm painted bedroom scene with moonlit window light, soft gouache texture, rounded shapes, and calm negative space where short text could later be placed outside the illustration. Keep the square frame balanced, calm, and production-ready so the asset can serve gallery review, research comparison, and real educational delivery at the same time.
+
+Subject:
+Introduce one young child in striped pajamas and a small fox companion sharing a bedtime ritual among books, blankets, and quiet room objects. Their faces, proportions, clothing base, and emotional connection must be extremely clear, because every later spread in the series depends on recognizing the same pair immediately. The subject matter should feel intentionally selected for a coherent curriculum family rather than like a random decorative assortment.
+
+Important details:
+Keep the illustration style gentle and editorially controlled: layered watercolor-gouache surfaces, warm navy and apricot night tones, clean page gutters, and a balance between narrative detail and page readability. The spread should feel publishable for a contemporary children storybook, with emotional warmth and stable character identity. Preserve the same child protagonist, fox companion, brush texture, page framing, color family, and storybook page proportions from the reference spread. Use variation only in the teaching content, supporting props, and scene-specific mood while preserving the core visual system exactly.
+
+Use case:
+Children Storybook Scene Page System series study 1/4, reference bedtime spread.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable story text, no logos, no celebrity resemblance, no harsh horror mood, no hyper-detailed realism, no extra main characters replacing the leads.

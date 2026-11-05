@@ -1,0 +1,14 @@
+Scene:
+Render the identical square wall-poster mockup again, now situated near a classroom door with soft light and blurred cubbies nearby. The asset should look like a real transition-support poster for moving children from one activity to another smoothly. Keep the square frame balanced, calm, and production-ready so the asset can serve gallery review, research comparison, and real educational delivery at the same time.
+
+Subject:
+Use illustrated children, footprints, waiting icons, quiet-body cues, and a sequence of line-up actions shown visually inside the same poster grid. The structure must make the expected behavior obvious without any written commands. The subject matter should feel intentionally selected for a coherent curriculum family rather than like a random decorative assortment.
+
+Important details:
+Keep the same peaceful discipline as the reference board: rounded panels, stable color codes, and predictable hierarchy. The message should be supportive, concrete, and classroom-ready. Preserve the same poster modules, icon scale, blank headline bands, classroom color coding, and pacing rhythm from the reference routine board. Use variation only in the teaching content, supporting props, and scene-specific mood while preserving the core visual system exactly.
+
+Use case:
+Classroom Routine and Rule Visual Set series study 3/4, line-up transition board.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no teacher handwriting, no logos, no cluttered classroom walls, no harsh warning tone, no chaotic sticker overload.

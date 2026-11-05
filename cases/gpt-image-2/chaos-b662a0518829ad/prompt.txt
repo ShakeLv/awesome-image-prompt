@@ -1,0 +1,14 @@
+Scene:
+A square interior wayfinding panel study for Clinic Brand and Interior Visual System. Compose it as a close architectural crop with wall graphics, corridor transitions, and one visible room threshold. Use a palette of mineral white, muted teal, pale sage, warm oak, and brushed aluminum, soft daylight with clean indirect reflections, and a mood of institutional calm, premium trust, and approachable warmth. The frame should feel like a real healthcare communication asset art-directed for professional delivery, not a stock photo, speculative concept render, or generic corporate template. Keep the camera distance, negative space, and depth cues disciplined so the image reads immediately even at thumbnail size.
+
+Subject:
+Center on a clinic hallway segment featuring abstract directional panels, room markers, frosted doors, floor lines, and calm overhead lighting. Show enough surrounding context that the viewer understands the intended service surface, user situation, and institutional setting. Every object, person, diagram, device crop, or spatial cue should support clarity, trust, and practical use. If people appear, keep them anonymous, natural, privacy-safe, and grounded in believable body language rather than promotional posing.
+
+Important details:
+Maintain a clinic identity system expressed through rounded geometry, hygienic materials, discreet wayfinding zones, and premium but practical detailing. Emphasize wayfinding hierarchy, accessible contrast, and how the same identity system scales across navigation surfaces. Use abstract icon shapes, color blocks, chart bars, interface modules, or non-legible placeholder microcopy whenever information structure is needed, but never readable text. Materials, spacing, lighting, and hierarchy should feel production-ready and healthcare-specific. Avoid generic lifestyle filler, decorative noise, or design gestures that do not reinforce the communication goal.
+
+Use case:
+Clinic Brand single study 3/9 for a signage system proposal board.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no spa cliches, no chaotic emergency scenes, no futuristic medical hardware, no dirty or damaged surfaces, no long unreadable text columns, no visual clutter.

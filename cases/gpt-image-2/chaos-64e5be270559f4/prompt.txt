@@ -1,0 +1,14 @@
+Scene:
+Create a square dependent holiday retail visual within the same flagship Christmas environment, but let the framing widen enough to include folded knit textures, candle glow, and tabletop warmth without losing the original store-window discipline. Keep the same amber illumination, spruce shadows, cream paper, brass accents, and tactile winter atmosphere from the reference image so the campaign world stays exact.
+
+Subject:
+Feature a cozy home gifting bundle composed of folded throws, ceramic mugs, candles, tea tins, small boxes, and wrapped comfort items presented as a premium seasonal set. Preserve exact wrapping logic, prop styling, and retail hierarchy from the reference image while shifting the category toward home comfort. The arrangement should feel curated, layered, and ready for catalog, gifting guide, or storefront reuse.
+
+Important details:
+The dependent image must inherit the anchor precisely: same palette balance, same lighting angle, same ribbon behavior, same evergreen usage, and the same calm commercial finish. Only the item mix and emotional register should move toward home warmth. Keep material realism persuasive, with believable knit texture, wax translucency, ceramic glaze, and paper folds. Nothing should read like a generic winter moodboard; it needs to feel like one coherent Christmas retail campaign extension.
+
+Use case:
+Christmas Retail series study 4/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no people, no fireplace cliché, no branded mugs, no readable packaging, no plush toy mascot, no excess faux snow, no random rustic clutter.

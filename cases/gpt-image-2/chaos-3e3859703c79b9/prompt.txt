@@ -1,0 +1,14 @@
+Scene:
+Create a square cinematic still for Cathedral Light Beam of Worship. Use production-grade photoreal lighting, disciplined lens behavior, and a composition that feels like a finished key frame from an original film rather than a casual snapshot. A vast Gothic nave is carved by one sharply defined shaft of early sun entering from high clerestory windows on the left, with cold blue shadows in the aisles, faint amber heat around the altar, and visibly suspended dust or incense in the air. Build an independent square study around the way atmosphere interacts with surfaces, keeping enough environmental context for the image to feel finished rather than cropped at random.
+
+Subject:
+Build a coherent original scene whose emotional center comes from atmosphere, light physics, and spatial clarity. Avoid relying on celebrity likeness, franchise iconography, or stylized illustration shortcuts. Stone columns, ribbed vaults, carved pews, a restrained altar glow, and a few worshippers or attendants in silhouette should define the human scale without turning the image into a crowd scene or ceremony spectacle. Let textures, reflections, residue, moisture, dust, or particulate response become primary, while the broader setting remains clearly implied.
+
+Important details:
+Preserve a believable physical world with strong depth layering, careful color separation, and premium image discipline. Treat the volumetric beam as the true protagonist, with physically coherent light falloff, believable bounce on worn stone, clean separation between shadow layers, and a solemn emotional register that feels sacred rather than theatrical. The key is material credibility under dramatic light, with micro-contrast and controlled mood supporting the theme.
+
+Use case:
+Cathedral Beam single study 5/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fantasy creatures, no electric stage lights, no readable scripture, no tourist clutter, no exaggerated stained-glass rainbows.
