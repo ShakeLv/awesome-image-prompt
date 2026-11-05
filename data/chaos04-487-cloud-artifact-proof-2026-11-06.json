@@ -1,0 +1,34 @@
+{
+  "artifactId": 13446904728,
+  "runId": "42094646749",
+  "remoteZipBytes": 287416987,
+  "entireCentralDirectoryRead": true,
+  "memberBytesFullyReadAndDecoded": true,
+  "members": [
+    {
+      "artifactPath": "artifacts/catalog-online-verification.json",
+      "bytes": 180,
+      "sha256": "9f9fa874a09041646376399eac7d68908c82149385a68d0c197cef2a7c5e3f13"
+    },
+    {
+      "artifactPath": "artifacts/cloud-daily-report.json",
+      "bytes": 821,
+      "sha256": "c46d4dc93a1f850c9475a39a0780131af439085d35317e74bbb5b50cb26626c8"
+    },
+    {
+      "artifactPath": "artifacts/prompt-online-verification.json",
+      "bytes": 126,
+      "sha256": "a57a3ab5601160b5ef6e41f49d476c5ebe57356c7ec0adcf45d3d86aacca55ef"
+    },
+    {
+      "artifactPath": "artifacts/runtime-catalog-acceptance.json",
+      "bytes": 10023,
+      "sha256": "bba30cb77b95d076aade3101214475241bfe719ecb16391c9c6cd5477ba3d96e"
+    },
+    {
+      "artifactPath": "artifacts/sitemap-publication-report.json",
+      "bytes": 5659,
+      "sha256": "ae160f5e9528bd8c291a12b266f61b626b812494a4ce471073c16836ef82be19"
+    }
+  ]
+}
