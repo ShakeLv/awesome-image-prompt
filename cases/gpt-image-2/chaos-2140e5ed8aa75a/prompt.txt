@@ -1,0 +1,14 @@
+Scene:
+Create a square premium editorial cocktail photograph with Scandinavian restraint: the glass sits against a dark or neutral studio backdrop, lit with crisp directional light that reveals liquid clarity, condensation, and the shape of the vessel. The composition should leave clean space for anatomy-like annotation structures. Any diagram devices must stay abstract, minimal, and completely unreadable. Maintain the exact centered composition, annotation grammar, and premium restraint from the reference image, but use a taller glass and slightly brighter side light so carbonation remains visible. The background should stay minimal and soft enough that the bubbles and ice become the active visual detail.
+
+Subject:
+Show a clear or lightly tinted highball in a tall glass packed with stacked ice and a slim citrus garnish. Tiny streams of carbonation should rise through the liquid, while leader lines point toward bubble columns, ice faces, garnish bend, and condensation paths. The scene should feel refreshing, exact, and diagrammed without becoming corporate.
+
+Important details:
+The work should feel like a luxury magazine spread translated into one square frame, where product photography and information design cooperate without becoming cluttered. Glass thickness, ice clarity, citrus oils, bubbles, smoke, and liquid layering all need to feel physically accurate. Hairline leader lines may terminate in blank bars or geometric tabs, but never readable labels. Preserve exact layout rhythm, callout weight, and studio tone from the reference model while shifting the hero to sparkle and verticality. Carbonation needs believable scale variation, the ice should feel cold and transparent, and every diagram accent must stay abstract and label-free.
+
+Use case:
+Cocktail anatomy editorial series study 3/9, converting the anchor system into a carbonation-focused highball page.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no menu typography, no neon nightclub clutter, no brand bottle labels, no bar receipt props, no visible trademarks, no soda-ad cliche styling, no readable bottle labels, no fruit pile garnish.

@@ -1,0 +1,14 @@
+Scene:
+Create a naturalist page focused on group behavior during a dust storm, with the main plate showing several organisms interlocking in a shallow basin while dust passes overhead. The paper palette should stay restrained, using pale ocher, gray, and rust washes. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Show how multiple bodies angle their sensor crests inward and lock outer armor facets together to reduce abrasion and preserve charge balance. Small inset views can compare the open roaming posture with the closed storm posture. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume these organisms use mineral accretion, fracture repair, thermal gradients, and electrochemical surfaces instead of flesh-heavy metabolisms. Forms should look feasible for an arid silicon ecology: faceted growth, abrasive wear, and slow but purposeful movement across sand and rock. The cluster should look like an evolved social response, not decorative patterning. Pay attention to contact points, wind direction, sand accumulation, and the tradeoff between protection and sensory awareness. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Crystal Silicon Lifeform Field Sketch single study 6/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no military phalanx styling, no robot swarm look, no text labels, no dramatic sci-fi explosions, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

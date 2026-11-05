@@ -1,0 +1,14 @@
+Scene:
+A dark walnut oracle table in a quiet library at night, black velvet cloth under the object, one warm candle on the left, soft cool moonbeam from a high window on the right, shallow background blur.
+
+Subject:
+the same crystal ball and brass stand, now containing a miniature autumn forest with copper leaves and a lantern path. The crystal ball fills about 68% of the square image width and remains the main object.
+
+Important details:
+Photorealistic macro still life, 85mm lens, accurate glass refraction and caustics, subtle double reflections on the sphere, crisp brass patina, dark wood grain, preserve the reference crystal ball identity, tabletop position, brass stand, camera angle, and lighting. The miniature world must appear physically inside the glass, not painted on the surface.
+
+Use case:
+Reference-dependent Prompt Atlas series for testing object continuity, runtime --ref injection, and gallery thumbnail readability. Square 1:1 crop-safe composition.
+
+Constraints:
+No readable text, no watermark, no logos, no human hands, no extra crystal balls, no cartoon style, no fantasy glow outside the sphere, preserve exact 1:1 aspect ratio.

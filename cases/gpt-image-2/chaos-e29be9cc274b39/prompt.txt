@@ -1,0 +1,14 @@
+Scene:
+Finish the package with a comparative notebook page that presents several related species on one coherent cream background, balancing one large key organism with smaller companion sketches. The layout should feel like the concluding spread of a naturalist atlas made in the field. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Include a scout form, a burrow specialist, a storm-cluster species, and a juvenile silhouette, each arranged so lineage and niche differences are legible without labels. A faint desert horizon wash can unify the page behind the studies. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume these organisms use mineral accretion, fracture repair, thermal gradients, and electrochemical surfaces instead of flesh-heavy metabolisms. Forms should look feasible for an arid silicon ecology: faceted growth, abrasive wear, and slow but purposeful movement across sand and rock. This page should summarize the ecosystem through morphology and composition alone. Preserve consistency of pen style, paper texture, and mineral logic while giving each species enough distinction to feel evolutionarily related but ecologically separate. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Crystal Silicon Lifeform Field Sketch single study 9/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no specimen cutout collage, no readable titles, no modern UI boxes, no polished gemstone catalogue look, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

@@ -1,0 +1,14 @@
+Scene:
+Compose a square beverage campaign image built around ritual, vessel, light, and atmosphere. The frame should feel like it belongs to a premium drink brand that understands daily habits: ceramic warmth, glass condensation, steam behavior, and tactile surfaces all need to read as observed and real rather than generic lifestyle filler. Use a square crop of a busy but controlled counter moment, with several drinks aligned and warm practical lights reflecting off metal and ceramic surfaces.
+
+Subject:
+The hero beverage must feel consumable and culturally grounded, with believable proportions, realistic liquid behavior, and supporting tools or props that reinforce the ritual without overwhelming the drink itself. Show two or three beverages at different completion stages, suggesting a café rush without introducing visible faces or chaos.
+
+Important details:
+Credibility comes from timing and materials: crema density, ice clarity, tea translucency, condensation trails, and the way a hand or vessel sits in space. Keep the mood intentional and campaign-ready, with enough atmosphere to suggest a lived routine while preserving product focus. This image should feel fully self-contained while still belonging to the same broader topic and commercial world. Timing is crucial: drips, steam, and bar reflections should feel immediate, but the frame still needs clear focal priority and commercial polish.
+
+Use case:
+Coffee Rituals single study 8/9, built for Prompt Atlas coverage of a food and beverage commercial visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no plastic café props, no latte-art gimmick overload, no fake steam clouds, no unreadable cup slogans, no random breakfast clutter, no artificial neon excess, no cashier hardware, no readable order slips, no crowded human figures.

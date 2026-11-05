@@ -1,0 +1,14 @@
+Scene:
+A square social carousel card for a pet focused lifestyle account, combining believable photography with polished graphic framing, soft color blocks, and elegant placeholder caption zones. The image should feel feed native and instantly shareable, but still clean enough for a brand team to reuse in campaign planning. Keep the composition legible at thumbnail size and strong enough to function as one panel in a larger carousel sequence. Build a bright desk corner with stationery shapes, laptop edges, and calm neutral daylight, framed by editorial blocks that suggest organized carousel storytelling.
+
+Subject:
+Anchor the card around one clear pet behavior or daily ritual. The animal should stay realistic and expressive, with posture, paws, ears, and eye direction doing most of the emotional work. The framing can include props, bedding, or environment cues, but only when they support the story and help the card read quickly in a busy feed. Show a cat or small dog perched beside the workspace, attentive but calm, with paws tucked or neatly placed near the edge of the desk.
+
+Important details:
+Treat layout as part of the concept: use layered paper blocks, soft borders, icon like dots, or sticker style cutout shadows without introducing readable copy. The mood should remain warm, useful, and commercially organized rather than chaotic influencer clutter. Each card must feel distinct, yet part of the same family of pet content systems for social scheduling, seasonal batches, and brand feeds. Balance cuteness with adult lifestyle polish; the image should feel useful for creator accounts, stationery brands, and pet-friendly work culture posts.
+
+Use case:
+Cute Pet Social Carousel Family single study 8/9, desk companion workday post for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable captions, no meme screenshot aesthetic, no chaotic collage overload, no warped anatomy, no generic stock photo stiffness, no intrusive human faces, no visible readable screens, no coffee spill chaos, no office mess piles.

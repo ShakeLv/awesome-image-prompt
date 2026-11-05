@@ -1,0 +1,14 @@
+Scene:
+Square crop of the final version of the same transit campaign poster on the same review wall, straight-on and evenly lit. It should read as the polished result after several conversational edit turns, with a clean professional finish and no visible trace of the editing process.
+
+Subject:
+Preserve the original poster identity from the reference: central tram shelter, repaired empty left side, retained right pedestrian, abstract enlarged heading area, dusk environment, lower information block rhythm, route motifs, and square campaign framing. Make the final version more balanced and presentation-ready: refine spacing, clarify the hierarchy, tune contrast, and make the cool palette elegant rather than flat. The poster should look as if a designer accepted the conversational edits and produced a finished campaign proof.
+
+Important details:
+This image must demonstrate cumulative instruction following. The earlier requested changes should all remain visible: dusk atmosphere, no left pedestrian, larger abstract heading, cooler overall color, and preserved base composition. Rebalance only through subtle graphic design decisions: cleaner negative space, sharper icon-like abstract route marks, smoother illustration edges, and better tonal separation. Do not invent a new poster, change the topic, or add literal explanations.
+
+Use case:
+Conversational Editing Workflow series study 4/8, final cumulative edit proving that multiple conversational revisions can be resolved into one coherent image.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no left figure returning, no warm midday lighting, no software UI, no before-after split, no annotation labels, no brand identity, no chaotic poster elements.

@@ -1,0 +1,14 @@
+Scene:
+Create a square premium editorial cocktail photograph with Scandinavian restraint: the glass sits against a dark or neutral studio backdrop, lit with crisp directional light that reveals liquid clarity, condensation, and the shape of the vessel. The composition should leave clean space for anatomy-like annotation structures. Any diagram devices must stay abstract, minimal, and completely unreadable. Create a square overhead arrangement on a pale stone surface, using cool natural-looking studio light and enough spacing that each glass reads as one entry in an editorial taxonomy. The overall image should feel clean, Scandinavian, and magazine-ready.
+
+Subject:
+Arrange five different cocktails in distinct vessels: lowball, coupe, highball, flute, and Nick-and-Nora, each with a restrained garnish and different ice or foam behavior. Use a few abstract leader lines and blank tabs in the negative space between glasses to hint at anatomy indexing without introducing readable information. The flight should feel curated, not commercial or crowded.
+
+Important details:
+The work should feel like a luxury magazine spread translated into one square frame, where product photography and information design cooperate without becoming cluttered. Glass thickness, ice clarity, citrus oils, bubbles, smoke, and liquid layering all need to feel physically accurate. Hairline leader lines may terminate in blank bars or geometric tabs, but never readable labels. Make each vessel and drink behavior distinct while maintaining one coherent palette and lighting language. The composition should function like an overview page that still respects material realism down to condensation beads and glass thickness.
+
+Use case:
+Cocktail anatomy editorial single study 9/9, broadening the theme into a curated editorial flight.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no menu typography, no neon nightclub clutter, no brand bottle labels, no bar receipt props, no visible trademarks, no menus, no coasters with logos, no tabletop clutter.

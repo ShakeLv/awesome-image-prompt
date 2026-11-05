@@ -1,0 +1,14 @@
+Scene:
+A square interior image defined by desaturated teal, nicotine amber, matte charcoal, and polished glass, with every desk, chair, monitor, and light source positioned with mathematical restraint. The room should feel contemporary and expensive, but emotionally distant, as if every element has been audited for balance and control. Use a luxury apartment living room converted into a command desk arrangement, with floor-to-ceiling windows, low shelving, and one long table centered under pendant lights.
+
+Subject:
+Use office floors, apartments, control rooms, or meeting spaces where human figures appear small, backlit, and subordinate to the grid of furniture and screens. The subject is not one person so much as the cold system of objects, reflections, and intervals between them. A single resident works alone at the table, reduced to a dark outline against the glass and screen reflections.
+
+Important details:
+The signature depends on exact spacing, subdued color, restrained contrast, and a polished investigative mood. Preserve orderly cable paths, clean desk surfaces, sensible monitor glow, and strong negative space. Avoid colorful personality clutter, playful decor, or casual lived-in mess. The interior should feel curated and severe, with almost no personal objects except those necessary to support the system logic.
+
+Use case:
+Cold Precision Grid Interior single study 2/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no visible logos on screens, no colorful sticky notes, no comic exaggeration, no warm family-home coziness, no random clutter piles, no broken anatomy, no low-detail background, no accidental text fragments.

@@ -1,0 +1,14 @@
+Scene:
+A square interior image defined by desaturated teal, nicotine amber, matte charcoal, and polished glass, with every desk, chair, monitor, and light source positioned with mathematical restraint. The room should feel contemporary and expensive, but emotionally distant, as if every element has been audited for balance and control. Construct a compliance review room with modular desks, rolling task chairs, file trays, and frosted partitions arranged in perfect lanes.
+
+Subject:
+Use office floors, apartments, control rooms, or meeting spaces where human figures appear small, backlit, and subordinate to the grid of furniture and screens. The subject is not one person so much as the cold system of objects, reflections, and intervals between them. Two people stand at opposite ends of the room reviewing screens, their separation reinforcing the procedural atmosphere.
+
+Important details:
+The signature depends on exact spacing, subdued color, restrained contrast, and a polished investigative mood. Preserve orderly cable paths, clean desk surfaces, sensible monitor glow, and strong negative space. Avoid colorful personality clutter, playful decor, or casual lived-in mess. Let the frosted glass, aluminum edges, and muted amber light make the space feel monitored and exact.
+
+Use case:
+Cold Precision Grid Interior single study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no visible logos on screens, no colorful sticky notes, no comic exaggeration, no warm family-home coziness, no random clutter piles, no broken anatomy, no low-detail background, no accidental text fragments.

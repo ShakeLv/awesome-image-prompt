@@ -1,0 +1,14 @@
+Scene:
+Create a square premium editorial cocktail photograph with Scandinavian restraint: the glass sits against a dark or neutral studio backdrop, lit with crisp directional light that reveals liquid clarity, condensation, and the shape of the vessel. The composition should leave clean space for anatomy-like annotation structures. Any diagram devices must stay abstract, minimal, and completely unreadable. Keep the exact centered layout, leader-line grammar, negative-space balance, and restrained studio lighting from the reference image so the editorial system stays instantly recognizable. The background should remain minimal and dark-neutral, with only soft gradients separating the glass from the field.
+
+Subject:
+Feature a chilled martini-style stemmed glass with pale transparent liquid, a long olive or citrus garnish, and a visible frost ring near the upper bowl. Hairline annotation leaders should point toward the glass lip, chill haze, garnish suspension, and the meniscus of the drink. The glass should read as razor-clean and architectural.
+
+Important details:
+The work should feel like a luxury magazine spread translated into one square frame, where product photography and information design cooperate without becoming cluttered. Glass thickness, ice clarity, citrus oils, bubbles, smoke, and liquid layering all need to feel physically accurate. Hairline leader lines may terminate in blank bars or geometric tabs, but never readable labels. Preserve exact layout, callout spacing, and camera height from the reference model while only changing the vessel family and the material cues of chill and clarity. The stem, rim, and liquid meniscus must feel crisp, and the abstract callout shapes should stay elegant and unreadable.
+
+Use case:
+Cocktail anatomy editorial series study 2/9, translating the anchor layout into a chilled martini profile.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no menu typography, no neon nightclub clutter, no brand bottle labels, no bar receipt props, no visible trademarks, no olive-brine mess, no nightclub blue lighting, no readable etched glass text.

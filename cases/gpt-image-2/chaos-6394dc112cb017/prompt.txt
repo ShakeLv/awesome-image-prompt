@@ -1,0 +1,14 @@
+Scene:
+Create a square premium editorial cocktail photograph with Scandinavian restraint: the glass sits against a dark or neutral studio backdrop, lit with crisp directional light that reveals liquid clarity, condensation, and the shape of the vessel. The composition should leave clean space for anatomy-like annotation structures. Any diagram devices must stay abstract, minimal, and completely unreadable. Use a square close studio crop on a mixing glass under moody directional light, leaving enough surrounding space for the spiral motion to remain legible. The background should stay quiet and neutral, with no bar clutter.
+
+Subject:
+Show a long bar spoon inside a mixing glass as the drink rotates into a visible vortex, with stacked ice facets and subtle reflections in the liquid. A couple of abstract callout marks can point toward the vortex center and spoon spiral, but the scene should remain photographic first. The motion must feel refined and controlled, not splashy.
+
+Important details:
+The work should feel like a luxury magazine spread translated into one square frame, where product photography and information design cooperate without becoming cluttered. Glass thickness, ice clarity, citrus oils, bubbles, smoke, and liquid layering all need to feel physically accurate. Hairline leader lines may terminate in blank bars or geometric tabs, but never readable labels. Focus on circular liquid behavior, reflection distortion, and the elegant geometry of the spoon stem. The viewer should sense technique and choreography rather than speed for its own sake.
+
+Use case:
+Cocktail anatomy editorial single study 8/9, emphasizing the stirring vortex as a diagrammable cocktail mechanism.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no menu typography, no neon nightclub clutter, no brand bottle labels, no bar receipt props, no visible trademarks, no splash explosion, no visible bartender hands, no branded mixing glass.

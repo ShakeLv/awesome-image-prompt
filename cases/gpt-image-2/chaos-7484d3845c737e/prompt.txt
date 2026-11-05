@@ -1,0 +1,14 @@
+Scene:
+A square conservation-table view of a vintage poster laid on gray felt under raking light, with visible fold lines, softened corners, and subtle aging that still preserves the integrity of the image. The poster should express 1970s Caribbean solidarity silkscreen with fluorescent flat planes, stencil edges, posterized faces, and lively registration drift, using hot pink, turquoise, lime, orange, black, and warm off-white paper and a tactile surface appropriate to the medium.
+
+Subject:
+Present the poster as an archive copy that has been stored, unfolded, and carefully documented, letting age and handling reveal how the design holds up across time. Use profiles, palms, sun discs, megaphones, marching silhouettes, stars, and tropical botanical shapes as the main visual ingredients, and organize them with blocky title slabs and seal-like shapes rendered as non-readable silkscreen graphics. For the contemporary-subject axis, thread in community gardens, rooftop speakers, and neighborhood bicycles absorbed into a solidarity poster language. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Aging must stay believable rather than theatrical: slight yellowing, fold memory, edge wear, and pigment variation should support the historical or crafted feeling of the style. Preserve flat color stacking, visible plate misalignment, rough fibers, and heated tropical energy without realism. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no airbrushed realism, no corporate polish, no clean luxury gradients, no literal readable slogans.
+
+Use case:
+Cuban Silkscreen single study 5/9, testing archival endurance and age character.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.
