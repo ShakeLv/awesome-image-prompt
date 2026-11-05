@@ -12,11 +12,11 @@ Image and prompt pairs with original author, source, actual generation model, re
 - [1 independent creator recipe](GPT-IMAGE-2.6-CREATOR.md), with the original 14-word prompt and actual 2.6 attachment. Variant unspecified.
 - [50-group original source index](GPT-IMAGE-2.6.md) and [additional research outcomes](data/image26-research-expansion.json). Source-linked candidates are not automatically approved pairs.
 
-The first 37 pairs have ProjectD publication receipts. Three additional reviewed editing pairs await the next publication receipt. Independent final public-browser acceptance is tracked separately.
+All 40 pairs have ProjectD publication receipts. Independent final public-browser acceptance is tracked separately.
 
 ## GitHub gallery expansion
 
-[All40 Beatra Qwen Image3.0 cases](QWEN-IMAGE-3-BEATRA.md), with complete prompts and exact local images.38 approved for ProjectD; two original previews remain below its minimum dimensions. A separate955-record API Models source is being fully reconciled against491 already-present records.
+[All40 Beatra Qwen Image3.0 cases](QWEN-IMAGE-3-BEATRA.md), with complete prompts and exact local images.38 approved for ProjectD; two original previews remain below its minimum dimensions. [449 additional APIModels GPT Image 2 pairs](GPT-IMAGE-2-APIMODELS.md) have full prompts and native PNGs: 402 approved for ProjectD, 47 held with individual reasons. The 955-record source was reconciled against 491 already present and 15 previous holds.
 
 ## ProjectD historical backfill
 

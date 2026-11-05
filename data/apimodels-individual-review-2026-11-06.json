@@ -1,0 +1,4207 @@
+{
+  "sourceCommit": "980d100f3bd0f2cde4cf38835daeb742bf1cac65",
+  "sheets": {
+    "1": {
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "2": {
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "3": {
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "4": {
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "5": {
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "6": {
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "7": {
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "8": {
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "9": {
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "10": {
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "11": {
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "cases": 16,
+      "held": 1
+    },
+    "12": {
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "cases": 16,
+      "held": 1
+    },
+    "13": {
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "14": {
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "15": {
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "16": {
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "17": {
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "18": {
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "cases": 16,
+      "held": 1
+    },
+    "19": {
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "20": {
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "21": {
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "22": {
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "23": {
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "cases": 16,
+      "held": 0
+    },
+    "24": {
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "cases": 16,
+      "held": 12
+    },
+    "25": {
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "cases": 16,
+      "held": 8
+    },
+    "26": {
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "cases": 16,
+      "held": 15
+    },
+    "27": {
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "cases": 16,
+      "held": 4
+    },
+    "28": {
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "cases": 16,
+      "held": 5
+    },
+    "29": {
+      "reviewedAt": "2026-11-05T16:32:35.667899+00:00",
+      "cases": 1,
+      "held": 0
+    }
+  },
+  "items": {
+    "ecommerce-75": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated probiotic-packaging design; depicted benefit text is illustrative and unverified.",
+      "purpose": "product"
+    },
+    "ecommerce-77": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated herbal tincture design; no independent efficacy or ingredient validation.",
+      "purpose": "product"
+    },
+    "ecommerce-76": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated magnesium-packaging design; better-sleep text is a source visual claim, not verified efficacy.",
+      "purpose": "product"
+    },
+    "ecommerce-78": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated fish-oil packaging; printed benefit and amount claims are not independently verified.",
+      "purpose": "product"
+    },
+    "ecommerce-79": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated vitamin-drop packaging; not a verified product or recommendation.",
+      "purpose": "product"
+    },
+    "ecommerce-82": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-81": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-85": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-84": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-83": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-86": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-87": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-88": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-89": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-90": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-91": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:51:53.731891+00:00",
+      "sheet": 1,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-92": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-93": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-95": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Rendered protein/fiber amounts and gluten-free claim are illustrative packaging, not verified nutrition data.",
+      "purpose": "product"
+    },
+    "ecommerce-96": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-97": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-94": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-99": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-98": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-100": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-101": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-102": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Four juice bottles and source styling correspond; printed ingredient/health language remains unverified design content.",
+      "purpose": "product"
+    },
+    "ecommerce-103": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-104": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-105": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-106": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-107": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:09.609422+00:00",
+      "sheet": 2,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-108": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-109": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-110": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-111": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-112": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-113": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-114": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-115": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-116": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-117": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-118": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-120": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated sports-nutrition packaging; printed quantities/benefits are unverified design elements.",
+      "purpose": "product"
+    },
+    "ecommerce-119": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-122": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated powder packaging and ingredients, not an independently validated supplement product.",
+      "purpose": "product"
+    },
+    "ecommerce-123": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Source image adds immune-support marketing; retained as generated packaging, not verified health benefit.",
+      "purpose": "product"
+    },
+    "ecommerce-124": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:53:34.930667+00:00",
+      "sheet": 3,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Nut-butter composition matches; the rendered utensil is retained as supplied, not corrected to the requested knife.",
+      "purpose": "product"
+    },
+    "ecommerce-125": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-126": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-127": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated collagen-packaging concept; printed beauty/wellness text is not verified efficacy.",
+      "purpose": "product"
+    },
+    "ecommerce-128": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-129": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-130": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-132": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-134": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-133": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-135": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-138": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Loaf and airy crumb match; not every requested secondary prop is clearly visible, source frame retained.",
+      "purpose": "product"
+    },
+    "ecommerce-141": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Cinnamon-roll rendering retained as actual source preview; exact requested pulled-roll stretch is not independently established.",
+      "purpose": "product"
+    },
+    "ecommerce-139": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-143": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-142": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-144": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:54:25.229001+00:00",
+      "sheet": 4,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-145": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-148": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-149": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-150": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-152": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-151": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-153": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-156": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-157": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-158": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "ecommerce-159": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Rendered30g protein and other nutrition labels are generated packaging, not verified product facts.",
+      "purpose": "product"
+    },
+    "ecommerce-160": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-233": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Office-tech advertising concept; 4K/privacy-label text is requested visual copy, not a verified device specification.",
+      "purpose": "product"
+    },
+    "product-234": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Standing-desk advertising scene and tagline match; extra wall print is retained as source background design.",
+      "purpose": "product"
+    },
+    "product-235": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Lamp and exact tagline are retained as fictional design, with no verified smart-device capability.",
+      "purpose": "product"
+    },
+    "product-236": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:55:08.745146+00:00",
+      "sheet": 5,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated scanner/document mockup and tagline; visible document/chart values are illustrative.",
+      "purpose": "product"
+    },
+    "product-237": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Portable-monitor dashboard amounts are generated UI copy, not audited financial data.",
+      "purpose": "product"
+    },
+    "product-238": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Speakerphone and exact ad copy correspond; no real hardware performance is verified.",
+      "purpose": "product"
+    },
+    "product-239": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Label-printer concept and generated labels retained; no barcode destination is asserted.",
+      "purpose": "product"
+    },
+    "product-241": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-242": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-243": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generic notebook notes in the background retained; no real-author attribution is presented.",
+      "purpose": "product"
+    },
+    "product-244": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-245": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-246": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-247": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-248": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-249": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-250": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-251": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-252": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-253": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:57:27.627417+00:00",
+      "sheet": 6,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-254": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-256": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-255": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-257": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated sports-shoe concept; air-cushion/performance wording is source design language, not tested footwear capability.",
+      "purpose": "product"
+    },
+    "product-258": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-259": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Source explicitly requests an N-style side panel; the original fictional-brand source rendition is retained.",
+      "purpose": "product"
+    },
+    "product-260": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-261": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-262": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-263": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-264": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-265": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-266": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-267": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-268": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-269": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T15:59:01.309496+00:00",
+      "sheet": 7,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-270": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-271": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-272": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-273": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-274": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-275": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-276": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-277": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-278": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-279": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-280": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-281": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated dive-watch design; water-resistance and mechanical capability are not independently verified.",
+      "purpose": "product"
+    },
+    "product-282": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated watch concept; dial/branding and material wording are illustrative.",
+      "purpose": "product"
+    },
+    "product-283": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated chronograph dial; small printed markings and measurement precision are not validated.",
+      "purpose": "product"
+    },
+    "product-284": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-285": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:00:49.567091+00:00",
+      "sheet": 8,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Skeleton-watch design image; visible gears do not establish a working movement.",
+      "purpose": "product"
+    },
+    "product-286": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated fitness-screen measurements are illustrative UI values, not actual personal health data.",
+      "purpose": "product"
+    },
+    "product-287": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Topographic-map background is source decoration, not a verified navigation chart.",
+      "purpose": "product"
+    },
+    "product-288": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-289": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-290": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-291": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-292": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-293": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-294": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-295": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Lens reflections do not establish actual blue-light filtering; source design concept retained.",
+      "purpose": "product"
+    },
+    "product-296": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Full native frame additionally inspected. All four visible title/author pairs checked against official publisher pages. These identify books on generated generic spines, not image creators or eyewear endorsers; no book-body text is shown.",
+      "purpose": "product",
+      "bibliographicReview": {
+        "nativeImageAdditionallyViewed": true,
+        "sources": [
+          "https://www.penguinteen.com/9781101642610/the-outsiders/",
+          "https://www.simonandschuster.com/books/The-Sun-Also-Rises/Ernest-Hemingway/9780743297332",
+          "https://www.hachettebookgroup.com/titles/j-d-salinger/the-catcher-in-the-rye/9780316769532/?lens=little-brown",
+          "https://www.penguinrandomhouse.com/books/540750/on-the-road-by-jack-kerouac-introduction-by-ann-charters/9780142437254/"
+        ],
+        "scope": "Factual title/author identification only; no publisher-cover-art or underlying-book-text license is asserted."
+      }
+    },
+    "product-298": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-299": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-300": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-301": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-302": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:04:16.251049+00:00",
+      "sheet": 9,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-303": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-304": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-305": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-307": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-308": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-309": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated sports-bra campaign; support/breathability labels are design copy, not tested performance.",
+      "purpose": "product"
+    },
+    "product-310": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated jacket includes technical feature callouts; water/wind resistance is not independently validated.",
+      "purpose": "product"
+    },
+    "product-311": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-312": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-314": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-315": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-316": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Source frame lays bands flat rather than showing every requested roll; original arrangement retained.",
+      "purpose": "product"
+    },
+    "product-317": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-318": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-320": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-319": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:07:28.493515+00:00",
+      "sheet": 10,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-321": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-323": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-328": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-329": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-331": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-332": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-334": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-339": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-340": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated feature-callout footwear artwork, not independently tested performance.",
+      "purpose": "product"
+    },
+    "product-341": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-344": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-343": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "product"
+    },
+    "product-346": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Source includes an invented-brand website line; it is depicted design copy, not a verified outbound destination.",
+      "purpose": "product"
+    },
+    "social-419": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-420": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Source collage adds generic coastal text beyond the requested imagery; full source collage retained.",
+      "purpose": "social"
+    },
+    "social-421": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:11:34.220366+00:00",
+      "sheet": 11,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Full native preview adds unrequested HARVEST HOME / Evelyn Dunbar book attribution; no authoritative bibliographic evidence established. Whole source frame held for ProjectD, no cropping or silent correction.",
+      "purpose": "social"
+    },
+    "social-422": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-423": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Full native frame additionally reviewed; the short Jefferson quotation is confirmed by the Thomas Jefferson Foundation at Monticello, sourced to the1815 letter. Book-title/author displays contain no book-body excerpt; portrait is a generated collage element, not an archival-photo claim.",
+      "purpose": "social",
+      "attributionEvidence": [
+        "https://www.monticello.org/encyclopedia/i-cannot-live-without-books-quotation",
+        "https://tjrs.monticello.org/letter/322"
+      ]
+    },
+    "social-424": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-425": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-426": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Native image adds unrequested Simplicity is the ultimate sophistication / Leonardo da Vinci attribution; no authoritative primary source established. Whole frame held without cropping or rewriting.",
+      "purpose": "social"
+    },
+    "social-427": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-428": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-429": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented-brand sale percentage and date are demonstration copy, not an active retailer offer.",
+      "purpose": "social"
+    },
+    "social-431": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-430": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-432": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented-shop price caption is illustrative, not a current shopping recommendation.",
+      "purpose": "social"
+    },
+    "social-433": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-434": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Cafe name and price are source-provided design copy, not verified commercial terms.",
+      "purpose": "social"
+    },
+    "social-435": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-437": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Shipping deadline is a fictional promo-template statement, not a delivery guarantee.",
+      "purpose": "social"
+    },
+    "social-436": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:13:56.216860+00:00",
+      "sheet": 12,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-438": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "All24 calendar-door numbers are present; the requested open-door detail is not claimed to be perfectly reproduced.",
+      "purpose": "social"
+    },
+    "social-439": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated auspicious-character artwork retained; no independent calligraphic correctness is claimed.",
+      "purpose": "social"
+    },
+    "social-440": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Horse-zodiac motif is not assigned a calendar year by this catalogue record.",
+      "purpose": "social"
+    },
+    "social-441": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-442": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-443": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-444": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented-brand sale/date text is illustrative, not current commercial terms.",
+      "purpose": "social"
+    },
+    "social-445": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-446": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-447": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-448": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Static red-packet app-promo mockup, not a working giveaway or cash offer.",
+      "purpose": "social"
+    },
+    "social-449": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-450": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-451": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-452": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented restaurant price/reservation copy is template text, not an actual booking offer.",
+      "purpose": "social"
+    },
+    "social-453": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:16:29.546621+00:00",
+      "sheet": 13,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-454": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-455": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Countdown copy is a reusable design statement, not the current date.",
+      "purpose": "social"
+    },
+    "social-456": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-458": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Decorative map/pins are not user location data or a navigation map.",
+      "purpose": "social"
+    },
+    "social-457": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-459": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented-shop sale/date text is source design copy, not an active offer.",
+      "purpose": "social"
+    },
+    "social-460": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-462": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-461": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-463": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Fictional venue invitation; event date/time and venue details are not verified events.",
+      "purpose": "social"
+    },
+    "social-464": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented-bakery pricing is illustrative.",
+      "purpose": "social"
+    },
+    "social-465": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-466": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-467": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Fictional horror/VHS poster; any rating/release-style marks are generated graphics, not a certified real film.",
+      "purpose": "social"
+    },
+    "social-468": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-469": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:26:23.525768+00:00",
+      "sheet": 14,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-470": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-471": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-472": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-473": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-474": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-475": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Travel price is invented design copy, not an offer.",
+      "purpose": "social"
+    },
+    "social-476": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented festival and generated website lettering; not a real event announcement.",
+      "purpose": "social"
+    },
+    "social-477": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-478": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated sunscreen mockup; added SPF/benefit labels are not efficacy evidence.",
+      "purpose": "social"
+    },
+    "social-479": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-480": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated deal timer/specifications are illustrative.",
+      "purpose": "social"
+    },
+    "social-482": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-481": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-483": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-484": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-485": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:30.458584+00:00",
+      "sheet": 15,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-486": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-488": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-487": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Added protein quantities/claims are generated packaging mockup text, not nutritional evidence.",
+      "purpose": "social"
+    },
+    "social-489": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-490": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-491": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-492": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-493": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-494": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-495": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-496": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-497": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "General study-tip illustration, not a personalized sleep recommendation.",
+      "purpose": "social"
+    },
+    "social-498": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-500": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-499": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-502": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.575841+00:00",
+      "sheet": 16,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-501": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-505": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-503": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-508": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "social-506": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "thumbnail-579": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "thumbnail-580": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "thumbnail-581": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Synthetic security-footage-style thumbnail, not evidence of a real event.",
+      "purpose": "social"
+    },
+    "thumbnail-582": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "thumbnail-583": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "thumbnail-584": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented document/operation lettering; not a historical document or allegation.",
+      "purpose": "social"
+    },
+    "thumbnail-585": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "thumbnail-586": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "thumbnail-587": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "thumbnail-588": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "social"
+    },
+    "poster-659": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:42.609673+00:00",
+      "sheet": 17,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Fictional promotional layout; dates/venue/ticket details are generated design copy.",
+      "purpose": "advertising"
+    },
+    "poster-660": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "AI promotional concept for a real play, not a verified revival announcement; no play body text reproduced.",
+      "purpose": "advertising"
+    },
+    "poster-661": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Synthetic theatre/performer and ticket details, not a verified performance.",
+      "purpose": "advertising"
+    },
+    "poster-662": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-663": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-664": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated cast names and theatre schedule are fictional promotional lettering.",
+      "purpose": "advertising"
+    },
+    "poster-665": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated DJ lineup and date are design copy, not a real event.",
+      "purpose": "advertising"
+    },
+    "poster-666": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-667": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-670": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-668": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated conference poster adds named featured speakers/portraits whose event involvement is not established; retain archive, hold ProjectD.",
+      "purpose": "advertising"
+    },
+    "poster-669": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-674": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-672": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-671": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-673": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-676": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.574168+00:00",
+      "sheet": 18,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-675": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-677": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-678": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-679": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-680": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-682": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-681": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-683": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-684": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-685": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Source output reorders requested stair text; preserve original imperfection rather than promise exact typography.",
+      "purpose": "advertising"
+    },
+    "poster-686": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-687": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-689": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated festival details are design copy, not a verified concert.",
+      "purpose": "advertising"
+    },
+    "poster-688": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-690": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Bauhaus-inspired generated poster; added historical-looking exhibition labels do not establish an archival provenance.",
+      "purpose": "advertising"
+    },
+    "poster-691": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:30:56.609731+00:00",
+      "sheet": 19,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated design-talk agenda, names and dates are synthetic layout content.",
+      "purpose": "advertising"
+    },
+    "poster-693": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-692": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Synthetic Bauhaus-style concept with generated historical-looking labels, not an archival theatre poster.",
+      "purpose": "advertising"
+    },
+    "poster-694": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated exhibition/date/institution lettering does not establish an actual exhibition.",
+      "purpose": "advertising"
+    },
+    "poster-695": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-696": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-697": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-698": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-699": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-700": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-701": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-702": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-703": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-704": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Fictional national-park concept; generated US agency lettering is not government endorsement.",
+      "purpose": "advertising"
+    },
+    "poster-705": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-706": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-707": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.679573+00:00",
+      "sheet": 20,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-708": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-709": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated fitness promotion, class schedule and claims are illustrative.",
+      "purpose": "advertising"
+    },
+    "poster-710": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-711": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-712": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-714": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-715": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-713": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-716": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-719": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented recruitment concept; QR-style mark is decorative, not a verified application link.",
+      "purpose": "advertising"
+    },
+    "poster-717": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-718": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-720": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Fictional cafe recruitment; phone tabs are generated placeholders.",
+      "purpose": "advertising"
+    },
+    "poster-721": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-722": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-723": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:13.724253+00:00",
+      "sheet": 21,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-724": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-725": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-726": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented employer, pay and benefits; not a job offer.",
+      "purpose": "advertising"
+    },
+    "poster-727": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-728": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-729": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Synthetic property/agent concept, not a real listing; portrait, names, price and contact lettering are generated.",
+      "purpose": "advertising"
+    },
+    "poster-730": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Fictional property and agent illustration, not a verified listing.",
+      "purpose": "advertising"
+    },
+    "poster-731": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-732": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated school-district/property claims are mockup copy.",
+      "purpose": "advertising"
+    },
+    "poster-733": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-735": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Synthetic agent advertising; sold-in-six-days claim is fictional.",
+      "purpose": "advertising"
+    },
+    "poster-734": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-736": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-737": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-739": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-738": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.304441+00:00",
+      "sheet": 22,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-740": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-741": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-742": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-743": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-744": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-745": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-746": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-747": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "poster-748": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "advertising"
+    },
+    "infographic-819": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Explicitly invented OS brands and illustrative market data; not actual 2025 research.",
+      "purpose": "education"
+    },
+    "infographic-820": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented EV makers and sales statistics; not market evidence.",
+      "purpose": "education"
+    },
+    "infographic-821": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented providers; generated source/footer and figures are illustrative.",
+      "purpose": "education"
+    },
+    "infographic-822": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented streaming platforms and subscriber counts.",
+      "purpose": "education"
+    },
+    "infographic-824": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented chain shares/store counts.",
+      "purpose": "education"
+    },
+    "infographic-825": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented consoles/shares/prices.",
+      "purpose": "education"
+    },
+    "infographic-827": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:28.396578+00:00",
+      "sheet": 23,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented ride-hailing services/statistics.",
+      "purpose": "education"
+    },
+    "infographic-828": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented platforms/users, not actual market data.",
+      "purpose": "education"
+    },
+    "infographic-829": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Detailed generated biological labels/equation need native-scale scientific accuracy review before educational publication.",
+      "purpose": "education"
+    },
+    "infographic-830": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "General illustrative water-cycle scene, not a measured hydrological model.",
+      "purpose": "education"
+    },
+    "infographic-831": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated organelle/leader-label accuracy not independently established.",
+      "purpose": "education"
+    },
+    "infographic-832": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Basic four-stage butterfly illustration, not species identification evidence.",
+      "purpose": "education"
+    },
+    "infographic-833": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Stylized volcano cross-section, not a measured geological section.",
+      "purpose": "education"
+    },
+    "infographic-834": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Title claims planets to scale; actual rendering not established to scale and dense planetary figures need checking.",
+      "purpose": "education"
+    },
+    "infographic-835": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated DNA bond/base-pair diagram and fact cards require scientific accuracy review.",
+      "purpose": "education"
+    },
+    "infographic-836": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Requested food chain treats cheetah then lion as fixed trophic sequence; misleading simplified ecology.",
+      "purpose": "education"
+    },
+    "infographic-837": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Rock-cycle arrow/process mapping requires scientific review; preserve source without treating it as a textbook.",
+      "purpose": "education"
+    },
+    "infographic-838": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Detailed caste duties, lifespans and waggle-dance facts not independently verified.",
+      "purpose": "education"
+    },
+    "infographic-839": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented pharaoh is mixed with real Egyptian kingdom dates in an apparently factual timeline.",
+      "purpose": "education"
+    },
+    "infographic-840": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated history dates/glyph captions need factual verification.",
+      "purpose": "education"
+    },
+    "infographic-841": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated aviation chronology needs factual review.",
+      "purpose": "education"
+    },
+    "infographic-842": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Fictional inventor names are mixed with historical breakthroughs.",
+      "purpose": "education"
+    },
+    "infographic-843": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.537901+00:00",
+      "sheet": 24,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated Roman chronology/territory labels need factual verification.",
+      "purpose": "education"
+    },
+    "infographic-844": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated internet chronology contains dense dated claims requiring independent verification.",
+      "purpose": "education"
+    },
+    "infographic-845": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented agencies/missions mixed with historical milestones; potentially misleading factual timeline.",
+      "purpose": "education"
+    },
+    "infographic-846": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Ancient-wonders dates/heights/geography need independent factual review.",
+      "purpose": "education"
+    },
+    "infographic-847": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated historical map/era/trade claims need factual review.",
+      "purpose": "education"
+    },
+    "infographic-848": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated dated money-history sequence requires verification; not historical evidence.",
+      "purpose": "education"
+    },
+    "infographic-849": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Explicitly fictional Republic of Valen; illustrative civics workflow, not legal guidance.",
+      "purpose": "education"
+    },
+    "infographic-850": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Simplified illustrated coffee-processing sequence.",
+      "purpose": "education"
+    },
+    "infographic-851": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Unsubstantiated specific six-week recycling claim.",
+      "purpose": "education"
+    },
+    "infographic-852": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-854": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-853": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-855": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-856": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-858": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Fictional support workflow, not instructions for an existing service.",
+      "purpose": "education"
+    },
+    "infographic-857": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Water-treatment safety/process/quality diagram requires domain review before educational publication.",
+      "purpose": "education"
+    },
+    "infographic-859": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:31:54.583038+00:00",
+      "sheet": 25,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Medical heart anatomy/labels/flow require clinical accuracy review.",
+      "purpose": "education"
+    },
+    "infographic-860": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated anatomy/health diagram and added claims require qualified accuracy review before ProjectD educational publication.",
+      "purpose": "education"
+    },
+    "infographic-861": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated anatomy/health diagram and added claims require qualified accuracy review before ProjectD educational publication.",
+      "purpose": "education"
+    },
+    "infographic-862": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated anatomy/health diagram and added claims require qualified accuracy review before ProjectD educational publication.",
+      "purpose": "education"
+    },
+    "infographic-863": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated anatomy/health diagram and added claims require qualified accuracy review before ProjectD educational publication.",
+      "purpose": "education"
+    },
+    "infographic-864": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated anatomy/health diagram and added claims require qualified accuracy review before ProjectD educational publication.",
+      "purpose": "education"
+    },
+    "infographic-865": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated anatomy/health diagram and added claims require qualified accuracy review before ProjectD educational publication.",
+      "purpose": "education"
+    },
+    "infographic-866": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated anatomy/health diagram and added claims require qualified accuracy review before ProjectD educational publication.",
+      "purpose": "education"
+    },
+    "infographic-867": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated anatomy/health diagram and added claims require qualified accuracy review before ProjectD educational publication.",
+      "purpose": "education"
+    },
+    "infographic-868": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated anatomy/health diagram and added claims require qualified accuracy review before ProjectD educational publication.",
+      "purpose": "education"
+    },
+    "infographic-869": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Climate zones are rendered as horizontal bands rather than verified geographic distribution.",
+      "purpose": "education"
+    },
+    "infographic-870": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated tectonic boundaries and motion arrows require geographic verification.",
+      "purpose": "education"
+    },
+    "infographic-871": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated ocean current paths/directions/labels require verification.",
+      "purpose": "education"
+    },
+    "infographic-872": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated planetary depths, temperatures and state labels require scientific verification.",
+      "purpose": "education"
+    },
+    "infographic-873": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated biome geographic distribution and climate labels require verification.",
+      "purpose": "education"
+    },
+    "infographic-874": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Uniform time-zone bands do not establish actual legal offsets/date-line boundaries.",
+      "purpose": "education"
+    },
+    "infographic-875": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.304217+00:00",
+      "sheet": 26,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Explicitly fictional island map; not navigational or tourist-location evidence.",
+      "purpose": "education"
+    },
+    "infographic-876": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Universal altitude/temperature boundaries are not established for a specific region.",
+      "purpose": "education"
+    },
+    "infographic-877": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-878": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Continental configurations and dated eras require geographic verification.",
+      "purpose": "education"
+    },
+    "infographic-879": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Conceptual energy-flow illustration; not installation or electrical-safety instructions.",
+      "purpose": "education"
+    },
+    "infographic-880": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-881": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Invented Voltano vehicle; range and charge figures are illustrative.",
+      "purpose": "education"
+    },
+    "infographic-882": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Conceptual GPS diagram; added precision figures are not a device guarantee.",
+      "purpose": "education"
+    },
+    "infographic-884": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Conceptual engine cross-section; not engineering or maintenance instructions.",
+      "purpose": "education"
+    },
+    "infographic-883": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-885": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Illustrative storage diagram; speed specifications are not verified device benchmarks.",
+      "purpose": "education"
+    },
+    "infographic-886": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Conceptual cycle diagram; generated COP badge is not a tested efficiency rating.",
+      "purpose": "education"
+    },
+    "infographic-887": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-888": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Conceptual noise-cancellation illustration; perfect silence is a simplification, not a performance guarantee.",
+      "purpose": "education"
+    },
+    "infographic-889": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated interest milestones/calculations not independently recomputed; hold financial illustration.",
+      "purpose": "education"
+    },
+    "infographic-890": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Illustrative budgeting template with arithmetically matching $1500/$900/$600 split; not personalized financial advice.",
+      "purpose": "education"
+    },
+    "infographic-892": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:17.337789+00:00",
+      "sheet": 27,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Credit-scoring scope/model and generated advice need financial accuracy review.",
+      "purpose": "education"
+    },
+    "infographic-891": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generic bull/bear visual metaphor, not a real market report or trading signal.",
+      "purpose": "education"
+    },
+    "infographic-893": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Asset-risk/return positioning and added advice need financial accuracy review.",
+      "purpose": "education"
+    },
+    "infographic-894": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated mortgage payment, amortization amounts and crossover claim require recomputation.",
+      "purpose": "education"
+    },
+    "infographic-895": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Illustrative emergency-savings template, not personalized financial advice.",
+      "purpose": "education"
+    },
+    "infographic-896": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated historical price/purchasing-power figures and source note not verified.",
+      "purpose": "education"
+    },
+    "infographic-897": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Sample portfolio allocation and risk claims require financial accuracy review.",
+      "purpose": "education"
+    },
+    "infographic-898": {
+      "status": "held",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Debt payoff sample totals/interest savings not independently recomputed.",
+      "purpose": "education"
+    },
+    "infographic-899": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Illustrative bread process; timing varies by starter, temperature and recipe.",
+      "purpose": "education"
+    },
+    "infographic-900": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-901": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Illustrative pour-over recipe; 20g to 320g equals requested 1:16.",
+      "purpose": "education"
+    },
+    "infographic-902": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Illustrated assembly concept; not complete raw-fish food-safety guidance.",
+      "purpose": "education"
+    },
+    "infographic-903": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Illustrative pizza sequence; generated timing is not a universal cooking guarantee.",
+      "purpose": "education"
+    },
+    "infographic-905": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-904": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Generated nutrition labels are illustrative, not measured nutrient quantities.",
+      "purpose": "education"
+    },
+    "infographic-906": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Illustrative steeping chart; suitable conditions depend on tea.",
+      "purpose": "education"
+    },
+    "infographic-908": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.630202+00:00",
+      "sheet": 28,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Complete source prompt and uncropped native preview correspond; generation defects and actual dimensions retained.",
+      "purpose": "education"
+    },
+    "infographic-907": {
+      "status": "approved",
+      "reviewedAt": "2026-11-05T16:32:35.667899+00:00",
+      "sheet": 29,
+      "fullPromptRead": true,
+      "completeImageViewed": true,
+      "reason": "Illustrative cuts/size chart and claw-grip sketch, not a complete knife-safety course.",
+      "purpose": "education"
+    }
+  }
+}
