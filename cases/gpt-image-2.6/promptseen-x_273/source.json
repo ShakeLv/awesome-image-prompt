@@ -165,7 +165,7 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_363/image26-s01-sailor-and-dog-documentary-portrait-original-e0e9ff2eed61.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_273/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "approved-local-review-awaiting-publication",
+  "projectdStatus": "published-public-accepted",
   "visualReview": {
     "sourceWorkId": "x_273",
     "projectdId": "4e654299e3293d",
@@ -179,5 +179,7 @@
     "referenceAssetsNotRehosted": true,
     "reason": "Fictional fisherman; dog rests near lower frame edge. Synthetic documentary-style scene, not an actual photographed person.",
     "reviewedAt": "2026-11-05T19:45:21.452Z"
-  }
+  },
+  "projectdRunId": "42104580114",
+  "projectdReleaseId": "2026-11-05T20:36:29.825Z-0ff14108-9fc4-4e1d-8a18-d1014c56e714"
 }

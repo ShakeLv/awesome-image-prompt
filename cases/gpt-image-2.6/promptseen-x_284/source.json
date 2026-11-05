@@ -247,7 +247,7 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_377/image26-s12-river-valley-sketch-to-photograph-original-d2f725d263d1.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_284/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "approved-local-review-awaiting-publication",
+  "projectdStatus": "published-public-accepted",
   "visualReview": {
     "sourceWorkId": "x_284",
     "projectdId": "624cf7264ad9f8",
@@ -261,5 +261,7 @@
     "referenceAssetsNotRehosted": true,
     "reason": "Pencil landscape with three foreground pines and bridge, with some painterly texture. Exact source-input geometric preservation not independently validated.",
     "reviewedAt": "2026-11-05T19:45:21.452Z"
-  }
+  },
+  "projectdRunId": "42104580114",
+  "projectdReleaseId": "2026-11-05T20:36:29.825Z-0ff14108-9fc4-4e1d-8a18-d1014c56e714"
 }

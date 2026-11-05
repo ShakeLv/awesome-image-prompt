@@ -1,0 +1,447 @@
+{
+  "origin": "https://aitoolsradar.com",
+  "scope": "Ordinary public exact details, clipboard, media, pagination and localized detail frames. Gallery filtering remains a separate acceptance. Automatic unrelated/decorative image downloads blocked for this bounded audit; every target image URL is matched to the actual DOM src, fully fetched, hashed and decoded in the browser.",
+  "total": 9655,
+  "pairs": 27,
+  "verified": [
+    {
+      "id": "c57830a85694af",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 233064,
+        "width": 1536,
+        "height": 1024,
+        "hash": "dd67201a0b1df1655a6bef509738fcd4530f05c2581d4959423dc7e402830014"
+      },
+      "status": 200,
+      "bytes": 233064,
+      "width": 1536,
+      "height": 1024,
+      "hash": "dd67201a0b1df1655a6bef509738fcd4530f05c2581d4959423dc7e402830014"
+    },
+    {
+      "id": "b35550f6c0225f",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1808086,
+        "width": 1536,
+        "height": 1024,
+        "hash": "f3db6561c96edf5bf89bb177dd853682b5441447251bf324f58e70c3ae8baf4c"
+      },
+      "status": 200,
+      "bytes": 1808086,
+      "width": 1536,
+      "height": 1024,
+      "hash": "f3db6561c96edf5bf89bb177dd853682b5441447251bf324f58e70c3ae8baf4c"
+    },
+    {
+      "id": "3d43a063bc3627",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1212970,
+        "width": 1199,
+        "height": 1312,
+        "hash": "d974bff18c420627a6df1f4163e1bc297d0fe90b0817748613f7885409f6699d"
+      },
+      "status": 200,
+      "bytes": 1212970,
+      "width": 1199,
+      "height": 1312,
+      "hash": "d974bff18c420627a6df1f4163e1bc297d0fe90b0817748613f7885409f6699d"
+    },
+    {
+      "id": "b3be651c23f78c",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1569806,
+        "width": 1024,
+        "height": 1536,
+        "hash": "28ca00a5a09c6f23bead96834edada8c7fc693926bdcaef82a246a2360421d29"
+      },
+      "status": 200,
+      "bytes": 1569806,
+      "width": 1024,
+      "height": 1536,
+      "hash": "28ca00a5a09c6f23bead96834edada8c7fc693926bdcaef82a246a2360421d29"
+    },
+    {
+      "id": "4e654299e3293d",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1906700,
+        "width": 1024,
+        "height": 1536,
+        "hash": "7cc9ce3ec62265b65bd4b82728681986b05f1480a8f68986f80b61763d1d05c3"
+      },
+      "status": 200,
+      "bytes": 1906700,
+      "width": 1024,
+      "height": 1536,
+      "hash": "7cc9ce3ec62265b65bd4b82728681986b05f1480a8f68986f80b61763d1d05c3"
+    },
+    {
+      "id": "db5370b624c34e",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1992642,
+        "width": 1286,
+        "height": 1223,
+        "hash": "b44366881623ecb3b664a29b3adbbfbf1bdbac646631e0eda26f76624bac39aa"
+      },
+      "status": 200,
+      "bytes": 1992642,
+      "width": 1286,
+      "height": 1223,
+      "hash": "b44366881623ecb3b664a29b3adbbfbf1bdbac646631e0eda26f76624bac39aa"
+    },
+    {
+      "id": "b0a4768dde3c2c",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1163512,
+        "width": 1024,
+        "height": 1536,
+        "hash": "86c86d5d8d6ea9cc7be618bbeaccbafc2d0b6c4b3026c5b691e93ebbe3f90fe4"
+      },
+      "status": 200,
+      "bytes": 1163512,
+      "width": 1024,
+      "height": 1536,
+      "hash": "86c86d5d8d6ea9cc7be618bbeaccbafc2d0b6c4b3026c5b691e93ebbe3f90fe4"
+    },
+    {
+      "id": "6b3ede76de341c",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1393206,
+        "width": 1672,
+        "height": 941,
+        "hash": "d3ae0d14d17266009349ded18ee1861c9431a622b60b853b73cd2c0ea24e2587"
+      },
+      "status": 200,
+      "bytes": 1393206,
+      "width": 1672,
+      "height": 941,
+      "hash": "d3ae0d14d17266009349ded18ee1861c9431a622b60b853b73cd2c0ea24e2587"
+    },
+    {
+      "id": "2c23fa759c634a",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1109674,
+        "width": 1672,
+        "height": 941,
+        "hash": "bc7c7cb74a5cb2b8cbeac7eca832ae6ec9aa98b70e661f2864422c7e0f4bf503"
+      },
+      "status": 200,
+      "bytes": 1109674,
+      "width": 1672,
+      "height": 941,
+      "hash": "bc7c7cb74a5cb2b8cbeac7eca832ae6ec9aa98b70e661f2864422c7e0f4bf503"
+    },
+    {
+      "id": "88be265bd9949f",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1320630,
+        "width": 1672,
+        "height": 941,
+        "hash": "4f4a751779b20abea0c1a1d2b931189736ac9d8c694d68b99bd691ad59dbe83d"
+      },
+      "status": 200,
+      "bytes": 1320630,
+      "width": 1672,
+      "height": 941,
+      "hash": "4f4a751779b20abea0c1a1d2b931189736ac9d8c694d68b99bd691ad59dbe83d"
+    },
+    {
+      "id": "54734f1cbcfc6b",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 756466,
+        "width": 1536,
+        "height": 1024,
+        "hash": "999f765bb415a43f32e160d8dfc5cf2d797baed7f71f095ee9e0d167a681c0a6"
+      },
+      "status": 200,
+      "bytes": 756466,
+      "width": 1536,
+      "height": 1024,
+      "hash": "999f765bb415a43f32e160d8dfc5cf2d797baed7f71f095ee9e0d167a681c0a6"
+    },
+    {
+      "id": "624cf7264ad9f8",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 2519360,
+        "width": 1536,
+        "height": 1024,
+        "hash": "3fbc2d911f9bc9311847f6aa32c3ad7b7710c9de26871595c6fd5e91a4253e58"
+      },
+      "status": 200,
+      "bytes": 2519360,
+      "width": 1536,
+      "height": 1024,
+      "hash": "3fbc2d911f9bc9311847f6aa32c3ad7b7710c9de26871595c6fd5e91a4253e58"
+    },
+    {
+      "id": "9b88b132086299",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1269898,
+        "width": 1536,
+        "height": 1024,
+        "hash": "649b2eaaa5d0c0ea270875f846e495abda0a4fa5c990f8302ba74597082318ed"
+      },
+      "status": 200,
+      "bytes": 1269898,
+      "width": 1536,
+      "height": 1024,
+      "hash": "649b2eaaa5d0c0ea270875f846e495abda0a4fa5c990f8302ba74597082318ed"
+    },
+    {
+      "id": "a4ad50c50a124a",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 2158064,
+        "width": 1199,
+        "height": 1312,
+        "hash": "c4900349c6baaf03cf64fde01317c481327850271cddb279992e6d96ce1460ff"
+      },
+      "status": 200,
+      "bytes": 2158064,
+      "width": 1199,
+      "height": 1312,
+      "hash": "c4900349c6baaf03cf64fde01317c481327850271cddb279992e6d96ce1460ff"
+    },
+    {
+      "id": "742cf5853ebf9a",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 127822,
+        "width": 512,
+        "height": 512,
+        "hash": "877bd4f9c3d478cbcd40f89dbcb6ebe576eca9e2aa85e03ef268f17563d687d2"
+      },
+      "status": 200,
+      "bytes": 127822,
+      "width": 512,
+      "height": 512,
+      "hash": "877bd4f9c3d478cbcd40f89dbcb6ebe576eca9e2aa85e03ef268f17563d687d2"
+    },
+    {
+      "id": "d9c282e4d9f53c",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 91210,
+        "width": 512,
+        "height": 512,
+        "hash": "42f30f5cecfbf832b995591216020c8e6be36dda7d220373a4cb00394aea71af"
+      },
+      "status": 200,
+      "bytes": 91210,
+      "width": 512,
+      "height": 512,
+      "hash": "42f30f5cecfbf832b995591216020c8e6be36dda7d220373a4cb00394aea71af"
+    },
+    {
+      "id": "6081eafff6597f",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 93970,
+        "width": 512,
+        "height": 512,
+        "hash": "418e35c023a7ab9dd0502be02a2333ee0b64ff1b8ba067289edf04534ab32227"
+      },
+      "status": 200,
+      "bytes": 93970,
+      "width": 512,
+      "height": 512,
+      "hash": "418e35c023a7ab9dd0502be02a2333ee0b64ff1b8ba067289edf04534ab32227"
+    },
+    {
+      "id": "7e1b1dbe10d7b7",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 1626704,
+        "width": 1536,
+        "height": 1024,
+        "hash": "5656d906bb910a85f9aa1aa3082abd013119424b89f9586fbc3b21edae0c8fc6"
+      },
+      "status": 200,
+      "bytes": 1626704,
+      "width": 1536,
+      "height": 1024,
+      "hash": "5656d906bb910a85f9aa1aa3082abd013119424b89f9586fbc3b21edae0c8fc6"
+    },
+    {
+      "id": "1c5b06c02f9f31",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 135026,
+        "width": 512,
+        "height": 512,
+        "hash": "0c8d247ad9982270ffa63c2e739e50dd1e3e8b062c8e63fd4ad9d229d5698911"
+      },
+      "status": 200,
+      "bytes": 135026,
+      "width": 512,
+      "height": 512,
+      "hash": "0c8d247ad9982270ffa63c2e739e50dd1e3e8b062c8e63fd4ad9d229d5698911"
+    },
+    {
+      "id": "400fadffd45772",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 108910,
+        "width": 512,
+        "height": 512,
+        "hash": "13682836fe2375866434b4dffae3f58ef6e6f8d3e1f03991ea2829d7f6594da1"
+      },
+      "status": 200,
+      "bytes": 108910,
+      "width": 512,
+      "height": 512,
+      "hash": "13682836fe2375866434b4dffae3f58ef6e6f8d3e1f03991ea2829d7f6594da1"
+    },
+    {
+      "id": "91cef7564a4e53",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 137232,
+        "width": 512,
+        "height": 512,
+        "hash": "85f6df22c7ac1aae490d1879a8c0805432a3a120a49b3dd017da1ec0a6a53489"
+      },
+      "status": 200,
+      "bytes": 137232,
+      "width": 512,
+      "height": 512,
+      "hash": "85f6df22c7ac1aae490d1879a8c0805432a3a120a49b3dd017da1ec0a6a53489"
+    },
+    {
+      "id": "253f5094ec3bfe",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 139154,
+        "width": 512,
+        "height": 512,
+        "hash": "56075ca3949381b9c0e2587a76f8e57122aefdf87269e46a4823772b97c79c9d"
+      },
+      "status": 200,
+      "bytes": 139154,
+      "width": 512,
+      "height": 512,
+      "hash": "56075ca3949381b9c0e2587a76f8e57122aefdf87269e46a4823772b97c79c9d"
+    },
+    {
+      "id": "ac3393c628e0d4",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 78238,
+        "width": 512,
+        "height": 512,
+        "hash": "9756200124d1e287fdaa73cc66aad9678e77e8ae3301fb45d8d02a5bc55370c2"
+      },
+      "status": 200,
+      "bytes": 78238,
+      "width": 512,
+      "height": 512,
+      "hash": "9756200124d1e287fdaa73cc66aad9678e77e8ae3301fb45d8d02a5bc55370c2"
+    },
+    {
+      "id": "7b850391549947",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 123372,
+        "width": 512,
+        "height": 512,
+        "hash": "92eee95fd9509e0fb3855e1baa11bbf8c0eb41b5f7430689caafcb4d86247223"
+      },
+      "status": 200,
+      "bytes": 123372,
+      "width": 512,
+      "height": 512,
+      "hash": "92eee95fd9509e0fb3855e1baa11bbf8c0eb41b5f7430689caafcb4d86247223"
+    },
+    {
+      "id": "49ff08208fda46",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 160886,
+        "width": 512,
+        "height": 512,
+        "hash": "9058e48ea3014a47b785581dc27e62aeecbe0176418a95d6d68ee7c7cee9d942"
+      },
+      "status": 200,
+      "bytes": 160886,
+      "width": 512,
+      "height": 512,
+      "hash": "9058e48ea3014a47b785581dc27e62aeecbe0176418a95d6d68ee7c7cee9d942"
+    },
+    {
+      "id": "a3751c18b0cce5",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 81918,
+        "width": 512,
+        "height": 512,
+        "hash": "d006938ca40e988252f0e9cd7547615b530eddc59d13335e9c10bb5809f82ce8"
+      },
+      "status": 200,
+      "bytes": 81918,
+      "width": 512,
+      "height": 512,
+      "hash": "d006938ca40e988252f0e9cd7547615b530eddc59d13335e9c10bb5809f82ce8"
+    },
+    {
+      "id": "2ca2eaa6c111ff",
+      "clipboard": true,
+      "media": {
+        "status": 200,
+        "bytes": 112750,
+        "width": 512,
+        "height": 512,
+        "hash": "45bb8dbf0e462b2713ebe76c5bf9dead9b9d1cafe80cbb44498e5f9d48a41c16"
+      },
+      "status": 200,
+      "bytes": 112750,
+      "width": 512,
+      "height": 512,
+      "hash": "45bb8dbf0e462b2713ebe76c5bf9dead9b9d1cafe80cbb44498e5f9d48a41c16"
+    }
+  ],
+  "failed": [],
+  "pagination": 30,
+  "localeDetails": 10,
+  "releases": [
+    "2026-11-05T20:36:29.825Z-0ff14108-9fc4-4e1d-8a18-d1014c56e714"
+  ],
+  "completedAt": "2026-11-05T20:52:10.927Z"
+}

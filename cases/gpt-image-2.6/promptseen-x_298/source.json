@@ -269,7 +269,7 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_396/image26-g11-cycling-pelican-loop-original-253ae2f8e6a3.gif",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_298/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "approved-local-review-awaiting-publication",
+  "projectdStatus": "published-public-accepted",
   "visualReview": {
     "sourceWorkId": "x_298",
     "projectdId": "7b850391549947",
@@ -283,5 +283,7 @@
     "referenceAssetsNotRehosted": true,
     "reason": "All six frames viewed: pelican legs and body change pose; pedal geometry/background drift and wheel rotation are not physically continuous.",
     "reviewedAt": "2026-11-05T19:45:21.452Z"
-  }
+  },
+  "projectdRunId": "42104580114",
+  "projectdReleaseId": "2026-11-05T20:36:29.825Z-0ff14108-9fc4-4e1d-8a18-d1014c56e714"
 }

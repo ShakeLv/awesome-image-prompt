@@ -1,0 +1,8 @@
+{
+  "initialDetailPlaybackProbes": [
+    "/tmp/promptseen26-full-video-public.log",
+    "/tmp/promptseen26-full-video-public-retry.log",
+    "/tmp/promptseen26-full-video-public-chromium.log"
+  ],
+  "result": "Clicked detail preview before hydration; dialog was not open. All actual24 gallery video gates passed. Detail helper now waits for the real dialog by retrying only the click while absent; all12 whole video hashes and24 real detail plays pass. No content, media or source-version override."
+}

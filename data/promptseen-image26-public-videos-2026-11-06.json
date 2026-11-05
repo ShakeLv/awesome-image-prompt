@@ -1,0 +1,285 @@
+{
+  "origin": "https://aitoolsradar.com",
+  "plays": [
+    {
+      "id": "742cf5853ebf9a",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "6081eafff6597f",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "d9c282e4d9f53c",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "1c5b06c02f9f31",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "400fadffd45772",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "91cef7564a4e53",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "253f5094ec3bfe",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "ac3393c628e0d4",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "2ca2eaa6c111ff",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "a3751c18b0cce5",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "7b850391549947",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "49ff08208fda46",
+      "width": 1512,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "742cf5853ebf9a",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "6081eafff6597f",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "d9c282e4d9f53c",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "1c5b06c02f9f31",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "400fadffd45772",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "91cef7564a4e53",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "253f5094ec3bfe",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "ac3393c628e0d4",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "2ca2eaa6c111ff",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "a3751c18b0cce5",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "7b850391549947",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "49ff08208fda46",
+      "width": 390,
+      "duration": 1.8,
+      "playback": true,
+      "credit": true,
+      "escapeFocus": true
+    }
+  ],
+  "media": [
+    {
+      "id": "742cf5853ebf9a",
+      "status": 200,
+      "bytes": 352055,
+      "mime": "video/mp4",
+      "sha256": "1b837906c204d882d8d29be0f80e156e4f6137f3accd0f437fa3b42fa7a72f64"
+    },
+    {
+      "id": "6081eafff6597f",
+      "status": 200,
+      "bytes": 224657,
+      "mime": "video/mp4",
+      "sha256": "fa8c1eb848638fdd68a70aa76012d4b746e368460a8a3d3a526abb10b17bbf86"
+    },
+    {
+      "id": "d9c282e4d9f53c",
+      "status": 200,
+      "bytes": 255897,
+      "mime": "video/mp4",
+      "sha256": "0ef192060547c9f47d88cdd2bc053331d76a6d3b67b1e64a3a9dacff3d0ae540"
+    },
+    {
+      "id": "1c5b06c02f9f31",
+      "status": 200,
+      "bytes": 132495,
+      "mime": "video/mp4",
+      "sha256": "d39153703e1b1722e9bd3390d5746a18b42cdf74c4ee68772e33d0e1d82d36f7"
+    },
+    {
+      "id": "400fadffd45772",
+      "status": 200,
+      "bytes": 156402,
+      "mime": "video/mp4",
+      "sha256": "0d3689af736b462e09b40293908c74b854d1c1a4ed45b32d928e1611360f25e3"
+    },
+    {
+      "id": "91cef7564a4e53",
+      "status": 200,
+      "bytes": 284993,
+      "mime": "video/mp4",
+      "sha256": "3f6f67b68c5e286a41f4f653faa8a2fb1d80e18163100a10d12bc8414a28f86f"
+    },
+    {
+      "id": "253f5094ec3bfe",
+      "status": 200,
+      "bytes": 252208,
+      "mime": "video/mp4",
+      "sha256": "4b0c33e93e1c98879a11bc5065429b97d3428fd2d7abe92e3adc33138ef639d6"
+    },
+    {
+      "id": "ac3393c628e0d4",
+      "status": 200,
+      "bytes": 166466,
+      "mime": "video/mp4",
+      "sha256": "05d7f8fd66c5a598ea09fdeaf3fcf9dfc8c6b27c7b0866348f7a36ab8790459c"
+    },
+    {
+      "id": "2ca2eaa6c111ff",
+      "status": 200,
+      "bytes": 149550,
+      "mime": "video/mp4",
+      "sha256": "aa2a2ba48f7fa38e603b74bfa289b7055057a9c3de1f44f762a719d60017d79d"
+    },
+    {
+      "id": "a3751c18b0cce5",
+      "status": 200,
+      "bytes": 123052,
+      "mime": "video/mp4",
+      "sha256": "593284ae49287582c1fd1576c05cb7eb2cc8b827c52589251b9ceabff5327c7c"
+    },
+    {
+      "id": "7b850391549947",
+      "status": 200,
+      "bytes": 385913,
+      "mime": "video/mp4",
+      "sha256": "22fddf7cc6b188c24cac3d5c26bcb957e4254748b12e341af07e872bf08b31e1"
+    },
+    {
+      "id": "49ff08208fda46",
+      "status": 200,
+      "bytes": 256713,
+      "mime": "video/mp4",
+      "sha256": "513bfd4caaafbd0d194954fef497ea31b654fa32fdd235a64ab37daa005d57bf"
+    }
+  ],
+  "clipboardNotUsed": true,
+  "completedAt": "2026-11-05T20:57:13.573Z"
+}

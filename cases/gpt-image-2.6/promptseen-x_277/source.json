@@ -165,7 +165,7 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_367/image26-s05-1969-outdoor-music-festival-original-b79e4f0591d4.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_277/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "approved-local-review-awaiting-publication",
+  "projectdStatus": "published-public-accepted",
   "visualReview": {
     "sourceWorkId": "x_277",
     "projectdId": "b35550f6c0225f",
@@ -179,5 +179,7 @@
     "referenceAssetsNotRehosted": true,
     "reason": "Fictional 1969 festival design; not an authentic historical poster or event record.",
     "reviewedAt": "2026-11-05T19:45:21.452Z"
-  }
+  },
+  "projectdRunId": "42104580114",
+  "projectdReleaseId": "2026-11-05T20:36:29.825Z-0ff14108-9fc4-4e1d-8a18-d1014c56e714"
 }

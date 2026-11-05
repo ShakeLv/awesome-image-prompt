@@ -1,0 +1,15 @@
+{
+  "origin": "https://aitoolsradar.com",
+  "transport": "HTTP/1 ordinary public browser, no content version override",
+  "models": {
+    "GPT Image 2.6": 28,
+    "Qwen Image 3.0 Pro": 3,
+    "Qwen Image 3.0": 35,
+    "GPT Image 2.6 Flare": 14,
+    "GPT Image 2.6 Sunburst": 25
+  },
+  "release": "2026-11-05T20:36:29.825Z-0ff14108-9fc4-4e1d-8a18-d1014c56e714",
+  "historyReload": true,
+  "visibleImages": 25,
+  "finishedAt": "2026-11-05T20:50:41.116Z"
+}

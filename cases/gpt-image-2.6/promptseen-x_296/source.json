@@ -187,7 +187,7 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_393/image26-g09-standing-backflip-loop-original-45400bf590b0.gif",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_296/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "approved-local-review-awaiting-publication",
+  "projectdStatus": "published-public-accepted",
   "visualReview": {
     "sourceWorkId": "x_296",
     "projectdId": "2ca2eaa6c111ff",
@@ -201,5 +201,7 @@
     "referenceAssetsNotRehosted": true,
     "reason": "All six frames viewed: coarse gymnastic rotation with different first crouching and last standing poses; loop seam is visible, not continuous-motion validation or exercise instruction.",
     "reviewedAt": "2026-11-05T19:45:21.452Z"
-  }
+  },
+  "projectdRunId": "42104580114",
+  "projectdReleaseId": "2026-11-05T20:36:29.825Z-0ff14108-9fc4-4e1d-8a18-d1014c56e714"
 }
