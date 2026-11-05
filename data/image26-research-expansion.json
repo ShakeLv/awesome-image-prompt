@@ -1,0 +1,90 @@
+{
+  "searchedRepositories": [
+    {
+      "description": "ChatGPT GIF generator and AI filmmaking toolkit using OpenAI GPT Image 2.6",
+      "fullName": "antropos17/chatgpt-gif-cinema",
+      "updatedAt": "2026-11-05T06:53:18Z",
+      "url": "https://github.com/antropos17/chatgpt-gif-cinema"
+    },
+    {
+      "description": "GPT Image 2.6 prompts, visual examples, and original sources. An open collection by Raphael.",
+      "fullName": "netlogs/awesome-gpt-image-2-6",
+      "updatedAt": "2026-11-05T07:43:06Z",
+      "url": "https://github.com/netlogs/awesome-gpt-image-2-6"
+    },
+    {
+      "description": "Images 2.6 prompts — 10 EN/ZH pairs bound to real awesome-gpt-images-2.6 cases",
+      "fullName": "Maynor996/images-2-6-prompts",
+      "updatedAt": "2026-11-05T05:11:04Z",
+      "url": "https://github.com/Maynor996/images-2-6-prompts"
+    },
+    {
+      "description": "Images 2.6 Flare vs Sunburst — gpt-image-2.6-flare vs sunburst comparison with verified pairs",
+      "fullName": "Maynor996/images-2-6-flare-vs-sunburst",
+      "updatedAt": "2026-11-05T05:10:46Z",
+      "url": "https://github.com/Maynor996/images-2-6-flare-vs-sunburst"
+    },
+    {
+      "description": "Images 2.6 SVG tutorial — usable native SVG with gpt-image-2.6-flare / sunburst (Field & Flour cases)",
+      "fullName": "Maynor996/images-2-6-svg-tutorial",
+      "updatedAt": "2026-11-05T05:10:13Z",
+      "url": "https://github.com/Maynor996/images-2-6-svg-tutorial"
+    },
+    {
+      "description": "GPT Image 2.6 prompts and credited image examples, manually synced from SandBase Lab. Bilingual guide, tutorial and source notes.",
+      "fullName": "sandbase-lab/awesome-gpt-image-2-6",
+      "updatedAt": "2026-11-05T04:41:48Z",
+      "url": "https://github.com/sandbase-lab/awesome-gpt-image-2-6"
+    },
+    {
+      "description": "OpenAI Images 2.6 (gpt-image-2.6) tools for DeepSeek Harness, with Roblox presets and Open Cloud asset upload",
+      "fullName": "yangshulin2333/dsh-openai-image",
+      "updatedAt": "2026-11-05T06:58:12Z",
+      "url": "https://github.com/yangshulin2333/dsh-openai-image"
+    },
+    {
+      "description": "An illustrated GPT Image 2.6 feature tour: 22 API outputs, markup edits, SVGs, GIFs, prompts, timings and usage-priced costs.",
+      "fullName": "az9713/gpt-image-2.6-demo",
+      "updatedAt": "2026-11-05T05:35:41Z",
+      "url": "https://github.com/az9713/gpt-image-2.6-demo"
+    },
+    {
+      "description": "Curated GPT-Image-2.6 prompts and API notes for OpenAI's newest image model — GIFs, markup edits, SVG, complexity, Flare vs Sunburst.",
+      "fullName": "Anil-matcha/Awesome-GPT-Image-2.6-API-Prompts",
+      "updatedAt": "2026-11-05T06:18:15Z",
+      "url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2.6-API-Prompts"
+    },
+    {
+      "description": "Bilingual Images 2.6 / GPT Image 2.6 SVG & GIF tutorials (Flare vs Sunburst) · https://maynor996.github.io/images-2-6-svg-gif-guide/",
+      "fullName": "Maynor996/images-2-6-svg-gif-guide",
+      "updatedAt": "2026-11-05T03:44:49Z",
+      "url": "https://github.com/Maynor996/images-2-6-svg-gif-guide"
+    },
+    {
+      "description": "OpenAI Images 2.6 / GPT Image 2.6（Flare & Sunburst）介绍、特性与官方提示词案例画廊（非官方）",
+      "fullName": "xianyu110/awesome-gpt-images-2.6",
+      "updatedAt": "2026-11-05T03:21:03Z",
+      "url": "https://github.com/xianyu110/awesome-gpt-images-2.6"
+    },
+    {
+      "description": "Open-source AI image prompt library with tested GPT-Image-2.5, GPT-Image-2.6 examples and reusable templates to adapt for Nano Banana, FLUX, Midjourney and Stable Diffusion. Discover prompts for image generation, editing, product photography, posters, portraits and illustration.",
+      "fullName": "picontapLab/prompt-seen",
+      "updatedAt": "2026-11-05T04:29:41Z",
+      "url": "https://github.com/picontapLab/prompt-seen"
+    },
+    {
+      "description": "给一张图，AI 还你一张同审美的复刻图。Claude Code Skill 工作流，底层 gpt-image-2，6 维风格拆解 · 155 张审美锚点 · 5 轮自动迭代。",
+      "fullName": "kaijie0074-art/ip-image-studio",
+      "updatedAt": "2026-09-26T18:47:41Z",
+      "url": "https://github.com/kaijie0074-art/ip-image-studio"
+    }
+  ],
+  "additionalReviewedSources": {
+    "Anil-matcha/Awesome-GPT-Image-2.6-API-Prompts": "CC BY 4.0 prompt patterns but no matching actual outputs; not accepted pairs",
+    "antropos17/chatgpt-gif-cinema": "Actual API output evidence; evaluation license explicitly forbids redistribution, source-linked only",
+    "yangshulin2333/dsh-openai-image": "MIT tool with presets; no complete matched prompt/output corpus",
+    "picontapLab/prompt-seen": "Examined source records: exact provider ID unavailable and runs predate release; not relabeled 2.6"
+  },
+  "xSearch": "Needs login; public original posts remain separately readable",
+  "newPairsNotInvented": true
+}

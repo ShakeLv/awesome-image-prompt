@@ -18,9 +18,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-01/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-01/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp",
+      "projectdId": "82c6f87ff1ab01"
     },
     {
       "id": "official-case-2",
@@ -51,9 +54,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/photorealism-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-03/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-03/photorealism-gpt-image-2-6-sunburst.webp",
+      "projectdId": "617961e67383df"
     },
     {
       "id": "official-case-4",
@@ -67,9 +73,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/infographic-coffee-machine-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-04/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-04/infographic-coffee-machine-gpt-image-2-6-sunburst.webp",
+      "projectdId": "c6a5a53f385694"
     },
     {
       "id": "official-case-5",
@@ -83,9 +92,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/thread-ad-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-05/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-05/thread-ad-gpt-image-2-6-sunburst.webp",
+      "projectdId": "296e401e215871"
     },
     {
       "id": "official-case-6",
@@ -101,9 +113,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/logo-generation-1-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-06/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-06/logo-generation-1-gpt-image-2-6-sunburst.webp",
+      "projectdId": "46d7b704338bf8"
     },
     {
       "id": "official-case-7",
@@ -133,9 +148,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/ui-farmers-market-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-08/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-08/ui-farmers-market-gpt-image-2-6-sunburst.webp",
+      "projectdId": "d1011ccb7bf418"
     },
     {
       "id": "official-case-9",
@@ -149,9 +167,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/scientific-educational-cellular-respiration-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-09/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-09/scientific-educational-cellular-respiration-gpt-image-2-6-sunburst.webp",
+      "projectdId": "5318a2f5b00601"
     },
     {
       "id": "official-case-10",
@@ -165,9 +186,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/market-opportunity-slide-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-10/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-10/market-opportunity-slide-gpt-image-2-6-sunburst.webp",
+      "projectdId": "40ff389649857e"
     },
     {
       "id": "official-case-11",
@@ -197,9 +221,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/extract-product-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-12/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-12/extract-product-gpt-image-2-6-sunburst.webp",
+      "projectdId": "1edebf7c82d27a"
     },
     {
       "id": "official-case-13",
@@ -246,9 +273,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/world-knowledge-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-16/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-16/world-knowledge-gpt-image-2-6-sunburst.webp",
+      "projectdId": "13733117cdfdce"
     },
     {
       "id": "official-case-17",
@@ -263,9 +293,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-17/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-17/infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp",
+      "projectdId": "b94f50b8d12141"
     },
     {
       "id": "official-case-18",
@@ -280,9 +313,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/motorcycle-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-18/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-18/motorcycle-gpt-image-2-6-sunburst.webp",
+      "projectdId": "8133aca2afa05e"
     },
     {
       "id": "official-case-19",
@@ -297,9 +333,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/outfit-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-19/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-19/outfit-gpt-image-2-6-sunburst.webp",
+      "projectdId": "4d132bbcdeb786"
     },
     {
       "id": "official-case-20",
@@ -314,9 +353,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/test-woman-with-dog-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-20/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-20/test-woman-with-dog-gpt-image-2-6-sunburst.webp",
+      "projectdId": "7a842a1d3db289"
     },
     {
       "id": "official-case-21",
@@ -331,9 +373,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/realistic-valley-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-21/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-21/realistic-valley-gpt-image-2-6-sunburst.webp",
+      "projectdId": "21afbb3cbbe19f"
     },
     {
       "id": "official-case-22",
@@ -348,9 +393,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/man-with-no-flower-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-22/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-22/man-with-no-flower-gpt-image-2-6-sunburst.webp",
+      "projectdId": "509c302fc76df9"
     },
     {
       "id": "official-case-23",
@@ -365,9 +413,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/scene-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-23/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-23/scene-gpt-image-2-6-sunburst.webp",
+      "projectdId": "f218fba12cb471"
     },
     {
       "id": "official-case-24",
@@ -382,9 +433,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/billboard-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-24/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-24/billboard-gpt-image-2-6-sunburst.webp",
+      "projectdId": "764a3095b2a61f"
     },
     {
       "id": "official-case-25",
@@ -399,9 +453,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/billboard-winter-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-25/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-25/billboard-winter-gpt-image-2-6-sunburst.webp",
+      "projectdId": "b90e133202c83a"
     },
     {
       "id": "official-case-26",
@@ -416,9 +473,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-26/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-26/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp",
+      "projectdId": "776a1404a00033"
     },
     {
       "id": "official-case-27",
@@ -433,9 +493,12 @@
         "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/childrens-book-illustration-2-gpt-image-2-6-sunburst.webp"
       ],
       "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
-      "reviewStatus": "indexed-pending-primary-review",
+      "reviewStatus": "selected-output-reviewed",
       "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
-      "projectdStatus": "not-imported"
+      "projectdStatus": "reviewed-awaiting-publication",
+      "promptFile": "cases/gpt-image-2.6/official-27/prompt.txt",
+      "imageFile": "cases/gpt-image-2.6/official-27/childrens-book-illustration-2-gpt-image-2-6-sunburst.webp",
+      "projectdId": "d15ff05d90a26a"
     },
     {
       "id": "official-case-28",

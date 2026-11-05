@@ -1,0 +1,208 @@
+{
+  "sourceGroups": 50,
+  "fullPairsArchived": 21,
+  "pending": 29,
+  "projectdPublished": 0,
+  "outcomes": [
+    {
+      "id": "official-case-1",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-2",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-3",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-4",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-5",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-6",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-7",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-8",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-9",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-10",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-11",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-12",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-13",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-14",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-16",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-17",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-18",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-19",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-20",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-21",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-22",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-23",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-24",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-25",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-26",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-27",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "official-case-28",
+      "outcome": "full-pair-archived"
+    },
+    {
+      "id": "nightlab-01",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-02",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-03",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-04",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-05",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-06",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-07",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-08",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-09",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-10",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-11",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-12",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-13",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-14",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-15",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-16",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-17",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-18",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-19",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-20",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-21",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "nightlab-22",
+      "outcome": "held-no-explicit-source-reuse-license"
+    },
+    {
+      "id": "creator-v3rt0x-tea",
+      "outcome": "held-no-explicit-creator-reuse-license"
+    }
+  ]
+}
