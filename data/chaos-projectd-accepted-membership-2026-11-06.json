@@ -1,0 +1,1912 @@
+{
+  "acceptedAt": "2026-11-05T18:29:35.149313+00:00",
+  "sourceCommit": "5296db8c996e38776c83a0bc8c64f848dcd512b3",
+  "runId": "42080135905",
+  "releaseId": "2026-11-05T18:06:43.546Z-05b5aa42-aeb4-4684-994a-6a3ee2a3531c",
+  "items": [
+    {
+      "sourceWorkId": "2d-3d-medium-collision/series-crayon-apple-carrier/01-paper-figure-reference",
+      "id": "7e8a23e308cec9",
+      "url": "https://aitoolsradar.com/en/prompts/7e8a23e308cec9",
+      "status": "public-accepted",
+      "promptSha256": "019cfce4a516b846b0b7a650eec18d15c797c7bdaf1d21e3f4464926720d72c9",
+      "imageSha256": "5a761c79294217e8a099c79c2890efd6b953433b0922f4b33d2c607737a33358"
+    },
+    {
+      "sourceWorkId": "2d-3d-medium-collision/series-crayon-apple-carrier/02-glass-marble-lift",
+      "id": "0e871cbcf0a7ed",
+      "url": "https://aitoolsradar.com/en/prompts/0e871cbcf0a7ed",
+      "status": "public-accepted",
+      "promptSha256": "a452e961945171d6db28e216eabdc1ee2ff57fc57be451f4caee2a965988fd16",
+      "imageSha256": "36a570f06004ec12009507ce75e6a5c3786d382a88e486af405752929b414a54"
+    },
+    {
+      "sourceWorkId": "2d-3d-medium-collision/series-crayon-apple-carrier/03-metal-cube-balance",
+      "id": "b34f2d885a47b0",
+      "url": "https://aitoolsradar.com/en/prompts/b34f2d885a47b0",
+      "status": "public-accepted",
+      "promptSha256": "182f6c2128e875788d9d7ac6eec7d50babcb43b391fc385576c61a42a86a07fd",
+      "imageSha256": "ae3516a333c7e4b7150ddfb3417c2dd63f73dc12e02d8edbd0995061b6f61cf4"
+    },
+    {
+      "sourceWorkId": "2d-3d-medium-collision/series-crayon-apple-carrier/04-water-balloon-strain",
+      "id": "710d438af0b673",
+      "url": "https://aitoolsradar.com/en/prompts/710d438af0b673",
+      "status": "public-accepted",
+      "promptSha256": "d9eda0d4bbda4ae3bdcf82d79653fb713acbe3d60edec83941b122e02840fbbe",
+      "imageSha256": "c1c353a6ca7bd451672506e124be21853cc80b2f4ef9a0ba2018aba12d78d678"
+    },
+    {
+      "sourceWorkId": "2d-3d-medium-collision/single-medium-collision-studies/ink-cat-fishbowl",
+      "id": "8c3aeaf4124f0b",
+      "url": "https://aitoolsradar.com/en/prompts/8c3aeaf4124f0b",
+      "status": "public-accepted",
+      "promptSha256": "dab89d7cadfcccd78e6881ddac6da812fbbe944ef2e22aed074b8c45eff1783e",
+      "imageSha256": "df45a0c7907d3ae35a7b54b6056acbc713c9062d147d5c51febab100d6a677e1"
+    },
+    {
+      "sourceWorkId": "2d-3d-medium-collision/single-medium-collision-studies/collage-astronaut-orange",
+      "id": "6947bc756ba8e6",
+      "url": "https://aitoolsradar.com/en/prompts/6947bc756ba8e6",
+      "status": "public-accepted",
+      "promptSha256": "b4bcf68d0763fb8085a32b52ada465db84f0d6d17f6b1556050c85d0a7031d50",
+      "imageSha256": "c59b803c86ac2332a073a66877d87455923c1425ca76daa3db587f31db59e4c8"
+    },
+    {
+      "sourceWorkId": "2d-3d-medium-collision/single-medium-collision-studies/blueprint-hand-crystal",
+      "id": "a116d8b4bd4229",
+      "url": "https://aitoolsradar.com/en/prompts/a116d8b4bd4229",
+      "status": "public-accepted",
+      "promptSha256": "dfe8ed96c569775b2d7313e9b8969c061a5cc361555d06cf9995fee463148b3f",
+      "imageSha256": "2bcbf59eba9acd68391050f54a7694321ea352db0c7f060a1516bc2c72520ee4"
+    },
+    {
+      "sourceWorkId": "abstract-expressionism-study/single-abstract-expressionism-studies/color-field-threshold",
+      "id": "324a08a326fb10",
+      "url": "https://aitoolsradar.com/en/prompts/324a08a326fb10",
+      "status": "public-accepted",
+      "promptSha256": "6425f597bc9411cbf0d415c2359751981aa00dfff5dad3fe11052dcf825bda06",
+      "imageSha256": "7410086f09d9271182f05a38452863547f5ea67db7a9a5dc4ddb2ec8a93799f5"
+    },
+    {
+      "sourceWorkId": "abstract-expressionism-study/single-abstract-expressionism-studies/fractured-figure-surge",
+      "id": "caf28d413b891a",
+      "url": "https://aitoolsradar.com/en/prompts/caf28d413b891a",
+      "status": "public-accepted",
+      "promptSha256": "d4ac473b245761d8dfd3889e158eecfa65aeddeaa54767e6b70d6e33575a4663",
+      "imageSha256": "33a337f232c730bc5f7db779f7727fc189024f8b0c4c99cb9d286a271b3e587c"
+    },
+    {
+      "sourceWorkId": "abstract-expressionism-study/single-abstract-expressionism-studies/black-brush-choir",
+      "id": "4c550a442a8651",
+      "url": "https://aitoolsradar.com/en/prompts/4c550a442a8651",
+      "status": "public-accepted",
+      "promptSha256": "817b7e46029e58e6dc63bb26347580a7ed68e5b85aa6c0716aa2892ae2932059",
+      "imageSha256": "355360a2ed7c0e9248e80edf460c64c16c1434811f83d36409fca19e0636dcb0"
+    },
+    {
+      "sourceWorkId": "abstract-expressionism-study/single-abstract-expressionism-studies/studio-floor-afterimage",
+      "id": "6bdbdad42f2290",
+      "url": "https://aitoolsradar.com/en/prompts/6bdbdad42f2290",
+      "status": "public-accepted",
+      "promptSha256": "33efb2da983cfea5f1a08eed52ca334530f027458900dcbcc89831c874404d85",
+      "imageSha256": "c64b41bc8cef478590ff791ea3194daef422573ceb1b213ede948cf768665501"
+    },
+    {
+      "sourceWorkId": "abstract-expressionism-study/single-abstract-expressionism-studies/impasto-weather",
+      "id": "15e686921217bf",
+      "url": "https://aitoolsradar.com/en/prompts/15e686921217bf",
+      "status": "public-accepted",
+      "promptSha256": "695062d1a8d5cebc6cc9e210d33ddc6d94128aaacccc93a138bb285ad7eee574",
+      "imageSha256": "d987edc81a9e9e93d165735f112c64d721e0da73ecbc87f6527b0d999ff9de20"
+    },
+    {
+      "sourceWorkId": "abstract-expressionism-study/single-abstract-expressionism-studies/gesture-architecture",
+      "id": "79b4e578bf1aeb",
+      "url": "https://aitoolsradar.com/en/prompts/79b4e578bf1aeb",
+      "status": "public-accepted",
+      "promptSha256": "f1de359ea38d6e1973813e12d2062789d5c69c0b7ed7a810c0a8e82bee8967b9",
+      "imageSha256": "3a92096a97083ba0d4e9b5dfeaa79852282fdea7a394e19f5b80b741cfedc19a"
+    },
+    {
+      "sourceWorkId": "abstract-expressionism-study/single-abstract-expressionism-studies/museum-wall-hang",
+      "id": "dec6ccf8811395",
+      "url": "https://aitoolsradar.com/en/prompts/dec6ccf8811395",
+      "status": "public-accepted",
+      "promptSha256": "6168f8be45775303c3ae5643c5fd9e77906994968a133890363f49b810c234bd",
+      "imageSha256": "ce9b08879d2fc14d2071a9e5d91cb942f0f597eb776e44edc362c7d094466d33"
+    },
+    {
+      "sourceWorkId": "absurd-object-serious-photo-series/series-core-system/01-reference-anchor",
+      "id": "314991912259f3",
+      "url": "https://aitoolsradar.com/en/prompts/314991912259f3",
+      "status": "public-accepted",
+      "promptSha256": "2ad523bc839cbbec80b789227e46c57bb2880b54e3bbcf49ec14401435564bec",
+      "imageSha256": "3190ffae35098bd85b5e2c736fa912cca65a47d03fa8c5291c07274571ce5eb0"
+    },
+    {
+      "sourceWorkId": "absurd-object-serious-photo-series/series-core-system/02-variant-one",
+      "id": "6737e2f424dfde",
+      "url": "https://aitoolsradar.com/en/prompts/6737e2f424dfde",
+      "status": "public-accepted",
+      "promptSha256": "7b54fa91428b98810d834f97080dac9b5827aeb16f17c515a0343fd767216993",
+      "imageSha256": "89507d1ee6dc35722c86982e3c4f56ddc8fb3f5862ef911f02753e7ff055e3b9"
+    },
+    {
+      "sourceWorkId": "absurd-object-serious-photo-series/series-core-system/03-variant-two",
+      "id": "61fa9b7dbc5894",
+      "url": "https://aitoolsradar.com/en/prompts/61fa9b7dbc5894",
+      "status": "public-accepted",
+      "promptSha256": "913307675471ec18b80bf13f9318042f8a2888eaf82c3dca6f759d64f05a4831",
+      "imageSha256": "6bbe0af3d0cedaedc97890b58b42f12c74ebc156b35133fd30729403390ea390"
+    },
+    {
+      "sourceWorkId": "absurd-object-serious-photo-series/series-core-system/04-variant-three",
+      "id": "fcb121f574fea5",
+      "url": "https://aitoolsradar.com/en/prompts/fcb121f574fea5",
+      "status": "public-accepted",
+      "promptSha256": "1e5d5ab93479cb35ec0ee255b9e16f85e9b10ab41de21d9d8c09e1201c0634f7",
+      "imageSha256": "16ba998f0419fc67c3c2271b80a02a072b134ef702682a418cb9d6e07271b558"
+    },
+    {
+      "sourceWorkId": "absurd-object-serious-photo-series/single-support-studies/support-one",
+      "id": "8aa02172ef28e0",
+      "url": "https://aitoolsradar.com/en/prompts/8aa02172ef28e0",
+      "status": "public-accepted",
+      "promptSha256": "f029ce363e0ba63a72501c0b38f6863d0ff3929e78c317d12bce8424d30c74cb",
+      "imageSha256": "c2556a52938a9086e0669771da7287d5577639e1b5fafa653c7b281a5192510e"
+    },
+    {
+      "sourceWorkId": "absurd-object-serious-photo-series/single-support-studies/support-two",
+      "id": "d0bb5392000114",
+      "url": "https://aitoolsradar.com/en/prompts/d0bb5392000114",
+      "status": "public-accepted",
+      "promptSha256": "413b787d3178e4b1a5cf75381ebfe1b7655bde3353ec69f56c4d0ca71460dc4c",
+      "imageSha256": "cc793b02ae159b3291fc6d86d2c633eef984d70a1d28bfd2cf803d660ab221c3"
+    },
+    {
+      "sourceWorkId": "absurd-object-serious-photo-series/single-support-studies/support-three",
+      "id": "b5669368ff5284",
+      "url": "https://aitoolsradar.com/en/prompts/b5669368ff5284",
+      "status": "public-accepted",
+      "promptSha256": "489ee44ee2c060b16104d6114d864ec985e46bd5b744d494a5c76e77ac3695e5",
+      "imageSha256": "b9f0df8e496f4ac55856e02ec010253c48a0caf79d09fcf80be1ac0e021775b6"
+    },
+    {
+      "sourceWorkId": "absurd-object-serious-photo-series/single-support-studies/support-four",
+      "id": "7be20e9fc1c3e8",
+      "url": "https://aitoolsradar.com/en/prompts/7be20e9fc1c3e8",
+      "status": "public-accepted",
+      "promptSha256": "9e19c6fe257be3269bd73d94eaac3a2da323009c0957c8baca576f33f2ded2e5",
+      "imageSha256": "e1e2c37a1d2470622315a85e4371ac078964fd03b32e207e1fa49ee93ebe4150"
+    },
+    {
+      "sourceWorkId": "absurd-object-serious-photo-series/single-support-studies/support-five",
+      "id": "ba7b475930d2c2",
+      "url": "https://aitoolsradar.com/en/prompts/ba7b475930d2c2",
+      "status": "public-accepted",
+      "promptSha256": "159faa3e03c5cd9b790bda7b22cdb70a6dc4a63b6ab630bc1e72fb15f44b7cd4",
+      "imageSha256": "a960159dec1af0a86289d889bb0a033b8895bf34932f3a4fa8fdae574ac673b6"
+    },
+    {
+      "sourceWorkId": "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/vent-garden-pulse",
+      "id": "30040cd6cb84ce",
+      "url": "https://aitoolsradar.com/en/prompts/30040cd6cb84ce",
+      "status": "public-accepted",
+      "promptSha256": "959a9398105ac402305742e68ac34fac5013b55f08ddb12aa6bc1ca31c8f44ca",
+      "imageSha256": "045629d1082e866c8956467c31df4fe5dbc8432c9abbb4c400e72831873d9510"
+    },
+    {
+      "sourceWorkId": "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/medusa-drift-column",
+      "id": "ec037e7e58f6f4",
+      "url": "https://aitoolsradar.com/en/prompts/ec037e7e58f6f4",
+      "status": "public-accepted",
+      "promptSha256": "40d3e8cb25f316b5f83ca9c75364f7e5a49f1a8862d042b433b2e6ed206e162f",
+      "imageSha256": "6a77e3b23f71cfc93e1880bd7ff0607312bb1e2a1090b21b331b05fc7de3280b"
+    },
+    {
+      "sourceWorkId": "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/scavenger-pack-trail",
+      "id": "e5ec70b5e689f8",
+      "url": "https://aitoolsradar.com/en/prompts/e5ec70b5e689f8",
+      "status": "public-accepted",
+      "promptSha256": "0cf0cb7e2b87cd34f65f9aadd980c99bd709a145896a12d5af2e29b7d5c5d4ef",
+      "imageSha256": "84edb35e02817d0016deff40ad2901a52c5a138821b2e128329ea05678154d36"
+    },
+    {
+      "sourceWorkId": "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/nursery-shell-colony",
+      "id": "37756235a989f9",
+      "url": "https://aitoolsradar.com/en/prompts/37756235a989f9",
+      "status": "public-accepted",
+      "promptSha256": "c81540f7bf5db78f4ddbed8106a7d552d22bfdc4c3d0014a65567b00ec99168d",
+      "imageSha256": "c7ca53121f76e8259b1373631177d5687af821271a0f7226402f032b8db9b746"
+    },
+    {
+      "sourceWorkId": "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/siphon-forest-closeup",
+      "id": "d1a8a010b5bbb8",
+      "url": "https://aitoolsradar.com/en/prompts/d1a8a010b5bbb8",
+      "status": "public-accepted",
+      "promptSha256": "bb8ad3bfeea22dca0129fcf18620f8cc44cff9df4cc2705a67fd7765b9a90f38",
+      "imageSha256": "c1e33e60b953a9efb34a5473f87a9e3284361581915f38e42267e027ea020a21"
+    },
+    {
+      "sourceWorkId": "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/predator-lure-ambush",
+      "id": "c11754e7f90235",
+      "url": "https://aitoolsradar.com/en/prompts/c11754e7f90235",
+      "status": "public-accepted",
+      "promptSha256": "84edb73b75706ded2a1cb7e45ed26580cbde3e1c3f1685d17d413bea0f38ac98",
+      "imageSha256": "f80c04978da62f212ee7d451b26c77ba2fcf9520297ed2c066e02730a1ba0ae3"
+    },
+    {
+      "sourceWorkId": "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/carrion-snow-feeders",
+      "id": "042537f2e6837b",
+      "url": "https://aitoolsradar.com/en/prompts/042537f2e6837b",
+      "status": "public-accepted",
+      "promptSha256": "a2a4aa75b3ae8e05c924ebb6b854b2d766a62d999798cea776911a27773ebf74",
+      "imageSha256": "a5ad1e78890a49a935b6b623479e14c4cc6775abf7fd99e4619af27f62425204"
+    },
+    {
+      "sourceWorkId": "abyssal-bioluminescent-ecosystem/single-abyssal-bioluminescent-studies/survey-plate-assemblage",
+      "id": "ccd1301b59d604",
+      "url": "https://aitoolsradar.com/en/prompts/ccd1301b59d604",
+      "status": "public-accepted",
+      "promptSha256": "9daa785fce3d06c235f232d4f604cd08548bceb7896d14ab8e7fa7f682c0e164",
+      "imageSha256": "6493360cd74a30698bee7c7b2b91209363c893664014e3bee8ac82655ae1b657"
+    },
+    {
+      "sourceWorkId": "action-beat-comic-page/series-theme-core/01-reference-anchor",
+      "id": "b62eb06cc4b6e2",
+      "url": "https://aitoolsradar.com/en/prompts/b62eb06cc4b6e2",
+      "status": "public-accepted",
+      "promptSha256": "cf17b238329b8171c799819fb6de230c6d68bf03c6ce859c8f6d5293429c3e76",
+      "imageSha256": "45d7d809937a8d70b191b9518f009348eeb2623bc89460d423fb80cb4ec044fc"
+    },
+    {
+      "sourceWorkId": "action-beat-comic-page/series-theme-core/02-variation-one",
+      "id": "43b30c85ee4f0c",
+      "url": "https://aitoolsradar.com/en/prompts/43b30c85ee4f0c",
+      "status": "public-accepted",
+      "promptSha256": "e46d2e9d9b9d9ced856559de72fd7026757b13038e76ec627870042f7edbc36b",
+      "imageSha256": "c149399d4d4dadbb228512c82cf23fbbe6f6fa8a6bb9747ba4c8bc181fae53a4"
+    },
+    {
+      "sourceWorkId": "action-beat-comic-page/series-theme-core/03-variation-two",
+      "id": "d41709d34bf192",
+      "url": "https://aitoolsradar.com/en/prompts/d41709d34bf192",
+      "status": "public-accepted",
+      "promptSha256": "e31573c5c89ff968b48099f6e217e63ef0e2ae8c152927398d9cd213815992f9",
+      "imageSha256": "eabe1c2164ed59027fd201d3772b4824ce205ca9b1a90a35eed6fd108a021e2c"
+    },
+    {
+      "sourceWorkId": "action-beat-comic-page/series-theme-core/04-variation-three",
+      "id": "b44fe39a0130c4",
+      "url": "https://aitoolsradar.com/en/prompts/b44fe39a0130c4",
+      "status": "public-accepted",
+      "promptSha256": "af5ac5e0b38e799dd302185eda96e0a826966b5394da80b7c30be10ad6511b1f",
+      "imageSha256": "f29ba723d1e6d28681d46cb2f80f1bf18c9d09711a1ec4035788a8accac1381d"
+    },
+    {
+      "sourceWorkId": "action-beat-comic-page/single-theme-extensions/detail-proof",
+      "id": "dd9fc97e455405",
+      "url": "https://aitoolsradar.com/en/prompts/dd9fc97e455405",
+      "status": "public-accepted",
+      "promptSha256": "10c00e3da02c7bb9262934cdbf376c554098f1d84f6434de105d49ea1d38d991",
+      "imageSha256": "ba9c7291b67e7ae7e0573cd8a26d1ab6fae239ea114d4b4ab5990b0f4530067d"
+    },
+    {
+      "sourceWorkId": "action-beat-comic-page/single-theme-extensions/system-board",
+      "id": "adc95d799ac01d",
+      "url": "https://aitoolsradar.com/en/prompts/adc95d799ac01d",
+      "status": "public-accepted",
+      "promptSha256": "fed2f0f1b8978d355dd1aa5aa2f3e2f7856fe4e50af346472f16bb406ffbfeea",
+      "imageSha256": "166b946947bb6d4fda4342273f31ff272d6d7df5515a93cec808840d6aac08e1"
+    },
+    {
+      "sourceWorkId": "action-beat-comic-page/single-theme-extensions/promo-crop",
+      "id": "fcb5f3250f0773",
+      "url": "https://aitoolsradar.com/en/prompts/fcb5f3250f0773",
+      "status": "public-accepted",
+      "promptSha256": "ade02cf0559cb0fd1db2beb8f298f7ffd83975867313ed313812b4694d0bea5f",
+      "imageSha256": "054c60c13e48d8b2dc21522619c1b1bd092427dd8cc39b2a6269b8fa1bc93428"
+    },
+    {
+      "sourceWorkId": "action-beat-comic-page/single-theme-extensions/finale-study",
+      "id": "4d5b519a46f8e1",
+      "url": "https://aitoolsradar.com/en/prompts/4d5b519a46f8e1",
+      "status": "public-accepted",
+      "promptSha256": "90895d9100654f8f421e17b923189185637a3f372209266d6b80c0e458c4b2cb",
+      "imageSha256": "f1b42a671aee1c35d5660b6289bba803b49159ad09c4aa725fd7562a406c49dd"
+    },
+    {
+      "sourceWorkId": "actor-casting-portrait-sheet/series-portrait-brand-system/01-reference-portrait-anchor",
+      "id": "be9ecd8a628cef",
+      "url": "https://aitoolsradar.com/en/prompts/be9ecd8a628cef",
+      "status": "public-accepted",
+      "promptSha256": "52677c99ecd0251ab8e6ef8c660205f5dc5d8d64edff20f2beca2ee28cf981ac",
+      "imageSha256": "4d871a2b9077edff8f167c56ced5289b79feb4edb1a184ff201f35b0c2b1de78"
+    },
+    {
+      "sourceWorkId": "actor-casting-portrait-sheet/series-portrait-brand-system/02-clean-headshot",
+      "id": "1fda3ae7a2ad09",
+      "url": "https://aitoolsradar.com/en/prompts/1fda3ae7a2ad09",
+      "status": "public-accepted",
+      "promptSha256": "dcb4f2b89dbd7033f92d56087c08795edd6da0ebbfda0327ab35b768b161b0a8",
+      "imageSha256": "31490fc7cdcdb3064892ca4607d97978a74786ebcd9f64695178749f56dc7d66"
+    },
+    {
+      "sourceWorkId": "actor-casting-portrait-sheet/series-portrait-brand-system/03-three-quarter-hero",
+      "id": "c358c7ee197932",
+      "url": "https://aitoolsradar.com/en/prompts/c358c7ee197932",
+      "status": "public-accepted",
+      "promptSha256": "ac1b1ddc5f47c7b9d22d531e22fa330cb104e6054dc2c5020f440a6f5c2797d8",
+      "imageSha256": "1e85d91f62d262972b98f7672761c61443166521b4a28228eb48a8e9eadc5914"
+    },
+    {
+      "sourceWorkId": "actor-casting-portrait-sheet/series-portrait-brand-system/04-profile-study",
+      "id": "aae3285d1d56e1",
+      "url": "https://aitoolsradar.com/en/prompts/aae3285d1d56e1",
+      "status": "public-accepted",
+      "promptSha256": "cf782258601f9f420c839490f9d7983bbd27f49ee81045802837c55f9a60753c",
+      "imageSha256": "17a0defcc3fa3ace5a1ea09c3a4ee6dd0e51cec9c2ef2f0890dac404d99e068c"
+    },
+    {
+      "sourceWorkId": "actor-casting-portrait-sheet/series-portrait-brand-system/05-approachable-smile",
+      "id": "09d5c7f2c502ad",
+      "url": "https://aitoolsradar.com/en/prompts/09d5c7f2c502ad",
+      "status": "public-accepted",
+      "promptSha256": "0a74f0e8a36954d456cdefd6e330c8c6e43e14ea32ab7470474a795e93262f62",
+      "imageSha256": "6aacb679c2405e7a45083cf6077d41faaa8ce4d4f5efac0b362620f012c642e9"
+    },
+    {
+      "sourceWorkId": "actor-casting-portrait-sheet/series-portrait-brand-system/06-dark-backdrop-editorial",
+      "id": "23b195c606bb71",
+      "url": "https://aitoolsradar.com/en/prompts/23b195c606bb71",
+      "status": "public-accepted",
+      "promptSha256": "a7fc668013f18d79bb64809f6bca0d3306c1dc1ea42862cd6467e39584e31f3c",
+      "imageSha256": "96324a24386e45cc01b0d33a822b5bbae946785be851fb0c922b18b28aa2c92f"
+    },
+    {
+      "sourceWorkId": "actor-casting-portrait-sheet/series-portrait-brand-system/07-banner-crop-portrait",
+      "id": "fc86d5e4933e9a",
+      "url": "https://aitoolsradar.com/en/prompts/fc86d5e4933e9a",
+      "status": "public-accepted",
+      "promptSha256": "69177a69010a885be404a0e9da7719c7a7f93c5e8860d17e4d60be4cb2be6aca",
+      "imageSha256": "944d4302b02492ad8e0f48a1f6e88f0e316f75b06463a28a455cdd63c04d03a1"
+    },
+    {
+      "sourceWorkId": "actor-casting-portrait-sheet/series-portrait-brand-system/08-monochrome-alt",
+      "id": "056773bc771601",
+      "url": "https://aitoolsradar.com/en/prompts/056773bc771601",
+      "status": "public-accepted",
+      "promptSha256": "5b0e80ee9ac8d6655ea541b149038afdc51d7ce46fea93f11a9bcb8af367a631",
+      "imageSha256": "556b87cc73e3e822f02df6552776f41d8dcfb13221b00df4f450dadb198d71e9"
+    },
+    {
+      "sourceWorkId": "actor-casting-portrait-sheet/series-portrait-brand-system/09-approval-sheet-layout",
+      "id": "e4737f7fdcbd19",
+      "url": "https://aitoolsradar.com/en/prompts/e4737f7fdcbd19",
+      "status": "public-accepted",
+      "promptSha256": "f1c73d5f76d5533b0a73db13491e183b96055c1678dfea3af56a610d1c067838",
+      "imageSha256": "59692bb72342b98c881a1d1ab334d0fec5e8c21700849a75281a8a4ec7065600"
+    },
+    {
+      "sourceWorkId": "adoption-and-rescue-awareness-kit/single-rescue-awareness-studies/02-foster-day-diary-card",
+      "id": "d56e95034b8adf",
+      "url": "https://aitoolsradar.com/en/prompts/d56e95034b8adf",
+      "status": "public-accepted",
+      "promptSha256": "c2730010727be9e3c1398c4125fa0abc2eaea0c63ec98cea7798226650764be6",
+      "imageSha256": "a5436fd2c52767311b3d1c8782b8d7e979fe4b40e34c6ec27b3e4e9f497c84ba"
+    },
+    {
+      "sourceWorkId": "adoption-and-rescue-awareness-kit/single-rescue-awareness-studies/03-bonded-pair-awareness-board",
+      "id": "59f26313f757cb",
+      "url": "https://aitoolsradar.com/en/prompts/59f26313f757cb",
+      "status": "public-accepted",
+      "promptSha256": "c46ee6e2466433f918cec9f0a4fb48b67b9b5944398b6b2657e72187ab27a59a",
+      "imageSha256": "5b121124138606c78c2eee4d2a33708ef7ac785436e374b2a30e18f2c543dee0"
+    },
+    {
+      "sourceWorkId": "adoption-and-rescue-awareness-kit/single-rescue-awareness-studies/04-weekend-adoption-event-promo",
+      "id": "4d1d3be44de21a",
+      "url": "https://aitoolsradar.com/en/prompts/4d1d3be44de21a",
+      "status": "public-accepted",
+      "promptSha256": "d06b5b6d090a7a4ecaad95850dc459ef0e16f18dd2e9759509b619eb448ca37f",
+      "imageSha256": "291d9152edceab2d51bf6a5923f67abb20f805895e129f7ea2dd6e42adbad5f5"
+    },
+    {
+      "sourceWorkId": "adoption-and-rescue-awareness-kit/single-rescue-awareness-studies/05-senior-pet-dignity-portrait",
+      "id": "f6c0818bccee17",
+      "url": "https://aitoolsradar.com/en/prompts/f6c0818bccee17",
+      "status": "public-accepted",
+      "promptSha256": "cf255bff9e5a0b8da80738f79aba583f690bab49a63af2faefdb55aa26334102",
+      "imageSha256": "dcfc2c84e7b6c26dac48aa6b93b58b4f4df64ae1e0e3f4649104dd9a479920a5"
+    },
+    {
+      "sourceWorkId": "adoption-and-rescue-awareness-kit/single-rescue-awareness-studies/06-shy-dog-trust-building-card",
+      "id": "1681600ab5dba6",
+      "url": "https://aitoolsradar.com/en/prompts/1681600ab5dba6",
+      "status": "public-accepted",
+      "promptSha256": "71b77312c18905570d7a93a40fcd4a0efb19c4f801e516f6f60b731efab281ea",
+      "imageSha256": "2bfad7e7dc789496fa09eecc5dea86dae49551d2cb804cd916c0e23d2419afe3"
+    },
+    {
+      "sourceWorkId": "adoption-and-rescue-awareness-kit/single-rescue-awareness-studies/07-volunteer-supply-drive-board",
+      "id": "282bad8d0b8b25",
+      "url": "https://aitoolsradar.com/en/prompts/282bad8d0b8b25",
+      "status": "public-accepted",
+      "promptSha256": "557b06616588deae49fd6c5ee49904c0c2e03332cf69d551e1c571fc21255e51",
+      "imageSha256": "30e89b155b3df6a0d45d82fdf473c707c56beb65a45cca7b0b9bbd65a1f74292"
+    },
+    {
+      "sourceWorkId": "adoption-and-rescue-awareness-kit/single-rescue-awareness-studies/08-adoption-success-home-scene",
+      "id": "b23b22a1e7d757",
+      "url": "https://aitoolsradar.com/en/prompts/b23b22a1e7d757",
+      "status": "public-accepted",
+      "promptSha256": "f511f5710ba5f57f77bead4997258fb3b63926af84c4fa5977eeef17f73eae6e",
+      "imageSha256": "1c7f21ce5221d9591e7d62d0d29e0008a4cda49882a346d692ae8054c0ce8d61"
+    },
+    {
+      "sourceWorkId": "adoption-and-rescue-awareness-kit/single-rescue-awareness-studies/09-mobile-rescue-van-awareness",
+      "id": "51a10128f1c767",
+      "url": "https://aitoolsradar.com/en/prompts/51a10128f1c767",
+      "status": "public-accepted",
+      "promptSha256": "8a9b065754ae5ba402fec2a7cb2ac605fb80d4a14fd3f89f1cc21948d4f5a175",
+      "imageSha256": "02daefced74345ab80d66f83db59a2556c0383cd26bac42e0d6516c07b577639"
+    },
+    {
+      "sourceWorkId": "album-cover-and-single-rollout-system/series-release-identity/01-reference-midnight-transmitter",
+      "id": "5d0206a084dd74",
+      "url": "https://aitoolsradar.com/en/prompts/5d0206a084dd74",
+      "status": "public-accepted",
+      "promptSha256": "b0af47175823c576e5910b3b7af3fd03148abc5078f6c4e2fc6f0dd83e214ec6",
+      "imageSha256": "613011120555fde4d8a1fd184997bf6ca5e95275fee4f9e12bd01a1a52e0abe9"
+    },
+    {
+      "sourceWorkId": "album-cover-and-single-rollout-system/series-release-identity/02-single-after-rain",
+      "id": "c1b0324a3c299f",
+      "url": "https://aitoolsradar.com/en/prompts/c1b0324a3c299f",
+      "status": "public-accepted",
+      "promptSha256": "c030c738f4cf208d3e5a313fca1b9a90dd9fdd1dbf2ec407663cb25800a8a14f",
+      "imageSha256": "d64c35f4f545c2fca16b6b833bc55f05a92cb40cc77bfb50e76867d87cb1782f"
+    },
+    {
+      "sourceWorkId": "album-cover-and-single-rollout-system/series-release-identity/03-ep-strobe-platform",
+      "id": "40724386971012",
+      "url": "https://aitoolsradar.com/en/prompts/40724386971012",
+      "status": "public-accepted",
+      "promptSha256": "c1d74dfcf33e04ab6587be45e2d7ac9915dc4a34a693e69b7d31653311dea2e0",
+      "imageSha256": "59d978c4827b6e7a96b8507384b21fca235546a2ab0c43a399c4db13d7e5f37b"
+    },
+    {
+      "sourceWorkId": "album-cover-and-single-rollout-system/series-release-identity/04-deluxe-dawn-vinyl",
+      "id": "d30dacbf90b5aa",
+      "url": "https://aitoolsradar.com/en/prompts/d30dacbf90b5aa",
+      "status": "public-accepted",
+      "promptSha256": "d6a46f225089ec670660a715ebc8fc6da16ef293d619a6ab125dd3d25b42b882",
+      "imageSha256": "8a2ece27f10924d54da7fb271a17e8b4a21cd02ebd1f56ebfab15f6c5eb5ab6d"
+    },
+    {
+      "sourceWorkId": "album-cover-and-single-rollout-system/single-rollout-assets/streaming-tile-crop",
+      "id": "78806856191036",
+      "url": "https://aitoolsradar.com/en/prompts/78806856191036",
+      "status": "public-accepted",
+      "promptSha256": "6b5d991f1727956beed349788416ae164dd8f918bb8cedbd26495e683a8cae5a",
+      "imageSha256": "eabf9b280b9c3923a259158b9ea727f70b4b88d5bfa88dd08a260904c5bb5996"
+    },
+    {
+      "sourceWorkId": "album-cover-and-single-rollout-system/single-rollout-assets/announcement-poster-wall",
+      "id": "aece420603f11e",
+      "url": "https://aitoolsradar.com/en/prompts/aece420603f11e",
+      "status": "public-accepted",
+      "promptSha256": "8fdc300098060b609abde885ad907741ed26f7bcbcc26f5c8a0d22b20811567f",
+      "imageSha256": "ed9f20a1a8b795fca94d8e20cd62b5abb6a98902a9fa089b15a46813b3e8e567"
+    },
+    {
+      "sourceWorkId": "album-cover-and-single-rollout-system/single-rollout-assets/cassette-flatlay-study",
+      "id": "5082d6cfacea7c",
+      "url": "https://aitoolsradar.com/en/prompts/5082d6cfacea7c",
+      "status": "public-accepted",
+      "promptSha256": "639fc5929a74756e28d4bd29c6712528b14cc59417f2a2dc24b5a6ffd52bf7ad",
+      "imageSha256": "4ecb14984542d5d516bce1a51f5c7971d561c3bfea43660c8e6bbc5a5fffecb6"
+    },
+    {
+      "sourceWorkId": "album-cover-and-single-rollout-system/single-rollout-assets/sticker-sheet-promo",
+      "id": "35e19de7db35a0",
+      "url": "https://aitoolsradar.com/en/prompts/35e19de7db35a0",
+      "status": "public-accepted",
+      "promptSha256": "d658597e7ae4e81e7bf3bdbf6ca842db6c14861341012e38faa998339028dc4b",
+      "imageSha256": "1f6dadb21544ff8afee9aa01078cf391ad1c1ba3754d40f9752afa5e98b34829"
+    },
+    {
+      "sourceWorkId": "alien-ecology-field-guide-system/series-core-system/01-ecology-atlas-anchor",
+      "id": "bd2d5bfd555eac",
+      "url": "https://aitoolsradar.com/en/prompts/bd2d5bfd555eac",
+      "status": "public-accepted",
+      "promptSha256": "0fe1ead158238eb52721715d056bcf1d9ae246c8e14d4dbdf07a8fd68e1dbe1e",
+      "imageSha256": "0ec23b8000a16198f4cf57c5c54f8dcb40d86ec0a14461ff094b828787842c7b"
+    },
+    {
+      "sourceWorkId": "alien-ecology-field-guide-system/series-core-system/02-nocturnal-pollinator-cycle",
+      "id": "2f1692ae339076",
+      "url": "https://aitoolsradar.com/en/prompts/2f1692ae339076",
+      "status": "public-accepted",
+      "promptSha256": "db9e78995e91c30374c34c87e5bb564886472f29f5e8ce35477a539c16763efe",
+      "imageSha256": "1a4b6105b699982709a53ccf4df41bde708590f10d82137ddef074a99156cedb"
+    },
+    {
+      "sourceWorkId": "alien-ecology-field-guide-system/series-core-system/03-predator-prey-chain",
+      "id": "347a40f7b43192",
+      "url": "https://aitoolsradar.com/en/prompts/347a40f7b43192",
+      "status": "public-accepted",
+      "promptSha256": "349b8316a88da7ada04a0ce569954ce697c31a0b5b624c0d639136cdf2783402",
+      "imageSha256": "499a5f90d6cad0d10d3264aaa45684d508b53f9f26896b7b336c3ea9ee997327"
+    },
+    {
+      "sourceWorkId": "alien-ecology-field-guide-system/series-core-system/04-seasonal-mutation-atlas",
+      "id": "548daf7fcf6742",
+      "url": "https://aitoolsradar.com/en/prompts/548daf7fcf6742",
+      "status": "public-accepted",
+      "promptSha256": "590f5a9169777f20660cbca434ea0df4a263e22b9f6592ef17708aa71b027b2a",
+      "imageSha256": "e912599fa4fa83b3d4b291b7b883da3cc33b2ffb7dca47a2df1588a9c03ff98d"
+    },
+    {
+      "sourceWorkId": "alien-ecology-field-guide-system/single-support-studies/01-basin-microbiome-plate",
+      "id": "837b392a9fc2bf",
+      "url": "https://aitoolsradar.com/en/prompts/837b392a9fc2bf",
+      "status": "public-accepted",
+      "promptSha256": "f4d7675e0d4bd6f4bb6749fc8dc618867b3b1a086a87d6002a0b2adfb2557679",
+      "imageSha256": "3f1e386b3451ce37bb5aa6e8624fbac74036b47c26eb4443584ad17b90849a59"
+    },
+    {
+      "sourceWorkId": "alien-ecology-field-guide-system/single-support-studies/02-ridge-herbivore-profile",
+      "id": "86bd86b1d7b800",
+      "url": "https://aitoolsradar.com/en/prompts/86bd86b1d7b800",
+      "status": "public-accepted",
+      "promptSha256": "cf488e16cbc76eea6eabd4b335a20fc2a5fe4ab005770c7c9bc7421ba914b35b",
+      "imageSha256": "f5f5f24ccc65e70c67504dab4e6c1415392ceaae2ae7c120620cb65ede161108"
+    },
+    {
+      "sourceWorkId": "alien-ecology-field-guide-system/single-support-studies/03-bloom-season-spire-forest",
+      "id": "9dbe4bff2a985c",
+      "url": "https://aitoolsradar.com/en/prompts/9dbe4bff2a985c",
+      "status": "public-accepted",
+      "promptSha256": "9100b719d216eec2f0f10d59115f51da3df640e51f31d80cba1c282411af5723",
+      "imageSha256": "abb247977a2999bb46ae936953eb5801eb8c44db9198c756d40b0f8d0891daf6"
+    },
+    {
+      "sourceWorkId": "alien-ecology-field-guide-system/single-support-studies/04-cave-bioluminescent-brood",
+      "id": "fcafdde64d5a23",
+      "url": "https://aitoolsradar.com/en/prompts/fcafdde64d5a23",
+      "status": "public-accepted",
+      "promptSha256": "a82d282a12801ea7a370f04045a00db723b0a4b2809301fd110efcf3e1ea42b5",
+      "imageSha256": "6f976673e40fe39440fab8fad02c327d07330e852f03e7c3aaeff01e6a965761"
+    },
+    {
+      "sourceWorkId": "alien-ecology-field-guide-system/single-support-studies/05-aerial-migration-chart",
+      "id": "167bf52f78c5a6",
+      "url": "https://aitoolsradar.com/en/prompts/167bf52f78c5a6",
+      "status": "public-accepted",
+      "promptSha256": "d745fb3a8aa67986e1354e765c918d777240d7a4d92c7c1575e23d6429a68e89",
+      "imageSha256": "608547a0731fa33450855bcb0938754722447b211c56a0d26a084d556a07f3e2"
+    },
+    {
+      "sourceWorkId": "analytics-storytelling-dashboard-views/series-core-system/01-reference-anchor",
+      "id": "9eb62de5e14705",
+      "url": "https://aitoolsradar.com/en/prompts/9eb62de5e14705",
+      "status": "public-accepted",
+      "promptSha256": "59f449617966b1c3da2ab91540516b8f6824443298bc2fb1ee476701b929c2ce",
+      "imageSha256": "15e6677e157117c9aeb294448349e809fc0a55ccf2798b910b7d2cc7a9a80ff6"
+    },
+    {
+      "sourceWorkId": "analytics-storytelling-dashboard-views/series-core-system/02-variant-one",
+      "id": "8106a76c3196f4",
+      "url": "https://aitoolsradar.com/en/prompts/8106a76c3196f4",
+      "status": "public-accepted",
+      "promptSha256": "c55d89c698fa6df876796b2a9c2df6b3812088ea2bb778e2febbb0ebc356502f",
+      "imageSha256": "46fc4b0598aaf0820ad03d62185df2e5329371593af4be1e957800d61cbc3822"
+    },
+    {
+      "sourceWorkId": "analytics-storytelling-dashboard-views/series-core-system/03-variant-two",
+      "id": "a8e9ee7810cc2d",
+      "url": "https://aitoolsradar.com/en/prompts/a8e9ee7810cc2d",
+      "status": "public-accepted",
+      "promptSha256": "9d33304056c198981090474b13d0537a269e5d3188d3fac085ca39d3ad20c896",
+      "imageSha256": "41e423bba2df9e874b4ee1e58e7635dea81d74f5e2fa8949c69a0b225acb32f2"
+    },
+    {
+      "sourceWorkId": "analytics-storytelling-dashboard-views/series-core-system/04-variant-three",
+      "id": "ce608183d4726a",
+      "url": "https://aitoolsradar.com/en/prompts/ce608183d4726a",
+      "status": "public-accepted",
+      "promptSha256": "b98e04445e735bbf31cffe495731f11430c2c2b622a8a76001ec32cca1472c73",
+      "imageSha256": "945ffd298239a3d44716cda05153ce73d13cd7998c15c0e2159662a547bd2128"
+    },
+    {
+      "sourceWorkId": "analytics-storytelling-dashboard-views/single-support-studies/support-one",
+      "id": "11b320a7e79710",
+      "url": "https://aitoolsradar.com/en/prompts/11b320a7e79710",
+      "status": "public-accepted",
+      "promptSha256": "2be7250bf5c2bbf5325a30453cccceb7831403055db1a7646455b6fb89986911",
+      "imageSha256": "8a123caea5a2bae58af2efab009d7d8d6eb454c75b1829606c0e84531ee8365b"
+    },
+    {
+      "sourceWorkId": "analytics-storytelling-dashboard-views/single-support-studies/support-two",
+      "id": "aba6e4e315578a",
+      "url": "https://aitoolsradar.com/en/prompts/aba6e4e315578a",
+      "status": "public-accepted",
+      "promptSha256": "420663da51e86d290f50bafd8e05ba6884940c586c61729f73985e1d477d30de",
+      "imageSha256": "8e919df0c23814dde1e56a716fb163828b15a984a76f441a64ddd28774a1df8c"
+    },
+    {
+      "sourceWorkId": "analytics-storytelling-dashboard-views/single-support-studies/support-three",
+      "id": "87ccc8a6a568e9",
+      "url": "https://aitoolsradar.com/en/prompts/87ccc8a6a568e9",
+      "status": "public-accepted",
+      "promptSha256": "b28e5cccfeacf6b062c2e7a83016e7c3c3d9a6236897efd9349591d13b15698a",
+      "imageSha256": "b48b1022db44deae940c5fed79497b90e6874ab2c21d706fd26dc5d5e79725e7"
+    },
+    {
+      "sourceWorkId": "analytics-storytelling-dashboard-views/single-support-studies/support-four",
+      "id": "6f1d957ff7e005",
+      "url": "https://aitoolsradar.com/en/prompts/6f1d957ff7e005",
+      "status": "public-accepted",
+      "promptSha256": "c3530f5adf44b5aea526e146e2033f384f029d7ce9bf3ba73045041f4f596731",
+      "imageSha256": "e397225a92f9fb52239ed93b0b9928cd78ffbdec99ac3060c2c23bb63c403dd5"
+    },
+    {
+      "sourceWorkId": "analytics-storytelling-dashboard-views/single-support-studies/support-five",
+      "id": "50a7199142aafb",
+      "url": "https://aitoolsradar.com/en/prompts/50a7199142aafb",
+      "status": "public-accepted",
+      "promptSha256": "cc864fb4d9845f6b6fcfc833357a5b328becd630bc3e422eb190cde22772dd9b",
+      "imageSha256": "01404b29d8400c7e3e90af4bd7ccae7187e2de26568623fa0dd463b719726959"
+    },
+    {
+      "sourceWorkId": "anamorphic-perspective-art/single-anamorphic-studies/gallery-cylinder-shadow",
+      "id": "9a81d467890f25",
+      "url": "https://aitoolsradar.com/en/prompts/9a81d467890f25",
+      "status": "public-accepted",
+      "promptSha256": "2a3348570bfd62de8df5751afea23ed042f76b94176113627ba8dd58f78d4e5d",
+      "imageSha256": "f385ec5cb2003d46fe84ff98a51eb237fc787c3def276d12cbe7dddb49fb648a"
+    },
+    {
+      "sourceWorkId": "ancient-book-restoration/single-ancient-book-restoration-studies/macro-study",
+      "id": "ab06376461306a",
+      "url": "https://aitoolsradar.com/en/prompts/ab06376461306a",
+      "status": "public-accepted",
+      "promptSha256": "24d52bf5cb4db3a07c107e5810f8511f8803382d9405bebbe3ec30489e065181",
+      "imageSha256": "876e4e4d0c0bfc51f550716c50cdd11e5c0e6ecb6a572e2cacee2cfb102a95c2"
+    },
+    {
+      "sourceWorkId": "ancient-book-restoration/single-ancient-book-restoration-studies/side-light-study",
+      "id": "42f9eba3b019a8",
+      "url": "https://aitoolsradar.com/en/prompts/42f9eba3b019a8",
+      "status": "public-accepted",
+      "promptSha256": "01941e6e28062bcbe891fa9b76f2d460fa53aa0029e83bee6f5ed88a946e2fa3",
+      "imageSha256": "fe1260b8ffb5a5bfa3eff903f21f0210793b6bbadf03f78061a2018ff6afda18"
+    },
+    {
+      "sourceWorkId": "ancient-book-restoration/single-ancient-book-restoration-studies/process-trace",
+      "id": "fb9388ae6aa98d",
+      "url": "https://aitoolsradar.com/en/prompts/fb9388ae6aa98d",
+      "status": "public-accepted",
+      "promptSha256": "8c07e7d20f80b2dab64286278dba1dff64ed104a1016c543e129a95d2da00a2b",
+      "imageSha256": "d59856ae15738c378e9102fc9db93f25537d62b64caf995c428503ccd502b6b3"
+    },
+    {
+      "sourceWorkId": "ancient-book-restoration/single-ancient-book-restoration-studies/specimen-table",
+      "id": "266c0b2da58b60",
+      "url": "https://aitoolsradar.com/en/prompts/266c0b2da58b60",
+      "status": "public-accepted",
+      "promptSha256": "ae20f4d60a6c682681b23c8c1bd000c640d5ecb248d05d8e752d67714d79b20c",
+      "imageSha256": "df04601dd8bcf145be68a9ec76734580f3cc809956617153c7bc284594b75a3c"
+    },
+    {
+      "sourceWorkId": "ancient-book-restoration/single-ancient-book-restoration-studies/atmospheric-view",
+      "id": "3a9f0734aa0d7d",
+      "url": "https://aitoolsradar.com/en/prompts/3a9f0734aa0d7d",
+      "status": "public-accepted",
+      "promptSha256": "363fa16b83b3a707d4c2deeca74493842dffb4e3930d04e0b7e1591e1352086e",
+      "imageSha256": "6988df882116d415d4542cc11e64fee34497998007601940eb5ad11533c1f7eb"
+    },
+    {
+      "sourceWorkId": "ancient-book-restoration/single-ancient-book-restoration-studies/structure-closeup",
+      "id": "19584b506da902",
+      "url": "https://aitoolsradar.com/en/prompts/19584b506da902",
+      "status": "public-accepted",
+      "promptSha256": "4b5ff9d06c956e5e1d5f4da459b2acf453fd673bf836891a7398237d6072c800",
+      "imageSha256": "6db0428d0828c2967d115dc3b98fc8824a1466ef86702448814ae0d4edcb85fa"
+    },
+    {
+      "sourceWorkId": "ancient-book-restoration/single-ancient-book-restoration-studies/signature-material",
+      "id": "3dea3aa78993c0",
+      "url": "https://aitoolsradar.com/en/prompts/3dea3aa78993c0",
+      "status": "public-accepted",
+      "promptSha256": "d8a4932841d2a83d19ad91a96a8548a748955577cc11129ed329911997826613",
+      "imageSha256": "03565da699744350e10d1c888aa8ef630761c67e9e2708f282d641addecb3e9e"
+    },
+    {
+      "sourceWorkId": "angkor-wat-overgrown/series-core-discovery/01-reference-anchor",
+      "id": "0e443642ad64be",
+      "url": "https://aitoolsradar.com/en/prompts/0e443642ad64be",
+      "status": "public-accepted",
+      "promptSha256": "688c617e94ebda976b03044f767c1571dd96d619beace4ed3708bc57e2fe2f10",
+      "imageSha256": "c3c3cdf1b73f7de6d8e4a26af4572dceb905ecdb22a4fb9080325108af900997"
+    },
+    {
+      "sourceWorkId": "angkor-wat-overgrown/series-core-discovery/02-human-scale-reveal",
+      "id": "1533d35f3c06d7",
+      "url": "https://aitoolsradar.com/en/prompts/1533d35f3c06d7",
+      "status": "public-accepted",
+      "promptSha256": "4d9f55c174051c252d807f0c8bbdc5d9902852f3a8942e3076c55908c7d56055",
+      "imageSha256": "683018a56cd17d89120129b3ddf1bd372bc324edd950ea58bcc8cf67da697a1b"
+    },
+    {
+      "sourceWorkId": "angkor-wat-overgrown/series-core-discovery/03-surface-close-study",
+      "id": "329e55e93a6ca7",
+      "url": "https://aitoolsradar.com/en/prompts/329e55e93a6ca7",
+      "status": "public-accepted",
+      "promptSha256": "92ecefbc4900671bfd067b996d41a68416d71a3e2159c8eeb618616fda6737b7",
+      "imageSha256": "be2d80d3453f94415cdd67fc828e6843fbd74a1681e21ef147e62aa467b579b5"
+    },
+    {
+      "sourceWorkId": "angkor-wat-overgrown/series-core-discovery/04-atmospheric-wide-reveal",
+      "id": "de0a82463586e2",
+      "url": "https://aitoolsradar.com/en/prompts/de0a82463586e2",
+      "status": "public-accepted",
+      "promptSha256": "dc58cf63eeae3d6e232823fe8d411384b2acd45c9a9cbbf4073312ce13927563",
+      "imageSha256": "c187c195c46fe2ab6a776d76b830a28e9ba73f0cc7eb6793fcd8194b24e0f3a1"
+    },
+    {
+      "sourceWorkId": "angkor-wat-overgrown/single-context-studies/artifact-tableau",
+      "id": "36ea950a3a9b02",
+      "url": "https://aitoolsradar.com/en/prompts/36ea950a3a9b02",
+      "status": "public-accepted",
+      "promptSha256": "0b391901ef02ab581f9a1195e20f58e567b275a4a58d533420db44d790181fca",
+      "imageSha256": "16dc0e5f9c920036e9e733050b8eca2ae95ac458ef2044b8b45111188ddde94f"
+    },
+    {
+      "sourceWorkId": "angkor-wat-overgrown/single-context-studies/light-shift-study",
+      "id": "17fc8efe40992c",
+      "url": "https://aitoolsradar.com/en/prompts/17fc8efe40992c",
+      "status": "public-accepted",
+      "promptSha256": "abb3b6350eeb7cea1940afd16902f9089da671b636f2b8590ae7980ca4f7edfb",
+      "imageSha256": "10e117d1682925b4d69274bb6a281b0e2253a403a637f0920dd1be7eff002f07"
+    },
+    {
+      "sourceWorkId": "angkor-wat-overgrown/single-context-studies/survey-perspective",
+      "id": "42ec384393510c",
+      "url": "https://aitoolsradar.com/en/prompts/42ec384393510c",
+      "status": "public-accepted",
+      "promptSha256": "ac23de27b7615d6ec0b133f6ca5962f149d7eeac68f7ba3a1903d56ce069098e",
+      "imageSha256": "5d8fa59ee998fc3a21cb9b712fb3bf1e34cd7c6ba229e71f488f6f5fe50ccd5e"
+    },
+    {
+      "sourceWorkId": "angkor-wat-overgrown/single-context-studies/editorial-reconstruction",
+      "id": "24428ca42c6005",
+      "url": "https://aitoolsradar.com/en/prompts/24428ca42c6005",
+      "status": "public-accepted",
+      "promptSha256": "8db44c8bee67855195e1dae626ccd78653e6373dd067d971d3c6d73b6c4d6896",
+      "imageSha256": "66c7ce74efdc1ac9d10d3b5c74ba213f7fc5567aece6a777ca64c1a98b6ae49f"
+    },
+    {
+      "sourceWorkId": "animal-character-editorial-spread-set/single-animal-editorial-studies/02-house-cat-nocturne-essay",
+      "id": "0c7bf6da21e131",
+      "url": "https://aitoolsradar.com/en/prompts/0c7bf6da21e131",
+      "status": "public-accepted",
+      "promptSha256": "1feaf33dd9673e5109202a0ed147ad06e16d1532c53036098b94ffa669957185",
+      "imageSha256": "51374504666845d462cc273de8a191fd96c42da7a7331cbce1e222fd278defc9"
+    },
+    {
+      "sourceWorkId": "animal-character-editorial-spread-set/single-animal-editorial-studies/03-rabbit-still-life-feature",
+      "id": "bfbed03b50a08f",
+      "url": "https://aitoolsradar.com/en/prompts/bfbed03b50a08f",
+      "status": "public-accepted",
+      "promptSha256": "3dd09df4405edcf1a564481f30e91467128fbb1e8a2aa9e063b2fa3d3eacf080",
+      "imageSha256": "cc607c828c9bfa0c7c7afff8153a5fbfc9c1d29bf8f1114ef87c9122245ea0f8"
+    },
+    {
+      "sourceWorkId": "animal-character-editorial-spread-set/single-animal-editorial-studies/04-parrot-chromatic-profile",
+      "id": "957f6db0fc4ad3",
+      "url": "https://aitoolsradar.com/en/prompts/957f6db0fc4ad3",
+      "status": "public-accepted",
+      "promptSha256": "1bdb96670ae151d91fcf1044d80362ecbdf3f3c74ba54982c6ffe956b217717e",
+      "imageSha256": "f964f2ca047b20cea68074e1c8b86e6d6dd3e02c83f173cbcc657f96423116f6"
+    },
+    {
+      "sourceWorkId": "animal-character-editorial-spread-set/single-animal-editorial-studies/05-mixed-breed-city-column",
+      "id": "cba295cfd85d78",
+      "url": "https://aitoolsradar.com/en/prompts/cba295cfd85d78",
+      "status": "public-accepted",
+      "promptSha256": "f0d016589ae2205db4e10526e311655c2bef3c6d179bd4bf4f768d656197811f",
+      "imageSha256": "e490c2645083b0ed264055860df5cafd4ff937ca155ea1a62d7c41af7528a241"
+    },
+    {
+      "sourceWorkId": "animal-character-editorial-spread-set/single-animal-editorial-studies/06-senior-horse-grooming-feature",
+      "id": "fc8b5ba241b36a",
+      "url": "https://aitoolsradar.com/en/prompts/fc8b5ba241b36a",
+      "status": "public-accepted",
+      "promptSha256": "b20d6ed4a008ebafad057c756aef0ff4780290200a4ba768709593d1fe4a8204",
+      "imageSha256": "04c12715b38275f26ffcddf6a5f84961aafa1a61c32456364d4cf91dec9a405c"
+    },
+    {
+      "sourceWorkId": "animal-character-editorial-spread-set/single-animal-editorial-studies/07-hedgehog-habitat-mini-story",
+      "id": "4a25d54d8b8b30",
+      "url": "https://aitoolsradar.com/en/prompts/4a25d54d8b8b30",
+      "status": "public-accepted",
+      "promptSha256": "50b842712541b2691dc1e26c1495c542ee67d76bd117c2706d8ecb8737c4f6a2",
+      "imageSha256": "3f1da79b43ce539fafbe7a0e42082df3a08de475b6385752fa4e6b1a74e81055"
+    },
+    {
+      "sourceWorkId": "animal-character-editorial-spread-set/single-animal-editorial-studies/08-goat-farm-personality-spread",
+      "id": "eb3f8b6d99bf7f",
+      "url": "https://aitoolsradar.com/en/prompts/eb3f8b6d99bf7f",
+      "status": "public-accepted",
+      "promptSha256": "01493fdbcb68f204de300d2575e8d766254755dfb10328f4c5544d3d36fcc8c0",
+      "imageSha256": "8dd9714052b9964b52bf99dde984e3a267f1b17fdee71de4a2baba5542c325e0"
+    },
+    {
+      "sourceWorkId": "animal-character-editorial-spread-set/single-animal-editorial-studies/09-urban-pigeon-culture-essay",
+      "id": "da2c2a67569a42",
+      "url": "https://aitoolsradar.com/en/prompts/da2c2a67569a42",
+      "status": "public-accepted",
+      "promptSha256": "3205480339d788a4a32646fc53a2c054d9650d9dc743810c8b13d76105605968",
+      "imageSha256": "a989cd48a172ccf4231985a76b7ce9d11da136be7a6b49c2d640e398c560cb57"
+    },
+    {
+      "sourceWorkId": "annotated-map-design/single-annotated-map-design-studies/overview-plate",
+      "id": "827127e3e1a2c8",
+      "url": "https://aitoolsradar.com/en/prompts/827127e3e1a2c8",
+      "status": "public-accepted",
+      "promptSha256": "a61e6c03a8d2653c54e4854ee4c09bcbd05212293cf280bb41a39ff073dc5872",
+      "imageSha256": "1b24af64e84d7269f806e2d8daffdf2152a29c8afcce73b67021bf42a2a6e854"
+    },
+    {
+      "sourceWorkId": "annotated-map-design/single-annotated-map-design-studies/cutaway-panel",
+      "id": "22d6fbffe4a7c9",
+      "url": "https://aitoolsradar.com/en/prompts/22d6fbffe4a7c9",
+      "status": "public-accepted",
+      "promptSha256": "2f2301ff58f4a43019c270f3f9459003e9007a6b95b64f79a37cc960a4ac0bfd",
+      "imageSha256": "045fd19012f0c379bdfae08c42ec8c15d9afac8b537101ec5f9e1026aaa8f63a"
+    },
+    {
+      "sourceWorkId": "annotated-map-design/single-annotated-map-design-studies/process-sequence",
+      "id": "7776c1c5fdc50b",
+      "url": "https://aitoolsradar.com/en/prompts/7776c1c5fdc50b",
+      "status": "public-accepted",
+      "promptSha256": "9c5eabe3641c6abc7c4bfee86dbef5bb0d78156b73757ebd23331a20738b1cd5",
+      "imageSha256": "3b4272892433213d230a93eb2fc9ba92ca259011728596b86688e9b1f4ded125"
+    },
+    {
+      "sourceWorkId": "annotated-map-design/single-annotated-map-design-studies/annotation-cluster",
+      "id": "4c949399e17d59",
+      "url": "https://aitoolsradar.com/en/prompts/4c949399e17d59",
+      "status": "public-accepted",
+      "promptSha256": "94a5d62b8fb7bafbdf6ff8675b130cc1d13870cdd0d8a8f69d68d37dcfd696d0",
+      "imageSha256": "d97f59eb09df3701db9438b3edb90c8e452c7fd1fcd34aa835e3602e4ee965e6"
+    },
+    {
+      "sourceWorkId": "annotated-map-design/single-annotated-map-design-studies/comparison-board",
+      "id": "a57edc74a2f7a1",
+      "url": "https://aitoolsradar.com/en/prompts/a57edc74a2f7a1",
+      "status": "public-accepted",
+      "promptSha256": "a3e82c8a79f4a9f1571e558f6347b465d761a1e4c12cc5baa27839c6c1618a05",
+      "imageSha256": "20ac21689d6295d3b07ba810e1f741be0bee2ec5945dc4c99347aaa9152a2f51"
+    },
+    {
+      "sourceWorkId": "annotated-map-design/single-annotated-map-design-studies/material-callout",
+      "id": "d0cafc4aa77c1b",
+      "url": "https://aitoolsradar.com/en/prompts/d0cafc4aa77c1b",
+      "status": "public-accepted",
+      "promptSha256": "298c07b423f8f81705639cb65083079d808e39f2c44a490b7e43c7aa1e176136",
+      "imageSha256": "3abbac687389abc3e07fcd452962ce1d0d6db6ba45daabd04b10c5638b50c66a"
+    },
+    {
+      "sourceWorkId": "annotated-map-design/single-annotated-map-design-studies/exploded-system",
+      "id": "fcd22e913225a9",
+      "url": "https://aitoolsradar.com/en/prompts/fcd22e913225a9",
+      "status": "public-accepted",
+      "promptSha256": "1d20e45cc0d6fecb0a020f84796291930139d7936aa2995ee15ef008848f3ddb",
+      "imageSha256": "9e838bfb1972010077aacc8bd861a6762c97b03e3fc0472a9076353209c5f608"
+    },
+    {
+      "sourceWorkId": "annotated-map-design/single-annotated-map-design-studies/final-plate",
+      "id": "57a25b16805d37",
+      "url": "https://aitoolsradar.com/en/prompts/57a25b16805d37",
+      "status": "public-accepted",
+      "promptSha256": "d49563facbaac61253042576783f6b9cbbe72f3babce74fe5f5ac7d8d84ccfa2",
+      "imageSha256": "22e5207dc562500eb068a24ca720ed5c9fde30c3447ec8833eef9b27313d9692"
+    },
+    {
+      "sourceWorkId": "antarctic-tabular-iceberg/single-landscape-studies/03-aerial-geometry",
+      "id": "c38fb27fb6bd3a",
+      "url": "https://aitoolsradar.com/en/prompts/c38fb27fb6bd3a",
+      "status": "public-accepted",
+      "promptSha256": "6c5ecb8a4ed62d7bf6cc65896794c1ceba1e82fb664b4ad4a63140caff6315e2",
+      "imageSha256": "d168210513c8c79cedf3893edba09f50ff021898da8d0cfc31dd2093be68c6d7"
+    },
+    {
+      "sourceWorkId": "antarctic-tabular-iceberg/single-landscape-studies/04-atmosphere-event",
+      "id": "a48aa03209fb8c",
+      "url": "https://aitoolsradar.com/en/prompts/a48aa03209fb8c",
+      "status": "public-accepted",
+      "promptSha256": "e0e4c20030c11acb39b8c12336f0be9adb89b9cc35cb9bffa4bec6de03e509e8",
+      "imageSha256": "de78df94ee16c8de82de5b1fa20a9ac04d1723157307952b8b7889d9ed0a7ba4"
+    },
+    {
+      "sourceWorkId": "antarctic-tabular-iceberg/single-landscape-studies/05-light-contrast",
+      "id": "058f00e2ebc243",
+      "url": "https://aitoolsradar.com/en/prompts/058f00e2ebc243",
+      "status": "public-accepted",
+      "promptSha256": "8ef6193ff6af798d0e072975c9bc03fe9c2179a5da6091cb8aeabe050a6881a5",
+      "imageSha256": "6d2ba8c624f1ad5c70fb90c6b1f7102df2bf7dab98d4db965e08a0fb218a3a63"
+    },
+    {
+      "sourceWorkId": "antarctic-tabular-iceberg/single-landscape-studies/06-material-close",
+      "id": "e4b692575cd0b6",
+      "url": "https://aitoolsradar.com/en/prompts/e4b692575cd0b6",
+      "status": "public-accepted",
+      "promptSha256": "16633154610c833cf5d9c3076c52d5205e42b7cbc42f8b8afc72e6b4bd95bc43",
+      "imageSha256": "241ad9ebeee536126a592ea484ebda9e2aab5f6b4fa64644623ef5f7d30ba5fc"
+    },
+    {
+      "sourceWorkId": "antarctic-tabular-iceberg/single-landscape-studies/07-scale-witness",
+      "id": "1f43e426dbbede",
+      "url": "https://aitoolsradar.com/en/prompts/1f43e426dbbede",
+      "status": "public-accepted",
+      "promptSha256": "6a7ed18e8586db9e5d7a6ab708f351696fc21c05043189c27390f086f824a143",
+      "imageSha256": "428ecc4d31e506e523ac4f3017eb97289b80e80e45c6b9a674948d4a8e67a02b"
+    },
+    {
+      "sourceWorkId": "antarctic-tabular-iceberg/single-landscape-studies/08-abstract-rhythm",
+      "id": "76e9da057278ae",
+      "url": "https://aitoolsradar.com/en/prompts/76e9da057278ae",
+      "status": "public-accepted",
+      "promptSha256": "d429324d2fab8ac66db8125db66f56bd759a09c2eb1330e6f07201ef9e9d3f11",
+      "imageSha256": "7048a15e666c5bb9b32674d033cdadcb3451b2aac3317d5236c2c5539579508e"
+    },
+    {
+      "sourceWorkId": "antarctic-tabular-iceberg/single-landscape-studies/09-final-iconic",
+      "id": "e2ab20772396d2",
+      "url": "https://aitoolsradar.com/en/prompts/e2ab20772396d2",
+      "status": "public-accepted",
+      "promptSha256": "d4fb488967023dc7753d9040023ebb3217e0d5dae6f3bfbf62ccc21e528826a6",
+      "imageSha256": "297651ccaccb2fb1b7f2175afc59a48085319a9290ad0610f96e1087b8d197ad"
+    },
+    {
+      "sourceWorkId": "app-launch-hero-system/single-app-launch-hero-studies/02-focus-streak-coach",
+      "id": "3adf78306f4554",
+      "url": "https://aitoolsradar.com/en/prompts/3adf78306f4554",
+      "status": "public-accepted",
+      "promptSha256": "4064563904cc739f97ba6e72f632df6b01fcb9d634534b57d366b02fff72fc6d",
+      "imageSha256": "4bdc599eeb78e2381500c3612d7ce46cbb452dc97bcc7878f1eb28cd6cdb4700"
+    },
+    {
+      "sourceWorkId": "app-launch-hero-system/single-app-launch-hero-studies/03-founder-finance-dashboard",
+      "id": "09426dbafe2bf3",
+      "url": "https://aitoolsradar.com/en/prompts/09426dbafe2bf3",
+      "status": "public-accepted",
+      "promptSha256": "0e731821806438a65b407fea7a3314ca35cd0c9ba1e7d4a28ceef9132c0515fb",
+      "imageSha256": "433fb258f8ea18306e72da4686c2a473ff173005af7a31c69c7dcbff326dbd32"
+    },
+    {
+      "sourceWorkId": "app-launch-hero-system/single-app-launch-hero-studies/04-design-review-canvas",
+      "id": "566d10771f16e0",
+      "url": "https://aitoolsradar.com/en/prompts/566d10771f16e0",
+      "status": "public-accepted",
+      "promptSha256": "fbc1ff7ee06f9fee5f82a57086dfb644da2611a05257dcba86d295a5dd0e2d48",
+      "imageSha256": "839577ece622f4de82a3e4617ca488c4eff240d844783aa7cb47dc464e6316c5"
+    },
+    {
+      "sourceWorkId": "app-launch-hero-system/single-app-launch-hero-studies/05-language-sprint-mobile",
+      "id": "71ae152c9c8b1b",
+      "url": "https://aitoolsradar.com/en/prompts/71ae152c9c8b1b",
+      "status": "public-accepted",
+      "promptSha256": "56abfc617241d730dc1e2cb09758d65746ec9834fa3762f089c8458b06351302",
+      "imageSha256": "ce0847b9713b80b82122b95eba2e6ede7ab5da9848875eb04aab761bdc748179"
+    },
+    {
+      "sourceWorkId": "app-launch-hero-system/single-app-launch-hero-studies/06-creator-analytics-portal",
+      "id": "d8d9b6c9fbbcbd",
+      "url": "https://aitoolsradar.com/en/prompts/d8d9b6c9fbbcbd",
+      "status": "public-accepted",
+      "promptSha256": "5c1f4b97d92466fd5d0b9fb7ba0b131d15eb0c906a5a2f0392aaa1639d2052f1",
+      "imageSha256": "672c56ae85e22b6c66a8616999ee7d88bbf934f4ba4eabce69ce768c0eb51228"
+    },
+    {
+      "sourceWorkId": "app-launch-hero-system/single-app-launch-hero-studies/07-clinic-wellness-companion",
+      "id": "205a0eb29522f9",
+      "url": "https://aitoolsradar.com/en/prompts/205a0eb29522f9",
+      "status": "public-accepted",
+      "promptSha256": "1cdee8c88bafb5c605bd6f264f6f5a9664e59aae42f200f031dbbea252de6f04",
+      "imageSha256": "ef1ed25cfcd647fefd3924953cb3a88d5c7187e748a351affa21c5453aa49495"
+    },
+    {
+      "sourceWorkId": "app-launch-hero-system/single-app-launch-hero-studies/08-trip-planner-orbit",
+      "id": "804fe85c5351d6",
+      "url": "https://aitoolsradar.com/en/prompts/804fe85c5351d6",
+      "status": "public-accepted",
+      "promptSha256": "d4e89bda956ffa89e7ebefcbde020e90fdb962cbbba78f22fe9ecb9ac698afb4",
+      "imageSha256": "8cc65fb3b62644126a2234adb70ba6854eddd00eff0ac8b8484538a41d330654"
+    },
+    {
+      "sourceWorkId": "app-launch-hero-system/single-app-launch-hero-studies/09-developer-api-command-center",
+      "id": "e11e4e37a4af97",
+      "url": "https://aitoolsradar.com/en/prompts/e11e4e37a4af97",
+      "status": "public-accepted",
+      "promptSha256": "5cbb3d96dc00e5a19b3c7dc7d8970e727484623600aec2e7ee5669d584e9360e",
+      "imageSha256": "81283a3d88293593f2cea07e26d5d7c92e6b8a2704ba4a5eb63c7f0d12aa63d5"
+    },
+    {
+      "sourceWorkId": "app-launch-marketing-page-kit/series-launch-funnel-system/01-reference-launch-hero",
+      "id": "1b063a22ffb675",
+      "url": "https://aitoolsradar.com/en/prompts/1b063a22ffb675",
+      "status": "public-accepted",
+      "promptSha256": "f7b7e49306b0752380031ed1385a5b0057158b1bf82250e109cb47871544daa7",
+      "imageSha256": "642c598bd4411d59120f04fdca766e358270fa5a44eec6b3956d6764316b402e"
+    },
+    {
+      "sourceWorkId": "app-launch-marketing-page-kit/series-launch-funnel-system/02-feature-story-sections",
+      "id": "2f966fcb86676e",
+      "url": "https://aitoolsradar.com/en/prompts/2f966fcb86676e",
+      "status": "public-accepted",
+      "promptSha256": "7c8e466309dc1d4a7de0ee831c51d723a188d84f3eed3d49a0b5ff5b2591c4a3",
+      "imageSha256": "82ab13ba85035b72a4a0dbaee33dbd01d20bfb0a6faa015661a2ce73fb345831"
+    },
+    {
+      "sourceWorkId": "app-launch-marketing-page-kit/series-launch-funnel-system/03-app-store-promo-matrix",
+      "id": "d94df5447d8235",
+      "url": "https://aitoolsradar.com/en/prompts/d94df5447d8235",
+      "status": "public-accepted",
+      "promptSha256": "fc0f8bc71fa2b6d3d51a2122e451b4ac06d3c7e33e0814de7e39b6fe5cca2967",
+      "imageSha256": "2510aa34e8ed72ab246e68ff1e44b25275586a92161859f18703d1a09d2c4063"
+    },
+    {
+      "sourceWorkId": "app-launch-marketing-page-kit/series-launch-funnel-system/04-social-launch-adaptations",
+      "id": "f8dadae060debe",
+      "url": "https://aitoolsradar.com/en/prompts/f8dadae060debe",
+      "status": "public-accepted",
+      "promptSha256": "87408568446b833f602f5b9eb9fe667b73f2fcbdc7184c5ab2fd86e136353af8",
+      "imageSha256": "786801586dfe89e14d347406b4c52261bbf639f2f37c821b5a5eca31bbc1b42b"
+    },
+    {
+      "sourceWorkId": "app-launch-marketing-page-kit/single-market-angle-studies/02-creator-tool-launch-board",
+      "id": "f94fb80959b5a3",
+      "url": "https://aitoolsradar.com/en/prompts/f94fb80959b5a3",
+      "status": "public-accepted",
+      "promptSha256": "4d43b9059b6779a66f9d227db57d9ead612485f3695a4d81a547a96b93fa48b4",
+      "imageSha256": "5148dcf1df436d682eb0c0ee8c3208aea7057041c6e35e7e69ca5918a3230c68"
+    },
+    {
+      "sourceWorkId": "app-launch-marketing-page-kit/single-market-angle-studies/03-budget-planner-launch-board",
+      "id": "0e8966c2ead72c",
+      "url": "https://aitoolsradar.com/en/prompts/0e8966c2ead72c",
+      "status": "public-accepted",
+      "promptSha256": "973c57ba3f6ac993edc25d6c3476ddfdaeed7a7955437c4d4e99950001ac41a2",
+      "imageSha256": "8de678826f21ab2b139fec9db2a14a7cd55f68a8474b5f6662935ac9596c5c08"
+    },
+    {
+      "sourceWorkId": "app-launch-marketing-page-kit/single-market-angle-studies/04-travel-planner-launch-board",
+      "id": "49cadf76e3cd8e",
+      "url": "https://aitoolsradar.com/en/prompts/49cadf76e3cd8e",
+      "status": "public-accepted",
+      "promptSha256": "485582a91647e06237c0a72242a8b12751c6e7d46b8fc37f89434597fdec807d",
+      "imageSha256": "046f5feb50409f8d95850f004dd9fada961f25d060a8d27f673154a0f6616030"
+    },
+    {
+      "sourceWorkId": "app-launch-marketing-page-kit/single-market-angle-studies/05-wellness-habit-launch-board",
+      "id": "eae948afc680ac",
+      "url": "https://aitoolsradar.com/en/prompts/eae948afc680ac",
+      "status": "public-accepted",
+      "promptSha256": "6fed45695fcbf9bceca492cb048f86608e2a84bb0126a5123eed565d0f5f313c",
+      "imageSha256": "7868df248579accb8564011feca17e0882a1f1accd1f7ad0c803e45b08f79a75"
+    },
+    {
+      "sourceWorkId": "architectural-drawing-board/single-architectural-drawing-board-studies/overview-plate",
+      "id": "ad7a8f55cb55a0",
+      "url": "https://aitoolsradar.com/en/prompts/ad7a8f55cb55a0",
+      "status": "public-accepted",
+      "promptSha256": "a89679a874534a2b55e0f4a79ad43a3f63d2ed4c6491c9ff5a3b72b470053f3d",
+      "imageSha256": "323c47812aaaa40eee8f92954a74352e429123ec228075d8158e8daf63ccf6dd"
+    },
+    {
+      "sourceWorkId": "architectural-drawing-board/single-architectural-drawing-board-studies/cutaway-panel",
+      "id": "e6f2c0c316b322",
+      "url": "https://aitoolsradar.com/en/prompts/e6f2c0c316b322",
+      "status": "public-accepted",
+      "promptSha256": "d5e281059249affece1e76b0f19f9194f2e18b486eb7d4be64d9c64b7ab0de76",
+      "imageSha256": "750b170a403d622d58499fdb2fd91638d23b170dd1fc8e1085396654c414efc6"
+    },
+    {
+      "sourceWorkId": "architectural-drawing-board/single-architectural-drawing-board-studies/process-sequence",
+      "id": "3591fb657467f8",
+      "url": "https://aitoolsradar.com/en/prompts/3591fb657467f8",
+      "status": "public-accepted",
+      "promptSha256": "8ecb99c54508ed6befd7928cb7b28d010ba55a0465956c19144569fae83615c3",
+      "imageSha256": "67fd73dc5ad2aac2008adf22efb350fdb890c380ad51eb60aa65f41529ae5578"
+    },
+    {
+      "sourceWorkId": "architectural-drawing-board/single-architectural-drawing-board-studies/annotation-cluster",
+      "id": "5dea8b1546af34",
+      "url": "https://aitoolsradar.com/en/prompts/5dea8b1546af34",
+      "status": "public-accepted",
+      "promptSha256": "73eaa478b57d90e905f4146318b495add46ef5b585be8241dfe764db0425245d",
+      "imageSha256": "db10e94f86e57958d7e715b64c4aa78456e1e3d19144488727a3a857a98210f3"
+    },
+    {
+      "sourceWorkId": "architectural-drawing-board/single-architectural-drawing-board-studies/comparison-board",
+      "id": "f779888facc336",
+      "url": "https://aitoolsradar.com/en/prompts/f779888facc336",
+      "status": "public-accepted",
+      "promptSha256": "5ed4c8ae0f96c3b15f35b6b475a373da73c277d9010e7fb7a9e173775b5de911",
+      "imageSha256": "33963148e3b1478e9d9a1e04d84db4b3ce90981d73fb51529acfd9bfdadfb3c1"
+    },
+    {
+      "sourceWorkId": "architectural-drawing-board/single-architectural-drawing-board-studies/material-callout",
+      "id": "4998c7e8581819",
+      "url": "https://aitoolsradar.com/en/prompts/4998c7e8581819",
+      "status": "public-accepted",
+      "promptSha256": "2483b95502cf38f80e06e83de35caa6b71c99614ba4c5a0e37b55c7718b519b8",
+      "imageSha256": "6470361b9ca337d5d9587d14c3f0c37bc0352510e94967e9005e592d1ed67599"
+    },
+    {
+      "sourceWorkId": "architectural-drawing-board/single-architectural-drawing-board-studies/exploded-system",
+      "id": "756a121974fba4",
+      "url": "https://aitoolsradar.com/en/prompts/756a121974fba4",
+      "status": "public-accepted",
+      "promptSha256": "2b620e58b12e033c4d7ebea4e131f8d22fde14657d9d9fcc920ca9613797b7a4",
+      "imageSha256": "d5083b895a1516b67bd0b9b73aa4b8ffcda9378cf01f3a31b77832be33dd2fd3"
+    },
+    {
+      "sourceWorkId": "architectural-drawing-board/single-architectural-drawing-board-studies/final-plate",
+      "id": "c3b1f8ae69e9f2",
+      "url": "https://aitoolsradar.com/en/prompts/c3b1f8ae69e9f2",
+      "status": "public-accepted",
+      "promptSha256": "a6b0a39d88e5578386dd5de88c442941b31e2aa0c13dffec2d34de3032962eae",
+      "imageSha256": "3e0cce696492c16423814db7ab4b8be248d3d7629bd831d4ae0f2c8d7f85a056"
+    },
+    {
+      "sourceWorkId": "architectural-facade-identity-system/series-spatial-language-lock/01-street-corner-anchor",
+      "id": "b2f66805a94d92",
+      "url": "https://aitoolsradar.com/en/prompts/b2f66805a94d92",
+      "status": "public-accepted",
+      "promptSha256": "dc7f70b5e77fa3a91d3a7fae36d2cf5ad0324d36728396f6c3bad759e99e098e",
+      "imageSha256": "57cee044fcc20a8b6963093bc8e193bbdb7e89936d622a2981757080b37e1951"
+    },
+    {
+      "sourceWorkId": "architectural-facade-identity-system/series-spatial-language-lock/02-entry-canopy-focus",
+      "id": "f272fa801f008e",
+      "url": "https://aitoolsradar.com/en/prompts/f272fa801f008e",
+      "status": "public-accepted",
+      "promptSha256": "49cc8483f3e21900dca492604a265005af90ca0aca736657823f25f875f3ff3b",
+      "imageSha256": "bd0746085e32c438dfbeba46a13ad443f450ce8dc9383328c2b08bbcb5d9f6f2"
+    },
+    {
+      "sourceWorkId": "architectural-facade-identity-system/series-spatial-language-lock/03-upper-facade-crop",
+      "id": "62635a4b46b83f",
+      "url": "https://aitoolsradar.com/en/prompts/62635a4b46b83f",
+      "status": "public-accepted",
+      "promptSha256": "f57e1cea29e93c2a376bfabbc2087ae4cfaf9cf556f5445958ce7105763aa9e3",
+      "imageSha256": "86cb27d138209acbc5f1e854e7f14be98ec98099a05dd18fabe721ce3a83614e"
+    },
+    {
+      "sourceWorkId": "architectural-facade-identity-system/series-spatial-language-lock/04-courtyard-rear-elevation",
+      "id": "04ffb629f0cd70",
+      "url": "https://aitoolsradar.com/en/prompts/04ffb629f0cd70",
+      "status": "public-accepted",
+      "promptSha256": "865946e3550d2e8df2b46edc027a1c489fb72284b7efe818d29bbb02c606dbcf",
+      "imageSha256": "8504f5c48f1baddeb6cb1efeff0388d39e96c9d3ee4976d25c4c4876fd17f128"
+    },
+    {
+      "sourceWorkId": "architectural-facade-identity-system/single-support-studies/02-dusk-plaza-silhouette",
+      "id": "a5e31add22761c",
+      "url": "https://aitoolsradar.com/en/prompts/a5e31add22761c",
+      "status": "public-accepted",
+      "promptSha256": "919dae0df9a16aee115768a9b36d7a474704f54eda8db356a96c7b5521b1f96a",
+      "imageSha256": "3d210fcbb67db94f6cb05867f6c26d60dcc754e9bbd2924718d4bd96185cdc1c"
+    },
+    {
+      "sourceWorkId": "architectural-facade-identity-system/single-support-studies/03-address-wall-study",
+      "id": "b4112c3e33676e",
+      "url": "https://aitoolsradar.com/en/prompts/b4112c3e33676e",
+      "status": "public-accepted",
+      "promptSha256": "ce64a08ececc98f0162bfaccb042c9930d3a442febac06659e379012eb7e0465",
+      "imageSha256": "9b247b8bc49dd72315a2214b300eee1e88c2fb43de97cc04bb20dcdc7f7cd818"
+    },
+    {
+      "sourceWorkId": "architectural-facade-identity-system/single-support-studies/04-rainwashed-detail-elevation",
+      "id": "6a4b47e64ccdbb",
+      "url": "https://aitoolsradar.com/en/prompts/6a4b47e64ccdbb",
+      "status": "public-accepted",
+      "promptSha256": "fcb2a96d7e7dd8cb9f74122b5f4dd0069ed1871acc7c10a4b51a4dfe455e0433",
+      "imageSha256": "3be74ae6bf68ef33d41e647961b4c79971e1a3ad213d208daee6bcbf755cf784"
+    },
+    {
+      "sourceWorkId": "architectural-facade-identity-system/single-support-studies/05-rooftop-crown-view",
+      "id": "f8300271d5c894",
+      "url": "https://aitoolsradar.com/en/prompts/f8300271d5c894",
+      "status": "public-accepted",
+      "promptSha256": "e9b1d91ddac11bcb722ce163e9ff5607db5dbfe8ce1c7d63c4b5fd26392c50ce",
+      "imageSha256": "c53c44a7a5e20a821a9fd8fca7ffc85eb68725851ccf57c85ab5a778ba017faf"
+    },
+    {
+      "sourceWorkId": "archive-aesthetic-file/single-archive-aesthetic-file-studies/variant-grid",
+      "id": "d278cfd32ccbd1",
+      "url": "https://aitoolsradar.com/en/prompts/d278cfd32ccbd1",
+      "status": "public-accepted",
+      "promptSha256": "262268ea50abf9058de19cbe2efcb984f5e10d94592c3144d033b8ffdbad6481",
+      "imageSha256": "422e2b1f982f19c1814f9e35196f4ea340b308576eec9137bd86c049283ec50b"
+    },
+    {
+      "sourceWorkId": "archive-aesthetic-file/single-archive-aesthetic-file-studies/desk-review",
+      "id": "073193189ec456",
+      "url": "https://aitoolsradar.com/en/prompts/073193189ec456",
+      "status": "public-accepted",
+      "promptSha256": "eb8968861b92dba2ec16a69d983193c81b78395291c38e9ef1c80322a0410cb9",
+      "imageSha256": "167c824ccd3c0c94372e5d1b913fbf4cd5d203eeeb669e52a215b2336fa2606a"
+    },
+    {
+      "sourceWorkId": "archive-aesthetic-file/single-archive-aesthetic-file-studies/material-closeup",
+      "id": "c14d18362bd77a",
+      "url": "https://aitoolsradar.com/en/prompts/c14d18362bd77a",
+      "status": "public-accepted",
+      "promptSha256": "97d8a31ed087b1067bf533d2ced933797258059a9b0d23b670e28035a370d6e1",
+      "imageSha256": "337fcbf48eb8c8c8bd9e2ea293ee73e96eecb75222ad7ed02588e2c86d8f0320"
+    },
+    {
+      "sourceWorkId": "archive-aesthetic-file/single-archive-aesthetic-file-studies/archive-sheet",
+      "id": "e980ac96dcba65",
+      "url": "https://aitoolsradar.com/en/prompts/e980ac96dcba65",
+      "status": "public-accepted",
+      "promptSha256": "760a4cf8c44ad2d83f0796e05580fc3598dcc0fe9457ffc712e9ea272809cff4",
+      "imageSha256": "4660978559aea914d92db5961b95a869468abab2fb1639c06cba0f5ce5e3187e"
+    },
+    {
+      "sourceWorkId": "archive-aesthetic-file/single-archive-aesthetic-file-studies/retail-presentation",
+      "id": "cd7e1a73ad4c54",
+      "url": "https://aitoolsradar.com/en/prompts/cd7e1a73ad4c54",
+      "status": "public-accepted",
+      "promptSha256": "c3e0907fe156d305f0fa62693594181e6c087e55700c79d0a2b18e83ab2686c2",
+      "imageSha256": "1200c5a780c6a925447434814de2dd608d057d08e2f4a3a47a6fb07a2c743510"
+    },
+    {
+      "sourceWorkId": "archive-aesthetic-file/single-archive-aesthetic-file-studies/system-board",
+      "id": "35d255509d0650",
+      "url": "https://aitoolsradar.com/en/prompts/35d255509d0650",
+      "status": "public-accepted",
+      "promptSha256": "1d07c2f1d10465fa3a0153f0cbccc2e64c7d9c8f4cfab8d3581911fd8c22cc70",
+      "imageSha256": "2c5016db58b1c39b178003b06023205bfbce3d2873484d22aedd7eb62a2f5ad9"
+    },
+    {
+      "sourceWorkId": "archive-aesthetic-file/single-archive-aesthetic-file-studies/signature-layout",
+      "id": "13aed0ef51fa03",
+      "url": "https://aitoolsradar.com/en/prompts/13aed0ef51fa03",
+      "status": "public-accepted",
+      "promptSha256": "ff31c342f5072e6940d8408d43e85fe5946dda89a645fecc3958d40a047fb85a",
+      "imageSha256": "9a47c5de6bdc68d2d09187ef9287c3c2dd870e7d36c4910e92e348548ed2155c"
+    },
+    {
+      "sourceWorkId": "art-deco-gatsby-theatre/single-poster-studies/02-print-proof-flatlay",
+      "id": "2dbec2f743872a",
+      "url": "https://aitoolsradar.com/en/prompts/2dbec2f743872a",
+      "status": "public-accepted",
+      "promptSha256": "15e7dfbf06807e90f6de006e3e8e6b59cec9e51494497a2252cfb58fdd7fdbe8",
+      "imageSha256": "c31ad5a7194b4d4854c6c784d2cc4f6664cd47ab01b87f470cb96debfad86e90"
+    },
+    {
+      "sourceWorkId": "art-deco-gatsby-theatre/single-poster-studies/03-transit-lightbox",
+      "id": "97de1dd2afd3cd",
+      "url": "https://aitoolsradar.com/en/prompts/97de1dd2afd3cd",
+      "status": "public-accepted",
+      "promptSha256": "71f8a8472c516522c6c7495b52c5a1e3b43a4395891be7bc8e623d2d035a0b65",
+      "imageSha256": "9db71f15c29c0187939c37a40d681d5740f026d4d5df5504f4d6eb9729e4993a"
+    },
+    {
+      "sourceWorkId": "art-deco-gatsby-theatre/single-poster-studies/04-wheatpaste-wall",
+      "id": "6cb872046d9a95",
+      "url": "https://aitoolsradar.com/en/prompts/6cb872046d9a95",
+      "status": "public-accepted",
+      "promptSha256": "95c14cbd76ad8eed87ba5bb9665edd399051fd264ad9e88fdc9b9b44e8d10e8e",
+      "imageSha256": "821d0ef60cb2fdb5b0a8964c601acab6c006ee87c06dd5a56cf36b1680c76cd4"
+    },
+    {
+      "sourceWorkId": "art-deco-gatsby-theatre/single-poster-studies/05-folded-archive-copy",
+      "id": "6c9f994729e0e9",
+      "url": "https://aitoolsradar.com/en/prompts/6c9f994729e0e9",
+      "status": "public-accepted",
+      "promptSha256": "8ba9f0711103c01bb3c0545eef568057800342a68d27501ffc115b458608f33a",
+      "imageSha256": "0b9b627c20ee067d7df1e2acbed504eaad3b971687d5a6a786d5270f500d04d6"
+    },
+    {
+      "sourceWorkId": "art-deco-gatsby-theatre/single-poster-studies/06-twin-poster-diptych",
+      "id": "f9f38612592082",
+      "url": "https://aitoolsradar.com/en/prompts/f9f38612592082",
+      "status": "public-accepted",
+      "promptSha256": "238f67f7eb5d65b5a771a4c1bc91bcee780364d14014bebc839227e9277b85fc",
+      "imageSha256": "01125ec67ed80ecf7cfbfd8016193ac83652c9b9cae5aa7fb7abdbec87de7c50"
+    },
+    {
+      "sourceWorkId": "art-deco-gatsby-theatre/single-poster-studies/07-stacked-print-bundle",
+      "id": "f582ac321ee6ee",
+      "url": "https://aitoolsradar.com/en/prompts/f582ac321ee6ee",
+      "status": "public-accepted",
+      "promptSha256": "fce08ea0ec2f2d781dc45740613ecad9b96156895ca53d40c2981a6a01f47f89",
+      "imageSha256": "20b96e1dfdd4745610d2de76135fa93b30789baeeeacc1ea18887c4073d4cd8d"
+    },
+    {
+      "sourceWorkId": "art-deco-gatsby-theatre/single-poster-studies/08-kiosk-night-glow",
+      "id": "9c756edfe141cf",
+      "url": "https://aitoolsradar.com/en/prompts/9c756edfe141cf",
+      "status": "public-accepted",
+      "promptSha256": "8361a08a1285499cb91ae6ea00941bdf2f0e557508491b753cd4db20d85236fb",
+      "imageSha256": "db1d165b67c3734d454727dda646462f830bcc489120340af5b2ed9dafa4c82f"
+    },
+    {
+      "sourceWorkId": "art-deco-gatsby-theatre/single-poster-studies/09-contemporary-remix",
+      "id": "0143e5340af716",
+      "url": "https://aitoolsradar.com/en/prompts/0143e5340af716",
+      "status": "public-accepted",
+      "promptSha256": "f48471ec27cf085b5fd59ab57338d07f82382ed20c261b26fd065903a9bb96fa",
+      "imageSha256": "e8e80efbd2e688e84be6d40e26cb21fb27dab58f86ed5a4a2b4d0d9d521dc8f8"
+    },
+    {
+      "sourceWorkId": "art-nouveau-poster/single-application-studies/02-commercial-study",
+      "id": "10d68899d48401",
+      "url": "https://aitoolsradar.com/en/prompts/10d68899d48401",
+      "status": "public-accepted",
+      "promptSha256": "9b497db6751762ba379f40e86a9e9afdcd27c97a659c4a88d0b1c23fbc8c78ec",
+      "imageSha256": "497845d4c3bb99d7e0d4f060a7ef1c7c5db3ec763edddc3983636b22ed52c52a"
+    },
+    {
+      "sourceWorkId": "art-nouveau-poster/single-application-studies/03-technical-study",
+      "id": "1aadd1774cc339",
+      "url": "https://aitoolsradar.com/en/prompts/1aadd1774cc339",
+      "status": "public-accepted",
+      "promptSha256": "6adc085e817c47045b25e838790d01840272cc8eb861dc4aad8de003ab257872",
+      "imageSha256": "ae7866fffc62b01b032b3616c0b7d42952f54066c0c47e615ce2a1f6a78bfbbd"
+    },
+    {
+      "sourceWorkId": "art-nouveau-poster/single-application-studies/04-experimental-study",
+      "id": "a12bcac076f2a5",
+      "url": "https://aitoolsradar.com/en/prompts/a12bcac076f2a5",
+      "status": "public-accepted",
+      "promptSha256": "e6f26a0ccb6d56fa193efc1f1514b4dde317ac8ef26e1c34157ed401416b42a4",
+      "imageSha256": "158375167af7b06b7f34a04e7a06e2193402152d06ed4ea69db087bf550b12a1"
+    },
+    {
+      "sourceWorkId": "art-nouveau-poster/single-application-studies/05-material-study",
+      "id": "156467f47dfaf3",
+      "url": "https://aitoolsradar.com/en/prompts/156467f47dfaf3",
+      "status": "public-accepted",
+      "promptSha256": "bada81e8309a1071b2412023a8df022d2d4a2b7f4d2738388336ba35823ffba4",
+      "imageSha256": "71b24c20ba2416000acfa32f7e44726b47b99e1b62319a03792ba6e948202a46"
+    },
+    {
+      "sourceWorkId": "art-nouveau-poster/single-application-studies/06-context-study",
+      "id": "f4c29d807f304f",
+      "url": "https://aitoolsradar.com/en/prompts/f4c29d807f304f",
+      "status": "public-accepted",
+      "promptSha256": "0e1b4644c1ef11ddb3e993f63d37b96a29aa491ccc67f6bfd1436c648d25832b",
+      "imageSha256": "897f7be060490d3f654e28fae3e7307b3bc0290e93dfe0aabc7f65c206eb5253"
+    },
+    {
+      "sourceWorkId": "art-nouveau-poster/single-application-studies/07-detail-study",
+      "id": "6539ca0c2dbb06",
+      "url": "https://aitoolsradar.com/en/prompts/6539ca0c2dbb06",
+      "status": "public-accepted",
+      "promptSha256": "6544d2469a63e6d6aed774ca7ed9869d90c6fcd66555aef580557c14a3397e3b",
+      "imageSha256": "25612f44204b8375150682a07286290bbe0804375e1ecd1f316baeaf97360ab1"
+    },
+    {
+      "sourceWorkId": "art-nouveau-poster/single-application-studies/08-hero-study",
+      "id": "193ad77386634f",
+      "url": "https://aitoolsradar.com/en/prompts/193ad77386634f",
+      "status": "public-accepted",
+      "promptSha256": "f784f5c838729116a865d891ac5bc2ea56404e38f64ca23790e919d50e96dccf",
+      "imageSha256": "d9adbec9494b79d486aa2d71f02b09261e3f28a8743555f6693c7ecb7fbcde71"
+    },
+    {
+      "sourceWorkId": "arthouse-one-sheet-anime-remake/single-arthouse-remix-studies/02-firefly-corridor",
+      "id": "25a5995bbae11a",
+      "url": "https://aitoolsradar.com/en/prompts/25a5995bbae11a",
+      "status": "public-accepted",
+      "promptSha256": "c28d7a0face342859d4422dc03a71e999e9e1479f63f9c7e17c82ceb0fa7b54e",
+      "imageSha256": "6ecbe8797ca19bb5f665ce39f9c2cfd145801e6c8cf905241e0df5d88ae3fafb"
+    },
+    {
+      "sourceWorkId": "arthouse-one-sheet-anime-remake/single-arthouse-remix-studies/03-seaside-shrine-promise",
+      "id": "5add0cee04d1ab",
+      "url": "https://aitoolsradar.com/en/prompts/5add0cee04d1ab",
+      "status": "public-accepted",
+      "promptSha256": "24d37823348698a00395e362e65afe75da54155f884b3b197b43edb931068ab1",
+      "imageSha256": "70929f82e56bdcc90bdee4ba94bbe50c22368a3a0bf6c25f2799d46e2d2bb3d1"
+    },
+    {
+      "sourceWorkId": "arthouse-one-sheet-anime-remake/single-arthouse-remix-studies/04-snow-platform-farewell",
+      "id": "12d48b3ca3261f",
+      "url": "https://aitoolsradar.com/en/prompts/12d48b3ca3261f",
+      "status": "public-accepted",
+      "promptSha256": "7cf47e3dd09a28129c8eec987c8ef8441562117f4a82bc16d06d1a610bd9b10e",
+      "imageSha256": "fb16a5fbc6fb0473ab02af6918a7e5da039695fe8505032a06dbd4ece7462d8f"
+    },
+    {
+      "sourceWorkId": "arthouse-one-sheet-anime-remake/single-arthouse-remix-studies/05-aquarium-midnight",
+      "id": "5fb6e8f0f29394",
+      "url": "https://aitoolsradar.com/en/prompts/5fb6e8f0f29394",
+      "status": "public-accepted",
+      "promptSha256": "cc3f45df0920e6b0bee353d493e1264c86ced01b180dcc0f13b3e2d0dcf8df2a",
+      "imageSha256": "950d4b4cf653c8c077aa4c35520e5f1efdfe2cfab33440112c2dc7f6ca89c798"
+    },
+    {
+      "sourceWorkId": "arthouse-one-sheet-anime-remake/single-arthouse-remix-studies/06-paper-moon-atelier",
+      "id": "1a7ef5068eef25",
+      "url": "https://aitoolsradar.com/en/prompts/1a7ef5068eef25",
+      "status": "public-accepted",
+      "promptSha256": "e56c3fe1ad2ca67f6e81bc04f8176ad134d73ad53dd84518b66786dd0e7c20ca",
+      "imageSha256": "31722f89aa92d30c8e828f588acef11e8b07ae76403f8eeeef1aa04eacf52daa"
+    },
+    {
+      "sourceWorkId": "arthouse-one-sheet-anime-remake/single-arthouse-remix-studies/07-elevator-to-summer",
+      "id": "9ca5dc2d933ca1",
+      "url": "https://aitoolsradar.com/en/prompts/9ca5dc2d933ca1",
+      "status": "public-accepted",
+      "promptSha256": "c97f1afc5164d0832ad7322325fad37601cc2ab15309f4b13e902a214055395f",
+      "imageSha256": "9f4ef72a214c79663c9e614fd35fda9ac979251eb6c27c8d86eb5f7dfbc9a87e"
+    },
+    {
+      "sourceWorkId": "arthouse-one-sheet-anime-remake/single-arthouse-remix-studies/08-hotel-window-eclipse",
+      "id": "84220f0e31f8cd",
+      "url": "https://aitoolsradar.com/en/prompts/84220f0e31f8cd",
+      "status": "public-accepted",
+      "promptSha256": "5fa4778ccd3f6359634c3c9cb714ef2b524fcd131e81960bdaf8c0bc4f49141c",
+      "imageSha256": "ca2ccb77eb01936aac217c8c08f9c96614daa293210a14b102e0987480cf7931"
+    },
+    {
+      "sourceWorkId": "arthouse-one-sheet-anime-remake/single-arthouse-remix-studies/09-orchard-after-credits",
+      "id": "f6e608d1baee27",
+      "url": "https://aitoolsradar.com/en/prompts/f6e608d1baee27",
+      "status": "public-accepted",
+      "promptSha256": "0a1225fc7289ca310d9699c838fa09cc7f0e3ee821a6e25adcf449a5be400d6e",
+      "imageSha256": "f4af1cdce692937af3cb4ba0a382ca879e5b4d76bb142a21fe8f7c165e335abd"
+    },
+    {
+      "sourceWorkId": "artist-identity-portrait-and-brand-kit/series-identity-lockup/01-reference-press-portrait",
+      "id": "afa1117056fa9b",
+      "url": "https://aitoolsradar.com/en/prompts/afa1117056fa9b",
+      "status": "public-accepted",
+      "promptSha256": "0d288462bb15f24dd4df4ad9f5294f1c9ba37050fca6b100a2d9be9d86598002",
+      "imageSha256": "8fd7f507a7db7139383a8ba577732deb450c7717e1b83eab4c889f531b16c67f"
+    },
+    {
+      "sourceWorkId": "artist-identity-portrait-and-brand-kit/series-identity-lockup/02-monochrome-rooftop",
+      "id": "bd76a51011e1d6",
+      "url": "https://aitoolsradar.com/en/prompts/bd76a51011e1d6",
+      "status": "public-accepted",
+      "promptSha256": "f6632d2cc73822a61153315ebebcdd3106c830c88c61072b34e313ef77d4f337",
+      "imageSha256": "103f38525b72bf59ec1d520ed39bb29acc7134dddfad8f31f3d938a156fadbc1"
+    },
+    {
+      "sourceWorkId": "artist-identity-portrait-and-brand-kit/series-identity-lockup/03-rehearsal-chair-kit",
+      "id": "f3c08dee0e745f",
+      "url": "https://aitoolsradar.com/en/prompts/f3c08dee0e745f",
+      "status": "public-accepted",
+      "promptSha256": "7fc498ff93308ade6fd45e601c46694e1f1d9fe883c8e92ae20ec6e794a711c8",
+      "imageSha256": "aaaaad792b4568d000780f05ac66071fbb767b99edd9b345e639251212df0162"
+    },
+    {
+      "sourceWorkId": "artist-identity-portrait-and-brand-kit/series-identity-lockup/04-gel-light-profile",
+      "id": "c621b0af73d2c0",
+      "url": "https://aitoolsradar.com/en/prompts/c621b0af73d2c0",
+      "status": "public-accepted",
+      "promptSha256": "bb3f6cb9cb71ab7ae9d11dc04d667d4fb1bbd2252ac956f079ae414d27ef6f9c",
+      "imageSha256": "94eb15b49f5d3803ad9b00f59b8824bc27333043537da3172a57618e90483240"
+    },
+    {
+      "sourceWorkId": "artist-identity-portrait-and-brand-kit/single-brand-surfaces/social-avatar-grid",
+      "id": "da4b460c2170c2",
+      "url": "https://aitoolsradar.com/en/prompts/da4b460c2170c2",
+      "status": "public-accepted",
+      "promptSha256": "f22cc2528b867119be5cc489acb90e23236c955bb2f958bdc467240f08b81106",
+      "imageSha256": "477dbea44e95e5aaf7dcf1d1024d296e42c9b3e813f415be0d2f74cffc5df6f5"
+    },
+    {
+      "sourceWorkId": "artist-identity-portrait-and-brand-kit/single-brand-surfaces/credential-pass-study",
+      "id": "bdafb0512d1bb6",
+      "url": "https://aitoolsradar.com/en/prompts/bdafb0512d1bb6",
+      "status": "public-accepted",
+      "promptSha256": "5af13529663de6bfa54b10eb86213aacc2053f7c391ec9acd23e25a96d73149e",
+      "imageSha256": "781ccade0cfa37ffca9dee9859680911c2be882f7481c53c2ca6c0dd51de4ef5"
+    },
+    {
+      "sourceWorkId": "artist-identity-portrait-and-brand-kit/single-brand-surfaces/emblem-wall-study",
+      "id": "b96ee25ced3a66",
+      "url": "https://aitoolsradar.com/en/prompts/b96ee25ced3a66",
+      "status": "public-accepted",
+      "promptSha256": "e4b197acce2f4e82fa69d1e18d3bbfb3cbd1601cbd81316fcdadb3566ce4addd",
+      "imageSha256": "2a21e67e483b79b6c1ac5b9a6297b3049e9fc69d9d6bfc3e6d79ebaf434513ca"
+    },
+    {
+      "sourceWorkId": "artist-identity-portrait-and-brand-kit/single-brand-surfaces/listening-party-invite",
+      "id": "7d0b9efd3fafd8",
+      "url": "https://aitoolsradar.com/en/prompts/7d0b9efd3fafd8",
+      "status": "public-accepted",
+      "promptSha256": "8045c6f17ebbf1ed994c9c0d43b1a14fb36c80664ef35e008a6b24d00b4dc569",
+      "imageSha256": "70d864dc1bbab831c783a3d0e09313ad1799c4ea44e3b050d8666893bd5af903"
+    },
+    {
+      "sourceWorkId": "athlete-spotlight-and-profile-card-family/series-profile-system/01-reference-athlete-anchor",
+      "id": "25664b3fdbe4cb",
+      "url": "https://aitoolsradar.com/en/prompts/25664b3fdbe4cb",
+      "status": "public-accepted",
+      "promptSha256": "256c8175eb45fa192e655fd0dbff85d8411865958e4155b9d800939fa0479399",
+      "imageSha256": "e1d1025392d677a0bda02927d0102f1d26858082e4b0d44206bae9cc6e88abbe"
+    },
+    {
+      "sourceWorkId": "athlete-spotlight-and-profile-card-family/series-profile-system/02-stat-dominant-card",
+      "id": "69c42427fc6702",
+      "url": "https://aitoolsradar.com/en/prompts/69c42427fc6702",
+      "status": "public-accepted",
+      "promptSha256": "8aceb9d2c550b3767ef56a36126923dbe9807bdb5f264e23a3e87da42b7c5e2e",
+      "imageSha256": "e216f309b647436d0a80f27329a492f4451c35a9f654e83baf77c5ab5671343e"
+    },
+    {
+      "sourceWorkId": "athlete-spotlight-and-profile-card-family/series-profile-system/03-action-burst-card",
+      "id": "386fa91bc2e698",
+      "url": "https://aitoolsradar.com/en/prompts/386fa91bc2e698",
+      "status": "public-accepted",
+      "promptSha256": "a65f23821093ddf49f9a893467c2ac2b39b1ec781dae3794027c9b5e8e86f5d3",
+      "imageSha256": "de47ececf6db85a0339c7f979822616229b51158191c577590881074ced5a6b8"
+    },
+    {
+      "sourceWorkId": "athlete-spotlight-and-profile-card-family/series-profile-system/04-captain-editorial-card",
+      "id": "eecf410918e1ec",
+      "url": "https://aitoolsradar.com/en/prompts/eecf410918e1ec",
+      "status": "public-accepted",
+      "promptSha256": "9a6363d9011018be739a07cfd033db2cbf3381d1631c59fc099832a8ed679926",
+      "imageSha256": "57443994186db45cb65bc4fdea2ac741407c0f2d2cd1ee352005c8d58cfac9ad"
+    },
+    {
+      "sourceWorkId": "athlete-spotlight-and-profile-card-family/single-support-studies/runner-milestone-tile",
+      "id": "74a97396f8caf8",
+      "url": "https://aitoolsradar.com/en/prompts/74a97396f8caf8",
+      "status": "public-accepted",
+      "promptSha256": "e0ba30d5c458ca833d5872bd5e5a30c24381591cbcded83bc784f5c176f88d38",
+      "imageSha256": "bc1fd206814db6736207fdcca4e725ea2f30971afdb34b8f0f14abf3d90ae523"
+    },
+    {
+      "sourceWorkId": "athlete-spotlight-and-profile-card-family/single-support-studies/fighter-walkout-card",
+      "id": "55fc32548175fd",
+      "url": "https://aitoolsradar.com/en/prompts/55fc32548175fd",
+      "status": "public-accepted",
+      "promptSha256": "c684e93aac18214c84dae5123f2fcdfa0b3eb70683f5b74ce30f1907b2b97cca",
+      "imageSha256": "c9ccd9b0733a283a5cc47ca4ae96ff53bebcb906d7f7704961690a53deb5bd7c"
+    },
+    {
+      "sourceWorkId": "athlete-spotlight-and-profile-card-family/single-support-studies/recovery-day-portrait",
+      "id": "b759300f68246c",
+      "url": "https://aitoolsradar.com/en/prompts/b759300f68246c",
+      "status": "public-accepted",
+      "promptSha256": "c5272348fc7f8162e250de048acaa0a68f6802df684631999d78084554ed2131",
+      "imageSha256": "07622ea93d285d9eb56bc477022c398dc4e8688c333cc7b5b6329d8c10045d41"
+    },
+    {
+      "sourceWorkId": "athlete-spotlight-and-profile-card-family/single-support-studies/dual-athlete-comparison",
+      "id": "22e37389e2fb5d",
+      "url": "https://aitoolsradar.com/en/prompts/22e37389e2fb5d",
+      "status": "public-accepted",
+      "promptSha256": "27b5327476e6565c3761ac74016f3fe1e6a5a51148db4f8e22d2343783806f66",
+      "imageSha256": "b97c58c990aa48dee72eefcf86ba30fdd611eadc9fc825e77e9dc529fb6941c9"
+    },
+    {
+      "sourceWorkId": "atlantis-underwater-plaza/series-core-discovery/01-reference-anchor",
+      "id": "9cd3eea1ec5529",
+      "url": "https://aitoolsradar.com/en/prompts/9cd3eea1ec5529",
+      "status": "public-accepted",
+      "promptSha256": "bd7f3501b7096e0104f080ef130cb6f0597de72ea9ecd2867335fc26e865a788",
+      "imageSha256": "33c33272a7c41be3c52f7262de24e262217ece631b845db3cbbf02102ddd9977"
+    },
+    {
+      "sourceWorkId": "atlantis-underwater-plaza/series-core-discovery/02-human-scale-reveal",
+      "id": "c859775245ac73",
+      "url": "https://aitoolsradar.com/en/prompts/c859775245ac73",
+      "status": "public-accepted",
+      "promptSha256": "65fef4cef825e95fc9080639cc4c8ba582fd5269b70d332bdfa428fc9b2b493c",
+      "imageSha256": "7a517a4fff762e384d7ab57017ff56ab39dae7027a6d211a1c5613c858b512b0"
+    },
+    {
+      "sourceWorkId": "atlantis-underwater-plaza/series-core-discovery/03-surface-close-study",
+      "id": "a1ece96ccaa6b5",
+      "url": "https://aitoolsradar.com/en/prompts/a1ece96ccaa6b5",
+      "status": "public-accepted",
+      "promptSha256": "4bbc9787da315b14d91556d3f559f2e2ea4ab97d27caaf44a5925f3db796eba9",
+      "imageSha256": "6b724a334da1d4ea8c0b3239cb4395c56fe97a0622199b0cb698f7aa07aa0fe3"
+    },
+    {
+      "sourceWorkId": "atlantis-underwater-plaza/series-core-discovery/04-atmospheric-wide-reveal",
+      "id": "84a94988709d57",
+      "url": "https://aitoolsradar.com/en/prompts/84a94988709d57",
+      "status": "public-accepted",
+      "promptSha256": "e261f9a428f5fae3ee4b6244cdee0bf13264e35fbb432816798221ad4d1ad297",
+      "imageSha256": "db209d1864dc1e845da0cf6f15ff5a05e3b81e315eebc2bfb9c4739b85f7fffc"
+    },
+    {
+      "sourceWorkId": "atlantis-underwater-plaza/single-context-studies/excavation-overview",
+      "id": "fda14e1273ee59",
+      "url": "https://aitoolsradar.com/en/prompts/fda14e1273ee59",
+      "status": "public-accepted",
+      "promptSha256": "ec7492b9838fa2a9656945e5dfaeb35ce14c4776fafc7cce5e8d8ed3daca5134",
+      "imageSha256": "9aacaebe701826861fd6f55c099514e69541a663a13985c42d8d6dfec4ca4b5d"
+    },
+    {
+      "sourceWorkId": "atlantis-underwater-plaza/single-context-studies/artifact-tableau",
+      "id": "b3aeb846e3ccb9",
+      "url": "https://aitoolsradar.com/en/prompts/b3aeb846e3ccb9",
+      "status": "public-accepted",
+      "promptSha256": "8ab0039d0a7b48220ea10db6ff06766ca1aee8219ea418cc6f9fc9e4d277a2cc",
+      "imageSha256": "8b5b3ac8d93a74e3809e101aa8b7f01d8c7f65778548db552d296195feed19c8"
+    },
+    {
+      "sourceWorkId": "atlantis-underwater-plaza/single-context-studies/light-shift-study",
+      "id": "09ba6bd5c3b5ea",
+      "url": "https://aitoolsradar.com/en/prompts/09ba6bd5c3b5ea",
+      "status": "public-accepted",
+      "promptSha256": "0409ac6e1e5068b989bd0a42f6add53dec728103f736af80f973105872cf9040",
+      "imageSha256": "2070b0ba41488ff8ceb09dcf47b143cc8ffdcf0d25a87b082cc4c48c3bdc6fe8"
+    },
+    {
+      "sourceWorkId": "atlantis-underwater-plaza/single-context-studies/survey-perspective",
+      "id": "4e05d58c9f58bc",
+      "url": "https://aitoolsradar.com/en/prompts/4e05d58c9f58bc",
+      "status": "public-accepted",
+      "promptSha256": "cfd2cdb17dce54922d56c020bd65dc8964b90b8dbab444422cbb0247e07df4ae",
+      "imageSha256": "72328b1896bbbf2e4e4cbe1202e30a0f78e9efad0b52cd9630d9a2fd8a424b92"
+    },
+    {
+      "sourceWorkId": "atlantis-underwater-plaza/single-context-studies/editorial-reconstruction",
+      "id": "a9fb46d21bd889",
+      "url": "https://aitoolsradar.com/en/prompts/a9fb46d21bd889",
+      "status": "public-accepted",
+      "promptSha256": "241cf18d3e86e9ae59860c9c84cf6588907c62b7b7f2c755ef06b41febfb260f",
+      "imageSha256": "e10e086684a548273bd6b6f68a52e9872bf3bc425af1cad12652b88c802e612e"
+    },
+    {
+      "sourceWorkId": "audubon-specimen-atlas/single-audubon-specimen-studies/macro-study",
+      "id": "99dea1f0425254",
+      "url": "https://aitoolsradar.com/en/prompts/99dea1f0425254",
+      "status": "public-accepted",
+      "promptSha256": "794402ea19faf24e44e43350788da6e4c9542c904aadf0e61f347970350e9a9b",
+      "imageSha256": "e2adc0ce13f5c0b3cc9be332e3fbb4a3e7ea57f46f2a005fac94c218bb5924b9"
+    },
+    {
+      "sourceWorkId": "audubon-specimen-atlas/single-audubon-specimen-studies/side-light-study",
+      "id": "c916201280b67a",
+      "url": "https://aitoolsradar.com/en/prompts/c916201280b67a",
+      "status": "public-accepted",
+      "promptSha256": "a07c04c461b896832a3ccb33a57d7cd431373297581b38bf71740c74ed321335",
+      "imageSha256": "4cde2455cb02a764306ecefad6a3115361393c87c4d3fed57e220e886cebf2ea"
+    },
+    {
+      "sourceWorkId": "audubon-specimen-atlas/single-audubon-specimen-studies/motion-moment",
+      "id": "9670dc6de89587",
+      "url": "https://aitoolsradar.com/en/prompts/9670dc6de89587",
+      "status": "public-accepted",
+      "promptSha256": "14d4e2acb3ca958f2af204ab8898707fad08f79ab08a2cbdd6456c8aceb2cb8c",
+      "imageSha256": "70a666208cfd501e894a2ff792d493f02d8887a085daacabbef2e8299500c08e"
+    },
+    {
+      "sourceWorkId": "audubon-specimen-atlas/single-audubon-specimen-studies/low-light-atlas",
+      "id": "1ba3957b808369",
+      "url": "https://aitoolsradar.com/en/prompts/1ba3957b808369",
+      "status": "public-accepted",
+      "promptSha256": "0a08067e82e596451f2ef665ab9b02214200118a9f38e51687d1b77818d35b51",
+      "imageSha256": "507476dff21d28b541049e05f1dc78f2bca1eb78c443f6e84080ccb86ece4812"
+    },
+    {
+      "sourceWorkId": "audubon-specimen-atlas/single-audubon-specimen-studies/specimen-table",
+      "id": "3c26f1f02cce76",
+      "url": "https://aitoolsradar.com/en/prompts/3c26f1f02cce76",
+      "status": "public-accepted",
+      "promptSha256": "c3634678be34435d82fe49d58606f5ebf12ff37c2628de9b105548655a509c2e",
+      "imageSha256": "eded3976764c33d7ce637e48adc292786eaec30301773aa935c3aa420f1f716d"
+    },
+    {
+      "sourceWorkId": "audubon-specimen-atlas/single-audubon-specimen-studies/atmospheric-view",
+      "id": "4a714d0921fbf4",
+      "url": "https://aitoolsradar.com/en/prompts/4a714d0921fbf4",
+      "status": "public-accepted",
+      "promptSha256": "a62520c31f84a4e9be0a81ab2e382046107d7b74520928d572c4af3f996f262f",
+      "imageSha256": "1148a20bde91d11b8d40cff16eebc2995aa8be9ade453854b7650c0039690b2e"
+    },
+    {
+      "sourceWorkId": "audubon-specimen-atlas/single-audubon-specimen-studies/signature-frame",
+      "id": "b362d2ece8dde7",
+      "url": "https://aitoolsradar.com/en/prompts/b362d2ece8dde7",
+      "status": "public-accepted",
+      "promptSha256": "262f11bbc52d37254a109a07e4bd14290bf9e4a779d7b4063af54722d8b68905",
+      "imageSha256": "af2a35c28347fdf743474ddd7a2f42ee51e9c4bdf1c63a854e953aaa86f687d6"
+    },
+    {
+      "sourceWorkId": "aurora-glacier-silent-theatre/series-core-system/01-reference-anchor",
+      "id": "6f2d41e96c3eb1",
+      "url": "https://aitoolsradar.com/en/prompts/6f2d41e96c3eb1",
+      "status": "public-accepted",
+      "promptSha256": "aee9ea1db27339d3d30c30cf80a4a41a0226f61b9428819aaef67e5b99eb963c",
+      "imageSha256": "5aaee8dd01e8c172baf14ac831963ab9e08cb54bb7079cd9dc49cd08b621e28d"
+    },
+    {
+      "sourceWorkId": "aurora-glacier-silent-theatre/series-core-system/02-closer-frame",
+      "id": "6c34103f0f0acb",
+      "url": "https://aitoolsradar.com/en/prompts/6c34103f0f0acb",
+      "status": "public-accepted",
+      "promptSha256": "7959f83e223615ae7df6db45040809af5bc7fd625a29709c3014b86cbb7e411c",
+      "imageSha256": "49d83fde55afe75fe9c8277ac56675ee477d6bdffafb339095e3b0b698ac447c"
+    },
+    {
+      "sourceWorkId": "aurora-glacier-silent-theatre/series-core-system/03-spatial-counterpoint",
+      "id": "685ac80c6bfca4",
+      "url": "https://aitoolsradar.com/en/prompts/685ac80c6bfca4",
+      "status": "public-accepted",
+      "promptSha256": "5d94f970e800f691ce4ee45eca51a7222e9c67d856e91bab4749309bb340e982",
+      "imageSha256": "c8d3e533187d50f8298c636a8cd87dd43db3476aedd1815842a040481958bee4"
+    },
+    {
+      "sourceWorkId": "aurora-glacier-silent-theatre/series-core-system/04-climax-frame",
+      "id": "283cf7758e71ae",
+      "url": "https://aitoolsradar.com/en/prompts/283cf7758e71ae",
+      "status": "public-accepted",
+      "promptSha256": "feeda75bab98dc19e1ec98455b1d3f8f4c163b500d41879682cad23abffa6656",
+      "imageSha256": "a3f5cfec38344501cb592b31996a51ca5a8a7c8cca5dddc22b3ee83f35758da4"
+    },
+    {
+      "sourceWorkId": "aurora-glacier-silent-theatre/single-support-studies/silhouette-study",
+      "id": "92bbfe6006c1b3",
+      "url": "https://aitoolsradar.com/en/prompts/92bbfe6006c1b3",
+      "status": "public-accepted",
+      "promptSha256": "6e20767cdc2ad3fa4fdc028b94a2220cc2ddd33184a370673dd42c2ca41b03e8",
+      "imageSha256": "cbcce6f97f2678f88822a0b30deb4c9d6c40d342aa78d2285d6b0b2b40f5212c"
+    },
+    {
+      "sourceWorkId": "aurora-glacier-silent-theatre/single-support-studies/transition-study",
+      "id": "64a915cb707a0d",
+      "url": "https://aitoolsradar.com/en/prompts/64a915cb707a0d",
+      "status": "public-accepted",
+      "promptSha256": "14a180216f31bd96b2fce9a5257b8645eea430eb54b1512edf82ce34a27d63ff",
+      "imageSha256": "ba95d1e7b66a8f23eba9acb940c1e5d80b0402cb8155e93bbc8543615dd04bec"
+    },
+    {
+      "sourceWorkId": "aurora-glacier-silent-theatre/single-support-studies/wide-study",
+      "id": "0a7b69f7196b3c",
+      "url": "https://aitoolsradar.com/en/prompts/0a7b69f7196b3c",
+      "status": "public-accepted",
+      "promptSha256": "8a282fdd7c9af6cad510ddceb7a9712f069bfa557bcf113b2b3aa70390a2889e",
+      "imageSha256": "630d8ce237676f06d12620762a50c4de7ff857bf122f6a171bff7657cef7b2b3"
+    },
+    {
+      "sourceWorkId": "aurora-glacier-silent-theatre/single-support-studies/afterglow-study",
+      "id": "e8f7c9a80d8d1e",
+      "url": "https://aitoolsradar.com/en/prompts/e8f7c9a80d8d1e",
+      "status": "public-accepted",
+      "promptSha256": "98b2ceb173a70ea889a162f025a1e3f0795a52cac06aec0ad05dfa774390dbf2",
+      "imageSha256": "73b26abc374f59e7fa9d82d36f377bd4a53f220751200ff8b616ec418db6e6ba"
+    },
+    {
+      "sourceWorkId": "automotive-concept-art/single-automotive-concept-art-studies/exploded-arrangement",
+      "id": "4aff10c9749a25",
+      "url": "https://aitoolsradar.com/en/prompts/4aff10c9749a25",
+      "status": "public-accepted",
+      "promptSha256": "45ae06e8ad91ec8a07aa996a53dd5db59b30117415d74470203cc33000636492",
+      "imageSha256": "d8e54bd7d7dd078d5cc4306f4e171c41865dbc76de02d0b921a2a524d1d320f2"
+    },
+    {
+      "sourceWorkId": "automotive-concept-art/single-automotive-concept-art-studies/material-pass",
+      "id": "c497b71524fe89",
+      "url": "https://aitoolsradar.com/en/prompts/c497b71524fe89",
+      "status": "public-accepted",
+      "promptSha256": "ea4f981b5c06000dffd36da7ed541fb11a6beec62c32d46c296d01c059c03ad8",
+      "imageSha256": "6b374079f0651055e099de222369ba348c829ceb97b9a15e2faa05e79c53ac94"
+    },
+    {
+      "sourceWorkId": "automotive-concept-art/single-automotive-concept-art-studies/studio-turn",
+      "id": "57f47d2df1a6ce",
+      "url": "https://aitoolsradar.com/en/prompts/57f47d2df1a6ce",
+      "status": "public-accepted",
+      "promptSha256": "34c1343b7165415df810863ff206fee6302c0bdb6246c9ccd47ddfbf8f210846",
+      "imageSha256": "1595539d434f9a23a510850818750aa42f043b981c1263188ee0d92c4bb7020f"
+    },
+    {
+      "sourceWorkId": "automotive-concept-art/single-automotive-concept-art-studies/scale-comparison",
+      "id": "22aa6a6355c833",
+      "url": "https://aitoolsradar.com/en/prompts/22aa6a6355c833",
+      "status": "public-accepted",
+      "promptSha256": "3807ba817202fcb9c25c7cd95dd764dfb2a3fd7ef9240a6e64fae0417f93791d",
+      "imageSha256": "0c31a9a696e53465e69b2262bd7d808fbdef08f0851cb49eb44d810fc8cebf12"
+    },
+    {
+      "sourceWorkId": "automotive-concept-art/single-automotive-concept-art-studies/detail-closeup",
+      "id": "060ab1d31d5369",
+      "url": "https://aitoolsradar.com/en/prompts/060ab1d31d5369",
+      "status": "public-accepted",
+      "promptSha256": "9260b7b92148763b4d3a15f476ea0c0c7f7f4911de08ff0a5b5f17d4ed560d2e",
+      "imageSha256": "ef36af292a3efa28403be5f16110e76caaffdd3d1a751eaf9f068fe5af461505"
+    },
+    {
+      "sourceWorkId": "automotive-concept-art/single-automotive-concept-art-studies/environment-presentation",
+      "id": "ad6b8e17e73eda",
+      "url": "https://aitoolsradar.com/en/prompts/ad6b8e17e73eda",
+      "status": "public-accepted",
+      "promptSha256": "4a0f90ed0de22a5afb42530f79fe0c28e51fa67e81e45863476ad8ab73bbd0ca",
+      "imageSha256": "341ae3430756fde8bc9f00ab59ba94e2e9df5f2d6864912bc28165021a969d25"
+    },
+    {
+      "sourceWorkId": "automotive-concept-art/single-automotive-concept-art-studies/signature-render",
+      "id": "48c4816808a09f",
+      "url": "https://aitoolsradar.com/en/prompts/48c4816808a09f",
+      "status": "public-accepted",
+      "promptSha256": "25368a7f555267be7fd2da31d48087cc55a7c0404fee7cdba90b31ad088cec05",
+      "imageSha256": "77b6829cd137dd754920e893f14a7def056ad7a69b0a0a5c820ac83aad642356"
+    },
+    {
+      "sourceWorkId": "automotive-interior-cockpit-ui-hero/series-core-system/01-reference-anchor",
+      "id": "701709c39ebeee",
+      "url": "https://aitoolsradar.com/en/prompts/701709c39ebeee",
+      "status": "public-accepted",
+      "promptSha256": "c075254d13c0c87409a7f27450dfd557c8d3d4cde74198d904da398dea1d1387",
+      "imageSha256": "87139bf3f3269e53a6c1b8e35f865dcd70035f536be52ba1118c245f95305c50"
+    },
+    {
+      "sourceWorkId": "automotive-interior-cockpit-ui-hero/series-core-system/02-context-shift",
+      "id": "f172c433110625",
+      "url": "https://aitoolsradar.com/en/prompts/f172c433110625",
+      "status": "public-accepted",
+      "promptSha256": "011f61b76a980ead0efdb56c0879218ef0cc9c3db1696f9995f2cecb0cbd0459",
+      "imageSha256": "ee2c2c09f257b23c345ae4bf4433dce1ecb498fd5ca7e05eac7f51f23a341ee9"
+    },
+    {
+      "sourceWorkId": "automotive-interior-cockpit-ui-hero/series-core-system/03-surface-study",
+      "id": "433104fdd976dd",
+      "url": "https://aitoolsradar.com/en/prompts/433104fdd976dd",
+      "status": "public-accepted",
+      "promptSha256": "4f84fe0d5c8a7b4fde1adf27c14a39cf9a3b1cb9d4c8f0f7d3c9037867cf9f58",
+      "imageSha256": "ac248b973ed0aafa173f358164d6bd2748038a0e111849c76041c2c2892aa61b"
+    },
+    {
+      "sourceWorkId": "automotive-interior-cockpit-ui-hero/series-core-system/04-presentation-master",
+      "id": "8320954aaa1836",
+      "url": "https://aitoolsradar.com/en/prompts/8320954aaa1836",
+      "status": "public-accepted",
+      "promptSha256": "fd96b6acec5df4bee1f6c36cbb13852008fce349e083cb38a6520e469358789e",
+      "imageSha256": "158829835cfe896e64312666f19b3dac7c4ebbbc8b2a0667e2e76f451ff10272"
+    },
+    {
+      "sourceWorkId": "automotive-interior-cockpit-ui-hero/single-support-studies/support-two",
+      "id": "1b1b49853e8adc",
+      "url": "https://aitoolsradar.com/en/prompts/1b1b49853e8adc",
+      "status": "public-accepted",
+      "promptSha256": "23abae31a144cdf45d942847c120b9bbc7c9329794fe471e05a6da923e4a14e5",
+      "imageSha256": "088f0ecb4e229ddb3471196a5e014019275869ca082e01faa472a31fdfddd50a"
+    },
+    {
+      "sourceWorkId": "automotive-interior-cockpit-ui-hero/single-support-studies/support-three",
+      "id": "5865a47bec1372",
+      "url": "https://aitoolsradar.com/en/prompts/5865a47bec1372",
+      "status": "public-accepted",
+      "promptSha256": "ab1236b463ba7f7e029f053919f6133598794a6dc9a9d1e21458ff1ca8cfaa02",
+      "imageSha256": "ca34e3429b1e0ac65a955a8b0907d1aee5ceed632fc7d02711bc337db12a9213"
+    },
+    {
+      "sourceWorkId": "automotive-interior-cockpit-ui-hero/single-support-studies/support-four",
+      "id": "bed2d527e1a4b8",
+      "url": "https://aitoolsradar.com/en/prompts/bed2d527e1a4b8",
+      "status": "public-accepted",
+      "promptSha256": "5b8b1a8804354c30f8ae76f6bbd4b01ac6179fbd6390cfc2a8ab1dd7f895ac0c",
+      "imageSha256": "f4c11a17f0ad9622dede4d83d5ecb936bdd0e5ddeef85a66d330d8670582a9a5"
+    },
+    {
+      "sourceWorkId": "automotive-interior-cockpit-ui-hero/single-support-studies/support-five",
+      "id": "c97aa0ac0d9b64",
+      "url": "https://aitoolsradar.com/en/prompts/c97aa0ac0d9b64",
+      "status": "public-accepted",
+      "promptSha256": "6c2101279e6645c8fbe5d9ad15fa0014f36e6f60bd0e056297765b3480c94f36",
+      "imageSha256": "5b95d6fdd3bb9d5c3d170b6b21af864b45071d91d5e552a192d68b4162e3f3b6"
+    }
+  ]
+}
