@@ -4,14 +4,15 @@ Image and prompt pairs with original author, source, actual generation model, re
 
 ## GPT Image 2.6 — current focus
 
-**37 complete output/prompt pairs, representing 22 distinct prompt texts.** Images and full prompts are stored in this repository with original attribution and per-item rights notes.
+**40 complete output/prompt pairs, representing 24 distinct prompt texts.** Images and full prompts are stored in this repository with original attribution and per-item rights notes.
 
 - [21 official example pairs](GPT-IMAGE-2.6-FULL.md), already published on ProjectD.
 - [15 official comparison outputs](GPT-IMAGE-2.6-COMPARISONS.md): 13 Flare + 2 Sunburst complexity variants; zero additional prompt recipes.
+- [3 more independent editing outputs, 2 distinct prompts](GPT-IMAGE-2.6-INDEPENDENT.md): Night Lab mug recoloring and Lightlyn sofa edits.
 - [1 independent creator recipe](GPT-IMAGE-2.6-CREATOR.md), with the original 14-word prompt and actual 2.6 attachment. Variant unspecified.
 - [50-group original source index](GPT-IMAGE-2.6.md) and [additional research outcomes](data/image26-research-expansion.json). Source-linked candidates are not automatically approved pairs.
 
-The new 16 pairs have passed local review and browser checks; ProjectD publication is tracked separately.
+The first 37 pairs have ProjectD publication receipts. Three additional reviewed editing pairs await the next publication receipt. Independent final public-browser acceptance is tracked separately.
 
 ## ProjectD historical backfill
 

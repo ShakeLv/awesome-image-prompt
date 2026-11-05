@@ -1,0 +1,123 @@
+{
+  "pairs": 3,
+  "distinctPrompts": 2,
+  "items": [
+    {
+      "item": {
+        "id": "3d621a0893af67",
+        "title": "Selective mug recoloring in a branded product scene",
+        "prompt": "Change only the left mug ceramic body to deep teal. Preserve both NIGHT LAB logos, the owl, mug shapes, reflections and all scene objects.",
+        "model": "GPT Image 2.6 Sunburst",
+        "language": "en",
+        "categories": [
+          "Photography"
+        ],
+        "purposes": [
+          "editing",
+          "product"
+        ],
+        "author": "az9713",
+        "source": "Creator-published GPT Image 2.6 editing example. Complete short original prompt quoted with attribution; actual source output retained. Model is source-attested, not independently reproduced. Original rights retained.",
+        "sourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/manifest.json",
+        "image": "/prompt-gallery/3d621a0893af67-06d2895122206bc2.webp",
+        "referenceRequirement": "user-image",
+        "provenance": {
+          "originalImageUrl": "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/10-consistency-recolor.png",
+          "originalImageHash": "816d3b9cf6fba0eff42776d3c88a96b50a3d6541c5246ce8ffd096fd7c3306c8",
+          "imageHash": "06d2895122206bc2311649fd3357de901844e106bd667012920b93fd4310bc63",
+          "modelEvidence": "Pinned experiment manifest job10 explicitly records edits with gpt-image-2.6-sunburst, source job03 and this exact output filename; original PNG Git blob 35def5d4f4caf0d4c94afdfe35ffc28b8c2e9871 verified.",
+          "promptLicense": "Complete 24-word original prompt quoted with attribution to az9713: https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/manifest.json. Original rights retained; this short quotation is not a blanket reuse grant.",
+          "imageCopyright": "az9713; original rights retained; attributed source result, no blanket image reuse grant asserted.",
+          "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+          "decodedRgbaSha256": "817328641f6e19782ca43f1b85a16dd99d8a84dcb0dfe0c923d4abaaa8ee4bf6",
+          "width": 1024,
+          "height": 1024,
+          "identicalDecodedPixels": true,
+          "conversion": "PNG to lossless WebP at native 1024x1024. Complete decoded RGBA buffers compare byte-for-byte equal; original PNG retained in archive."
+        },
+        "referenceImages": [
+          "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/03-quality-medium.png"
+        ]
+      },
+      "imageFile": "cases/gpt-image-2.6/nightlab-recolor/nightlab-lossless.webp",
+      "promptFile": "cases/gpt-image-2.6/nightlab-recolor/prompt.txt",
+      "projectdStatus": "reviewed-not-published"
+    },
+    {
+      "item": {
+        "id": "d261c4d05cb6a9",
+        "title": "Dark green sofa edit — Flare",
+        "prompt": "Change only the sofa to dark green velvet. Keep everything else in the photo unchanged.",
+        "model": "GPT Image 2.6 Flare",
+        "language": "en",
+        "categories": [
+          "Photography"
+        ],
+        "purposes": [
+          "editing"
+        ],
+        "author": "Linger / Lightlyn",
+        "source": "Creator-published GPT Image 2.6 editing example. Complete short original prompt quoted with attribution; actual source output retained. Model is source-attested, not independently reproduced. Original rights retained.",
+        "sourceUrl": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+        "image": "/prompt-gallery/d261c4d05cb6a9-85302249829bfde9.webp",
+        "referenceRequirement": "user-image",
+        "provenance": {
+          "originalImageUrl": "https://image.lightlyn.com/examples/gpt-image-2-6/7-local-edit-26-flare-960.webp",
+          "originalImageHash": "85302249829bfde928ae41ba66ee0e9d6fc707b9d7733a629ba25d72cd973f04",
+          "imageHash": "85302249829bfde928ae41ba66ee0e9d6fc707b9d7733a629ba25d72cd973f04",
+          "modelEvidence": "First-party test5 section explicitly labels this exact 26-flare image GPT Image 2.6 Flare. Adjacent 25-* files are GPT Image 2.5 and excluded. Author-published 960px rendition, not raw API output.",
+          "promptLicense": "Complete 15-word original prompt quoted with attribution to Linger / Lightlyn: https://image.lightlyn.com/gpt-image-2-6?lang=en. Original rights retained; this short quotation is not a blanket reuse grant.",
+          "imageCopyright": "Linger / Lightlyn; original rights retained; attributed source result, no blanket image reuse grant asserted.",
+          "sourceSnapshotHash": "309cdc7ed5b61882875e6e915eeeed4f8b09befe8a625849cb80d9f0591e701b",
+          "sourceCapturedAt": "2026-11-05T14:42:24.293827+00:00",
+          "mediaBytesAreGitPinned": false,
+          "nativeWidth": 960,
+          "nativeHeight": 640,
+          "conversion": "Exact author-published 960x640 WebP rendition, no conversion, crop, resize or upscaling.",
+          "visualLimitations": "The author reports changes outside the target sofa. Retained as an actual model result, not a guarantee of perfectly isolated editing."
+        }
+      },
+      "imageFile": "cases/gpt-image-2.6/lightlyn-sofa-flare/sofa-flare.webp",
+      "promptFile": "cases/gpt-image-2.6/lightlyn-sofa-flare/prompt.txt",
+      "projectdStatus": "reviewed-not-published"
+    },
+    {
+      "item": {
+        "id": "c07fa2c8b25e73",
+        "title": "Dark green sofa edit — Sunburst",
+        "prompt": "Change only the sofa to dark green velvet. Keep everything else in the photo unchanged.",
+        "model": "GPT Image 2.6 Sunburst",
+        "language": "en",
+        "categories": [
+          "Photography"
+        ],
+        "purposes": [
+          "editing"
+        ],
+        "author": "Linger / Lightlyn",
+        "source": "Creator-published GPT Image 2.6 editing example. Complete short original prompt quoted with attribution; actual source output retained. Model is source-attested, not independently reproduced. Original rights retained.",
+        "sourceUrl": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+        "image": "/prompt-gallery/c07fa2c8b25e73-74301480983ff0ba.webp",
+        "referenceRequirement": "user-image",
+        "provenance": {
+          "originalImageUrl": "https://image.lightlyn.com/examples/gpt-image-2-6/7-local-edit-26-sunburst-960.webp",
+          "originalImageHash": "74301480983ff0bac865d136dfeb761c3c1a7f20c98028dfa6c71fdc22ceaddd",
+          "imageHash": "74301480983ff0bac865d136dfeb761c3c1a7f20c98028dfa6c71fdc22ceaddd",
+          "modelEvidence": "First-party test5 section explicitly labels this exact 26-sunburst image GPT Image 2.6 Sunburst. Adjacent 25-* files are GPT Image 2.5 and excluded. Author-published 960px rendition, not raw API output.",
+          "promptLicense": "Complete 15-word original prompt quoted with attribution to Linger / Lightlyn: https://image.lightlyn.com/gpt-image-2-6?lang=en. Original rights retained; this short quotation is not a blanket reuse grant.",
+          "imageCopyright": "Linger / Lightlyn; original rights retained; attributed source result, no blanket image reuse grant asserted.",
+          "sourceSnapshotHash": "309cdc7ed5b61882875e6e915eeeed4f8b09befe8a625849cb80d9f0591e701b",
+          "sourceCapturedAt": "2026-11-05T14:42:24.293827+00:00",
+          "mediaBytesAreGitPinned": false,
+          "nativeWidth": 960,
+          "nativeHeight": 640,
+          "conversion": "Exact author-published 960x640 WebP rendition, no conversion, crop, resize or upscaling.",
+          "visualLimitations": "The author reports changes outside the target sofa. Retained as an actual model result, not a guarantee of perfectly isolated editing."
+        }
+      },
+      "imageFile": "cases/gpt-image-2.6/lightlyn-sofa-sunburst/sofa-sunburst.webp",
+      "promptFile": "cases/gpt-image-2.6/lightlyn-sofa-sunburst/prompt.txt",
+      "projectdStatus": "reviewed-not-published"
+    }
+  ]
+}

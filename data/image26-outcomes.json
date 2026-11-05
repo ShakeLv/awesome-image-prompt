@@ -1,8 +1,8 @@
 {
   "sourceGroups": 50,
-  "fullPairsArchived": 37,
-  "pending": 28,
-  "projectdPublished": 21,
+  "fullPairsArchived": 40,
+  "pending": 27,
+  "projectdPublished": 37,
   "outcomes": [
     {
       "id": "official-case-1",
@@ -150,7 +150,7 @@
     },
     {
       "id": "nightlab-10",
-      "outcome": "held-no-explicit-source-reuse-license"
+      "outcome": "archived-attributed-24-word-short-quotation-awaiting-projectd"
     },
     {
       "id": "nightlab-11",
@@ -202,13 +202,13 @@
     },
     {
       "id": "creator-v3rt0x-tea",
-      "outcome": "archived-attributed-short-quotation-awaiting-projectd"
+      "outcome": "full-pair-archived-and-projectd-published"
     }
   ],
   "projectdReleaseId": "2026-11-05T08:37:31.666Z-c2c9b6fc-1b63-480c-b413-efebb41c004d",
   "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/41995538782",
   "additionalOutputVariants": 15,
-  "distinctArchivedPromptTexts": 22,
-  "note": "50 original indexed source groups: 22 selected recipes, 28 held groups; 15 further official model/complexity output variants bring stored full pairs to 37. Publication pending for the new 16 pairs.",
+  "distinctArchivedPromptTexts": 24,
+  "note": "Original 50 source groups: 23 selected recipe/source groups and 27 held. Plus one new Lightlyn recipe with two model outputs. Including 15 official variants, total archived outputs40 and distinct prompts24. New three-pair ProjectD publication pending.",
   "statusCorrection": "Earlier outcome rows had assigned published to the first 21 ordinal rows instead of the exact 21 approved official case IDs. Reconciled against actual item-level ProjectD IDs and publication receipts; actual published content unchanged."
 }

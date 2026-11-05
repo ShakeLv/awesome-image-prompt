@@ -2,7 +2,7 @@
   "snapshotDate": "2026-11-05",
   "sourceCommit": "0381c2b",
   "scope": "Current ProjectD main source, not a new live audit",
-  "total": 7008,
+  "total": 7011,
   "models": {
     "GPT Image 2.6 Sunburst": 21,
     "GPT Image 2": 5053,
@@ -16,16 +16,17 @@
     "AI": 6,
     "GPT Image 1.5": 3
   },
-  "archivedFullPairs": 1611,
+  "archivedFullPairs": 1614,
   "historicalFullPairs": 1574,
-  "gptImage26Pairs": 37,
+  "gptImage26Pairs": 40,
   "newHistoricalThisBatch": 1377,
-  "localImagesVerified": 1611,
+  "localImagesVerified": 1614,
   "localMediaBytes": 1121487056,
   "remaining": 5397,
   "remainingReason": "Missing source/license provenance; per-item hold ledger retained",
-  "githubPublished": 1611,
-  "publicationStatus": "GitHub batches 2–16 accepted; follow-up 2.6 creator and metadata commit in progress",
-  "gptImage26DistinctPrompts": 22,
-  "projectdNewBatchStatus": "16 reviewed pairs awaiting cloud receipt"
+  "githubPublished": 1614,
+  "publicationStatus": "Follow-up archive commit prepared",
+  "gptImage26DistinctPrompts": 24,
+  "projectdNewBatchStatus": "3 reviewed pairs awaiting publication",
+  "projectdPublishedGptImage26": 37
 }

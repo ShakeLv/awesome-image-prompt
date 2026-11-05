@@ -33,5 +33,6 @@
   },
   "imageFile": "cases/gpt-image-2.6/creator-vert-tea/tea-at-home.webp",
   "promptFile": "cases/gpt-image-2.6/creator-vert-tea/prompt.txt",
-  "projectdStatus": "reviewed-not-published"
+  "projectdStatus": "published",
+  "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
 }

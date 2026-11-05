@@ -15,7 +15,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "82c6f87ff1ab01",
       "comparisonVariant": "medium complexity",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-01-complexity-high",
@@ -30,7 +31,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "82c6f87ff1ab01",
       "comparisonVariant": "high complexity",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-03-flare",
@@ -45,7 +47,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "617961e67383df",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-16-flare",
@@ -60,7 +63,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "13733117cdfdce",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-17-flare",
@@ -75,7 +79,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "b94f50b8d12141",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-18-flare",
@@ -90,7 +95,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "8133aca2afa05e",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-19-flare",
@@ -105,7 +111,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "4d132bbcdeb786",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-20-flare",
@@ -120,7 +127,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "7a842a1d3db289",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-21-flare",
@@ -135,7 +143,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "21afbb3cbbe19f",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-22-flare",
@@ -150,7 +159,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "509c302fc76df9",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-23-flare",
@@ -165,7 +175,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "f218fba12cb471",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-24-flare",
@@ -180,7 +191,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "764a3095b2a61f",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-25-flare",
@@ -195,7 +207,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "b90e133202c83a",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-26-flare",
@@ -210,7 +223,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "776a1404a00033",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     },
     {
       "id": "official-27-flare",
@@ -225,7 +239,8 @@
       "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
       "baseProjectdId": "d15ff05d90a26a",
       "comparisonVariant": "Flare comparison",
-      "projectdStatus": "reviewed-not-published"
+      "projectdStatus": "published",
+      "publicationRun": "https://github.com/ShakeLv/ProjectD/actions/runs/42038971841"
     }
   ]
 }

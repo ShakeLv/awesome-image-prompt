@@ -1,0 +1,10 @@
+{
+  "commit": "e746d98f105d9e818cd6e43f01fb7e2f3955de2c",
+  "historicalPairs": 1574,
+  "gptImage26Pairs": 37,
+  "distinctGptImage26Prompts": 22,
+  "totalPairs": 1611,
+  "verifiedRemoteObjects": 1669,
+  "method": "Remote Git tree blob identities independently recomputed from exact local full bytes; historical image SHA-256 equals accepted ProjectD provenance",
+  "remoteTreeTruncated": false
+}
