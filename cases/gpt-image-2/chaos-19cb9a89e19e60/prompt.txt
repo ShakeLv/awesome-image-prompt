@@ -1,0 +1,14 @@
+Scene:
+Compose a square packaged-food lifestyle image that connects shelf-ready packaging with actual household use, serving, and meal preparation. The frame should feel commercially precise but lived in, showing how the package belongs inside a believable kitchen, pantry, or dining context rather than isolated white-background product photography. Maintain the same domestic counter and natural light feel, but introduce one board, one lunch container, and partial ingredient prep elements.
+
+Subject:
+The package must stay clearly visible and physically plausible, while the prepared food, ingredients, bowls, or serving scene demonstrate real usage and appetite appeal. Show the packaged food in the context of assembling a practical lunch or quick meal, with the prepared result clearly visible nearby.
+
+Important details:
+This topic tests bridge-building between package design and lived food context. Preserve realistic kitchen materials, pantry organization, serving logic, and package handling so the brand feels trustworthy and useful. If abstract label areas appear, they must remain unreadable; trust should come from materials, cooking cues, and scene credibility rather than literal copy. Preserve the exact camera height, lens feel, prop family, tabletop scale, palette discipline, and brand logic established by 01-pantry-anchor. The reference kitchen language should remain stable through surfaces, utensils, and palette, while the scene gains more task-oriented energy.
+
+Use case:
+Food Package Scenes series study 3/9, built for Prompt Atlas coverage of a food and beverage commercial visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no sterile white studio void, no messy family chaos, no unrealistic packaging scale, no cluttered supermarket shelf wall, no full human face, no chaotic meal prep mess, no readable stickers.

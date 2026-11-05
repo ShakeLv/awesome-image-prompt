@@ -1,0 +1,14 @@
+Scene:
+Create a square front-facing object board on a pale neutral background with crisp directional light and calm graphic structure. The image should feel like a premium planning concept board translated into physical objects, with clear grouping and abstraction. Use layout discipline rather than readable text to communicate ambition, progress, and the idea of a fresh annual cycle.
+
+Subject:
+Arrange notebooks without readable writing, markers, geometric tabs, personal-care cues, exercise objects, coins or budgeting tokens, and small lifestyle items into a coherent goal-board composition. Each cluster should imply a different reset domain without feeling literal or overcrowded. The subject should feel useful for campaign ideation, social storytelling, or editorial support around New Year intention-setting.
+
+Important details:
+Treat this as a design problem. Keep spacing, color balance, and object hierarchy precise. Materials should remain tactile and real, but the layout must be clean enough to read as one composed board. The image should communicate structured ambition and practical optimism without visible resolutions, dates, or slogans. It needs to look polished, current, and reusable.
+
+Use case:
+New Year Renewal single study 7/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable notes, no year numerals, no logo products, no scrapbook mess, no motivational text, no glitter décor, no excessive props, no childish stickers.

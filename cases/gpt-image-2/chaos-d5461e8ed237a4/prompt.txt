@@ -1,0 +1,14 @@
+Scene:
+Create a square reference-dependent architecture still for Night Architecture Lighting Photography Set. Use a closer angle toward the lit facade planes and lower entry while keeping the same lens discipline, editorial polish, and material believability established by the reference image. The lighting can shift to support the intended mood, but the space must still feel like the same authored project with a stable viewpoint logic, convincing depth separation, and clean commercial-photography finish. Keep deep blue-black night, warm gold light, cool silver reflections, and restrained amber interior spill as the governing tonal range even when the emphasis changes.
+
+Subject:
+Show a night-architecture photography subject with layered facade lighting, wet pavement reflections, atmospheric civic calm, controlled interior glow, and a clearly recognizable silhouette. Focus on the exact same building from the reference image, now emphasizing layered lighting temperatures and detail visibility. Preserve exact architectural identity, plan logic, material palette, fixture family, and circulation cues from the reference image while changing only the intended emphasis described here. The viewer should immediately recognize the same project, not a loose cousin, with matching silhouette logic, aligned detailing, and consistent brand atmosphere.
+
+Important details:
+Preserve the building silhouette, lighting hierarchy, reflection logic, civic atmosphere, and disciplined night-photography realism. Any abstract wayfinding, menu, wall-label, or packaging zones must stay unreadable and subordinate to the spatial image. Joinery, edges, reflections, and lighting should remain realistic enough for an operator or design team to treat the image as a credible reference. The variation should feel deliberate and commercially useful, proving that one locked spatial language can flex across multiple campaign or editorial surfaces.
+
+Use case:
+Night Architecture Lighting Photography Set series study 2/9, extending facade-lighting nuance while preserving the same building identity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact architectural identity from the reference image, no fireworks, no traffic light streak overload, no readable signage, no festival screens, no people crowding the foreground, no lens flare overload.

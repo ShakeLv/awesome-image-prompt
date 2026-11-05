@@ -1,0 +1,14 @@
+Scene:
+A square fashion composition using a precise 3 by 3 outfit grid, with flat paper texture, pale washi gutters, and a palette of indigo, persimmon, black ink, cream, and muted concrete gray. The lighting is graphic and even, halfway between a woodblock print and a street-style editorial shoot. The grid must read as a modern social-feed OOTD layout without any readable text.
+
+Subject:
+A painted figure inspired by ukiyo-e portrait traditions: elegant profile, black lacquered hair shape, calm narrow eyes, pale face, and simplified ink contours. Keep the head and facial language visibly woodblock-like, but dress the body in contemporary city layers: oversized indigo chore jacket, cropped black trousers, cream high-neck knit, plain canvas sneakers, folded tote bag, patterned socks, and a persimmon scarf. The person repeats across panels as one consistent subject.
+
+Important details:
+The nine panels should balance flat graphic design with fashion utility: center full-body fit check, face profile crop, sneaker and sock detail, chore jacket sleeve, scarf knot, tote fold, walking crosswalk pose, seated step pose, and textile close-up. Preserve ukiyo-e line economy in the head and hair while making the clothing modern and wearable. Keep all gutters straight, all panel crops intentional, and all colors consistent.
+
+Use case:
+Painting Character OOTD single study 7/8, an independent woodblock-inspired street-style grid.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no extra people, no anime style, no randomized print text, no broken grid, no replacing the woodblock head with a photographic face.

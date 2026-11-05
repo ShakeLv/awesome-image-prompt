@@ -1,0 +1,14 @@
+Scene:
+A square social-feed fashion collage using the same 3 by 3 grid structure as the reference image, with thin ivory gutters, balanced panel spacing, and no readable UI. The mood is late-afternoon city light outside a stone museum, mixing old master warmth with contemporary street photography. Keep the composition polished, editorial, and legible at thumbnail size.
+
+Subject:
+The same Renaissance oil-painting sitter from the reference image must appear across the grid with the identical oval face, dark veil, calm gaze, folded-hand poise, and softly modeled painterly skin. The clothing changes to modern streetwear layering: cropped technical jacket in moss green, long white shirt hem, wide washed-black trousers, understated court-style sneakers, canvas crossbody pouch, ribbed socks, and a matte charcoal scarf. The head remains painted and antique while the outfit materials read modern.
+
+Important details:
+Use the reference as the primary identity and layout guide. Preserve the sitter's face shape, veil silhouette, expression, and calm frontal presence across all visible panels. The grid should include a center full-body fit check, face crop, shoe crop, jacket detail, crossbody pouch detail, walking pose, seated curb pose, sleeve texture, and profile crop. Every panel must share one subject, one outfit system, and one coherent lighting direction.
+
+Use case:
+Painting Character OOTD series study 2/8, testing reference-based identity retention during a streetwear outfit edit.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no changed face identity, no extra characters, no broken grid alignment, no modernizing the oil-painted head.

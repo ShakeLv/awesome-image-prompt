@@ -1,0 +1,14 @@
+Scene:
+Compose a square comparison plate with three dominant anatomical states laid out cleanly on a pale neutral ground. The board should feel like a medical teaching aid elevated by careful illustration rather than by flashy layout tricks. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Show the same host structure in healthy condition, active parasitic burden, and stabilized mutualistic condition. Supporting close-ups can reveal the organism’s role in each state through texture and tissue interaction. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the organism changes ecological role by life stage. Early phases may exploit host tissue, later phases may provide immune modulation, pollination, cleaning, or nutrient transfer. The lifecycle must read as coherent biology rather than arbitrary plot twists. This is about contrast and inference. The host tissue should remain recognizable across states, while the organism’s changing impact becomes the key educational insight of the board. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Parasite-Mutualism Life Cycle Poster single study 8/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no gore emphasis, no sterile UI mockup look, no simplistic cartoon organs, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

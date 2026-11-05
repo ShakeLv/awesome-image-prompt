@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 museum exhibition poster on cold white matte stock, composed with strong empty space and a refined night palette. Use ink black, mist blue, pale gray, and a very small amount of muted teal. The poster should feel like a contemporary cultural institution campaign, photographed flat with crisp paper edges and no visible wall or frame.
+
+Subject:
+A single ink-wash mountain ridge appears near the bottom, almost like a shadow. Above it floats a small moon reflected in a narrow lake band, leaving the majority of the poster open and silent. Place the readable Chinese title "墨山夜游" in a vertical column along the left third, using elegant high-contrast Chinese typography, stable baseline spacing, and dark gray ink. A tiny abstract red seal block may sit below the title, but it must contain no readable characters.
+
+Important details:
+The layout should show clear poster hierarchy without extra event details: title column, moon, lake reflection, ridge, and negative space. The mountain should be atmospheric rather than photorealistic; the moon should be subtle, not glowing like a fantasy planet. Preserve a premium museum tone, with precise margins and no crowded decoration. The title must be legible and not broken into random strokes.
+
+Use case:
+New Chinese Ink Poster single study 4/8, testing cultural poster hierarchy, night ink mood, and stable vertical Chinese title composition.
+
+Constraints:
+No readable text outside the specified Chinese title, no watermark, no logos, preserve exact 9:16 aspect ratio, no dates, no ticket prices, no museum emblem, no starry sky clutter, no neon glow, no heavy black background, no illegible calligraphy.

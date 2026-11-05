@@ -1,0 +1,14 @@
+Scene:
+Design a square prop-study image for one relic interface object or installation, using atmosphere only to support object readability and material storytelling. The composition should feel collectible, publishable, and specific. Compose a solemn object study of an elongated pod with translucent chambers, preserved traces, and protective outer shell fractures.
+
+Subject:
+Show a complete biotech relic with a clear function such as navigation, memory storage, ritual control, environmental sensing, or sealing. It should appear ancient yet advanced through the logic of grown channels, touch surfaces, and preserved internal light. The relic should read as a memory-storage artifact tied to ceremony and care, not as a weapon or coffin cliché.
+
+Important details:
+Favor disciplined object hierarchy, tactile material contrast, and implied use over pure ornament. Every glow, crack, or surface transition should contribute to the story of function and age. Use quiet lighting and material tenderness to make the emotional function legible through form alone. Preserve believable interaction logic so the relic feels operable within its world rather than simply mysterious.
+
+Use case:
+Organic Tech single study 3/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no wizard props, no superhero sci-fi gadgets, no random glowing runes, no commercial logos, no horror corpse cues.

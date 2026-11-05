@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 poster on cool off-white paper, designed with modern Chinese ink restraint and a rainy spring atmosphere. The page should be mostly blank, with thin vertical movement concentrated along the right edge and a low horizontal wash near the bottom. Use pale bamboo green, diluted ink black, fog blue, and light gray. The image must remain clean enough for a premium cultural brand poster.
+
+Subject:
+A sparse bamboo grove is suggested by five or six slender ink stalks and soft leaf clusters, leaving large open paper areas. Fine rain lines fall through the empty space but remain delicate, not noisy. A shallow lake wash at the bottom catches faint bamboo reflections. Place the readable Chinese title "听雨见竹" vertically near the left third, balanced against the bamboo on the right, using refined modern calligraphy with stable character shapes.
+
+Important details:
+The poster tests whether many fine lines can stay orderly in an extreme vertical composition. Rain, bamboo, title, and reflection must not merge into visual clutter. The Chinese title must remain the only readable text and should not look like random brush marks. Keep the luxury feeling through restraint: ample margins, balanced asymmetry, no decorative border, and one very small abstract red seal block without characters.
+
+Use case:
+New Chinese Ink Poster single study 6/8, testing fine-line ink structure, readable vertical Chinese type, and calm 9:16 negative-space control.
+
+Constraints:
+No readable text outside the specified Chinese title, no watermark, no logos, preserve exact 9:16 aspect ratio, no dense bamboo forest, no birds, no people, no storm clouds, no saturated emerald, no fake handwritten gibberish, no frame.

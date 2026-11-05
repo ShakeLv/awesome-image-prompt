@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 premium tea-brand launch poster, designed as a flat print on ivory rice paper. Keep the composition spacious, with roughly seventy percent quiet blank paper and a low-saturation palette of pale tea green, fog blue, charcoal ink, and faint warm gray. The poster should feel modern, expensive, and calm, with no photography frame and no decorative border.
+
+Subject:
+At the bottom left, a minimal ink silhouette of a mountain tea house sits beside a small reflective pond. Thin terraces climb into mist behind it, drawn with broken ink lines and diluted green wash. A single steam-like brushstroke rises upward, becoming part of the empty space. Place the readable Chinese title "云上问茶" in a small vertical block near the upper center-left, using refined modern calligraphic typography that is legible but not loud.
+
+Important details:
+The design must read as new Chinese commercial minimalism, not an old scroll reproduction. Typography, landscape, and blank space should form a clean hierarchy: title first, mist gesture second, tea house third. The tea house must be recognizable with a roofline, posts, and reflection, but it should stay tiny. Use one abstract red seal square without characters as a visual anchor. Do not add package copy, prices, dates, or brand logos.
+
+Use case:
+New Chinese Ink Poster single study 2/8, testing commercial tea-poster layout, small readable Chinese title, and disciplined negative space.
+
+Constraints:
+No readable text outside the specified Chinese title, no watermark, no logos, preserve exact 9:16 aspect ratio, no product package, no tea leaves close-up, no busy mountain village, no random seals, no illegible fake characters, no saturated gold luxury effects.

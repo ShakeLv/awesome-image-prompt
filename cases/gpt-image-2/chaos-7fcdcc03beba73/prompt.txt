@@ -1,0 +1,14 @@
+Scene:
+Create a square relic-device poster with enough atmosphere to imply archaeology, ritual, and lost interface logic while remaining visually precise. The scene can be staged on stone, resin, mineral, or ceremonial supports, but the framing should keep the device as the clear protagonist. Use directional light that reveals surface relief, embedded channels, and translucent organic layers without obscuring object structure. Render a carried console variant resting on textile supports or a transport frame while preserving the same core cavity, channels, and mineral-bone shell language.
+
+Subject:
+Center the composition on one biotech relic that fuses grown matter, carved mineral, membrane layers, luminous vessels, and interface surfaces into a coherent artifact. It should feel older than the viewer can fully understand, but still legible as a tool, console, or control core created by a sophisticated civilization. The object should clearly belong to the anchor family but compress into a more portable interface with grips, foldout membranes, and tactile activation zones.
+
+Important details:
+Prioritize object logic over mythology. Vein-like channels, tactile contact areas, hidden mechanisms, soft emissions, and material transitions should all suggest an organic user interface. The poster must feel commercially useful for prop design, worldbuilding boards, or key visual surfaces rather than as generic fantasy treasure. Portability must remain believable through weight cues, balance, and structural continuity, not through arbitrary miniaturization. Preserve the exact structural language established by the reference image, especially the ovoid core silhouette, vein-like circuitry, mineral-bone materials, and sacred device hierarchy.
+
+Use case:
+Organic Tech series study 3/4, designed as a reusable core-system image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no fantasy spell circles, no steampunk brass clutter, no readable glyph text, no obvious modern screens, no tablet-computer clichés.

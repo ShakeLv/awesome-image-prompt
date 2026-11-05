@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 new Chinese ink poster on smooth rice-white paper, composed with a wide empty upper field and a quiet architectural scene near the lower third. Use low-saturation mist blue, pale gray, charcoal ink, and a small celadon accent. The poster should feel like a refined cultural travel campaign, but without any brand mark or destination logo.
+
+Subject:
+A single arched stone moon bridge crosses a narrow lake, drawn in minimal ink with softened edges and a faint mirrored reflection. Behind it, two distant mountains fade into mist and a small round moon hangs high in the open space. Place the readable Chinese title "月桥过水" horizontally below the moon but above the bridge, with elegant modern Song-style typography and exact spacing between the four characters.
+
+Important details:
+Keep the bridge simple and iconic, not a detailed tourist illustration. The open sky must remain mostly blank, with only the moon and title interrupting it. The title should be crisp, centered on a stable invisible grid, and the only readable text. The bridge reflection should align with the waterline, proving structured layout control. Add no explanatory copy; let the mountain, bridge, water, and title carry the poster.
+
+Use case:
+New Chinese Ink Poster single study 7/8, testing architectural ink iconography, centered Chinese headline rendering, and spacious vertical travel-poster composition.
+
+Constraints:
+No readable text outside the specified Chinese title, no watermark, no logos, preserve exact 9:16 aspect ratio, no tourists, no lantern festival clutter, no saturated sunset, no fake destination branding, no heavy border, no broken bridge reflection.

@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic commercial photograph in the same luxury boardroom established by the reference image. Maintain the eye-level composition across the polished walnut table, warm downlights, glass wall with cool city bokeh, dark leather executive chairs, and controlled premium contrast. The scene should feel like a real photographed advertising concept with believable reflections and scale.
+
+Subject:
+At the head chair sits a heavy brass door key as the executive, wearing a tailored midnight blue suit jacket and understated tie. The key is upright, with the bow acting like a head-height silhouette but without any face, and the toothed bit grounded near the chair seat. Its brass surface shows scratches, worn edges, darker patina in recessed grooves, and warm highlights from the ceiling lights. The suit fits around the metal object as a bespoke costume rather than a cartoon body.
+
+Important details:
+Use the first image as the reference for room continuity, table geometry, lens height, chair placement, and serious boardroom mood. The key must retain actual metal weight and geometry: flat shaft, circular bow, cut teeth, worn brass, real contact shadows, and mirror-like table reflection. Anthropomorphism is implied through executive seating, suit tailoring, and negotiation posture. The visual joke should read as boardroom power and access control, not fantasy animation.
+
+Use case:
+Object Boardroom series study 4/8, preserving the reference boardroom while testing tarnished metal, hard reflections, scale control, and object-as-executive staging.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cartoon face, no human arms, no floating key, no extra keychain, no impossible soft metal bending, no cluttered documents.

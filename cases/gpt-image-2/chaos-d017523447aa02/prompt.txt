@@ -1,0 +1,14 @@
+Scene:
+Use the reference cover as the primary guide for the same square fictional magazine-cover format: straight-on printed page, warm off-white paper, blank masthead band, delicate ornamental border, thin graphite linework, transparent watercolor fills, and calm editorial lighting. Keep the page hierarchy, margins, corner flourishes, and refined hand-drawn texture consistent with image 01.
+
+Subject:
+The new central metaphor shows a nighttime office desk where a human editor's chair is empty, but many tiny mechanical hands emerge from a typewriter-like machine to sort paper, sharpen pencils, pour coffee, erase mistakes, and pin blank notes. The desk surface bends into a conveyor belt, and the belt loops back into a small sleeping cot under the desk. One simple desk lamp lights the whole scene like a stage, making the labor cycle visible without any written labels.
+
+Important details:
+Preserve the shared cover language from the reference while changing the narrative to AI-era labor. The metaphor must be readable through objects: automation, invisible work, editorial production, exhaustion, and recursion. All papers, notes, calendar pages, screen areas, and typewriter keys must contain blank shapes or unreadable marks only. Keep the composition elegant and witty, with one central idea, controlled negative space, clear object silhouettes, and no software interface.
+
+Use case:
+New Yorker Editorial series study 2/8, testing whether the reference cover grammar can carry an AI labor metaphor.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real magazine name, no real AI product branding, no robot mascot, no cluttered office mess, no horror machinery, no photorealistic computer screen.

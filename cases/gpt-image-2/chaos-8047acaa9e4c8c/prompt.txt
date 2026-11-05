@@ -1,0 +1,14 @@
+Scene:
+Compose the poster around a cutaway view of a gill chamber on a pale clinical-natural history background. Supporting panels should radiate around the main cutaway in a clear but label-free layout, using shape and alignment to communicate order. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Show larvae lodged within protected gill folds, feeding lightly on host fluids while secreting compounds that reduce inflammation and improve oxygen exchange enough to keep the host alive. Include magnified insets of attachment organs and secretory tissue. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the organism changes ecological role by life stage. Early phases may exploit host tissue, later phases may provide immune modulation, pollination, cleaning, or nutrient transfer. The lifecycle must read as coherent biology rather than arbitrary plot twists. The paradox of harm and benefit should be visible. The organism is parasitic, yet it must not destroy the host during this phase. Use anatomy and panel relationships to make that balance clear without text. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Parasite-Mutualism Life Cycle Poster single study 2/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no body-horror imagery, no blood emphasis, no readable notation, no glossy pharma ad style, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

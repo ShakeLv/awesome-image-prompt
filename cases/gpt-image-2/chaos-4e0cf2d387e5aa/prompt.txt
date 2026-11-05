@@ -1,0 +1,14 @@
+Scene:
+Create a square kitchen or pantry image with crisp daylight, tidy shelving, pale natural materials, and a fresh practical mood. The frame should feel like a campaign asset for organization, meal prep, or healthy routine, not a cookbook shot. Keep composition clean and balanced, with strong visual order and a believable domestic scale that supports New Year reset storytelling.
+
+Subject:
+Show neatly arranged jars without readable labels, fresh produce, folded linens, trays, and storage pieces organized into a persuasive pantry reset scene. The objects should imply discipline, nourishment, and a calmer household rhythm. Focus on cleanliness and planning through arrangement rather than on visible people or inspirational text.
+
+Important details:
+Surface logic matters: glass thickness, produce freshness, shelf materials, linen texture, and daylight should all read clearly. Avoid perfection so severe that the scene becomes lifeless, but keep enough order that the image carries a strong reset message. This should feel useful for grocery, home, appliance, or wellness-adjacent New Year campaigns.
+
+Use case:
+New Year Renewal single study 6/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no family photos, no brand packaging, no chaotic grocery spill, no holiday leftovers, no neon food colors, no crowded kitchen tools, no visible recipe text.

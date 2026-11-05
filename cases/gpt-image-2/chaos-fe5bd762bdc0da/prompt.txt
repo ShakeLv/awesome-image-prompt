@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic commercial photograph in a dark risk committee room, lit mostly by a single warm flame and soft overhead spill. The camera is close to table level, with a matte black conference surface, leather chairs fading into shadow, and faint city lights behind tinted glass. The image should feel cinematic, expensive, and physically believable rather than theatrical.
+
+Subject:
+A short ivory candle sits in the central executive chair, dressed in a black suit jacket tailored around the wax cylinder. Its small flame leans slightly as if air conditioning moves through the room, while melted wax pools down one side and hardens at the jacket edge without looking impossible. The candle is surrounded by blank charts, a closed laptop with no logo, a water glass, and a few dark folders, suggesting an emergency risk briefing after hours.
+
+Important details:
+The candle must remain a real burning candle with wax translucency, wick detail, flame core, orange glow, soot-soft shadows, and credible heat light on nearby table objects. Anthropomorphism is limited to boardroom seating, suit fit, and scene staging. The flame should cast a believable warm gradient across the wax, lapels, table, and surrounding chairs. The high-concept joke should feel like a premium campaign about pressure, burnout, or crisis management.
+
+Use case:
+Object Boardroom single study 6/8, testing flame light, wax material, shadow physics, and non-cartoon object anthropomorphism.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cartoon face, no human arms, no spreading fire, no melted suit fabric, no branded laptop, no fantasy glow, no messy props.

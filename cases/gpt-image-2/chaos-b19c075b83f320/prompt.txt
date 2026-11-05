@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic commercial image in a bright modern boardroom with pale stone walls, a long white conference table, and morning sunlight cutting through vertical blinds. The camera looks diagonally across the table at chair height, creating a clean luxury consulting-firm atmosphere. Reflections on glass, chrome, and polished stone should be sharp enough to sell the physical set.
+
+Subject:
+A clear water glass is seated like a chief executive at the near end of the table, wearing a tailored light gray suit jacket shaped around the cylindrical glass. Water inside the glass bends the background through realistic refraction, and a meniscus catches the sun along the rim. Small condensation beads and caustic highlights fall onto the table. Other chairs are empty, but voting cards, blank paper stacks, and capped pens are arranged around the table like a high-stakes decision has just occurred.
+
+Important details:
+The glass must stay transparent and materially accurate: real rim thickness, waterline distortion, refraction through the suit edges, tabletop caustics, and gravity-consistent condensation. Anthropomorphism should be understated, created through executive seating, fitted tailoring, and the implied vote around it. Keep the image clean and premium, like a financial magazine cover or brand strategy campaign. No eyes, mouth, arms, or cartoon expression should appear.
+
+Use case:
+Object Boardroom single study 5/8, testing transparent material physics, refraction, and commercial boardroom storytelling without reference dependencies.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cartoon face, no human arms, no liquid spill, no branded stationery, no impossible glass deformation, no cluttered background.

@@ -1,0 +1,14 @@
+Scene:
+Compose a square lineup board with five full-body NPCs in even spacing, neutral ground shadow, and side accessory strips like a shipping-ready art sheet. Keep the overall frame square, polished, and production-ready game art bible presentation with crisp panel rhythm, believable costume construction, and enough visual hierarchy for downstream UI or documentation reuse. Let materials, lighting, and spacing feel intentional enough for gallery, research, campaign, or approval-board reuse without depending on readable text.
+
+Subject:
+Show a patrol group from rookie to veteran, making armor density, carried tools, and posture clearly tiered. Ground the image inside a wind-carved desert citadel faction with oxidized bronze, indigo cloth, pale bone accents, practical leather, and a sun-faded military-monastic attitude. Use multiple adult NPC archetypes such as guard, quartermaster, medic, machinist, scout, priest, and captain, but keep them visually linked through the same regional craft language and social hierarchy. 
+
+Important details:
+Keep insignia geometry, rank markers, cloth layering, tool silhouettes, and color hierarchy coherent across every role so the cast reads like one population rather than unrelated hero concepts. Keep role readability strong enough for encounter design and side-quest casting while preserving one faction identity. Treat this frame as an independent study that still honors the same overall theme and production logic. Favor believable production craft, clean hierarchy, and reusable visual logic over empty spectacle or random decoration.
+
+Use case:
+NPC Faction Casting Sheet single study 7/9, patrol-tier lineup planning for encounter casting.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no identical silhouettes, no extra monsters, no cinematic explosion backdrop, no broken spacing.

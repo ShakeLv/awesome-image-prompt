@@ -1,0 +1,14 @@
+Scene:
+A square fictional highbrow magazine cover illustration, viewed perfectly straight-on as a finished printed page on warm off-white paper. Use thin graphite ink lines, transparent watercolor fills, gentle paper grain, and a quiet daylight palette of cream, slate, muted red, moss green, and pale blue. Leave a clean blank masthead band at the top made of abstract empty blocks, with a delicate hand-drawn ornamental border around the page.
+
+Subject:
+The central visual pun shows a lone city reader sitting on a park bench while the bench slowly becomes an open book, and the book pages turn into small apartment windows. The reader is simple and anonymous, drawn with elegant line economy, a coat, shoes, and a tilted hat. Around the figure, tiny balcony plants, street lamps, pigeons replaced by folded paper shapes, and window curtains create an urban literary world without clutter.
+
+Important details:
+This is the reference cover language for the series. Preserve square magazine-cover hierarchy, top blank masthead area, generous margins, ornamental corner flourishes, hand-drawn contour lines, restrained watercolor wash, and a single readable metaphor. All title areas, issue details, and cover lines must be blank bars or abstract marks, never real letters. The image should feel like an award-winning editorial cover rather than a poster template.
+
+Use case:
+New Yorker Editorial series study 1/8, establishing the shared magazine cover grammar for the fanout series.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real magazine name, no celebrity likeness, no dense typography, no glossy photo realism, no chaotic collage, no heavy black border.

@@ -1,0 +1,14 @@
+Scene:
+A square fashion collage arranged as a crisp 3 by 3 social-feed outfit grid with thin cream gutters, clean margins, and no readable interface text. The lighting echoes a northern studio: dark background, cool side light, luminous skin tones, and small highlights on fabric and jewelry. The full composition should feel like a luxury editorial post made from an old painting and a modern wardrobe session.
+
+Subject:
+A young painted portrait figure inspired by a Dutch golden-age tronie, with a blue-and-gold head wrap, pearl earring, turned shoulder, parted lips, and softly glazed face. Preserve the painted head and luminous old-master surface, but style the body in modern outfit pieces: cropped navy bomber, white ribbed tank, wide indigo denim, silver belt, pale low-profile sneakers, and a compact crescent bag. The sitter appears in multiple grid panels as the same person.
+
+Important details:
+Each panel should serve a fashion purpose: center full-body fit check, close-up of the head wrap and pearl, sneaker crop, bomber sleeve detail, bag silhouette, three-quarter portrait, seated pose, denim texture, and shadowed profile. The painted head must remain visibly historical while the garments read contemporary. Keep the nine panels aligned and visually related through consistent lighting, color, and identity.
+
+Use case:
+Painting Character OOTD single study 5/8, an independent art-history fit-check layout without reference dependencies.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no extra people, no changed head wrap, no mismatched outfit pieces, no broken grid, no photographic face replacement.

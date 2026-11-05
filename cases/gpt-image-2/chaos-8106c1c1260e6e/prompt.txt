@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 luxury fragrance campaign poster printed on soft white paper, front-facing and minimal. Use a restrained palette of pale ink gray, mist blue, celadon green, and one extremely subtle warm highlight. The upper half should be almost empty, while the lower center holds a refined ink landscape and a small product-like silhouette without any brand identity.
+
+Subject:
+A translucent frosted glass fragrance bottle sits at the bottom center, simplified and unbranded, half emerging from a shallow ink lake. Behind it, a few steep ink mountains rise like a miniature stage set, with green mineral wash only on select ridges. Place the readable Chinese title "一缕山岚" horizontally above the bottle with careful modern Song-style letterforms, generous spacing, and a calm dark-gray tone. No other copy appears.
+
+Important details:
+This is a commercial mockup, but it must not become a logo advertisement. The bottle should be photoreal enough to show frosted glass, soft reflection, and a faint shadow on the paper, while the landscape remains ink-wash and flat. The title should align to the bottle axis without crowding it. Preserve sixty percent or more clean negative space, and make the transition between product object and painted lake feel elegant rather than surreal.
+
+Use case:
+New Chinese Ink Poster single study 5/8, testing luxury product-poster composition, restrained mixed media, and readable Chinese headline spacing.
+
+Constraints:
+No readable text outside the specified Chinese title, no watermark, no logos, preserve exact 9:16 aspect ratio, no brand label on the bottle, no barcode, no price copy, no ornate perfume cap, no saturated metallic gold, no cluttered floral background.

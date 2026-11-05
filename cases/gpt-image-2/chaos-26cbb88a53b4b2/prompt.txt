@@ -1,0 +1,14 @@
+Scene:
+A square editorial illustration of a newspaper copy desk after midnight, drawn in fine graphite lines with muted watercolor washes on warm cream paper. The camera looks slightly down at a tidy but lived-in desk, with a lamp pool of yellow light, blue-gray shadows, and carefully organized objects. The image must read as a single polished magazine illustration with clear hierarchy and no readable printed matter.
+
+Subject:
+At the desk sits a small old-fashioned robot wearing a green visor, carefully editing a stack of blank pages with a red pencil. The robot's body is made from a pencil sharpener, a clock, and a coffee cup, suggesting human routines absorbed into a machine. Around it are neatly arranged style sheets, eraser crumbs, a blank calendar, paper clips, and a tiny wastebasket filled with crumpled pages that resemble wilted flowers. A human coat hangs on the chair back, implying the person has stepped away or been replaced.
+
+Important details:
+The metaphor should be layered but readable: automation doing editorial judgment, human craft displaced but not mocked, work culture continuing through objects. Keep the robot humble and mechanical, not cute branded merchandise. All papers, calendar blocks, sticky notes, and page marks must remain unreadable. Use precise object spacing, visible pencil texture, transparent watercolor, and a restrained palette. The scene should feel witty, humane, and slightly uneasy.
+
+Use case:
+New Yorker Editorial single study 6/8, testing AI-era labor as an independent editorial desk metaphor.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real newspaper name, no real AI product, no screen UI, no chrome sci-fi robot, no messy pileup, no dramatic horror lighting.

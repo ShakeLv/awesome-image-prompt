@@ -1,0 +1,14 @@
+Scene:
+Create a square poster with a strong diagonal flow that implies movement from one habitat to another, while retaining a clean scientific layout. One major host figure should anchor the board, with smaller supporting panels clarifying transport-stage anatomy and dispersal context. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Focus on a migratory carrier animal that transports the organism externally or in a low-impact internal compartment. The parasite should appear dormant or streamlined during transit, visibly adapted for surviving host movement rather than active feeding. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the organism changes ecological role by life stage. Early phases may exploit host tissue, later phases may provide immune modulation, pollination, cleaning, or nutrient transfer. The lifecycle must read as coherent biology rather than arbitrary plot twists. Explain the ecological logic of transport through composition. Distinct habitat fragments, body orientation, and developmental morphology should show why this host is useful in the life cycle and how the organism changes behavior during travel. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Parasite-Mutualism Life Cycle Poster single study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no adventure-poster drama, no readable route maps, no random arrows, no cartoon host expression, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

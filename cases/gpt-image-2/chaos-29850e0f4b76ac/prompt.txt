@@ -1,0 +1,14 @@
+Scene:
+Use the reference cover as the primary guide for a square fictional magazine cover on off-white paper, with the same blank masthead band, thin ornamental border, graphite contour lines, transparent watercolor washes, and restrained urban palette. The camera is straight-on, the printed page is flat, and the margins remain generous and balanced.
+
+Subject:
+The central metaphor shows an apartment facade arranged like a social media grid, but every window contains a person alone in a different quiet pose. One person waters a plant, one eats dinner, one lifts a phone as if taking a picture, one waits beside a birthday cake with blank candles, one looks into a mirror that reflects another window, and one sleeps under a glowing rectangle of light. The window frames connect with thin vine-like notification shapes, yet no one actually meets. A small courtyard at the bottom contains a single shared bench that remains empty.
+
+Important details:
+Preserve the shared cover grammar from image 01 while making loneliness legible through layout. The grid must be structured and readable, not a busy comic page. Windows should align cleanly, figures should remain anonymous and simple, and phone screens or note areas must be abstract colored rectangles with no readable icons or letters. The humor should be melancholic and precise: connected frames, disconnected lives, delicate watercolor restraint.
+
+Use case:
+New Yorker Editorial series study 3/8, testing the reference cover system on a social-network loneliness metaphor.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real app interface, no brand colors, no speech bubbles, no dense crowd scene, no dark cyberpunk mood, no broken window grid.

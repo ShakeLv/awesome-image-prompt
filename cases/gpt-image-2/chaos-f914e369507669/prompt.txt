@@ -1,0 +1,14 @@
+Scene:
+Design a square prop-study image for one relic interface object or installation, using atmosphere only to support object readability and material storytelling. The composition should feel collectible, publishable, and specific. Design a square environmental prop study where a low altar-like device sits beside mineral pools, with channel surfaces reacting to moisture and flow.
+
+Subject:
+Show a complete biotech relic with a clear function such as navigation, memory storage, ritual control, environmental sensing, or sealing. It should appear ancient yet advanced through the logic of grown channels, touch surfaces, and preserved internal light. The object should feel like a civic environmental instrument with ritual dignity, not a mystical magic prop.
+
+Important details:
+Favor disciplined object hierarchy, tactile material contrast, and implied use over pure ornament. Every glow, crack, or surface transition should contribute to the story of function and age. Let water traces, mineral residue, and sensing geometry explain purpose more than glow. Preserve believable interaction logic so the relic feels operable within its world rather than simply mysterious.
+
+Use case:
+Organic Tech single study 4/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no wizard props, no superhero sci-fi gadgets, no random glowing runes, no commercial logos, no spellcasting pose, no priest figures.

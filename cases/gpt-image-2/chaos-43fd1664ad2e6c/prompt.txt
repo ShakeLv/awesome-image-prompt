@@ -1,0 +1,14 @@
+Scene:
+Design a polished square board with a circular lifecycle composition occupying most of the frame on a pale scientific background. Each segment of the wheel should contain enough habitat and anatomical detail to explain one transition without relying on text. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Integrate aquatic entry, protected nursery, migratory transport, mutualistic adult phase, and reproductive release in one coherent cycle. Hosts should be visually distinct yet harmonized through color and layout so the system reads as one organism’s journey. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the organism changes ecological role by life stage. Early phases may exploit host tissue, later phases may provide immune modulation, pollination, cleaning, or nutrient transfer. The lifecycle must read as coherent biology rather than arbitrary plot twists. The wheel must feel editorially clean and biologically rigorous. Use repetition, orientation, and contrast to show order, causality, and ecological role changes without becoming a generic infographic template. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Parasite-Mutualism Life Cycle Poster single study 7/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable arrows, no dashboard UI boxes, no flat iconography, no corporate presentation style, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

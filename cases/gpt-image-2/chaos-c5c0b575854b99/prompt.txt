@@ -1,0 +1,14 @@
+Scene:
+Finish with a fully composed classroom-style poster that balances a central hero diagram with smaller supporting lifecycle scenes, all inside a square educational layout. The board should feel complete, polished, and ready for gallery or research presentation. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Present the organism’s full ecological story across multiple hosts and roles while keeping anatomy credible and layout coherent. The composition should invite long study, with each region rewarding inspection even without readable text. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the organism changes ecological role by life stage. Early phases may exploit host tissue, later phases may provide immune modulation, pollination, cleaning, or nutrient transfer. The lifecycle must read as coherent biology rather than arbitrary plot twists. Think like a natural history educator: clarity first, beauty second, but both should be present. The final poster should summarize the package without flattening it into sterile graphic design. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Parasite-Mutualism Life Cycle Poster single study 9/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable typography, no school-clipart style, no corporate infographic look, no horror poster cues, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

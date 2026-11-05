@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic commercial photograph inside a luxury walnut boardroom at evening, camera at seated eye level across a polished table. Warm recessed ceiling lights and a cool city skyline through glass walls create precise reflections on wood, leather, porcelain, and metal. The room feels expensive and serious, with shallow depth of field but enough clarity to read the full meeting setup.
+
+Subject:
+At the head chair sits a porcelain coffee cup as the executive, wearing a perfectly tailored charcoal suit jacket built around the cup body. Steam rises naturally from the dark coffee surface like measured breath during a tense meeting. Cuff sleeves, lapels, and tie knot fit the cup without turning it into a cartoon body. Around the table, blurred empty executive chairs, folders without readable text, water glasses, and a silver conference speaker reinforce the boardroom scale.
+
+Important details:
+The cup must remain an actual porcelain cup with real thickness, handle, rim, liquid surface, condensation, and gravity. Anthropomorphism comes only from suit tailoring, chair placement, posture implied by composition, and executive staging. Keep hands, eyes, mouth, and facial features absent. Reflections on the table should mirror the cup, suit fabric, and ceiling lights believably. The humor should feel like a premium magazine advertisement, not a mascot illustration.
+
+Use case:
+Object Boardroom series study 1/8, establishing the reference boardroom, tailoring logic, camera height, and photoreal material standard for the series.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cartoon face, no human arms, no floating object, no impossible fabric clipping, no messy table clutter.

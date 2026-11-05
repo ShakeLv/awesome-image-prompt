@@ -1,0 +1,14 @@
+Scene:
+A square 3 by 3 fashion grid set against a stormy Romantic landscape background, with pale gutters, soft mist, windswept light, and dramatic cloud breaks. The image should feel like a museum painting escaped into a contemporary outerwear editorial. Keep the social-feed structure clear and modern, with no readable captions, handles, numbers, or interface labels.
+
+Subject:
+A Romantic-era painted wanderer with windblown hair, pale contemplative face, distant gaze, and brushy oil texture. The head and hands stay historical and painterly, but the outfit becomes contemporary cold-weather styling: long slate-blue technical raincoat, charcoal wool hood layer, cream thermal trousers, rugged plain hiking shoes, compact crossbody field bag, fingerless knit gloves, and a matte black umbrella used as a prop. The same person appears consistently in every face or body crop.
+
+Important details:
+Use the grid as an outfit breakdown: center full-body stance on a rocky overlook, face crop in wind, raincoat seam detail, hiking shoe crop, bag strap close-up, umbrella silhouette, seated boulder pose, gloved hand detail, and distant side profile. The historical head must contrast with modern weatherproof materials, while the cloudscape and fashion panels remain disciplined and readable. Avoid fantasy costume cues; this is an OOTD editorial.
+
+Use case:
+Painting Character OOTD single study 8/8, an independent Romantic landscape outerwear grid.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no extra figures, no fantasy armor, no illegible panel structure, no changed face between panels, no photographic skin replacing the painted head.

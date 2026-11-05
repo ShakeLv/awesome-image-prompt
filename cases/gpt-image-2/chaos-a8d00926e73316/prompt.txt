@@ -1,0 +1,14 @@
+Scene:
+A square magazine editorial illustration of a corporate boardroom, drawn straight-on with calm architectural symmetry, fine ink outlines, transparent watercolor, and warm cream paper grain. The room is bright enough to inspect every symbolic detail, using soft gray walls, walnut table tones, pale blue water, and a few restrained green accents. The image should feel elegant and satirical rather than catastrophic.
+
+Subject:
+A long boardroom table sits in ankle-deep water, but the executives are absent. Their empty chairs have become small rowboats tied to the table legs. On the tabletop, a miniature city skyline made of stacked blank report pages slowly sinks into a shallow reflecting pool. A potted plant grows through a cracked financial chart shape that has no numbers. At the far wall, a large blank presentation screen shows only a simple rising blue waterline, not text. One umbrella hangs neatly from a chair as if prepared too late.
+
+Important details:
+The climate metaphor must be readable through structured objects: decision room, delayed response, rising water, fragile paper city, and empty authority. Keep the boardroom geometry precise and uncluttered. All documents, charts, plaques, name cards, and presentation areas must contain unreadable marks or blank shapes. Preserve editorial wit, disciplined layout, clean reflections, and watercolor softness. Avoid disaster-movie spectacle; this is a quiet institutional satire.
+
+Use case:
+New Yorker Editorial single study 7/8, testing climate-change reasoning through a structured boardroom metaphor.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real company branding, no visible stock ticker, no drowning people, no apocalyptic destruction, no photorealistic flood simulation, no chaotic debris.

@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic commercial image in a rainy glass-walled boardroom at dusk. City lights smear through wet windows, and cool blue ambient light mixes with warm table lamps. The camera is placed at chair height across a dark polished table, with subtle rain reflections and a serious corporate crisis atmosphere. The room should feel real, expensive, and quiet.
+
+Subject:
+A closed black umbrella sits in the lead executive chair, wearing a tailored dark suit jacket that wraps around the folded canopy and central shaft. The curved handle rests near the chair edge like a restrained gesture, while tiny raindrops bead on the waterproof fabric and drip onto a small floor mat below. Around the table are empty chairs, blank briefing sheets, a glass carafe, and a few closed folders, suggesting storm management without literal human participants.
+
+Important details:
+The umbrella must remain a real object with folded ribs, fabric seams, metal tip, curved handle, water beads, and credible contact shadows. Anthropomorphism comes only from suit fit, seated placement, and executive staging. The wet fabric should catch soft highlights; droplets should follow gravity along the folds rather than float randomly. Reflections on the table and windows should reinforce the rainy boardroom mood. The concept should read as crisis leadership, not a whimsical cartoon.
+
+Use case:
+Object Boardroom single study 8/8, testing waterproof fabric, rain reflections, folded object geometry, and high-concept commercial staging.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cartoon face, no human arms, no open umbrella indoors, no floating droplets, no puddle flood, no branded folders, no surreal storm inside the room.

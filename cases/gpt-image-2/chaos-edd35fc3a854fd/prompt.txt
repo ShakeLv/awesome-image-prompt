@@ -1,0 +1,14 @@
+Scene:
+A square 3 by 3 outfit grid photographed in a clean daylight studio with pale paper backdrop, softbox reflections, and subtle floor shadows. Preserve the reference image's social-feed collage grammar: thin ivory gutters, central full-body panel, eight surrounding detail panels, no readable UI text, and a controlled editorial rhythm. The mood is lighter and more casual than the reference but still museum-aware.
+
+Subject:
+The same Renaissance oil-painting sitter from the reference image appears with the identical painted oval face, dark veil, softened sfumato features, quiet gaze, and composed hands. The outfit shifts to elevated athleisure: cropped oatmeal sweatshirt, long technical skirt in slate gray, ribbed leggings, minimal off-white trainers, quilted nylon belt bag, thin knit arm warmers, and a soft charcoal wrap. Keep the head antique and oil-painted while the clothing reads modern, tactile, and wearable.
+
+Important details:
+Use the first image as the primary reference for identity and grid layout. The center panel should be a full-body studio fit check; supporting panels show face crop, trainer detail, belt bag, knit sleeve, skirt fabric, standing side view, seated floor pose, and a painted hand resting against modern nylon. All panels must retain one consistent subject and outfit, with no drift in facial identity or garment color.
+
+Use case:
+Painting Character OOTD series study 4/8, testing casual modern outfit editing while preserving the painted portrait identity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no altered face, no extra models, no panel misalignment, no glossy synthetic skin, no replacing the oil-paint texture.

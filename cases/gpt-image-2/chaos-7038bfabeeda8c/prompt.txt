@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic commercial photograph in the same luxury walnut boardroom as the reference image, preserving the seated eye-level camera, polished table reflections, warm ceiling light, and cool city skyline beyond the glass. The mood is late-evening executive drama, with controlled highlights on leather, metal trim, smoke, and glossy wood. The composition should clearly match the reference room while shifting the chair occupant.
+
+Subject:
+At the head chair sits a premium brown cigar as the executive, dressed in a tailored deep navy suit jacket scaled around the cigar body. The cigar rests upright in the chair with one end faintly glowing and a thin ribbon of smoke rising toward the ceiling, behaving like real smoke in still air. Its wrapper texture, band-free surface, ash edge, and cylindrical shape must stay physically credible. The suit collar and tie imply authority without adding a face or limbs.
+
+Important details:
+Use the reference boardroom geometry, table position, chair style, lighting direction, and premium advertising finish. The cigar must remain an actual cigar: veined tobacco wrapper, fragile ash, ember glow, smoke translucency, and grounded contact with the chair. Anthropomorphism comes from executive wardrobe and boardroom placement only. Avoid comedy props; the joke should be dry, elegant, and instantly legible. Table reflections should catch both the cigar silhouette and smoke softness.
+
+Use case:
+Object Boardroom series study 2/8, using the first image as continuity reference while testing smoke, ember light, tobacco texture, and suit integration.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cartoon face, no human arms, no floating cigar, no exaggerated smoke cloud, no brand band, no unsafe open flame beyond a small ember.

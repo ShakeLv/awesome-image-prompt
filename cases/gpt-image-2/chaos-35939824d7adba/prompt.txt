@@ -1,0 +1,14 @@
+Scene:
+Use the reference cover as the primary guide for the same square fictional magazine-cover page: blank masthead band, warm paper, hand-drawn ornamental border, graphite linework, transparent watercolor, and quiet editorial contrast. Keep the page flat, centered, and refined, with no real typography and no glossy poster finish.
+
+Subject:
+The central metaphor shows a city crosswalk in soft rain where a commuter holds an umbrella that is actually a tiny greenhouse dome. Inside the transparent umbrella, a miniature garden thrives with a small tree, moss, a bench, and a blue puddle. Outside the umbrella, the street is dry and cracked on one side, flooded on the other, and a traffic light droops like a wilting flower. Other pedestrians carry normal umbrellas that cast little weather systems: one snow cloud, one heat shimmer, one gust of leaves. The main commuter remains calm but small against the city.
+
+Important details:
+Preserve the shared cover language from image 01 while expressing climate change through a clean visual pun, not disaster spectacle. The transparent greenhouse umbrella must be clear, delicate, and central. Use watercolor gradients for rain, heat, and floodwater, but keep boundaries readable. All signs, street markings, signal panels, and shop awnings must be blank or abstract. The page should feel witty, uneasy, and suitable for a serious editorial cover.
+
+Use case:
+New Yorker Editorial series study 4/8, testing the reference cover grammar on a climate anxiety metaphor.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real city brand, no apocalyptic firestorm, no crowded street chaos, no photorealistic weather render, no broken ornamental border, no heavy black sky.

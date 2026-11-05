@@ -1,0 +1,14 @@
+Scene:
+Design a square comparison board with busts, shoulder details, stitched insignia patches, and belt or scarf callouts arranged like a practical approval page. Keep the overall frame square, polished, and production-ready game art bible presentation with crisp panel rhythm, believable costume construction, and enough visual hierarchy for downstream UI or documentation reuse. Let materials, lighting, and spacing feel intentional enough for gallery, research, campaign, or approval-board reuse without depending on readable text.
+
+Subject:
+Explain how rank is communicated across the same faction through cloth trims, metallic pins, collar patterns, and weathered ceremonial accents. Ground the image inside a wind-carved desert citadel faction with oxidized bronze, indigo cloth, pale bone accents, practical leather, and a sun-faded military-monastic attitude. Use multiple adult NPC archetypes such as guard, quartermaster, medic, machinist, scout, priest, and captain, but keep them visually linked through the same regional craft language and social hierarchy. 
+
+Important details:
+Keep insignia geometry, rank markers, cloth layering, tool silhouettes, and color hierarchy coherent across every role so the cast reads like one population rather than unrelated hero concepts. Human figures must remain the focus, with insignia closeups acting as support evidence rather than replacing character design. Treat this frame as an independent study that still honors the same overall theme and production logic. Favor believable production craft, clean hierarchy, and reusable visual logic over empty spectacle or random decoration.
+
+Use case:
+NPC Faction Casting Sheet single study 8/9, rank communication reference for implementation teams.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no abstract symbol-only poster, no unreadable tiny clutter, no glowing fantasy sigils everywhere, no modern medals.

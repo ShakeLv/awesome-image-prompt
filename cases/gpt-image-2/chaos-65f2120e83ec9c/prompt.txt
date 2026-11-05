@@ -1,0 +1,14 @@
+Scene:
+A square white-wall installation showing two companion posters hung side by side with equal spacing, photographed frontally so the pair reads as a designed conversation rather than two unrelated sheets. The poster should express 1960s art-house poster grammar with radical photo crop, offset grain, hand-painted marks, and emotional empty space, using inky blue, carmine red, warm cream, charcoal, and cigarette-smoke gray and a tactile surface appropriate to the medium.
+
+Subject:
+Compose a matched diptych: two posters sharing one style system while splitting the narrative across paired motifs, mirrored masses, or complementary color emphasis. Use street couples, scooter mirrors, apartment windows, rain-slick pavement, camera flash, and cafe tables as the main visual ingredients, and organize them with handwritten sweeps and sans blocks that feel gestural but stay non-readable. For the contemporary-subject axis, thread in a late-night metro ride and smartphone glow transformed into a melancholic art-house romance surface. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Both halves should feel distinct yet inseparable. Preserve one coherent visual language, but let each sheet carry its own focal symbol and rhythm without readable wording. Preserve abrupt crop decisions, mood ambiguity, rough screen-print texture, and tension between photo and mark-making. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no blockbuster gloss, no readable credits, no hyper-polished skin retouching, no superhero spectacle.
+
+Use case:
+French New Wave single study 6/9, testing system flexibility across a paired set.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

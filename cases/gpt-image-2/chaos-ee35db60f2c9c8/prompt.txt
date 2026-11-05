@@ -1,0 +1,14 @@
+Scene:
+A square editorial image designed like a social media carousel preview collapsed into a 3 by 3 grid. Use dramatic Baroque chiaroscuro, warm candlelit highlights, deep umber shadows, and crisp ivory gutters between panels. The layout must feel controlled and modern even though the light and pose language are theatrical. No readable captions, icons, labels, or UI text should appear.
+
+Subject:
+A Baroque noble portrait figure with powdered skin, dark curled hair, lace collar remnants, intense side glance, and painterly brushwork. The head and hands remain old-master oil paint, but the outfit is modern architectural tailoring: black oversized blazer with sculptural shoulders, cream silk shirt, tapered cropped trousers, polished black loafers, narrow satin neck scarf, and a small hard-shell clutch. The same figure appears across all visible panels as one fashion subject.
+
+Important details:
+The grid should include center full-body stance, dramatic face crop, hand and cuff close-up, blazer shoulder profile, loafer crop, clutch detail, seated chair pose, walking cape-like silhouette, and fabric texture under candlelight. Preserve the contrast between historic painted flesh and contemporary garments. The composition tests structured layout, fashion styling, and style transfer, so each crop must be purposeful and cleanly separated.
+
+Use case:
+Painting Character OOTD single study 6/8, an independent Baroque tailoring translation for the outfit-grid theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no extra models, no modern face retouching, no random costume armor, no broken panel gutters, no inconsistent outfit across panels.

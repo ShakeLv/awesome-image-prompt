@@ -1,0 +1,14 @@
+Scene:
+A square magazine-style editorial illustration of a subway car interior, viewed from a calm frontal angle with shallow perspective and soft morning light. Use hand-drawn graphite outlines, transparent watercolor fills, warm cream paper texture, muted transit colors, and a few restrained red and green accents. The composition should be organized like a single-panel magazine illustration, not a storyboard or advertising poster.
+
+Subject:
+Several anonymous commuters sit apart on a bench, each holding a small phone that has turned into a potted plant. One phone sprouts ivy around a wrist, another grows a tiny cactus, another has a flowering vine climbing toward the overhead rail. The rail itself bends into a trellis, and notification bubbles become round seed pods floating above the seats. The commuters look absorbed but gentle, as if tending private gardens without noticing one another. The subway windows show only abstract tunnel light.
+
+Important details:
+The visual pun must be immediate: attention economies as indoor gardening, connection as separate cultivation. Keep the layout structured, with clear bench rhythm, repeated phone-planter forms, and negative space around each figure. All route maps, signs, phone screens, ads, and labels must be blank blocks or unreadable decorative marks. Preserve editorial restraint, fine linework, pale watercolor shadows, and a witty melancholy mood.
+
+Use case:
+New Yorker Editorial single study 5/8, testing an independent social technology metaphor in hand-drawn magazine style.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real transit branding, no real app icons, no speech bubbles, no crowded subway crush, no photorealistic faces, no saturated neon palette.

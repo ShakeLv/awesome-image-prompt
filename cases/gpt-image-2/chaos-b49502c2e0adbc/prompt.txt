@@ -1,0 +1,14 @@
+Scene:
+Center the poster on a magnified anatomical interface between host tissue and the organism, using a pale clinical background and clearly separated panel regions. The image should feel like a research explainer board translated into elegant visual form. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Depict attachment membranes, secretory nodules, and host tissue remodeling that together create a temporary stable relationship. Small supporting vignettes can compare inflamed versus stabilized states without relying on labels or numbers. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the organism changes ecological role by life stage. Early phases may exploit host tissue, later phases may provide immune modulation, pollination, cleaning, or nutrient transfer. The lifecycle must read as coherent biology rather than arbitrary plot twists. This board should read as biological reasoning made visible. Micro-anatomy, color coding, and layout rhythm should communicate negotiation between damage and benefit without becoming abstract medical graphics. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Parasite-Mutualism Life Cycle Poster single study 5/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable captions, no horror flesh textures, no UI-dashboard look, no pharma-brand resemblance, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

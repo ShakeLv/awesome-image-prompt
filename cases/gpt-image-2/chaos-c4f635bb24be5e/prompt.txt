@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic commercial photograph set in the same walnut executive boardroom as the reference image. Keep the same eye-level boardroom perspective, polished table, glass skyline, warm overhead lighting, dark leather chairs, and premium corporate atmosphere. The lighting should create crisp specular highlights on lacquer, gold trim, polished wood, and suit fabric without making the scene look staged like a toy set.
+
+Subject:
+At the head chair sits a black lacquer fountain pen as the executive, dressed in a sharply tailored black suit with a narrow silk tie. The pen stands upright through the jacket as if seated in the chair, its gold nib angled slightly forward like a person leaning into negotiations. The cap, clip, nib slit, feed ribs, lacquer barrel, and tiny metal reflections must be clear and physically plausible. A closed folder, blank paper sheets, and water glass sit nearby without readable text.
+
+Important details:
+Use the reference image as the boardroom continuity anchor: same table scale, chair shape, reflective surface, and serious meeting mood. The pen must not become a humanoid; it remains a real fountain pen with accurate material transitions from lacquer to metal nib. Anthropomorphic authority is created by composition, wardrobe fit, upright posture, and the direction of the nib. The suit should wrap believably around a long cylindrical object without sleeves or hands.
+
+Use case:
+Object Boardroom series study 3/8, extending the reference boardroom while testing glossy lacquer, metal nib detail, and restrained executive anthropomorphism.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cartoon face, no human arms, no extra human figure, no leaking ink, no brand marks, no impossible bent pen.

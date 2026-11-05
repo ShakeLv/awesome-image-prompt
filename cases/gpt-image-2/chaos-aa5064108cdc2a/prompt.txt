@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 real-estate cultural poster on pale gray-white textured paper, front-facing and gallery-clean. Use a low-saturation palette of mist blue, light stone gray, diluted ink, and subtle spring green. The top half must remain almost empty, while the lower half contains a calm architectural ink scene with enough breathing room for luxury positioning.
+
+Subject:
+A new Chinese courtyard residence is suggested with only a few precise elements: a white wall, dark tiled eave, moon gate, one pine branch, and a thin reflective water strip. Behind it, faint mountain silhouettes dissolve into pale wash. Place the readable Chinese title "山院有境" horizontally near the lower right, set in modern Song-style type with ample spacing and a quiet dark-ink tone. The title should feel like a property campaign headline without any brand mark.
+
+Important details:
+The poster must balance commercial mockup clarity with traditional ink restraint. Architecture should be elegant and minimal, not a detailed rendering. Keep the white wall and moon gate crisp enough to read, while the mountains stay atmospheric. No sales text, no phone numbers, no floor plans, and no logo. The title should be the only readable text, aligned cleanly to the geometry of the wall and waterline.
+
+Use case:
+New Chinese Ink Poster single study 3/8, testing real-estate poster structure, architectural minimalism, and controlled Chinese headline rendering.
+
+Constraints:
+No readable text outside the specified Chinese title, no watermark, no logos, preserve exact 9:16 aspect ratio, no people, no cars, no dense urban skyline, no ornate palace detail, no gold foil overload, no fake property data, no tilted perspective.

@@ -1,0 +1,14 @@
+Scene:
+A square nine-panel outfit collage set inside a quiet contemporary gallery with polished concrete, pale walls, and indirect skylight. Keep the same clean social-grid rhythm as the reference image: thin ivory gutters, no readable UI labels, and a dominant central fit-check panel surrounded by eight supporting fashion details. The color temperature is neutral, refined, and bright enough to show fabric texture.
+
+Subject:
+The same Renaissance oil-painting sitter from the reference image appears with unchanged painted head, dark veil, soft face modeling, calm gaze, and composed posture. The outfit becomes minimalist gallery tailoring: long ink-black wool overcoat, collarless ivory blouse, high-waisted charcoal pleated trousers, square-toe leather flats, slim sculptural belt, small brushed-metal clasp bag, and a single pearl-like earring. The face and veil remain old-master oil painting; the garments are contemporary and tactile.
+
+Important details:
+Use the reference to lock identity, face proportions, expression, veil outline, and 3 by 3 grid structure. The center panel is a full-body gallery fit check. Surrounding panels show a three-quarter portrait, sleeve drape, trouser pleats, flat shoe, bag clasp, mirror reflection, seated bench pose, and a close crop where painted hand meets modern wool. The grid must feel like one editorial post, not nine unrelated images.
+
+Use case:
+Painting Character OOTD series study 3/8, testing whether a refined tailoring edit can preserve the same painted character and structured layout.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no face drift, no mismatched outfits between panels, no warped gallery architecture, no photorealistic replacement for the painted head.
