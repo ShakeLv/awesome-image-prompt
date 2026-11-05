@@ -1,6 +1,6 @@
 # Reference Scholar Desk
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional historical-modern technology collision with synthetic people, not an archival scene, authenticated costume reconstruction or actual device operation. Preserve original reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/3cb86af2632374); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

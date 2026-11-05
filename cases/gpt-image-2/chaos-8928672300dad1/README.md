@@ -1,6 +1,6 @@
 # Archive Sheet
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated type-specimen design mockup, not a physical historical book, installable font or validated complete glyph family.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/efe4363de28cf7); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Habit Consistency Badge Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated fitness-sharing concept with synthetic user and abstract charts, not real measured progress, health metrics or verified before/after results.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/753fa1d0ea7638); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

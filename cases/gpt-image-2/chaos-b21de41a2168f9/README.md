@@ -1,6 +1,6 @@
 # Reference Drop Poster
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional music-tour merchandise and ticket-design mockup, not actual tickets, real tour merchandise or an endorsement. Source reference links retained for dependent transfers.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/5b542df0009536); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

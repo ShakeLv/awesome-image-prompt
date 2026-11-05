@@ -1,6 +1,6 @@
 # Bathroom Inspection
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional pastel dollhouse cinematic composition with synthetic people, not a real property, actual film still or architectural measurement. Preserve source imperfections in props and symmetry.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/8720082a6dd9c5); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

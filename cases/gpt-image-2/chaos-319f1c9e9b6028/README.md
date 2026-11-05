@@ -1,6 +1,6 @@
 # Event Page Hero
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional game skinline event-page hero artwork, not an actual game event, live landing page or purchasable cosmetic.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/7e67666c0bfa49); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

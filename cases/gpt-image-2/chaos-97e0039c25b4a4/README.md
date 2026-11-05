@@ -1,6 +1,6 @@
 # Reference Main Tour Poster
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional tour-poster campaign with invented performer and abstract information slots; not an announced concert, named musician endorsement or available tickets. Source performer is seated despite standing language; preserve pose imperfection.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/4623e1616bd801); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

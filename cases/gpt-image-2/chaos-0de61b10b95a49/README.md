@@ -1,6 +1,6 @@
 # Museum Stair Atrium
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated museum stair-atrium concept with visible graphite guides, not an actual sketch-to-CAD conversion, verified handrail/stair/accessibility design or real museum photograph.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/255c6136aa78e5); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

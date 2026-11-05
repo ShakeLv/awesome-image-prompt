@@ -1,6 +1,6 @@
 # Artist Channel Header Study
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional music banner study with an invented performer, not a real release.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/72c3bc217826d6); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

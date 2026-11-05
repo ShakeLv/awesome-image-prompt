@@ -1,6 +1,6 @@
 # Variant Grid
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated type-specimen layout mockup with visible a/g glyph studies; not an installed usable font, complete tested glyph set or physical published specimen book.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/df071bd3acaf6f); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

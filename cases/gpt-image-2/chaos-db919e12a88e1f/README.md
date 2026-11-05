@@ -1,6 +1,6 @@
 # Variant Two
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Weather-themed fantasy game interface concept with blank slots, not actual weather data or a functioning forecasting product.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/a4c78cc28a7b76); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

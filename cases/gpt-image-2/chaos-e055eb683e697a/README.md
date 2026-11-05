@@ -1,6 +1,6 @@
 # Charging Dock Mockup
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated industrial tool/device concept, not a real manufactured system, compatibility claim or measured engineering test.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/4a02dc8c960c2e); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Support Four
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated fantasy game UI-depth asset board, not working controls, measured depth rendering or a shipped game interface.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/a9d9f12a2ebe69); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

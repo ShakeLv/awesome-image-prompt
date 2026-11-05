@@ -1,6 +1,6 @@
 # Billing and Insurance Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated waiting-room information-screen layout with abstract text slots, not actual patient data, clinical instructions, fasting advice, financial policy or a working video loop.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/508f0dae7eed98); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

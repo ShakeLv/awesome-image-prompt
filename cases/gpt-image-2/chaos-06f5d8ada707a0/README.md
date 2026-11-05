@@ -1,6 +1,6 @@
 # Reference Platform
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Nonfunctional fictional shooter-game weapon cosmetic art, not a real weapon blueprint, build specification, modification guide or verified attachment compatibility. Preserve source reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/ed142a9b19d2bb); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

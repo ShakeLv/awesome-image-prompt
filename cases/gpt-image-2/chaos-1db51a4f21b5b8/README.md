@@ -1,6 +1,6 @@
 # Pilgrimage Route Sheet
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Imaginary worldbuilding atlas design with abstract labels, not a real city, surveyed underground network or usable navigation chart.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/7b3be17e0cf868); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Ambient Canvas Room
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Imagined music-release promotional art; synthetic performer and static canvas concept, not an actual musician, release, listener milestone or video. Preserve source reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/fa372bf4f3480b); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

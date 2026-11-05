@@ -25,7 +25,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no random props, no off-model shift, no broken continuity, no off-model redesign, no accidental franchise resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/series-theme-core/images/03-variation-two/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/series-theme-core/images/03-variation-two/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/8995a403600a2d)
 
 ## Variation Three · xiaohongshu-skincare-proof-journal-system/series-theme-core/04-variation-three
 
@@ -48,7 +48,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no franchise mimicry, no broken hierarchy, no broken continuity, no off-model redesign, no accidental franchise resemblance.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/series-theme-core/images/04-variation-three/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/series-theme-core/images/04-variation-three/meta.json) · GPT Image2 · 1254×1254 · Reference images required. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/e7157ffb016f9b)
 
 ## Hero Study · xiaohongshu-skincare-proof-journal-system/single-theme-extensions/hero-study
 
@@ -71,7 +71,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no generic stock staging, no readable text, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/single-theme-extensions/images/hero-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/single-theme-extensions/images/hero-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/fe9d6f4f5f7202)
 
 ## Detail Proof · xiaohongshu-skincare-proof-journal-system/single-theme-extensions/detail-proof
 
@@ -94,7 +94,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no unreadable clutter, no measurement text, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/single-theme-extensions/images/detail-proof/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/single-theme-extensions/images/detail-proof/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/6be99c5217fe71)
 
 ## System Board · xiaohongshu-skincare-proof-journal-system/single-theme-extensions/system-board
 
@@ -117,7 +117,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no placeholder lorem ipsum, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/single-theme-extensions/images/system-board/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/single-theme-extensions/images/system-board/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/bec0fe6dc44f1c)
 
 ## Promo Crop · xiaohongshu-skincare-proof-journal-system/single-theme-extensions/promo-crop
 
@@ -140,7 +140,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no slogans, no logos, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/single-theme-extensions/images/promo-crop/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/single-theme-extensions/images/promo-crop/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/e18b1cb92540df)
 
 ## Finale Study · xiaohongshu-skincare-proof-journal-system/single-theme-extensions/finale-study
 
@@ -163,7 +163,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no text blocks, no derivative character likeness, no broken hierarchy, no generic stock-photo staging, no accidental UI gibberish.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/single-theme-extensions/images/finale-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xiaohongshu-skincare-proof-journal-system/packages/single-theme-extensions/images/finale-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/8bfd78de795b45)
 
 ## Macro Study · xray-art-photography/single-xray-art-photography-studies/macro-study
 
@@ -186,7 +186,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/macro-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/macro-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/20d85a632113ca)
 
 ## Side Light Study · xray-art-photography/single-xray-art-photography-studies/side-light-study
 
@@ -209,7 +209,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/side-light-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/side-light-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/fd2218c2b1b1c5)
 
 ## Motion Moment · xray-art-photography/single-xray-art-photography-studies/motion-moment
 
@@ -232,7 +232,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/motion-moment/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/motion-moment/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/af6dca683fa9d8)
 
 ## Low-Light Atlas · xray-art-photography/single-xray-art-photography-studies/low-light-atlas
 
@@ -255,7 +255,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/low-light-atlas/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/low-light-atlas/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/ce5209a9fdb8d5)
 
 ## Specimen Table · xray-art-photography/single-xray-art-photography-studies/specimen-table
 
@@ -278,7 +278,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/specimen-table/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/specimen-table/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/e21d50133127ac)
 
 ## Atmospheric View · xray-art-photography/single-xray-art-photography-studies/atmospheric-view
 
@@ -301,7 +301,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/atmospheric-view/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/atmospheric-view/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/99b4b5dc96c70c)
 
 ## Signature Frame · xray-art-photography/single-xray-art-photography-studies/signature-frame
 
@@ -324,7 +324,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/signature-frame/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/xray-art-photography/packages/single-xray-art-photography-studies/images/signature-frame/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/87e424d2efc5e2)
 
 ## Chrome Bubble Desktop · y2k-vaporwave-crt/single-crt-era-studies/chrome-bubble-desktop
 
@@ -347,7 +347,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real brand design, no flat icon art, no illegible keyboard letters, no random glitch covering the main object.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/chrome-bubble-desktop/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/chrome-bubble-desktop/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/484529d0bce08d)
 
 ## Marble Bust Scanlines · y2k-vaporwave-crt/single-crt-era-studies/marble-bust-scanlines
 
@@ -370,7 +370,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real museum labels, no cartoon bust, no random face distortion, no scanlines that ignore the surface geometry.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/marble-bust-scanlines/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/marble-bust-scanlines/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/123913e36a9639)
 
 ## Iridescent Disc Tower · y2k-vaporwave-crt/single-crt-era-studies/iridescent-disc-tower
 
@@ -393,7 +393,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no album covers, no brand marks, no impossible melted plastic without support, no flat rainbow gradient replacing material detail.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/iridescent-disc-tower/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/iridescent-disc-tower/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/513a0054d71ad0)
 
 ## Palm Grid Arcade · y2k-vaporwave-crt/single-crt-era-studies/palm-grid-arcade
 
@@ -416,7 +416,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real arcade titles, no illegible fake lettering, no people, no random cables cluttering the perspective grid.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/palm-grid-arcade/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/palm-grid-arcade/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/fe24302e41e5b8)
 
 ## Transparent Phone Shell · y2k-vaporwave-crt/single-crt-era-studies/transparent-phone-shell
 
@@ -439,7 +439,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real phone brand cues, no readable keypad labels, no broken hinge geometry, no modern smartphone shape.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/transparent-phone-shell/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/transparent-phone-shell/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/0bd0d3aa1dd023)
 
 ## Liquid Metal Interface · y2k-vaporwave-crt/single-crt-era-studies/liquid-metal-interface
 
@@ -462,7 +462,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real operating system UI, no flat vector dashboard, no random pseudo letters, no modern minimal app design.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/liquid-metal-interface/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/liquid-metal-interface/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/ea164a658e07ef)
 
 ## Glitch Fashion Still · y2k-vaporwave-crt/single-crt-era-studies/glitch-fashion-still
 
@@ -485,7 +485,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real celebrity likeness, no brand marks, no distorted hands or face focus, no heavy glitch covering garment details.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/glitch-fashion-still/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/glitch-fashion-still/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/3e4f7b1840d40c)
 
 ## After Hours Mall Atrium · y2k-vaporwave-crt/single-crt-era-studies/after-hours-mall-atrium
 
@@ -508,7 +508,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real store signs, no people, no collapsed architecture, no excessive fog hiding the atrium structure.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/after-hours-mall-atrium/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/y2k-vaporwave-crt/packages/single-crt-era-studies/images/after-hours-mall-atrium/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/def814ee7e4e4d)
 
 ## Single Breath Balance · zen-enso-golden-ratio/single-enso-ratio-studies/01-single-breath-balance
 
@@ -531,7 +531,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable calligraphy, no random bamboo props, no crowded zen cliche decor, no weak center of gravity, no muddy brush texture, no decorative motifs that compete with the circle, no washed-out brush edge, no decorative stamp, no off-center drift.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/01-single-breath-balance/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/01-single-breath-balance/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/8bbf8fbf65ac8b)
 
 ## Charcoal Grid Reveal · zen-enso-golden-ratio/single-enso-ratio-studies/02-charcoal-grid-reveal
 
@@ -554,7 +554,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable calligraphy, no random bamboo props, no crowded zen cliche decor, no weak center of gravity, no muddy brush texture, no decorative motifs that compete with the circle, no readable numbers, no drafting board clutter, no heavy graph lines.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/02-charcoal-grid-reveal/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/02-charcoal-grid-reveal/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/ff077a9c2ce5a9)
 
 ## Dawn Paper Silence · zen-enso-golden-ratio/single-enso-ratio-studies/03-dawn-paper-silence
 
@@ -577,7 +577,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable calligraphy, no random bamboo props, no crowded zen cliche decor, no weak center of gravity, no muddy brush texture, no decorative motifs that compete with the circle, no sunrise landscape, no floral motif, no sentimental postcard mood.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/03-dawn-paper-silence/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/03-dawn-paper-silence/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/1a9b00c05acb37)
 
 ## Mineral Indigo Echo · zen-enso-golden-ratio/single-enso-ratio-studies/04-mineral-indigo-echo
 
@@ -600,7 +600,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable calligraphy, no random bamboo props, no crowded zen cliche decor, no weak center of gravity, no muddy brush texture, no decorative motifs that compete with the circle, no decorative wave pattern, no gradient wallpaper, no loose splatter.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/04-mineral-indigo-echo/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/04-mineral-indigo-echo/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/95423dbe3154ac)
 
 ## Sand Gold Spiral · zen-enso-golden-ratio/single-enso-ratio-studies/05-sand-gold-spiral
 
@@ -623,7 +623,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable calligraphy, no random bamboo props, no crowded zen cliche decor, no weak center of gravity, no muddy brush texture, no decorative motifs that compete with the circle, no glitter, no festive metallic confetti, no literal spiral diagram.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/05-sand-gold-spiral/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/05-sand-gold-spiral/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/af327b3615d757)
 
 ## Weathered Wall Mural · zen-enso-golden-ratio/single-enso-ratio-studies/06-weathered-wall-mural
 
@@ -646,7 +646,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable calligraphy, no random bamboo props, no crowded zen cliche decor, no weak center of gravity, no muddy brush texture, no decorative motifs that compete with the circle, no room furniture, no graffiti feel, no large broken plaster chunks.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/06-weathered-wall-mural/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/06-weathered-wall-mural/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/ac6b6b1cccb8dd)
 
 ## Ink Pool Close Study · zen-enso-golden-ratio/single-enso-ratio-studies/07-ink-pool-close-study
 
@@ -669,7 +669,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable calligraphy, no random bamboo props, no crowded zen cliche decor, no weak center of gravity, no muddy brush texture, no decorative motifs that compete with the circle, no cropped-off circle, no abstract smear, no expressionist chaos.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/07-ink-pool-close-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/07-ink-pool-close-study/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/f8cb6f37e586d1)
 
 ## Moon White Negative Space · zen-enso-golden-ratio/single-enso-ratio-studies/08-moon-white-negative-space
 
@@ -692,7 +692,7 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable calligraphy, no random bamboo props, no crowded zen cliche decor, no weak center of gravity, no muddy brush texture, no decorative motifs that compete with the circle, no invisible subject, no snow-scene metaphor, no decorative emboss pattern.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/08-moon-white-negative-space/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/08-moon-white-negative-space/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/28678815f207e9)
 
 ## Bronze Oxide Circle · zen-enso-golden-ratio/single-enso-ratio-studies/09-bronze-oxide-circle
 
@@ -715,4 +715,4 @@ Constraints:
 No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable calligraphy, no random bamboo props, no crowded zen cliche decor, no weak center of gravity, no muddy brush texture, no decorative motifs that compete with the circle, no industrial hardware, no rust damage spectacle, no steampunk mood.
 ```
 
-[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/09-bronze-oxide-circle/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:individually reviewed; awaiting publication acceptance.
+[Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/zen-enso-golden-ratio/packages/single-enso-ratio-studies/images/09-bronze-oxide-circle/meta.json) · GPT Image2 · 1254×1254 · No source-declared image dependencies. · ProjectD:[published and publicly accepted](https://aitoolsradar.com/en/prompts/20babdc816cc0d)

@@ -1,6 +1,6 @@
 # Resort Arrival Anchor
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated coastal summer lifestyle campaign still life; not a real resort, verified product or travel recommendation. Preserve reference links and original native image.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/7bf92ae12382d0); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # VIP Laminate Flatlay
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional music-tour physical-display or credential mockup; not a real tour, access pass or documented venue campaign.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/edf1fa37b5df30); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

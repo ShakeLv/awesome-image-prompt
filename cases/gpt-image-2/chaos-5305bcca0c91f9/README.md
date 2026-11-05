@@ -1,6 +1,6 @@
 # Reference Anchor
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional speaker/headliner promotional interface concept with an anonymous silhouetted presenter and blank information areas, not a real speaker, announced event, endorsed campaign or working product.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/a9369b0543957d); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

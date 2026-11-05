@@ -1,6 +1,6 @@
 # Branch Detail Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional skill-tree/interface artwork with decorative nodes, icons and progression branches, not functional UI, actual gameplay dependencies, measured build balance or a shipped game.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/ac39ba9d10d191); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

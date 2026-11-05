@@ -1,6 +1,6 @@
 # Iridescent Disc Tower
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated Y2K vaporwave material/fashion/environment art, not actual hardware, captured historical footage or calibrated reflection/diffraction simulation.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/513a0054d71ad0); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

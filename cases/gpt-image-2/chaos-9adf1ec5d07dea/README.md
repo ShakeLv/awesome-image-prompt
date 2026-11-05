@@ -1,6 +1,6 @@
 # Shop Feature Tile
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional storm-duelist cosmetic/rarity design board, not an actual playable skin, purchasable item, tested material/turntable asset or released game. Image remains GPT Image2 output; no real 3D production result or biometric identity guarantee.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/dba2908d7b9080); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

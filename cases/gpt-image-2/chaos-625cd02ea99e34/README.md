@@ -1,6 +1,6 @@
 # Aerial Geometry
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated volcanic-night landscape art, not an observed eruption, geological/thermal simulation or safe-access guidance.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/355d241abcc977); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # World Cuisine Lines
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Abstract thematic transit-map design with intentionally unreadable labels; not a validated history, scientific model, factual lineage graph or usable transit network.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/8437b895043d2f); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

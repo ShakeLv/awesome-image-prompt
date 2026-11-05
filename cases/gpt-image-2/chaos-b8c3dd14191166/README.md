@@ -1,6 +1,6 @@
 # Startup Growth Transit
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Abstract startup-process transit-map concept, not validated business guidance or a functioning strategy tool.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/61b4e801055fc5); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

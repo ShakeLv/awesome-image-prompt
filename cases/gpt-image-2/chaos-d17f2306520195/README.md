@@ -1,6 +1,6 @@
 # Transition Study
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional submerged temple cinematic study, not a real archaeological site or measured caustic-light simulation. Preserve reference-image links and native source imperfections.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/9a57e9a2f9c919); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

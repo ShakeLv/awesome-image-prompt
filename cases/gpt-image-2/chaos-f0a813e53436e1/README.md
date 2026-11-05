@@ -1,6 +1,6 @@
 # Variant Two
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Webtoon-inspired fantasy game-art board with blank graphic slots; not actual chapter text, released comic or working interface. Preserve reference dependencies and layout variation.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/f5460b4608642f); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

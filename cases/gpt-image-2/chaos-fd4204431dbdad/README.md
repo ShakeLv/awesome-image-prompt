@@ -1,6 +1,6 @@
 # Hero Shot
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated underwater bubble-light device illustration, not an actual product or verified optical/pressure test.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/8f5cfe4275333f); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Silhouette Study
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated thunderstorm cinematic study, not an actual weather event, verified lightning exposure or road-safety guidance. Preserve original reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/c5bc80c1057a1f); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

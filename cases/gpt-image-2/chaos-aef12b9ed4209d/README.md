@@ -1,6 +1,6 @@
 # Print Proof Flatlay
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated Swiss-grid poster design mockup with abstract typography, not an archival print, real transit campaign or authentic printed proof.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/cde827ef62d677); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Signature Frame
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated underwater bubble-light art, not real manufactured hardware or verified optics/pressure performance.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/5bf602442ba323); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

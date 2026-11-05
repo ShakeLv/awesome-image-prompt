@@ -1,6 +1,6 @@
 # Magnet Exploration Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Reference-dependent generated magnet-exploration poster mockup, not verified material classification or experimentally validated attraction diagrams. Blank copy zones and diagram imperfections retained.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/7ce09cd0197399); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

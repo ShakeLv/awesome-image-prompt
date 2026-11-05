@@ -1,6 +1,6 @@
 # Specimen Table
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated astronomical art, not an actual telescope observation, JWST/NASA photograph or measured scientific data. Visible telescope/spacecraft context is fictional.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/30c31350fb67a3); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Canonical One-Sheet
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated Soviet-monumental-inspired design-history poster mockup with abstract lettering, not an authentic historical artifact, real political campaign or documented physical print/public display.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/e2e80f549cf9a1); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

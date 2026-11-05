@@ -1,6 +1,6 @@
 # Doorway Threshold
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional doorway-silhouette universe illustration: forest and galaxy contained in an arched shape on white. Not a real astronomical view or physical doorway photograph.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/c6abdb0478c858); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Sportswear Lock
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic adult virtual wardrobe comparison, not verified biometric identity, actual clothing fit or a measured try-on system. Full multi-look native frame reviewed; retain original inconsistent outfit/panel counts where present.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/8f03817a57773d); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Rose Dinner Anchor
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated Valentine gifting/hospitality campaign still life, not an actual venue, product, treatment or food-safety representation. Preserve source reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/460cadb8f3f629); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,0 +1,23 @@
+{
+  "recordedAt": "2026-11-05T22:02:41.610032+00:00",
+  "reviewedSource": "ff080e7d1fe3ce36857780c98394a01b2071688b",
+  "exactFinalPairCount": 797,
+  "localAcceptance": "data/chaos07-797-local-acceptance-2026-11-06.json",
+  "runId": "42117944922",
+  "runUrl": "https://github.com/ShakeLv/ProjectD/actions/runs/42117944922",
+  "status": "published-public-accepted",
+  "serializedBehindRun": "42116571802",
+  "existingWorkflow": "catalog-daily.yml",
+  "inputs": {
+    "publish_prompts": true
+  },
+  "concurrency": {
+    "group": "projectd-production-content",
+    "cancelInProgress": false,
+    "queue": "max"
+  },
+  "reason": "Distinct reviewed797pairbatch queued once behind another pinned-source publication. No duplicate run, cancellation, direct pointer mutation or unrelated queue drain.",
+  "acceptedAt": "2026-11-05T22:30:31.560598+00:00",
+  "releaseId": "2026-11-05T22:10:42.571Z-22a27f9b-68ba-491b-be03-35189a2058c6",
+  "acceptance": "data/chaos07-797-public-acceptance-2026-11-06.json"
+}

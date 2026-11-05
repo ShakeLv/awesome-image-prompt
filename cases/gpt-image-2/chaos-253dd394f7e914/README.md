@@ -1,6 +1,6 @@
 # Lobby Lightbox Wall
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional music-tour physical-display or credential mockup; not a real tour, access pass or documented venue campaign.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/2daf272e207220); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

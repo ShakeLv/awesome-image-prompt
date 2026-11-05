@@ -4,7 +4,7 @@
 
 [Complete remote archive verification](data/github-all5761-complete-pairs-acceptance-2026-11-06.json) verifies all5,761 complete image/prompt pairs against the actual GitHub tree:9,972 full local files match remote Git blobs, including complete prompts and archived media. Image-only held candidates are excluded from the pair count. Archive count is separate from ProjectD publication.
 
-[3,631 additional ChaosRealmsAI GPT Image2 source pairs](GPT-IMAGE-2-CHAOS.md) retain complete prompts, unchanged author-published renditions and source references. All3,631 individually reviewed:3,472 locally approved,159 held,zero unreviewed. The first2,675 completed ProjectD publication and ordinary public full-prompt/image/ten-locale checks; latest run42111414636. ProjectD now contains10,153 records. Final797 selected for the next reviewed batch. Archive totals are separate from public acceptance.
+[3,631 additional ChaosRealmsAI GPT Image2 source pairs](GPT-IMAGE-2-CHAOS.md) retain complete prompts, unchanged author-published renditions and source references. All3,631 individually reviewed:3,472 approved and published on ProjectD,159 held,zero unreviewed. Latest797 completed [ordinary public full-prompt/image/ten-locale acceptance](data/chaos07-797-public-acceptance-2026-11-06.json),run42117944922. ProjectD now contains10,950 records. All166 earlier Chaos pairs and491 earlier APIModels pairs were verified already archived, with no duplicate additions. Archive totals are separate from public acceptance.
 
 ## GPT Image 2.6 — current focus
 
@@ -23,7 +23,7 @@ All67 pairs have ProjectD publication receipts. The original40 checks are record
 
 [All40 Beatra Qwen Image3.0 cases](QWEN-IMAGE-3-BEATRA.md), with complete prompts and exact local images.38 now published and accepted on ProjectD; two original previews remain below its minimum dimensions. [449 additional APIModels GPT Image 2 pairs](GPT-IMAGE-2-APIMODELS.md) have full prompts and native PNGs: 402 now published and accepted on ProjectD, 47 held with individual reasons. The 955-record source was reconciled against 491 already present and 15 previous holds.
 
-The new440 reviewed GitHub pairs have [completed publication and exact public acceptance](data/github-gallery-public-acceptance-2026-11-06.json). That earlier cohort brought ProjectD to7,451 pairs; current accepted inventory is10,153.
+The new440 reviewed GitHub pairs have [completed publication and exact public acceptance](data/github-gallery-public-acceptance-2026-11-06.json). That earlier cohort brought ProjectD to7,451 pairs; current accepted inventory is10,950.
 
 ## ProjectD historical backfill
 

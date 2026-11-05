@@ -1,6 +1,6 @@
 # Night Shift Romance Cover
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional vertical serialized-drama cover with synthetic adults, not a real event, medical record or actual released show.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/88f5ee8b920b26); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

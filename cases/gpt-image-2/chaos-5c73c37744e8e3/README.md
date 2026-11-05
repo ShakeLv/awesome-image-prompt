@@ -1,6 +1,6 @@
 # Contemporary Remix
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated Swiss-grid poster design mockup with abstract typography, not an archival print, real transit campaign or authentic printed proof.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/91cd16d264ef72); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

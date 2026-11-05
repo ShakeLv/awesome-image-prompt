@@ -1,6 +1,6 @@
 # Welcome Screen Loop
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Static generated waiting-room screen mockup, not a real clinic, actual patient information or working video loop.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/1bc614a20d3704); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

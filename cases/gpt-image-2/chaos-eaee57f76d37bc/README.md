@@ -1,6 +1,6 @@
 # Variant Two
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Source lifestyle-carousel topic yields fantasy game-UI note/card assets as its full prompt requests; not a real Xiaohongshu screenshot or published social post. Preserve reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/88d3da21be87d3); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

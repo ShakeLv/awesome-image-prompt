@@ -1,6 +1,6 @@
 # Museum Wall Hang
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Tarot-inspired generated illustration and brush/material study, not an historical deck, complete playable deck, divination result or physical painting.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/981dac6490a11d); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

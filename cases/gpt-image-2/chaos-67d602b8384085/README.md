@@ -1,6 +1,6 @@
 # Character Surge
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Super-deformed fantasy promotional illustration, not released trailer footage or licensed merchandise. Preserve native source and reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/d6513f8328a544); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

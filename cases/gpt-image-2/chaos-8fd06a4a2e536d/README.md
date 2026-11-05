@@ -1,6 +1,6 @@
 # Campaign Grid
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic adult styling-journey portrait/layout concept, not actual talent, celebrity endorsement, documented styling results or biometric identity proof.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/58a148ac60e8a4); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

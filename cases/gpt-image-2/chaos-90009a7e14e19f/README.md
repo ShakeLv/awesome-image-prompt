@@ -1,6 +1,6 @@
 # Sound Therapy Social Tile
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional retreat/therapy service marketing mockup with synthetic people and abstract content slots, not a real provider, actual patients, validated treatment or efficacy claim.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/da2b11ca8fafd3); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

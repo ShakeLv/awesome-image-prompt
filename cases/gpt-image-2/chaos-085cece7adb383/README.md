@@ -1,6 +1,6 @@
 # Support Five
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fantasy waterfall monument asset board, not a real site or constructible environment.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/f96a0fd18fb0d1); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Studio Creature Fusion
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional sixteen-cue reference-fusion illustration. Source board has four-by-four sixteen tiles; declared dependency is one composed board, not sixteen separate proven raw API inputs. Independent studies have no external references; no claim of exact sixteen independent-image API capability or measured identity fidelity.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/5d0bcadbfc1e07); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

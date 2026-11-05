@@ -1,6 +1,6 @@
 # Hydration Reminder Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated wellness-communication layout with abstract label slots; not clinical guidance, validated anatomy/ergonomics, individualized nutrition, medical evidence or tested health outcomes.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/ddc45180eaef2a); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

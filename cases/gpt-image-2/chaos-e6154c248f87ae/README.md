@@ -1,6 +1,6 @@
 # Gel Light Profile
 
-Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/c621b0af73d2c0); accepted run recorded in accepted membership ledger.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/c621b0af73d2c0); accepted run 42080135905.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

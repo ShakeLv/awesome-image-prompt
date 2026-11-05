@@ -1,6 +1,6 @@
 # Support One
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated webtoon-inspired fantasy UI/art board; not a readable released chapter or functioning game. Preserve source reference requirements.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/587eb0cf3d7436); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

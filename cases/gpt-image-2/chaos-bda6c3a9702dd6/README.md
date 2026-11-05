@@ -1,6 +1,6 @@
 # Character Surge
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated fictional thriller/campaign teaser artwork and mockups, not an actual film, confirmed cast, real merchandise or licensed campaign. Recognizable actor/franchise resemblance may remain; no endorsement or outside-character rights asserted. Source dependencies retained where declared.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/8b66c5341b6b6b); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

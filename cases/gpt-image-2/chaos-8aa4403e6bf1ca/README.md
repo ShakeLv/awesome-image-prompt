@@ -1,6 +1,6 @@
 # Dormitory Aisle
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated one-point-perspective institutional corridor concept with a small figure/object, not an actual hospital/laboratory/dormitory, operational design or measured perspective/lighting simulation.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/025d0bf7099681); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

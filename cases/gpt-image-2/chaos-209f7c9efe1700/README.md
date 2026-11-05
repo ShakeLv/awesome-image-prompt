@@ -1,6 +1,6 @@
 # Reference Anchor
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fantasy game-art workflow board, not actual software automation or a usable workflow specification. Preserve source reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/98210b36be52dc); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

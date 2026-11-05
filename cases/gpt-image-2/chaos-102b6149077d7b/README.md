@@ -1,6 +1,6 @@
 # Look Switch Three
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic adult makeup-era portrait concept with declared source-reference dependency, not an actual historical portrait, real cosmetic intervention, verified product result or biometric same-person proof. Styling changes and output imperfections retained.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/ec3cb847532eea); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

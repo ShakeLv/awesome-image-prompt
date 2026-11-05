@@ -1,6 +1,6 @@
 # Medical Regeneration Cradle
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Speculative cutaway engineering artwork, not validated machinery, actual atmospheric processing, orbital recycling or medical treatment. Preserve source references for series variants and original prompt imperfections.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/5d40cc5bfc8a9d); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

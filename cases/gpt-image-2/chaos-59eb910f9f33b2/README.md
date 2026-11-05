@@ -1,6 +1,6 @@
 # Reference Achievement Card
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic fitness achievement-card concept, not a real user, measured activity data or verified workout result.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/3eaed56d66f0d3); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

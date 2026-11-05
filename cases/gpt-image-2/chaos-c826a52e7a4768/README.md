@@ -1,6 +1,6 @@
 # AI Breakthrough Alert
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated short-video cover concept with synthetic presenters, abstract headline bars and fictional story/category cues. Not an actual creator endorsement, published report, verified market event, real crime victim, proven kitchen method or documented sports result. Source references retained where declared.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/41aa764896b44a); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

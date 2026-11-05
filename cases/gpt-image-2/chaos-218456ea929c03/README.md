@@ -1,6 +1,6 @@
 # Countdown Poster
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Super-deformed fantasy promotional illustration, not released trailer footage or licensed merchandise. Preserve native source and reference dependencies. Intentional countdown numeral 3 is visible.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/2c2c00461d87ed); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

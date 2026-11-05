@@ -1,6 +1,6 @@
 # Preventive Card Grid
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated preventive-card layout summary with abstract copy; not clinical or patient education approved by practitioners.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/624b32854f9723); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

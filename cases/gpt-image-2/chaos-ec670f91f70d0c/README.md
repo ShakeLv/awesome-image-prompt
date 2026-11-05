@@ -1,6 +1,6 @@
 # Support One
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated fantasy note/carousel game-UI board as requested by the full source prompt, not an actual Xiaohongshu post or working app.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/c85c68abad99a1); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

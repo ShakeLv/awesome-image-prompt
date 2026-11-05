@@ -1,6 +1,6 @@
 # Atmosphere Event
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated Bolivian-salt-flat-inspired mirror landscape with a small vehicle, not real expedition/drone photography, measured reflection physics, verified location or safe driving-route guidance.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/8205e32f2c76ed); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

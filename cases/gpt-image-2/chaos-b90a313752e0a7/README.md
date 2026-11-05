@@ -1,6 +1,6 @@
 # Whale Migration Education Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated wildlife advocacy layout with abstract information modules, not actual ecological evidence, observed animals, verified migration data or agency endorsement.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/aa777beae1f683); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

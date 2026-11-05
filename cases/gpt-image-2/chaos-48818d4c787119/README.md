@@ -1,6 +1,6 @@
 # 厚涂天气
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Tarot-inspired generated illustration and brush/material study, not an historical deck, complete playable deck, divination result or physical painting.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/d4c6a3f3c56618); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

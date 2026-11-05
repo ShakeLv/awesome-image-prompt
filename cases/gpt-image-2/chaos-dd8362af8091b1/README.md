@@ -1,6 +1,6 @@
 # Jump Core Anchor
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Explicitly impossible jump-core cutaway concept, not functioning hardware or validated engineering.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/6631123383d9e4); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

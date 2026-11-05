@@ -1,6 +1,6 @@
 # Model Thought Trace
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional editorial illustration of abstract market reasoning; not real data, forecasts, financial advice or disclosure of a model internal thought process. Preserve reference dependencies. Numbered symbolic stages are visible despite the no-readable-text constraint; illustrative process only.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/08a529401eb199); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

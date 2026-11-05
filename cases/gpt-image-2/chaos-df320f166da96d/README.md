@@ -1,6 +1,6 @@
 # Bench Context
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated brandless tool/device catalog concept, not an actual manufactured product, measured material test or certified ergonomic design.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/6bedcbe887ab5e); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

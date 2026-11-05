@@ -1,6 +1,6 @@
 # Support One
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fantasy waterfall monument game-art board, not a real site, constructible structure or functioning game. Preserve source reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/6959b9d2fc89f4); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

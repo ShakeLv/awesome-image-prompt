@@ -1,6 +1,6 @@
 # Indoor Bike Energy Poster
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Brandless sports-equipment advertising concept, not a manufactured product, certified protection, tested material construction or measured performance. Preserve full prompt and reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/49d78f6f98e6ac); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

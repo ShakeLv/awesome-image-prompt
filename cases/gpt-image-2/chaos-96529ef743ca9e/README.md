@@ -1,6 +1,6 @@
 # Variant Two
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fantasy game-art environment/interface board under the source vertical-landscape topic; not actual scenery, a playable game or measured geological structure.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/cd0a32d25494b5); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Comparison Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated scientific-figure-style materials illustration, not an actual experiment, measured microscopy/spectrum/heatmap, published Nature/Science figure or validated physical result. Technical diagram text/data are illustrative.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/9068e9e577739f); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

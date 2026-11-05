@@ -1,6 +1,6 @@
 # Spring Travel Platform
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional centered pastel cinematic composition with synthetic people; not a real railway/space mission or an authentic director film still.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/e90c0303371a61); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

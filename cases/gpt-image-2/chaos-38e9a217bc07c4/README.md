@@ -1,6 +1,6 @@
 # Signature Frame
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated symmetric architectural study, not a photograph of Apple Park or verified HDR measurement.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/5969271f87c4cd); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

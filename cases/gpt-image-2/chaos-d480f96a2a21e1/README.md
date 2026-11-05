@@ -1,6 +1,6 @@
 # Detail Proof
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated wellness-app visual/UI concept, not a functioning app or evidence of clinical benefit. Preserve source reference dependencies and original repeated wording.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/9e3ff12bf397f4); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

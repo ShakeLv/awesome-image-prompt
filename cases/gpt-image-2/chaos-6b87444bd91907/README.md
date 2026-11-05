@@ -1,6 +1,6 @@
 # Reference Anchor
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Tassili-inspired fictional archaeological visualization, not a documented excavation, authentic site photograph or verified conservation record. Preserve reference-image links; historical authenticity is not established.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/938f42018c5790); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

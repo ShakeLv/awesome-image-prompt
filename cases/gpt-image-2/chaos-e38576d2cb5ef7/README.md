@@ -1,6 +1,6 @@
 # Profile Takeover Card
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Imagined music-release promotional art; synthetic performer and static canvas concept, not an actual musician, release, listener milestone or video. Preserve source reference dependencies. Performer is nearly centered despite requested off-center shift; retain this framing imperfection.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/1904e2067ea0e3); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

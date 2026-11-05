@@ -1,6 +1,6 @@
 # Chef Rivalry Cover
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional vertical serialized-drama cover with synthetic adults, not a real event, medical record or actual released show.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/30a6e9748c5a81); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

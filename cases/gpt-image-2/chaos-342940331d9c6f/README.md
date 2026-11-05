@@ -1,6 +1,6 @@
 # Support One
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. West-African-wax-print-inspired generated fashion/game-art board, not an authenticated regional textile, actual maker collection or manufactured clothing. Preserve source references.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/d289d04409d19e); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

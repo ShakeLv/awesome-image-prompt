@@ -1,6 +1,6 @@
 # Flagship Electronics Store
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. World-knowledge-inspired generated environment, not an actual store, station, museum artifact, real building survey or an official game scene. Preserve source wording and visible layout imperfections.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/7d5b5e1dec744a); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

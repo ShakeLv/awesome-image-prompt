@@ -1,6 +1,6 @@
 # Rush Hour Service Window
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated street-food branding study, not a real stall or actual recipe.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/b9b28d5926cc44); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

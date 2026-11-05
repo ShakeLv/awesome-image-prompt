@@ -1,6 +1,6 @@
 # Canonical One-Sheet
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated mid-century minimalist paper-cut suspense-poster study inspired by Saul Bass design language, not an authentic Bass artwork, real film campaign, historic print or documented physical installation.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/11e4f21f7e0928); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

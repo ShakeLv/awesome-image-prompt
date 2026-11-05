@@ -1,6 +1,6 @@
 # Reference Market Mountain
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional editorial illustration of abstract market reasoning; not real data, forecasts, financial advice or disclosure of a model internal thought process. Preserve reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/008bd53ce2e911); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

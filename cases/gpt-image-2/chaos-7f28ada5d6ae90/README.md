@@ -1,6 +1,6 @@
 # Look Switch Six
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic adult wardrobe/fashion portrait concept with declared source-reference dependency; not actual garment fitting, real client data, measured sizing or biometric identity proof.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/9a1434564571d6); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

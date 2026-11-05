@@ -1,6 +1,6 @@
 # Reference Season Hero KV
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional armored-hero season/battle-pass game art, not a shipped game, actual purchasable battle pass, earned rewards or live event. Reference dependencies retained; graphical progression is illustrative.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/28a09712fc5912); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

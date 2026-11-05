@@ -1,6 +1,6 @@
 # Specimen Table
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated X-ray-style artwork, not actual radiography, medical diagnostic evidence, verified anatomy or authentic iPhone internals.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/e21d50133127ac); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

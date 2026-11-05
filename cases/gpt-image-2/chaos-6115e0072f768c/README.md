@@ -1,6 +1,6 @@
 # Science Corner Wall
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated classroom science-poster/toolkit design concept with blank copy areas, not a validated experiment, certified child-safe product, actual class record or scientifically verified protocol. No chemical use instructions asserted.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/bb9c1fb8ca1745); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

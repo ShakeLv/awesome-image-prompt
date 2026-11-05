@@ -1,6 +1,6 @@
 # Archive Product Shelf
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional centered pastel cinematic composition with synthetic people; not a real railway/space mission or an authentic director film still.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/587b3fce051b9f); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

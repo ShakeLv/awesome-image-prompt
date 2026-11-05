@@ -1,6 +1,6 @@
 # Dealer Screen Mockup
 
-Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/c97aa0ac0d9b64); accepted run recorded in accepted membership ledger.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/c97aa0ac0d9b64); accepted run 42080135905.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

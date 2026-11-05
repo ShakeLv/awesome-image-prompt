@@ -1,6 +1,6 @@
 # Weather Front Map
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional game-world map or icon art, not real geography, measured elevation, actual trade routes or verified weather/navigation data.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/d462b4c1db1bf2); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

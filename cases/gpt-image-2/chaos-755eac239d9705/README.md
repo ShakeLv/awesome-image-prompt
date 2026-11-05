@@ -1,6 +1,6 @@
 # Rooftop Time Maze
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Intentionally impossible folded-city concept, not a photographed event or constructible engineering.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/0e3e1fd7fbf696); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

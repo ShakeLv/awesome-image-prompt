@@ -1,6 +1,6 @@
 # Varsity Layer
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic streetwear campaign portrait, not actual talent or verified garment fit. Preserve reference dependencies and visible identity/framing variation rather than claiming biometric identity verification. Requested varsity/layer shift remains a dark jacket similar to anchor; retain weak styling variation.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/d48f2c7646d4b0); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

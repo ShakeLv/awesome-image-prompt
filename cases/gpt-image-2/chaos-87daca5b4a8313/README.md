@@ -1,6 +1,6 @@
 # Window Cling Mockup
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated seasonal beverage/campaign concept, not a real launch, actual recipe, tested ingredients, nutrition claim or physical product/display. Floating ingredients and stylized liquid effects are generated artwork; reference dependencies retained where declared.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/d817ce9d68a627); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Protective Gear Duo
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Brandless sports-equipment advertising concept, not a manufactured product, certified protection, tested material construction or measured performance. Preserve full prompt and reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/87779b31e13a2c); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

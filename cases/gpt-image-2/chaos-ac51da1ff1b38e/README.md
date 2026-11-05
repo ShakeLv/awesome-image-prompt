@@ -1,6 +1,6 @@
 # Spice Cream Poster
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated seasonal beverage/campaign concept, not a real launch, actual recipe, tested ingredients, nutrition claim or physical product/display. Floating ingredients and stylized liquid effects are generated artwork; reference dependencies retained where declared.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/6c3564bf4b560a); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

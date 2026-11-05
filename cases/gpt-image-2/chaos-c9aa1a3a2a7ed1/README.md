@@ -1,6 +1,6 @@
 # Laser Grid Study
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional performance-stage material or lighting moodboard; not a real show or an engineering/safety plan.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/ded9e60ae3240b); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

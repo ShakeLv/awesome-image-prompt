@@ -1,6 +1,6 @@
 # Material Floor Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional performance-stage material or lighting moodboard; not a real show or an engineering/safety plan.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/d0733860964d22); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

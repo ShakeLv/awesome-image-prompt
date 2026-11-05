@@ -1,6 +1,6 @@
 # Scale Witness
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated Iceland-inspired basalt-beach art; not an actual site photo, geological measurement or visitor-safety guidance.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/2effd46aac1396); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

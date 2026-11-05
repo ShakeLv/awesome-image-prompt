@@ -1,6 +1,6 @@
 # Season Roadmap Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional armored-character season/battle-pass concept art, not a shipped game, actual store takeover, purchasable reward or verified live event. Reference dependency retained where declared.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/c954355f85eb6d); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

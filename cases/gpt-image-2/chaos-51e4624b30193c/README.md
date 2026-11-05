@@ -1,6 +1,6 @@
 # Teamwork Scrimmage Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic youth-sports enrollment campaign concept with abstract information slots; no actual camp, enrolled children, coach credentials or verified safety claims. Preserve original reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/dcc45308e242ac); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Contemporary Remix
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated minimalist paper-cut suspense-poster study inspired by Saul Bass design language, not an authentic Bass work, real film campaign, physical print or documented public display.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/b388d24447588f); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

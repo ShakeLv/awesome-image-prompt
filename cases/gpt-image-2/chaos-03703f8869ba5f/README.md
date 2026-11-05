@@ -1,6 +1,6 @@
 # Asymmetric Grazer Profile
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Explicit speculative alien ecology illustration for a tidally locked world; not a real species, field record or experimentally validated evolutionary/planetary model.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/c0b4568da3abb0); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

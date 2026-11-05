@@ -1,6 +1,6 @@
 # 陈列展示
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Static generated mobile UI design concept, not an actual app screenshot, working prototype or Apple-endorsed product.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/23c3d0a6c1b89b); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Reference Anchor
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Taiwanese-stationery-inspired generated product concept, not an actual maker, manufactured set or proof of geographic origin. Preserve original repeated wording and reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/5692c32a8eea8d); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Great Wall Terrain Scroll
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated long-format illustrative scroll, not an accurate Great Wall survey or real biography. Preserve native vertical aspect ratio and original prompt.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/1181d356bbda86); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

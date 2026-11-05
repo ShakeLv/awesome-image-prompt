@@ -1,6 +1,6 @@
 # Detail Proof Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic adult wardrobe/fashion portrait concept with declared source-reference dependency; not actual garment fitting, real client data, measured sizing or biometric identity proof. One coherent close portrait is permitted by this detail-proof brief; no claim of a multi-panel grid.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/4b3a6d0c06c85f); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

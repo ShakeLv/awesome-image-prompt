@@ -1,6 +1,6 @@
 # Passing Lane Diagram
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated sports-coaching communication concept with synthetic athletes and abstract overlays; not validated exercise instruction, safe technique certification, measured motion data or real athlete performance.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/142839255892f8); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

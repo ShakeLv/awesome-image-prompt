@@ -1,6 +1,6 @@
 # Treatment Room Balance
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated spa interior/material concept, not a real property, measured floor plan or therapeutic benefit claim. Preserve references for dependent architectural variations.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/3dab6e3ff00031); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

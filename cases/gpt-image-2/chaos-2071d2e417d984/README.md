@@ -1,6 +1,6 @@
 # Private Counseling Brand Shot
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional therapy/retreat communication concept, not real clients, a real provider or validated treatment efficacy.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/36e57a9337ef96); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

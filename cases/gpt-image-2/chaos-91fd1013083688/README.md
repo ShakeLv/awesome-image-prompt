@@ -1,6 +1,6 @@
 # Variation One
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Taiwanese-stationery-inspired generated product concept, not an actual maker, manufactured set or proof of geographic origin. Preserve original repeated wording and reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/d32a4b988455dd); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

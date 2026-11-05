@@ -1,6 +1,6 @@
 # Scale Witness
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated Bolivian-salt-flat-inspired mirror landscape with a small vehicle, not real expedition/drone photography, measured reflection physics, verified location or safe driving-route guidance.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/a7d6d2dad133dc); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

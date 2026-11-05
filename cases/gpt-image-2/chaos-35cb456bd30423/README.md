@@ -1,6 +1,6 @@
 # Scale Witness
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated supercell landscape, not actual weather footage, validated fluid simulation or storm safety advice.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/f57fcc8aa5ec76); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

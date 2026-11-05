@@ -1,6 +1,6 @@
 # Attic Hatch
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional black-and-white architectural suspense scene, not a real incident or measured optical simulation. Preserve visible source framing and reflection imperfections.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/50f961f8060975); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

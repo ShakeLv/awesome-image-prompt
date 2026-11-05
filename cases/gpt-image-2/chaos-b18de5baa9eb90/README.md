@@ -1,6 +1,6 @@
 # Floral Dagger Study
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated tattoo-flash design sheet, not a physical shop offering, measured tattoo stencil or professional skin-application guidance; approximate motif counts and source design imperfections retained.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/ce68ecaae054e7); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

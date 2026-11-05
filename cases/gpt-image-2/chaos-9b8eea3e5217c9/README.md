@@ -1,6 +1,6 @@
 # Knife Cut Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated sushi/sashimi culinary still life, not a real meal, ingredient identity test, expert technique demonstration or food-safety guidance. Preserve source reference requirements for dependent studies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/78dbc537ec1019); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

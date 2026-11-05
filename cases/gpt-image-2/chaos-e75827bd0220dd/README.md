@@ -1,6 +1,6 @@
 # Supporter Club Membership
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic supporter/athlete marketing concept, not an actual sports club, match result, membership or real athlete endorsement.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/ea03782aa356be); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,0 +1,41 @@
+{
+  "reconciledAt": "2026-11-05T22:30:43.030929+00:00",
+  "archiveRepository": "https://github.com/ShakeLv/awesome-image-prompt",
+  "archiveFullPairs": 5761,
+  "archiveRemoteVerifiedPairFiles": 9972,
+  "archivePairsAlsoPublicOnProjectD": 5553,
+  "newPublicPairsAcrossReviewedSources": 3979,
+  "archivedQualityHeldFromProjectD": 208,
+  "heldArchiveBreakdown": {
+    "chaosGPTImage2": 159,
+    "apiModelsGPTImage2": 47,
+    "beatraQwenImage3": 2
+  },
+  "projectdPublicGalleryTotal": 10950,
+  "gptImage26ArchivedAndPublic": 67,
+  "gptImage26Original40DistinctPromptTexts": 24,
+  "additionalPromptSeenWorkingPromptOutputPairs": 27,
+  "chaosAdditionalArchivePairs": 3631,
+  "chaosReviewed": 3631,
+  "chaosNewPublicPairs": 3472,
+  "chaosHeld": 159,
+  "chaosUnreviewed": 0,
+  "historicalProjectdBackfillArchived": 1574,
+  "historicalBackfillRightsHeld": 5397,
+  "existingSourcePairsConfirmedAlreadyArchived": {
+    "chaos": 166,
+    "apiModels": 491
+  },
+  "priorApiModelsSourceCandidatesHeldOutsideNew449Archive": 15,
+  "chaosAdditionalSourceRecordMissingNativeImage": 1,
+  "latestRunId": "42117944922",
+  "releaseId": "2026-11-05T22:10:42.571Z-22a27f9b-68ba-491b-be03-35189a2058c6",
+  "scope": "Completed known reviewed source cohorts and reconciled legacy backfill. Not a claim to exhaust the entire internet. Actual source model names retained; GPT Image2 and Qwen never relabeled2.6. Source snapshots and per-item rights/quality holds retained. Queued data is not counted as public.",
+  "evidence": [
+    "data/github-all5761-complete-pairs-acceptance-2026-11-06.json",
+    "data/chaos-existing166-archive-reconciliation-2026-11-06.json",
+    "data/apimodels-existing491-archive-reconciliation-2026-11-06.json",
+    "data/chaos07-797-public-acceptance-2026-11-06.json",
+    "data/projectd-legacy-backfill-reconciliation-2026-11-06.json"
+  ]
+}

@@ -1,6 +1,6 @@
 # Fruit Market Refreshment
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated premium summer lifestyle concept, not a real property, product or travel record.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/098fdc439c2565); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

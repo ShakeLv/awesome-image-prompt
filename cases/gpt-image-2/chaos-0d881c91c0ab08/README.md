@@ -1,6 +1,6 @@
 # Workshop Interior
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated tilt-shift miniature-world aesthetic; not an actual physical model, real location or calibrated optical measurement.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/bb88b3b467f00f); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

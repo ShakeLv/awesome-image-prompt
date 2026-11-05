@@ -1,6 +1,6 @@
 # Support Four
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fantasy game-art presentation board despite broad teaser-poster topic name; not a real film teaser or functioning game. Preserve source layout and reference requirements.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/f4936119cbce67); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

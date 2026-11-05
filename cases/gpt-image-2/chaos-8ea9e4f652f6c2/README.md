@@ -1,6 +1,6 @@
 # City Pop Flash Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated tattoo-flash design sheet, not a physical shop offering, measured tattoo stencil or professional skin-application guidance; approximate motif counts and source design imperfections retained. Soda-cup color motif may evoke existing branding; source does not establish separate trademark clearance.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/dc9296ece64d30); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

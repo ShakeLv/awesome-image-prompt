@@ -1,6 +1,6 @@
 # Final Turn
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional noir staircase suspense composition, not a real incident.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/9351f3e59ba09c); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

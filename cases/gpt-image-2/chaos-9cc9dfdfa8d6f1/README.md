@@ -1,6 +1,6 @@
 # Moon White Negative Space
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated enso-inspired material/composition study. Golden-ratio balance is an aesthetic intention, not a measured mathematical proof, authentic physical ink work or religious authority claim.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/28678815f207e9); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

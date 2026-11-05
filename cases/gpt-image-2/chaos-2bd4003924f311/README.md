@@ -1,6 +1,6 @@
 # Red Blood Cell Terrain
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated SEM-style microscopy artwork with abstract scale-bar/interface marks, not an actual electron micrograph, calibrated measurement, identified specimen, clinical finding or validated failure-analysis result.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/465a65b971e3d6); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

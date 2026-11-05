@@ -1,6 +1,6 @@
 # Night Bridge Recursion
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Intentionally impossible folded-city cinematic concept, not a real event, constructible engineering plan or verified physics.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/4f9f93185bc181); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

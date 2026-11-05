@@ -1,6 +1,6 @@
 # Light Shift Study
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional Tassili-inspired archaeology artwork, not documented evidence or verified historical reconstruction.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/3e5c2bb636d98c); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

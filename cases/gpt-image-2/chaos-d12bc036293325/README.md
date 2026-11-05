@@ -1,6 +1,6 @@
 # Open Air Dusk Variant
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional tour-poster campaign with invented performer and abstract information slots; not an announced concert, named musician endorsement or available tickets.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/e7d47845928034); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

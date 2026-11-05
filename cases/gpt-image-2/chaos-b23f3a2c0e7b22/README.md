@@ -1,6 +1,6 @@
 # Transition Study
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional cinematic sandstorm landscape with a tiny vehicle, not actual disaster footage, observed weather, validated particulate/optical simulation or public-safety/driving guidance. Source-reference dependencies retained where declared.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/ba51024175a7c0); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

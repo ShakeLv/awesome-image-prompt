@@ -1,6 +1,6 @@
 # Reference Experiment Poster
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated picture-led classroom experiment poster layout, not a validated scientific protocol or ready-to-teach instructions. Balloon/bottle sequence has illustrative unspecified materials and no chemical formula.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/2bf28dbd797681); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

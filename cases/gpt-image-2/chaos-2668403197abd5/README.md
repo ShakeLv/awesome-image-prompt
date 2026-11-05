@@ -1,6 +1,6 @@
 # Ink Pool Close Study
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated enso-inspired material/composition study. Golden-ratio balance is an aesthetic intention, not a measured mathematical proof, authentic physical ink work or religious authority claim.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/f8cb6f37e586d1); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Mirror Riser Variant
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional stage-world creative direction board, not a documented concert, actual artist or structurally verified lighting/stage plan.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/9db4add05dfc44); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

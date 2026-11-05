@@ -1,6 +1,6 @@
 # Support Four
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional speaker-event interface concept with blank type slots and anonymous silhouettes; not a real event, speaker confirmation or functioning interface.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/29ca9b28353a4b); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

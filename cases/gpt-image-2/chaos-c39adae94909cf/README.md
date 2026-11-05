@@ -1,6 +1,6 @@
 # Stacked Print Bundle
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated minimalist paper-cut suspense-poster study inspired by Saul Bass design language, not an authentic Bass work, real film campaign, physical print or documented public display.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/1568272b9e6b2a); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

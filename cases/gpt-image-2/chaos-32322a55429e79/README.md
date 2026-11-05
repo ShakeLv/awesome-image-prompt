@@ -1,6 +1,6 @@
 # Dark Backdrop Editorial
 
-Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/23b195c606bb71); accepted run recorded in accepted membership ledger.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/23b195c606bb71); accepted run 42080135905.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

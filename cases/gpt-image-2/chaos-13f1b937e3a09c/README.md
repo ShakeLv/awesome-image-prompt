@@ -1,6 +1,6 @@
 # Alley Cafe Facade
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated cafe facade concept with graphite traces, not a real cafe, construction drawing, measured opening fidelity or approved storefront design.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/c3ce1efe761fc1); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

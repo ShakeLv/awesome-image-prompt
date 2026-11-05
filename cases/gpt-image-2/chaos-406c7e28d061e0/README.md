@@ -1,6 +1,6 @@
 # Catalogue Family Anchor
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Speculative household-device catalog illustration; retain original working prompt and any source reference dependency. Generated appearances do not verify device existence, performance, food safety, health effects or child-safety certification.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/fb1bd724927496); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

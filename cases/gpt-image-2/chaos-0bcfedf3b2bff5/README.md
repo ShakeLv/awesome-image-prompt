@@ -1,6 +1,6 @@
 # Aerial Geometry
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Iceland-inspired generated black-beach landscape, not an actual location photograph, geological survey or travel/safety advice.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/a1519d99af92b3); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

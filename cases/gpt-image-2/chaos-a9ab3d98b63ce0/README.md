@@ -1,6 +1,6 @@
 # Chant Night Social
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic supporter/athlete marketing concept, not an actual sports club, match result, membership or real athlete endorsement.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/64012542e11529); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

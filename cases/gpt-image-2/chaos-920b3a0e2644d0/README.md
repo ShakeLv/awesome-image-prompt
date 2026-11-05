@@ -1,6 +1,6 @@
 # Before After Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic adult wardrobe/fashion-try-on concept, not a real model/client, actual product fit simulation, measured garment sizing or documented campaign. Source-reference dependencies retained where declared; exact same-person identity is not biometric proof. Two-panel before/after comparison has visible facial/styling drift; no guarantee of exact identity preservation.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/2fa30a5a33a0f9); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

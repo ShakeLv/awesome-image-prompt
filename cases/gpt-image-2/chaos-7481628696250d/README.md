@@ -1,6 +1,6 @@
 # River Otter Clean Water Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated wildlife advocacy layout with abstract information modules, not actual ecological evidence, observed animals, verified migration data or agency endorsement.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/4bb810effd3a35); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Motion Moment
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated symmetric glass architecture inspired by named architectural references; not a photograph of Apple Park, a measured HDR/optics test or an actual built design.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/5c27a3572eec6b); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

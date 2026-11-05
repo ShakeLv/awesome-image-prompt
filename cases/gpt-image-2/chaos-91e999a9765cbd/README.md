@@ -1,6 +1,6 @@
 # Look Switch Two
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic adult wardrobe/fashion-try-on concept, not a real model/client, actual product fit simulation, measured garment sizing or documented campaign. Source-reference dependencies retained where declared; exact same-person identity is not biometric proof.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/a24e194a8ffbed); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

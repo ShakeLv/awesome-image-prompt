@@ -1,6 +1,6 @@
 # Aerial Migration Chart
 
-Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/167bf52f78c5a6); accepted run recorded in accepted membership ledger.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/167bf52f78c5a6); accepted run 42080135905.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Lobby Clerk
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated pastel centered-stage cinematic language study; not an actual Wes Anderson film still, endorsement, real institution or mission.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/b8e304260ab702); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

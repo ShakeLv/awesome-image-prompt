@@ -1,6 +1,6 @@
 # Campus Wayfinding Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional school open-day/enrollment communication concept with synthetic families and blank copy panels, not an actual institution, documented school event, real student data, admissions policy or delivered campaign. Source-reference dependencies retained where declared.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/b340d6297ab526); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

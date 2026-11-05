@@ -1,6 +1,6 @@
 # Rainwashed Detail Elevation
 
-Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/6a4b47e64ccdbb); accepted run recorded in accepted membership ledger.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/6a4b47e64ccdbb); accepted run 42080135905.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

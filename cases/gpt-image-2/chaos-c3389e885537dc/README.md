@@ -1,6 +1,6 @@
 # Wheatpaste Night Wall
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional music-tour physical-display or credential mockup; not a real tour, access pass or documented venue campaign.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/afe858afa49f20); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

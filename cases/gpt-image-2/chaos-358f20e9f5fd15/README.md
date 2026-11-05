@@ -1,6 +1,6 @@
 # Variation One
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated skincare-journal product-design concept, not actual skincare proof, tested product or a real social post. Preserve reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/966fed6b0a25bc); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

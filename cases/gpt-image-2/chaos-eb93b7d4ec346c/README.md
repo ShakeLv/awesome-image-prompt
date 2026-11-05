@@ -1,6 +1,6 @@
 # Daylight Street Render
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated sketch-to-render architecture concept, not actual building photography, CAD/construction approval or measured layout/structural fidelity. Complete root sketch and rainy render viewed at full native size: ground plus three residential floors and three stacked balconies retained, even though brief mentions balconies on second/third floors. Declared reference dependencies retained.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/56e47f732c8fd1); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

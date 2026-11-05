@@ -1,6 +1,6 @@
 # Reference Club Identity
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional sports-club social campaign with synthetic athlete and blank graphic modules, not an actual team, endorsed athlete or match statistic. Preserve references for dependent variants.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/fff819f6a45e15); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

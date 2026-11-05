@@ -1,6 +1,6 @@
 # Ingredient Origin Collage
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional supplement packaging and marketing layout with abstract labels/data slots. Appearance does not establish ingredient purity, efficacy, dose safety, testing, certification, compliant claims or real manufacturing.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/d3cd673c5e6cc8); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

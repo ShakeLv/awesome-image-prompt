@@ -1,6 +1,6 @@
 # Promo Poster
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Synthetic adult styling-journey portrait/layout concept, not actual talent, celebrity endorsement, documented styling results or biometric identity proof.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/b330dc0cca78dd); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

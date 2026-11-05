@@ -1,6 +1,6 @@
 # Supply Chain Switchboard
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional editorial illustration of abstract market reasoning; not real data, forecasts, financial advice or disclosure of a model internal thought process. Preserve reference dependencies.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/f20eedceba7072); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Silhouette Study
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Generated noir railway cinematic study, not an archival photograph or verified historical station. Reference-dependent variants preserve source links; differences in steam and framing remain visible.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/4ba895bb617ad6); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)

@@ -1,6 +1,6 @@
 # Merchant Route Board
 
-Source-paired archive. Individually reviewed; awaiting ProjectD publication acceptance. Fictional game-world map or icon art, not real geography, measured elevation, actual trade routes or verified weather/navigation data.
+Source-paired archive. Individually reviewed and [published on ProjectD](https://aitoolsradar.com/en/prompts/174f61b97ff3db); accepted run 42117944922.
 
 - Actual source model:GPT Image2, not2.6.
 - [Complete original prompt](prompt.txt)
