@@ -1,0 +1,14 @@
+Scene:
+Create a square 1:1 portrait image for Actor Casting Portrait Sheet. Use a welcoming light setup with soft highlights, gentle warmth, and subtle environmental mood that still feels premium. The frame should feel like a finished professional deliverable rather than a casual snapshot, with clear lens discipline, believable light falloff, and a palette that directly supports Create casting-ready portrait sheets for actors with clean framing, controlled expressions, minimal styling drift, and believable agency presentation.. Keep enough surrounding space and compositional control for gallery, research, campaign, or approval-board reuse while staying photoreal and human-scaled.
+
+Subject:
+Center one working actor with medium olive skin, short dark curls, straight nose, defined cheekbones, close-trimmed beard, and alert brown eyes. Keep the same face and body proportions, but let the emotional register open up into a believable smile or softer public-facing energy. This should look like the same person relaxing, not a second talent hire. Use the example direction from the brief as grounding context: Create casting-ready portrait sheets for actors with clean framing, controlled expressions, minimal styling drift, and believable agency presentation.. Wardrobe, lighting, environment, and pose may shift to serve this variation, but the viewer must immediately understand that the same reference identity is still in front of the camera.
+
+Important details:
+This backlog line is difficult because Create casting-ready portrait sheets for actors with clean framing, controlled expressions, minimal styling drift, and believable agency presentation.. Preserve skin tone family, bone structure, eye spacing, nose shape, mouth shape, hairline logic, shoulder width, and overall body read across the entire series. preserve exact face / hair base / body proportions from the reference model. Expression change is allowed; identity change is not. Teeth, lips, eye crinkle, and cheeks should still fit the same bone structure. Avoid the common failure described in the brief: ordinary image models often lose likeness once styling, lighting, or layout changes enter the frame. Success should feel like the result should feel professionally usable, coherent, and clearly built around one stable human identity.
+
+Use case:
+Actor Casting Portrait Sheet series study 5/9, a warmer, approachable expression variation.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no changed teeth shape, no exaggerated laugh lines, no glamour filter skin, no mismatched eye color.

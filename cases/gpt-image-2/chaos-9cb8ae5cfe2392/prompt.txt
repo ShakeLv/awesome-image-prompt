@@ -1,0 +1,14 @@
+Scene:
+A square arthouse poster set in a dusty illustration studio at dawn, but composed with extreme restraint: one tall worktable, a cut-paper moon hanging near the ceiling, and soft pale light entering from a high window. The room is mostly muted beige and faded blue-gray, with broad empty wall space taking up nearly half of the frame. The geometry should feel editorial and still, as if designed for a gallery retrospective rather than a commercial anime release.
+
+Subject:
+An anime-coded young illustrator sits sideways on a wooden stool, cutting delicate paper shapes with tiny scissors. Around the table are unfinished paper cranes, moon fragments, ink brushes, and one cup of tea releasing a faint thread of steam. Her design should be memorable through haircut, cardigan silhouette, and careful hand gesture, but quiet enough to merge into the arthouse composition. The hanging paper moon becomes the symbolic anchor of the poster, balanced against the figure below and the blank wall above.
+
+Important details:
+The key is to translate hand-crafted anime whimsy into serious festival-poster discipline. Keep the palette subdued: cream paper, dusty ultramarine, soft graphite, tea brown, and a trace of warm morning light. Avoid a cute scrapbook feeling. Use one blank wall region, one table band, and one symbolic suspended shape to imply sophisticated layout structure. If any credits are suggested, they should appear only as abstract horizontal marks or empty reserved zones. Texture should feel tactile and premium, never busy.
+
+Use case:
+Arthouse One-Sheet Anime Remake single study 6/9, emphasizing handcrafted symbolism and measured poster balance.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no whimsical clutter explosion, no saturated rainbow palette, no oversized props, no childish sticker aesthetic.

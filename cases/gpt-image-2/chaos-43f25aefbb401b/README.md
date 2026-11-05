@@ -1,0 +1,12 @@
+# Museum Wall Hang
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/abstract-expressionism-study/packages/single-abstract-expressionism-studies/images/museum-wall-hang/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/ce9b08879d2fc14d2071a9e5d91cb942f0f597eb776e44edc362c7d094466d33.webp)
+- SHA-256:ce9b08879d2fc14d2071a9e5d91cb942f0f597eb776e44edc362c7d094466d33
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

@@ -1,0 +1,14 @@
+Scene:
+A square close-up of a professional tattoo stencil sheet on warm off-white transfer paper, photographed straight-on on a clean studio table. The image is monochrome black ink with faint blue construction guidelines, tiny registration ticks, and a second ghosted rotated guide behind the main word. Lighting is soft and even so every stroke edge is visible.
+
+Subject:
+The subject is a tattoo-ready ambigram spelling exactly "ATLAS". Upright, the letters must read ATLAS in a bold custom script; when rotated 180 degrees, the same ink drawing must still read ATLAS. Build the word from paired strokes: A maps into A, T into L-like crossbars, L into T-like stems, and S remains rotationally balanced. The word should feel like a single continuous tattoo mark, not five separate typefaces.
+
+Important details:
+This is a readability and geometry study. The design must show tattoo practicality: clean line weight, stencil gaps that a needle can follow, no hairline clutter, strong negative spaces, and symmetrical flourishes that support reading rather than hide mistakes. The guide marks may show rotation logic but must not become readable text. Keep the central ambigram large, centered, and auditable at thumbnail scale.
+
+Use case:
+Ambigram Readability single study 2/8, testing same-word tattoo ambigram readability and practical stencil construction.
+
+Constraints:
+No readable text except the specified ambigram "ATLAS", no watermark, no logos, preserve exact 1:1 aspect ratio, no extra letters, no ornamental noise that changes the word, no skin mockup, no color gradients, no misspelled ATLAS, no perspective angle.

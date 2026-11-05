@@ -1,0 +1,14 @@
+Scene:
+A square overhead photograph of deep cyan blueprint paper on a flat desk, evenly lit with a cooler upper-left light. The page surface is matte, with faint fiber grain and pale construction-line marks, but there must be no readable labels or numbers. The composition should resemble a technical drawing that has been interrupted by a real mineral specimen placed exactly where the drawn hand would hold it.
+
+Subject:
+A flat white blueprint-style line drawing of a human hand spans the page, palm up, with clean contour lines, ghosted joint arcs, and simple construction circles. The hand is purely 2D linework, not shaded anatomy. Resting in the drawn palm is a photoreal clear quartz crystal cluster, angular and heavy, with sharp facets, cloudy inclusions, small chips, prismatic highlights, and a hard contact shadow.
+
+Important details:
+The crystal must sit above the blueprint hand and hide parts of the white linework under its base. Facets should refract fragments of the palm lines, producing broken white streaks inside the transparent mineral while nearby shadow falls across the cyan paper. Keep the technical drawing flat and diagrammatic, with no readable text, arrows, or measurement labels. The image should make the viewer instantly understand that a drawn schematic hand is physically supporting a real crystalline object.
+
+Use case:
+2D and 3D Medium Collision single study 8/8, testing diagrammatic 2D linework against transparent faceted 3D mineral physics.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no labels, no numbers, no realistic flesh hand, no glowing magic crystal, no jewelry setting, no extra tools, no tilted perspective.

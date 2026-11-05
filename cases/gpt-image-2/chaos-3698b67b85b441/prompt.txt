@@ -1,0 +1,14 @@
+Scene:
+A square fine-art calligraphy sheet on textured watercolor paper, viewed perfectly top-down. The paper is damp at the edges with pale blue-gray washes, and the central ambigram is painted in deep indigo ink with slight feathering. Include a shallow pool of water near the bottom edge reflecting the ambigram upside down, but do not include any labels or seals.
+
+Subject:
+The painted word must read exactly "OCEAN" upright and exactly "RIVER" when rotated 180 degrees. Use custom Roman calligraphy with broad-nib stroke contrast, shared curves, and carefully shaped negative spaces. The five-letter mapping should feel fluid: rounded bowls, tapered terminals, and wave-like connectors help the letters transform while preserving readability. The ambigram sits as one centered wordmark, not a stacked poem.
+
+Important details:
+The main test is balancing expressive ink with strict text rendering. Keep each character crisp enough to audit, with no random splashes crossing the letter interiors. The watercolor texture may suggest water, but it must not obscure the word. The reflection should be secondary and physically plausible, helping demonstrate rotation without adding extra independent text. Preserve an elegant gallery presentation and avoid East Asian seal marks, signatures, or decorative readable captions.
+
+Use case:
+Ambigram Readability single study 7/8, testing fluid calligraphic dual-word readability where OCEAN rotates into RIVER.
+
+Constraints:
+No readable text except the specified ambigram words "OCEAN" and "RIVER", no watermark, no logos, preserve exact 1:1 aspect ratio, no signature, no red seal, no extra poem lines, no illegible splatter, no separate upright and inverted captions, no misspelled letters.

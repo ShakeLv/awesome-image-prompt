@@ -1,0 +1,14 @@
+Scene:
+A square EP-cover composition unfolding on a glossy transit-platform set with long vanishing floor reflections, suspended light bars, and cool vapor hanging near the ground. The shot stays centered and controlled, but the background geometry feels more architectural and rhythmic than the original street setup.
+
+Subject:
+Preserve the exact same performer from the reference model, including face shape, braided hair base, body proportions, and jacket silhouette. The musician stands on a slightly raised platform between strobing vertical light bars, with one hand relaxed at the side and the same composed stage presence carried forward into a more architectural release mood.
+
+Important details:
+The campaign must still read as one owned visual system rather than a disconnected poster. Keep the same ring-derived motif language, wet reflections, and moody cobalt-to-ember palette, but let the environment shift into platform geometry and pulse-light repetition. This should feel like an EP branch of the same rollout, maintaining exact identity continuity while widening the world-building.
+
+Use case:
+Album Rollout series study 3/9 for the Album Cover and Single Rollout System Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no train vehicles, no readable station graphics, no hard costume change, no fisheye distortion, no cluttered background extras

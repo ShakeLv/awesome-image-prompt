@@ -1,0 +1,14 @@
+Scene:
+A square poster framed like a high-end Japanese festival one-sheet: wide pale sky, a low horizon, and a tiny shrine stair descending toward a quiet sea. The composition should feel wind-washed and nearly empty, with the entire upper two-thirds reserved for atmosphere and implied typography space. Color is powder blue, faded vermilion, sea mist white, and a restrained note of charcoal. The image should read as contemplative, not mystical spectacle.
+
+Subject:
+A single anime-coded shrine maiden stands on the steps facing the ocean, seen from behind with long dark hair and a plain white-and-red robe rendered in a simplified, elegant manner. Near her feet are wind chimes, a weathered offering box, and one paper charm ribbon fluttering sideways. The sea is flat and distant. A red torii beam enters only partially from the top corner, giving the frame a strong poster anchor without overpowering the emptiness. The character must remain identifiable as an anime protagonist through shape language and styling, yet be subdued enough to belong in a prestige arthouse poster.
+
+Important details:
+The core challenge is balance: sacred seaside iconography, anime-coded character design, and severe layout restraint. Keep edges crisp, forms quiet, and the atmosphere airy. Use negative space as an active design element. Indicate possible title and credit zones through composition alone, not text. Avoid tourist-poster brightness; this should feel like a calm, serious festival selection sheet with subtle premium paper texture.
+
+Use case:
+Arthouse One-Sheet Anime Remake single study 3/9, centered on shrine iconography, horizon spacing, and a minimal protagonist silhouette.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no dramatic explosion sky, no fantasy creatures, no excessive cherry blossoms, no glossy souvenir-poster styling.

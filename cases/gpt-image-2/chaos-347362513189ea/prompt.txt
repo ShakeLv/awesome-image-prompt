@@ -1,0 +1,14 @@
+Scene:
+Compose a curated natural history survey plate against a dark neutral background that still feels underwater rather than graphic design. Arrange several representative abyssal species in one coherent square, each at slightly different scale and depth, as if observed through a study window into the deep. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Include a lure predator, a drifting medusa, a siphon grazer, a nursery shell form, and small scavengers, all positioned so their body plans can be compared without labels. The organisms should overlap subtly and share one believable water environment rather than floating as cutouts. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Treat the abyss as a high-pressure ecosystem where light is scarce, energy is expensive, and every glow pattern carries a function such as luring prey, signaling kin, masking silhouette edges, or attracting symbiotic cleaners. This is a synthesis image, so clarity matters: preserve morphology, material differences, and glow logic while avoiding clutter. The composition should read like a polished field atlas cover that still feels alive and ecological, not like a poster of disconnected assets. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Abyssal Bioluminescent Ecosystem single study 9/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no specimen pins, no text labels, no flat collage cutout look, no empty black void, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

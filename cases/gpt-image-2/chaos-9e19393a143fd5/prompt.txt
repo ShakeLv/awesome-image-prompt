@@ -1,0 +1,14 @@
+Scene:
+A square top-down flat lay on smoked acrylic with a transparent cassette, folded insert cards, metallic foil strip, and soft pooled light that creates moody reflections around the edges. The materials should feel physically believable, with subtle dust, fingerprints, and packaging creases that add realism.
+
+Subject:
+The subject is a complete collector-style analog package for an invented record, organized with careful spacing and a few symbolic visual cues borrowed from the release world: concentric circles, diagonal light cuts, and a cobalt-ember palette. The packaging should feel premium and contemporary rather than nostalgic costume play.
+
+Important details:
+Use material realism and layout discipline to imply a music release with tangible desirability. Every object should look intentionally designed for the same campaign family, but there should be no readable track list or label copy. Favor translucent plastics, reflective foil, matte card stock, and small metallic hardware that catches light in a restrained way.
+
+Use case:
+Album Rollout single study 8/9 for the Album Cover and Single Rollout System Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no vinyl record dominating the frame, no shipping box, no consumer electronics brand cues, no fake price sticker, no clutter outside the packaging system

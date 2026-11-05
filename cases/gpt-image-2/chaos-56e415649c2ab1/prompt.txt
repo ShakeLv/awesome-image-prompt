@@ -1,0 +1,14 @@
+Scene:
+A square editorial poster proof pinned to a neutral wall, photographed straight-on with clean studio light. The background is matte ivory paper with one large central black ambigram and a faint upside-down shadow version visible through translucent paper, proving the rotation relationship. Keep the composition minimal, with no decorative typography beyond the central engineered word.
+
+Subject:
+The central word must read exactly "RISE" when viewed upright and exactly "FALL" when the image is rotated 180 degrees. The four-letter design should use bold serif-script hybrids where each upright letter transforms into its rotated partner: R resolves into L, I resolves into L or vertical structure, S resolves into A-like negative space, and E resolves into F-like bars. The design should feel like one finished poster mark, not two words pasted together.
+
+Important details:
+The ambigram must be readable both ways. Use deliberate shared stems, mirrored terminals, balanced counters, and controlled negative space. The viewer should be able to rotate the square and understand the second word without relying on arrows or labels. The ink should have slight screen-print texture and crisp edges. Avoid accidental extra strokes, smeared calligraphy, or over-ornamented flourishes that make either word ambiguous.
+
+Use case:
+Ambigram Readability single study 3/8, testing dual-word 180-degree readability with the upright word RISE and rotated word FALL.
+
+Constraints:
+No readable text except the specified ambigram words "RISE" and "FALL", no watermark, no logos, preserve exact 1:1 aspect ratio, no arrows, no captions, no extra words, no misspelled letters, no duplicated separate word, no perspective skew, no illegible decorative clutter.

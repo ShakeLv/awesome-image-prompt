@@ -1,0 +1,12 @@
+# Senior Pet Dignity Portrait
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/adoption-and-rescue-awareness-kit/packages/single-rescue-awareness-studies/images/05-senior-pet-dignity-portrait/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/dcfc2c84e7b6c26dac48aa6b93b58b4f4df64ae1e0e3f4649104dd9a479920a5.webp)
+- SHA-256:dcfc2c84e7b6c26dac48aa6b93b58b4f4df64ae1e0e3f4649104dd9a479920a5
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

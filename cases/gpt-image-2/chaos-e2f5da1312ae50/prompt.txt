@@ -1,0 +1,14 @@
+Scene:
+A square editorial spread opener or magazine board that combines photoreal animal portraiture with layout fragments, negative space, and sophisticated art direction. The animal should read as a character with presence and point of view, but never become a cartoon mascot or a human impersonation. Keep the image useful for brand editorials, cultural magazines, nonprofit storytelling, or visual essays where personality and atmosphere matter as much as realism. Use a city ledge or plaza edge with muted concrete tones, soft daylight, and magazine-style layout panels integrated into the square.
+
+Subject:
+Focus on one animal in a setting that supports a distinct personality cue such as quiet confidence, urban wit, eccentric elegance, patient age, or tactile curiosity. Use real anatomy, plausible behavior, and emotionally controlled lighting. The animal may be framed with objects, set pieces, or composition motifs, but the scene must still feel truthful to the species and grounded in editorial photography logic. Show one pigeon with iridescent neck detail and sharp attentive posture, photographed with the seriousness usually reserved for larger animals.
+
+Important details:
+Use magazine-like hierarchy: one hero image, supporting crop windows, abstract text columns, margin bars, or pull quote blocks without readable words. The result should feel authored and surprising, not like a stock portrait dropped into a template. Aim for mood, specificity, and a polished sense of visual journalism. Let environment, gesture, and styling carry the personality instead of costumes or overt anthropomorphism. The board should feel observant and culturally aware, turning an overlooked city animal into a compelling editorial character.
+
+Use case:
+Animal Character Editorial Spread Set single study 9/9, urban pigeon culture essay for a commercially reusable prompt atlas example.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no human clothes on animals, no cartoon facial exaggeration, no readable magazine text, no mascot smile effects, no fake celebrity parody, no novelty prop overload, no pest-control cues, no flock chaos, no comedic city grime stereotype.

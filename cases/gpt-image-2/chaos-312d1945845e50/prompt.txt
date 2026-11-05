@@ -1,0 +1,14 @@
+Scene:
+A square top-down studio photograph of thick cream drawing paper under soft window light. The paper is clean, slightly textured, and warm in tone, with the camera held perfectly overhead. The scene should look minimal and tactile, like an artist placed one real object onto an ink sketch and photographed the collision before the ink fully dried.
+
+Subject:
+A loose black ink drawing of a sitting cat fills the page, made from expressive brush lines, dry-brush gaps, and a few gray wash shadows. The cat is strictly flat and graphic: almond eyes, whiskers, arched back, curled tail, and simple paws. Resting on the drawn belly is a photoreal round glass fishbowl filled with clear water, a small orange fish, pebbles, and a tiny aquatic plant. The bowl is a real transparent 3D object, not a drawn circle.
+
+Important details:
+The fishbowl must magnify and distort the ink strokes underneath it, bending the cat's belly line through the water and glass. It should cast a soft circular shadow and a faint caustic highlight onto the cream paper. The cat's ink whiskers and paws must remain flat, with no fur rendering or sculpted body. Layer order is essential: paper texture below, ink marks on paper, glass bowl sitting above, refraction modifying what is seen through it.
+
+Use case:
+2D and 3D Medium Collision single study 6/8, testing ink drawing and transparent water-glass optics in one controlled composition.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no extra labels, no cartoon fishbowl, no realistic 3D cat, no room background, no spilled water, no hands, no frame.

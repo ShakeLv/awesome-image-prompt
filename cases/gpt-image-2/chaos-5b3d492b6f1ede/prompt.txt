@@ -1,0 +1,14 @@
+Scene:
+A square overhead photograph on the same warm white drawing paper as the reference image. Keep the camera perpendicular to the page, the tabletop invisible except for a narrow paper edge hint, and the light coming from the upper left. The image should feel like a small studio test of physical contact between handmade marks and a real object, with quiet shadows and high detail rather than dramatic scenery.
+
+Subject:
+Use the same childlike crayon stick figure from the reference: round head, simple smile, blue torso, red arms, yellow legs, uneven waxy crayon strokes, and the same pose of lifting an object above the head. Replace the apple with one large photoreal transparent glass marble. The marble is spherical, heavy, clear, and polished, with distorted paper fibers, inverted crayon colors, bright highlights, and a dense contact shadow below it.
+
+Important details:
+The figure must remain purely flat 2D crayon, never gaining real fingers, skin, or dimensional limbs. The marble must behave as real glass on paper: it refracts and magnifies the crayon arms beneath it, bends the blue torso color at its lower edge, and creates a small caustic glow beside the shadow. Preserve the reference character identity and lighting direction while changing only the held object and its material behavior.
+
+Use case:
+2D and 3D Medium Collision series study 2/8, testing whether a referenced 2D character can support a transparent 3D material with plausible optics.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no extra characters, no gemstone facets, no cartoon bubble, no floating marble, no painted glass outline, no change to the crayon figure identity.

@@ -1,0 +1,14 @@
+Scene:
+A square overhead photograph of a slightly warm white sheet of drawing paper on a quiet tabletop. The camera is perfectly perpendicular to the page, with soft daylight entering from the upper left and a faint paper fiber texture visible across the surface. The palette is simple: waxy red, blue, yellow, graphite gray, and the natural off-white of the paper. The lighting must make the page feel real, but the drawn marks must remain unmistakably flat crayon.
+
+Subject:
+A childlike crayon stick figure stands near the center of the paper, drawn with uneven wax pressure, round head, simple smile, blue torso, red arms, and yellow legs. The figure holds an 8K photoreal red apple above its head. The apple is not drawn; it is a glossy real object resting on the paper plane, with small pores, a short brown stem, a green highlight, and believable volume.
+
+Important details:
+Keep the 2D and 3D layers sharply separated. Crayon lines must sit on the paper with no thickness except wax texture, while the apple must cast a true elliptical shadow across the paper and over parts of the drawn arms. The drawn hands may touch the apple visually, but they should not become 3D fingers. Preserve the same simple crayon character for later references.
+
+Use case:
+2D and 3D Medium Collision series study 1/8, establishing the reference character, paper surface, lighting direction, and mixed-medium physics.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no extra props, no realistic human hands, no cartoon apple, no floating object without shadow, no frame, no perspective tilt.

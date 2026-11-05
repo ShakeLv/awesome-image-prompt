@@ -1,0 +1,14 @@
+Scene:
+A square nighttime storefront-window photograph with a single custom neon ambigram mounted on dark smoked glass. The camera is straight-on from the sidewalk, with subtle rain reflections and no surrounding shop signage. The neon glows warm violet and electric blue, and the glass reflection shows the same wordform inverted and rotated enough to verify the ambigram rule.
+
+Subject:
+The neon must read exactly "DREAM" when viewed upright and exactly "AWAKE" when the image is rotated 180 degrees. The five-letter design should use continuous bent glass tubes, with shared loops and stems engineered so each upright letter transforms into its rotated partner. The tubes must look physically buildable: rounded bends, visible electrode caps, small mounting clips, and consistent tube diameter.
+
+Important details:
+This is not generic neon lettering. The challenge is making an illuminated dual-word ambigram where both readings are crisp despite glow bloom. Keep the core tube lines sharp inside the glow, maintain enough dark negative space between letters, and avoid accidental extra strokes that create false characters. The reflection can be dimmer, but the main upright word must remain auditable. The mood can be cinematic, yet the typography must stay disciplined.
+
+Use case:
+Ambigram Readability single study 6/8, testing luminous dual-word ambigram readability where DREAM rotates into AWAKE.
+
+Constraints:
+No readable text except the specified ambigram words "DREAM" and "AWAKE", no watermark, no logos, preserve exact 1:1 aspect ratio, no shop name, no extra neon signs, no unreadable overglow, no broken tube segments, no misspelled words, no separate caption explaining the trick.

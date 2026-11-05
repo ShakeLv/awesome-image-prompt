@@ -1,0 +1,11 @@
+{
+  "commit": "a6c4c11855a5f8cc09211a86c25ee96ffb766a2a",
+  "totalPairs": 1614,
+  "historicalPairs": 1574,
+  "gptImage26Pairs": 40,
+  "distinctGptImage26Prompts": 24,
+  "priorVerifiedObjects": 1669,
+  "followupVerifiedObjects": 12,
+  "remoteTreeTruncated": false,
+  "method": "Full file bytes hashed as Git blobs and compared to the accepted remote tree; prior historical/native SHA-256 and original rights retained."
+}

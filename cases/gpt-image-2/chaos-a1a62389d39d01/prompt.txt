@@ -1,0 +1,14 @@
+Scene:
+Create a square art-science image that presents a tesseract projection with the clarity of a premium museum plate. The camera should remain frontal and calm, while lighting, materials, or color systems help distinguish nested cubes, edge depth, and rotational phase relationships without turning the composition into a generic user interface. Use layered glass or acrylic surfaces with quiet reflections and a laboratory-display mood. Keep the square crop exact, the camera flat, and the tonal design disciplined enough that structure stays clear at poster scale and under close inspection.
+
+Subject:
+Use a tesseract or closely related hypercube projection as the structural centerpiece, with nested cube frames, bridging edges, phase echoes, and disciplined auxiliary diagrams. The geometry should feel reasoned and coherent, so the viewer can understand the higher-dimensional idea through a stable, elegant projection rather than through visual chaos. Focus this variation on a translucent interpretation where the main hypercube is accompanied by smaller phase echoes arranged in disciplined symmetry. The composition should feel complete and singular, as though one finished artifact has been resolved with full conviction rather than one fragment pulled from a larger sheet.
+
+Important details:
+Edge count, hierarchy, and spacing matter more than flashy effects. Keep the central projection readable, preserve clean line convergence, and let any supporting phase views, orbit traces, or cutaway layers clarify the concept. Use contrast and color coding only where they make the dimensional relationships more legible. Keep every auxiliary phase view geometrically related to the main form, with consistent scale logic and minimal glare. Preserve crisp edge behavior, stable hierarchy, and enough fine information that the image rewards slow viewing without losing the main read from a distance.
+
+Use case:
+4D Hypercube single study 2/9, designed as a self-contained sacred-geometry image with a distinct material and compositional emphasis.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no impossible cube tangles, no random gaming HUD elements, no readable labels, no warped perspective, no soft glow hiding edge logic, no generic sci-fi cockpit styling, no perspective skew, no hologram clutter, no rainbow artifacting.

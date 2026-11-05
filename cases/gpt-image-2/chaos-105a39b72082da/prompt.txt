@@ -1,0 +1,14 @@
+Scene:
+A square mobile-app launch page with bright daylight tones, mint, coral, and soft navy accents, composed as a clean first-scroll marketing page. The frame should feel airy and optimistic, with rounded cards, large breathing room, and a subtle gradient halo behind the hero phone stack. Structure the layout so the top half reads as a conversion hero and the bottom half suggests habit metrics, social proof, and onboarding prompts.
+
+Subject:
+Show a trio of overlapping mobile screens for a focus and streak coaching app. The primary screen features a circular progress ring and a calm daily plan layout, the second shows streak history with illustrated badges, and the third suggests a small guided session timer. Surround the phone stack with abstract headline bars, a simple CTA pair, a horizontal row of feature chips, and a testimonial card with star-like dot icons. Add a faint abstract hero motif of looping ribbons forming a sunrise arc to reinforce momentum and repetition.
+
+Important details:
+The image needs to look like a real app launch page made by a strong product-marketing team. The device stack should be crisp and believable, while the surrounding modules create a convincing narrative from motivation to features to signup. Use consistent UI language and rounded-system components. All textual regions must remain unreadable, treated as elegant blocks and micro-glyph textures only. Preserve strong spacing discipline so the frame feels trustworthy and marketable instead of noisy or juvenile.
+
+Use case:
+App Launch Hero System single study 2/9, testing whether a wellness-style mobile launch page can balance cheerful hero art, app proof, and CTA hierarchy in one still.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no smartwatch mockup, no cartoon mascot dominating the frame, no browser chrome, no cluttered notification spam, no fake app-store badges, no broken phone anatomy.

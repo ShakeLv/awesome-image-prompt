@@ -1,0 +1,14 @@
+Scene:
+A square deluxe-edition cover staged at blue-hour tipping into dawn, with the same reflective ground plane now catching warmer copper light, softened fog, and a calmer horizon glow. The frame should feel more expansive and collectible, as if closing the release cycle with a premium edition rather than a debut drop.
+
+Subject:
+Preserve the same performer from the reference image with exact face structure, hair base, body proportions, and jacket silhouette. The musician remains centered and composed, but the lighting wraps more softly around the face and shoulders, while the ring motif opens wider and feels more ceremonial behind the figure.
+
+Important details:
+Maintain the same campaign grammar established by the master cover: restrained symbolism, tactile reflections, and realistic atmospheric polish. The deluxe variation should not invent a new identity; it should feel like the final, elevated chapter of the same release system, with warmer dawn color, richer metallic surfaces, and extra breathing room that suggests a collector release without relying on readable typography.
+
+Use case:
+Album Rollout series study 4/9 for the Album Cover and Single Rollout System Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no bright sunrise sky, no extra characters, no vinyl record prop covering the body, no random graphic stickers, no flat studio backdrop

@@ -1,0 +1,14 @@
+Scene:
+Design a square alien-naturalist board that could live inside a field guide, exhibition panel, or worldbuilding deck. Treat the background and layout as part of the scientific storytelling, not as empty filler. Compose a dim cave system with brood chambers, reflective mineral walls, and structured light organs punctuating the darkness.
+
+Subject:
+Show one ecosystem component clearly enough to study: species, colony, migration route, terrain patch, or microbiome structure. The organisms should feel biologically integrated with their environment and each other. Focus on colony behavior, protective anatomy, and habitat adaptation rather than monster menace.
+
+Important details:
+Favor specimen clarity, habitat context, and pattern logic over spectacle. Even the strangest form should imply believable growth, feeding, protection, or movement strategies. Keep all glow functional and measured so the image remains field-guide clear. Preserve biological cause and effect so each ecology study reads as a system rather than an arbitrary monster illustration.
+
+Use case:
+Alien Ecology single study 4/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no encyclopedic text blocks, no cute cartoon mascots, no violent attack poses, no generic Earth animals with minor edits, no horror cave crawler mood.

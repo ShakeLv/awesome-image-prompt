@@ -1,0 +1,14 @@
+Scene:
+Create a square field-guide plate for an alien ecosystem, mixing specimen staging, habitat fragments, and diagrammatic order into one clean composition. The image should feel like a premium scientific editorial board with careful spacing, controlled backgrounds, and enough environmental cues to imply a larger biosphere. Keep the camera or layout disciplined so the viewer can study relationships between species, organs, and habitat layers. Retain the same overall layout but divide the square into seasonal habitat states, with specimen windows and growth stages orbiting a stable central terrain profile.
+
+Subject:
+Center the image on a strange but internally patterned ecology: organisms, growth forms, spores, membranes, roots, shells, or flying bodies that clearly belong to the same world. Their silhouettes and textures should feel novel, yet their anatomical logic, habitat relationship, and life-cycle clues should read as coherent rather than random fantasy. Preserve the anchor board grammar while showing how organisms alter color, membrane density, or body shape across environmental cycles.
+
+Important details:
+Use scientific realism without readable text. Unlabeled callout lines, scale markers, specimen windows, and sectional insets may appear, but the hierarchy must remain visual. Preserve a disciplined palette tied to one habitat so the package reads as a reusable guide system rather than a collection of unrelated creature paintings. Variation should feel patterned and evolutionary, not random, with each seasonal change clearly tied back to climate or resource cues. Preserve the exact structural language established by the reference image, especially the plate layout, habitat palette, anatomical callout grammar, and specimen scale cues.
+
+Use case:
+Alien Ecology series study 4/4, designed as a reusable core-system image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no humanoid monsters, no fantasy dragons, no horror gore, no readable labels, no rainbow chaos, no magical transformation tropes.

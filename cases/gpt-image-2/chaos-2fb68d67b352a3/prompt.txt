@@ -1,0 +1,14 @@
+Scene:
+A modern underground transit concourse photographed from a low marked viewpoint near the floor. The space has tiled floors, square columns, ceiling strips, and clean architectural lighting.
+
+Subject:
+Distorted colored bands run across the floor, columns, and one side wall. From the camera viewpoint, the bands align into one huge floating directional arrow pointing toward the platform entrance. The arrow is made entirely from surface markings, not an actual suspended object.
+
+Important details:
+Photorealistic interior architecture, accurate perspective alignment, matte safety-paint texture, cool white station lighting, visible viewing-point dot on the floor, realistic occlusion around columns, strong spatial depth, clean wayfinding color palette of blue, white, and yellow.
+
+Use case:
+Independent Prompt Atlas image testing practical anamorphic wayfinding, optical geometry, and structured architectural composition.
+
+Constraints:
+No readable text, no real transit logos, no watermark, no crowds, no floating physical arrow, no broken tile alignment, no overlaid UI graphics, preserve exact 16:9 aspect ratio.

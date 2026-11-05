@@ -1,0 +1,14 @@
+Scene:
+A square single-cover frame set in the same release universe, now closer to the performer and surrounded by rain streaks, reflected brake-light color, and a slightly lower camera angle that adds urgency without breaking the premium cover language. The environment should still feel like the same wet-night world established by the reference image, just pushed toward momentum.
+
+Subject:
+Preserve the same performer from the reference image with the exact same face structure, hair base, body proportions, and jacket silhouette. The musician is now turning slightly off-center, catching neon reflections across one cheekbone and shoulder, while the circular rig becomes a broken halo echoed in the puddles below.
+
+Important details:
+This image represents a single release inside the same campaign. Maintain the analog-neon palette, disciplined empty text zones, and cinematic realism from the reference, but introduce faster rain lines, tighter crop energy, and a stronger sense of release-week urgency. The performer must remain unmistakably identical to the reference model, and the campaign symbol system of rings and diagonal cuts must still anchor the composition.
+
+Use case:
+Album Rollout series study 2/9 for the Album Cover and Single Rollout System Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no new wardrobe category, no hard daylight, no audience, no busy city signage, no abstract color explosions

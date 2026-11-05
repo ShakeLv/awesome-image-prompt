@@ -1,0 +1,14 @@
+Scene:
+A square launch campaign board for a travel-planning app, balancing premium editorial atmosphere with clear commerce structure. Use a bright but refined palette of cloud white, ocean teal, sunset coral, and soft navy. Present one elegant hero phone, a few itinerary screen crops, map-like cards, and layered landing-page modules arranged on a softly lit backdrop with subtle motion in the composition.
+
+Subject:
+Design a believable app marketing page kit for trip planning, itinerary building, and travel organization. The device interface should show route cards, lodging summaries, day-by-day schedule blocks, map-inspired markers, and packing or booking checklist elements. Around it, build supporting marketing modules that imply discovery, trip coordination, and store-promo extensions. The result should feel aspirational without becoming generic vacation advertising. It must still read first as a polished app launch system, with realistic screen design and deliberate conversion hierarchy. Any copy areas should remain abstract and unreadable.
+
+Important details:
+Keep the visual mood airy and inviting while preserving structured layout discipline. Device realism, spacing, and module hierarchy should remain credible. Avoid postcard clichés and keep the marketing story centered on how the app organizes travel planning. The board should feel suitable for a formal landing page, an app-store screenshot campaign, and a paid acquisition creative family.
+
+Use case:
+App Launch Marketing Page Kit single study 4/5, testing an aspirational travel-planning launch direction.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no airplane-stock-photo montage, no brand badges, no cluttered maps, no fake passport props, no distorted phones, no noisy tropical clichés.

@@ -1,0 +1,12 @@
+# 氛围场景
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/ancient-book-restoration/packages/single-ancient-book-restoration-studies/images/atmospheric-view/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/6988df882116d415d4542cc11e64fee34497998007601940eb5ad11533c1f7eb.webp)
+- SHA-256:6988df882116d415d4542cc11e64fee34497998007601940eb5ad11533c1f7eb
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

@@ -1,0 +1,14 @@
+Scene:
+Create a square architectural reference still for Architectural Facade Identity System. Use a square daylight hero view from the primary street corner showing the full massing and lower levels and treat the frame like a premium interior or architecture editorial photograph with disciplined perspective, readable depth from foreground to background, and enough negative space for the spatial hierarchy to breathe. Light the scene so material silhouette, facade rhythm, and urban recognition feel immediate, using earthy terracotta, bronze brown, pale stone, smoked glass, and soft sky gray as the governing tonal range. The composition must read as a high-end commercial image that could sit inside architecture competitions, developer decks, city-brand editorials, and facade-design presentations.
+
+Subject:
+Show an architectural facade system with terracotta fins, bronze mesh, deep window reveals, sculpted canopies, and a civic-commercial identity that feels recognizable from multiple distances. Center the building’s primary facade identity, material rhythm, and public presence. This is the canonical reference image for the package, so the major proportions, material transitions, fixture families, and circulation logic must feel highly specific and internally coherent rather than generic luxury styling. Let the viewer understand how the space is organized within a single glance, with foreground anchors, a clear middle zone, and a resolved background termination.
+
+Important details:
+Lock the fin spacing, bronze mesh logic, canopy silhouette, reveal depth, and urban recognizability of the building. Surfaces should feel tactile and believable: stone veining must stay plausible, metals should have disciplined reflectance, fabrics should show natural weight, and concealed lighting should shape the volume instead of flattening it. Use abstract signage, menu, label, or caption zones only as unreadable graphic hints. The image should feel practical for downstream design reviews and polished enough for public-facing campaign use.
+
+Use case:
+Architectural Facade Identity System series study 1/9, establishing the canonical facade identity for the package.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no giant logos, no construction cranes, no crowds, no random neighboring ads, no impossible geometry, no traffic jam dominating.

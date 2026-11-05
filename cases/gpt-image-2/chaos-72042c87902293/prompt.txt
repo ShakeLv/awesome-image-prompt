@@ -1,0 +1,14 @@
+Scene:
+A square winter one-sheet with a nearly monochrome station platform cutting horizontally across the lower quarter of the image. Above it stretches a huge field of white snowfall and cold dusk haze, turning the poster into an exercise in quiet emptiness. The framing is slightly wide and distant, with thin utility wires and one platform lamp creating fine graphic lines. The overall look should resemble a prestigious farewell drama poster with almost absurdly careful restraint.
+
+Subject:
+Two anime-coded figures stand far apart on the platform, one carrying a suitcase and the other clutching a scarf near the mouth. They are small, understated, and separated by physical space rather than melodramatic gesture. A train is only implied by a blurred silver edge entering from one side, not fully visible. Snow gathers on the platform roof, the bench, and the characters' coats. Their silhouettes and hair shapes should remain distinct enough to suggest specific protagonists while keeping faces understated and emotionally internal.
+
+Important details:
+This image tests whether an anime farewell scene can be translated into the grammar of austere European festival posters. Keep the palette almost entirely white, silver-gray, faded navy, and one amber lamp. The negative space must feel intentional, not empty by accident. Suggest title and credit bands through alignment and spacing only. Use delicate falling snow, quiet grain, and premium paper finish. The emotional weight should come from distance and composition, not tears or dramatic posing.
+
+Use case:
+Arthouse One-Sheet Anime Remake single study 4/9, focused on separation, winter minimalism, and long-distance character readability.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no full train dominating the frame, no bright saturated colors, no melodramatic crying pose, no dense crowd.

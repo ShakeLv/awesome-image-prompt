@@ -1,0 +1,14 @@
+Scene:
+A square brand-design presentation board on matte white paper, photographed straight-on with soft studio shadows. Center the work as a single black vector-like ambigram mark, surrounded only by faint non-semantic construction circles, baseline guides, and mirrored axis lines. The board should feel like a logo proof for typography review, but with no brand system or extra copy.
+
+Subject:
+The mark must read exactly "CODE" when upright and exactly "ARTS" when rotated 180 degrees. Use a geometric sans-serif construction with carefully shared strokes: C opens into S-like curvature, O becomes a T-like counter, D turns into R-like massing, and E resolves through rotated horizontal bars. The four-letter to four-letter mapping must be visible as one continuous engineered logo, not two stacked words.
+
+Important details:
+The challenge is clean corporate readability under strict geometry. Keep stroke width consistent, corners slightly rounded, counters open, and all letters aligned to a stable baseline. Construction guides can show symmetry and rotation logic, but they must remain pale and unreadable. The ambigram should be black on white, large, centered, and suitable for use as a minimal mark. Avoid calligraphic flourishes, grunge texture, or decorative optical-illusion clutter.
+
+Use case:
+Ambigram Readability single study 5/8, testing dual-word logo construction where CODE rotates into ARTS.
+
+Constraints:
+No readable text except the specified ambigram words "CODE" and "ARTS", no watermark, no logos, preserve exact 1:1 aspect ratio, no extra brand name, no captions, no color palette labels, no misspelled letters, no separate upright and upside-down words, no perspective distortion.
