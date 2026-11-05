@@ -1,0 +1,14 @@
+Scene:
+A square smartphone snapshot inside a neighborhood laundromat on a rainy evening, framed from waist height between rows of washing machines. Fluorescent light mixes with blue window light, wet umbrellas lean near the door, and reflections ripple across stainless steel machine doors. The photo should feel casually captured, with a slightly crooked frame, phone noise, and one foreground machine edge partly blocking the view.
+
+Subject:
+A completely fictional pop-diva celebrity-like person sits on a plastic chair folding a bright stage-jacket garment beside a basket of ordinary laundry. They have an invented face, unique hairstyle, and dramatic but unbranded sunglasses pushed onto their head, with no resemblance to any real singer. Their expression is relaxed and slightly amused. Two regular customers nearby pretend not to stare, creating the sense of quiet recognition.
+
+Important details:
+The scene should balance glamour and mundanity. Use sequined fabric texture, damp pavement visible through the window, detergent bottles with abstract shapes only, realistic machine reflections, and skin tones under mixed fluorescent light. The subject should look famous through presence, styling, and bystander behavior, not through real identity cues. Keep the snapshot ethically ordinary: no hidden private space, no scandal, no intrusive close-up.
+
+Use case:
+Fictional Celebrity Snapshot single study 4/8, testing a mundane invented pop-star laundromat snapshot with strong phone-photo realism.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real celebrity likeness, no real person name, no claimed real event, no brand detergent labels, no paparazzi flash, no staged fashion shoot, no distorted washing machines.

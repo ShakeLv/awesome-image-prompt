@@ -1,0 +1,14 @@
+Scene:
+A square urban night photograph with one large illuminated billboard mounted above a street, glowing against dark buildings and light mist. The billboard should carry a premium festival lineup design language while the surrounding environment stays secondary and quiet.
+
+Subject:
+The billboard displays stacked performer silhouettes, atmospheric beam light, and abstract lineup modules rather than readable names. It should feel like the large-scale public face of a festival campaign, translating social-card clarity into city-scale visibility.
+
+Important details:
+Use billboard scale, wet air, and controlled city ambience to make the festival identity feel real and valuable. The image should capture both campaign prestige and music energy, but avoid brand clutter or unrelated advertising competition. One strong billboard is enough.
+
+Use case:
+Festival Lineup single study 8/9 for the Festival Lineup Poster and Social Kit Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no sponsor ads nearby, no readable billboard copy, no heavy traffic focal point, no crowd, no skyline spectacle that overpowers the billboard

@@ -1,0 +1,14 @@
+Scene:
+A square closing-night poster set in a glass-roof conservatory at late golden hour, with faded botanical ironwork, pale apricot sun, long shadows across mosaic tile, and an elegant palette of ivory, oxidized green, black, and muted rose gold. The image should feel like the premium variant poster for a celebrated festival romance: sparse, tactile, and fully composed even though any eventual title or laurel placement would remain invisible and unreadable here.
+
+Subject:
+Create an original fandom-coded romance poster featuring two clockwork restorers from a retrofuturist city. One kneels beside an open mechanical bird case, sleeves rolled and hands stained with machine oil; the other stands near the conservatory window holding a dismantled pocket-watch heart on a velvet tray. Their poses should suggest intimacy interrupted by duty and time. Surround them with only a few carefully chosen props: precision tools, shattered enamel fragments, and delicate reflected greenery. The overall impression should be bittersweet, adult, and awards-season refined.
+
+Important details:
+The challenge is to make an ornate genre premise feel genuinely prestigious. Keep the material language believable: brass wear, oil sheen, velvet nap, thin glass reflections, and afternoon haze. The romance should come from gesture, distance, and the symbolic clockwork objects rather than melodramatic embrace. The poster must feel like a closing-night festival favorite, not a steampunk fashion shoot or fantasy merch illustration.
+
+Use case:
+Festival Poster Fandom Crossover single study 9/9, testing whether retrofuturist lovers can become a restrained closing-night festival poster variant.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no kiss-poster cliché, no excessive gears everywhere, no cosplay styling, no overlit sunset glamour, no whimsical cartoon tone, no overcrowded prop table, no fantasy castle backdrop.

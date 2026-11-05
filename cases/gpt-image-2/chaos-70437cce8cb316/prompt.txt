@@ -1,0 +1,14 @@
+Scene:
+A square top-down product photograph of woven festival wristbands, laminated passes, and translucent pouches arranged on a dark textured surface with subtle reflected light. The materials should feel tactile and realistic, with weave detail, plastic gloss, and soft shadow.
+
+Subject:
+The object family carries an invented festival identity through gradient color bands, stage-light cues, and abstract modular fields where dates or tiers could appear later. It should feel like true festival access collateral, but entirely non-branded and non-verbal.
+
+Important details:
+The goal is practical desirability. Use rich material response, disciplined spacing, and a clear campaign palette so the set reads as one event family. Avoid turning it into a generic merch photo; it should still belong to a premium lineup rollout and hint at music energy.
+
+Use case:
+Festival Lineup single study 6/9 for the Festival Lineup Poster and Social Kit Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable barcodes, no sponsor names, no cheap novelty colors, no extra desk clutter, no unrelated apparel items

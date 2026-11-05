@@ -1,0 +1,14 @@
+Scene:
+Compose a square feast or banquet campaign image with abundant but controlled table choreography, rich servingware, and a celebratory atmosphere that feels suitable for hospitality campaigns, seasonal dining promotions, or event editorials. The frame should manage many elements without losing hierarchy, elegance, or appetite appeal. Frame a square crop above the table with several hands raising glasses over a richly set meal under warm festive light.
+
+Subject:
+The food must look substantial and celebratory, with believable multi-dish coordination, serving logic, and table rituals that suggest a real banquet rather than a random buffet pile. Keep the banquet dishes visible below the glasses so the food and celebration remain equally legible.
+
+Important details:
+This topic depends on composition reasoning. Preserve a strong centerpiece, readable secondary dishes, coherent servingware, and lighting that supports depth across the table. Celebration should emerge from abundance, color, and ritual objects, not from gimmicks or branded holiday symbols. Everything must feel premium, coordinated, and logistically plausible. This image should feel fully self-contained while still belonging to the same broader topic and commercial world. The gesture should feel spontaneous but composed. Glass levels, hand positions, and table depth must feel natural, not like staged stock advertising.
+
+Use case:
+Festive Feast single study 6/9, built for Prompt Atlas coverage of a food and beverage commercial visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no generic wedding décor, no buffet-chaos clutter, no novelty party props, no copied holiday mascots, no visible faces dominating the frame, no faces, no branded bottles, no confetti storm.

@@ -1,0 +1,14 @@
+Scene:
+Compose a square feast or banquet campaign image with abundant but controlled table choreography, rich servingware, and a celebratory atmosphere that feels suitable for hospitality campaigns, seasonal dining promotions, or event editorials. The frame should manage many elements without losing hierarchy, elegance, or appetite appeal. Retain the same banquet geometry and celebratory lighting, but cool the palette slightly with silver platters, shell textures, and reflective serving surfaces.
+
+Subject:
+The food must look substantial and celebratory, with believable multi-dish coordination, serving logic, and table rituals that suggest a real banquet rather than a random buffet pile. Feature a generous seafood platter surrounded by side dishes, sauces, and glassware in a balanced orbit that still feels premium and organized.
+
+Important details:
+This topic depends on composition reasoning. Preserve a strong centerpiece, readable secondary dishes, coherent servingware, and lighting that supports depth across the table. Celebration should emerge from abundance, color, and ritual objects, not from gimmicks or branded holiday symbols. Everything must feel premium, coordinated, and logistically plausible. Preserve the exact camera height, lens feel, prop family, tabletop scale, palette discipline, and brand logic established by 01-banquet-anchor. Keep the anchor banquet language stable through servingware, crop, and abundance logic while making shell moisture, ice restraint, and platter hierarchy believable.
+
+Use case:
+Festive Feast series study 3/9, built for Prompt Atlas coverage of a food and beverage commercial visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no generic wedding décor, no buffet-chaos clutter, no novelty party props, no copied holiday mascots, no visible faces dominating the frame, no seafood-tower excess, no beach-party vibe, no restaurant logo plate.

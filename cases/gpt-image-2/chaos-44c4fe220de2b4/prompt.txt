@@ -1,0 +1,14 @@
+Scene:
+A square social crop drawn from the same festival poster world, with a tighter frame around the top and middle tiers, richer edge lighting, and more compact stage haze. The image must remain clearly connected to the reference layout system rather than becoming a new poster.
+
+Subject:
+Preserve the same lineup stacking logic, silhouette family, panel spacing, and atmosphere from the reference image. The upper artist tiers should remain dominant, while the supporting acts compress into structured bands and portrait fragments suited for social-card use.
+
+Important details:
+This is a crop adaptation problem. Keep the same color system, non-readable lineup modules, and stage-energy mood while tightening the hierarchy for square distribution. The result should feel optimized for quick social recognition without losing the premium festival identity locked by the root poster.
+
+Use case:
+Festival Lineup series study 2/9 for the Festival Lineup Poster and Social Kit Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the reference lineup hierarchy and palette; no readable names, no extra sponsor blocks, no random background fireworks, no crowd field, no flat graphic sticker look

@@ -1,0 +1,14 @@
+Scene:
+Square overhead photograph of an aged ritual map on dark indigo cloth, with low amber light, worn parchment fibers, oxidized mineral pigments, and fine pin shadows from curled edges. The map fills the frame like a rare prop from a fantasy archive, organized but weathered, with a circular central diagram surrounded by inset panels.
+
+Subject:
+A ceremonial route map using the exact same fictional glyph family from the reference tablet. The invented symbols appear as carved-looking ink marks along rivers, gates, mountain rings, and constellation paths. Glyph clusters should reuse crescent stems, three-dot radicals, hooked strokes, square seed marks, and spiral terminals from the reference, but arranged as map annotations, seals, and directional markers rather than plain lines of text.
+
+Important details:
+Preserve the reference grammar: consistent stroke weight, repeated radicals, deliberate spacing, and recognizable symbol clusters. The map must communicate linguistic order without real words. Include nonverbal cartographic hierarchy through rings, paths, icons, and divider marks. The visual challenge is to keep the glyph system stable while changing material from stone carving to inked parchment and while embedding it into a complex layout.
+
+Use case:
+Fictional Symbol System series study 2/8, applying the reference inscription grammar to a ritual map through dependency-based visual continuity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no Latin letters, no real alphabets, no fantasy map place names, no random decorative squiggles, no modern UI labels, no compass words, no translation captions.

@@ -1,0 +1,14 @@
+Scene:
+Create a square museum-vitrine style photograph of fermentation vessels treated as natural-history specimens, with calm raking light, restrained reflections, and an atmosphere of patient observation. Glass, ceramic, cloth covers, and aged labels can appear, but any markings must stay unreadable. The mood should be archival, biological, and sculptural at once. Create a square vitrine-like close portrait of a clear glass vessel under cool side light, with the background dark enough to make the floating membrane visible. Reflections should remain minimal and museum-like.
+
+Subject:
+Show a pale translucent vinegar mother floating or folding within a liquid-filled vessel, with delicate layers, wrinkles, and suspended depth. Tiny bubbles and subtle turbidity can add realism, but the membrane should remain the main sculptural event. The image should feel biological and unexpectedly elegant.
+
+Important details:
+Micro texture is essential: skins, bubbles, sediment, microbial mats, crusts, folds, and wet surfaces all need distinct tactile logic. The images should respect the beauty of slow transformation without sanitizing it into generic product photography. Fermentation must look alive, layered, and physically specific. The membrane needs believable translucency, thickness variation, and soft folded geometry, almost like a marine organism. The liquid should support the form without turning cloudy or opaque.
+
+Use case:
+Fermentation sculpture atlas single study 9/9, documenting a floating vinegar mother as a translucent living sculpture.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable dates or species names, no modern supermarket packaging, no laboratory sterility that kills the organic feel, no mold-horror sensationalism, no cartoon colors, no wellness-brand styling, no readable bottle marks, no aquarium gimmick.

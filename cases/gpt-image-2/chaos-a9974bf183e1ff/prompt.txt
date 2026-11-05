@@ -1,0 +1,14 @@
+Scene:
+A square rainy-night smartphone snapshot at a bus stop, with water droplets on the lens, wet pavement reflections, warm shelter light, and a bus approaching in soft motion blur. The camera is held low from under an umbrella, causing the top edge of the frame to vignette slightly. The image should feel like an ordinary commuter photo captured by chance.
+
+Subject:
+A completely fictional acclaimed indie-actor celebrity-like person waits alone on the bench, holding a folded umbrella and a paper bag with no markings. They wear a thrifted corduroy coat, knit cap, scuffed boots, and a calm tired expression. Their face is invented and not based on any real actor. A small group of commuters stands farther back, one person quietly looking over as if recognizing them, but there is no crowd or confrontation.
+
+Important details:
+Make the realism depend on weather and phone optics: raindrops, blown highlights, bus headlights, damp fabric, shelter glass, reflections, and mild lens flare. The subject should feel notable but not glamorous, integrated into public transit life. All bus route signs, shelter ads, and paper bag markings must be unreadable. The image should be emotionally cinematic while still reading as a candid phone snapshot.
+
+Use case:
+Fictional Celebrity Snapshot single study 8/8, testing rainy low-light phone realism with a fictional indie-actor public-transit moment.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real celebrity likeness, no real person name, no claimed real event, no tabloid caption, no brand clothing marks, no unsafe road scene, no staged film still, no uncanny facial detail.

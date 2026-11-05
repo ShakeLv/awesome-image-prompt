@@ -1,0 +1,14 @@
+Scene:
+A horizontal 16:9 production storyboard sheet matching the reference image's six-panel 2 by 3 pencil layout, with straight gutters, gray marker wash, header strips of abstract scribbles, lower notes bands, camera arrows, movement arrows, and blank speech balloons. The sequence moves into a service tunnel below the city, lit by dim maintenance lamps and rainwater runoff, still drawn as rough but professional film-prep art.
+
+Subject:
+Use the reference as the primary guide for the same hooded courier, messenger bag, wet coat, and metal film canister. Six frames complete the escape beat: low wide view of the tunnel entrance, handheld-feeling run along pipes, insert of water splashing over the canister, silhouette blocking the far end, courier vaulting a low barrier, and final frame where a maintenance door swings open into bright backlight. The recurring antagonist remains a shape and shadow, preserving focus on the courier.
+
+Important details:
+Preserve identity, prop, linework, panel sizing, arrow style, and unreadable notes from image 01. The board should clearly communicate camera intent without legible labels: push-in arrow, pan arc, character path, insert frame box, and cutaway emphasis. Material physics should be convincing in pencil: wet concrete, dripping pipes, rubber soles, metal canister, cloth folds, and backlit spray. The six frames must read as one continuous escape, not disconnected illustrations.
+
+Use case:
+Film Storyboard Sequence series study 4/8, testing storyboard continuity through a tunnel escape finale.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 16:9 horizontal aspect ratio, no legible production labels, no extra main characters, no broken gutters, no changed courier outfit, no glossy comic coloring.

@@ -1,0 +1,14 @@
+Scene:
+A square gala-night poster set inside a modernist hall with towering amber windows, reflective marble, and soft black-tie lighting that mixes warm gold with pockets of deep graphite shadow. The composition should look like a premium closing-night variant from the same festival campaign: polished, spacious, slightly more luminous than the reference, and clearly designed for serious cinema packaging rather than celebrity-event photography.
+
+Subject:
+Using the referenced image as the continuity anchor, preserve the same six characters, their hierarchy, silhouette rhythm, and tension map from image 01. They should occupy nearly the same relative positions, but now interact with window reflections and evening formalwear details such as satin lapels, long gloves, lacquered shoes, and dark jewel tones. The tired heir remains centered in emotional focus, the strategist still controls the upper register, the matriarch and bodyguard remain opposing pillars, the prodigy stays close to the lower edge, and the witness keeps her slight separation.
+
+Important details:
+This image should prove campaign-level consistency across lighting upgrades. Keep faces, hair shapes, costume motifs, and gaze directions stable enough that all four series posters feel like one awards push. Use reflected window geometry, controlled highlights, and reserved negative space to imply festival prestige. Avoid luxury-brand ad excess; the image should still feel like an austere competition film poster with fandom-coded characters translated into adult cinematic language.
+
+Use case:
+Festival Poster Fandom Crossover series study 4/9, testing whether the same ensemble can survive a warmer, more luminous gala-night packaging variant.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no red-carpet paparazzi chaos, no sparkling confetti, no cast rearrangement, no fashion-editorial flirtiness, no overexposed gold glare, no simplified faces, no blockbuster action props.

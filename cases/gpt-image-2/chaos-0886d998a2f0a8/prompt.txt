@@ -1,0 +1,14 @@
+Scene:
+A square roadside smartphone snapshot at a gas station after sunset, lit by harsh canopy lights, red-orange taillights, and cooler interior shop glow. The frame is taken from inside a parked car through a slightly dirty windshield, with dashboard reflection at the bottom and mild compression artifacts. The composition should feel mundane, spontaneous, and photorealistic.
+
+Subject:
+A completely fictional world-famous chef-like person stands beside a small hatchback, eating instant noodles from a plain cup with chopsticks while leaning against the car door. They wear a weathered navy jacket over kitchen whites with no restaurant logo, and their face is fully invented, not resembling any real chef or television personality. A road-trip cooler and paper grocery bag sit near their feet.
+
+Important details:
+The subject reads as famous through confident posture, distinctive chef clothing, and a truck driver in the background doing a subtle double take. Render sodium-vapor lighting, windshield smears, steam from the cup, reflective car paint, realistic hands, and pavement oil stains. All pump labels, shop signs, and packaging must be abstract or unreadable. Avoid making the scene look like an advertisement or scandal.
+
+Use case:
+Fictional Celebrity Snapshot single study 7/8, testing an invented chef-celebrity roadside phone snapshot with believable low-light material detail.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real celebrity likeness, no real person name, no claimed real event, no gas station brand marks, no alcohol, no unsafe fueling action, no paparazzi flash, no staged food commercial.

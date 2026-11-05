@@ -1,0 +1,14 @@
+Scene:
+Frame the scene from a rocky cliff ledge looking across a valley filled with floating trees at different heights. The square image should feel like a serious expedition photograph with long atmospheric perspective, not a fantasy postcard. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Use the lookout to compare scale, showing root lengths, canopy diameters, and the spacing between islands. Include a few native animals moving through the air or across roots so the forest reads as inhabited rather than static landscape sculpture. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume low gravity, persistent updrafts, and buoyant tissues let mature canopy masses hover while root tendrils still harvest minerals and moisture from the ground. Organisms should visibly respond to vertical distance, drifting substrates, and unstable aerial habitat. Cliffs, air currents, and plant morphology should tell one integrated story about how terrain influences suspension and colonization. Keep geology and biology equally convincing, with no magical shortcuts in how masses hang or move. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Exoplanet Floating Forest single study 7/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no human architecture, no fantasy temples, no floating boulders without roots, no oversaturated concept-art haze, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

@@ -1,0 +1,14 @@
+Scene:
+Square museum conservation photograph, straight-on overhead view, soft raking light from the upper left, warm limestone and soot-black pigment against a quiet charcoal background. The frame is calm and catalog-like, with the tablet centered and enough margin to see chipped corners, dust, and shallow relief. Lighting should reveal carved depth without dramatic shadows.
+
+Subject:
+A fictional core inscription tablet for an invented ancient language. The tablet shows a disciplined grid of repeated glyph groups: crescent stems, three-dot radicals, hooked birdlike strokes, square seed marks, and nested spiral terminals. The symbols are not real writing, but they must feel internally consistent, like a recoverable grammar with prefixes, roots, and punctuation marks.
+
+Important details:
+Establish a reusable glyph family for the series. Keep line weight consistent, spacing deliberate, and repeated radicals recognizable in several positions. Include a small nonverbal comparison strip made only from glyph variants and icon-like separators, not readable labels. The surface should suggest hand-carved stone with mineral stains, rubbed pigment in grooves, and slight erosion that never destroys the symbol silhouettes.
+
+Use case:
+Fictional Symbol System series study 1/8, root reference for a fanout set that preserves the same invented inscription grammar across later artifacts.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no Latin letters, no real alphabets, no random scribbles, no modern typography, no translation captions, no QR-code patterns, no extra border text.

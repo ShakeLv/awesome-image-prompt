@@ -1,0 +1,14 @@
+Scene:
+Square archival flat lay of a torn codex fragment, photographed on neutral gray conservation paper under diffuse daylight. The palette uses faded ultramarine, ocher, bone white, and carbon black. Fibers, cracks, wormholes, and repaired seams are visible, but the layout remains crisp enough to study. The fragment should look rare, fragile, and carefully preserved.
+
+Subject:
+A painted codex page fragment using the same fictional glyph grammar from the reference tablet. It combines vertical glyph columns, small icon panels, calendrical-looking cycles, and margin marks. Reuse the reference family of crescent stems, three-dot radicals, hooked strokes, square seed marks, and spiral terminals, now brushed with pigment and arranged like a ceremonial manuscript rather than carved stone.
+
+Important details:
+Keep the glyphs intentionally systematic: recurring radicals, stable proportions, repeatable spacing, and clear cluster boundaries. The page may include diagrammatic suns, seed pods, gates, and animal silhouettes, but the symbols themselves must remain the primary visual test. Show how an invented language could survive across media from stone to parchment to codex. All marks must be pseudo-script, not real Mayan, Egyptian, Chinese, runic, or Latin writing.
+
+Use case:
+Fictional Symbol System series study 4/8, transferring the reference inscription grammar to a painted codex fragment.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no Latin letters, no real alphabets, no exact historical script copying, no modern captions, no clean digital font look, no page numbers, no translation key.

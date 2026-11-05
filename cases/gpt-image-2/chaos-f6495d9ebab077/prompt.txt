@@ -1,0 +1,14 @@
+Scene:
+A square information-board concept with clean vertical columns, stacked horizontal modules, and a subtle atmospheric color field behind the layout. It should feel like a schedule board designed by a festival art team, not a spreadsheet or transit timetable.
+
+Subject:
+The subject is a modular board system where artist slots, stage lanes, and time bands are expressed as abstract non-readable blocks. The card should hint at genuine festival complexity while remaining visually inviting and campaign-consistent.
+
+Important details:
+Use structure as the hero. Column rhythm, spacing, and color zoning should communicate logic even without words. The result needs to feel like a real operational surface that still belongs to the same glamorous festival identity, bridging utility and brand tone.
+
+Use case:
+Festival Lineup single study 9/9 for the Festival Lineup Poster and Social Kit Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable timetable text, no sponsor strip, no corporate dashboard styling, no mobile app frame, no cluttered icon legend

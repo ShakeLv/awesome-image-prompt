@@ -1,0 +1,14 @@
+Scene:
+Square cinematic close-up of a premium game interface artifact projected on smoked glass above a bronze mechanism. The palette is midnight blue, brass, pale cyan, and ember orange. The composition is symmetrical and polished, with shallow depth of field, tiny scratches on glass, and subtle volumetric glow, but it should still look like a physical prop rather than a flat screenshot.
+
+Subject:
+An independent fictional cipher interface for unlocking an ancient machine. The display uses invented glyph tiles, radial slots, aligned cipher strips, and three nested rings of pseudo-script. Symbols are built from broken circles, blade-like stems, tiny paired dots, hinge marks, and triangular locks. Repeated glyphs should appear in different interface zones to imply that the machine recognizes a coherent language.
+
+Important details:
+This is a text-rendering stress test disguised as game concept art. Keep every mark invented, crisp, and consistently styled, with clear spacing and alignment. The layout should communicate a puzzle decoder through visual structure alone: matching glyph tiles, inactive slots, active glowing clusters, and a central mechanism responding to the cipher. Do not include readable UI labels, numbers, menu words, or real alphabets.
+
+Use case:
+Fictional Symbol System single study 8/8, testing invented glyph consistency inside a cinematic game-interface cipher artifact.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no Latin letters, no real alphabets, no Arabic numerals, no menu labels, no brand marks, no keyboard keys, no QR-code patterns, no generic sci-fi gibberish.

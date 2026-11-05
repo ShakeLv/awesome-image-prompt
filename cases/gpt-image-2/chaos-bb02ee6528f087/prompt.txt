@@ -1,0 +1,14 @@
+Scene:
+A square candid smartphone snapshot on a subway platform during morning commute, with cool fluorescent lighting, tiled walls, motion-blurred train windows, and realistic crowd density. The frame is slightly too close and tilted, as if captured while stepping off a train. Foreground commuters partially obscure the lower frame, and the subject is visible through a gap in the crowd.
+
+Subject:
+A completely fictional fashion-muse celebrity-like person waits by a column holding a plain tote bag and a folded newspaper-like sheet with no readable marks. They have an invented face and body language, not resembling any real model, actor, or influencer. Their outfit is distinctive but unbranded: oversized cream coat, cobalt scarf, sculptural earrings, black boots, and silver-gray hair pinned casually. They look calm, absorbed in the commute.
+
+Important details:
+The photo should feel socially plausible: no red carpet, no entourage, no professional flash. Fame is implied through refined styling, unusual composure, and two commuters quietly recognizing them. Render subway grime, floor reflections, fabric folds, handrail metal, motion blur, and mixed skin tones naturally. All station signs and ads must be abstract, cropped, or unreadable. Keep the image from feeling like a fashion editorial despite the stylish subject.
+
+Use case:
+Fictional Celebrity Snapshot single study 6/8, testing public-transit phone realism with a fully invented fashion-icon subject.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real celebrity likeness, no real person name, no claimed real event, no brand clothing marks, no identifiable transit ads, no staged runway pose, no distorted crowd faces.

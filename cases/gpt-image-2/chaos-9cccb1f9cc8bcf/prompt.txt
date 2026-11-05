@@ -1,0 +1,14 @@
+Scene:
+Create a square museum-vitrine style photograph of fermentation vessels treated as natural-history specimens, with calm raking light, restrained reflections, and an atmosphere of patient observation. Glass, ceramic, cloth covers, and aged labels can appear, but any markings must stay unreadable. The mood should be archival, biological, and sculptural at once. Maintain the exact pedestal framing, vitrine darkness, and side-light behavior from the reference image so the series still reads as one archive display. Reflections should stay minimal and directional.
+
+Subject:
+Present a tall jar packed with napa cabbage folds, radish pieces, chili-bright brine, seeds, and fine trapped gas, creating a dense vertical column of fermenting vegetable matter. The compression of the ingredients should feel real, with pressure, weight, and irregular gaps. The vessel should read like a preserved specimen with life still inside it.
+
+Important details:
+Micro texture is essential: skins, bubbles, sediment, microbial mats, crusts, folds, and wet surfaces all need distinct tactile logic. The images should respect the beauty of slow transformation without sanitizing it into generic product photography. Fermentation must look alive, layered, and physically specific. Preserve exact display language, glass thickness, and light angle from the reference model while shifting the emphasis toward particulate density, folded leaves, and sediment suspended in brine. The red-orange color should feel organic and not oversaturated.
+
+Use case:
+Fermentation sculpture atlas series study 3/9, adapting the anchor vitrine to a dense kimchi sediment column.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable dates or species names, no modern supermarket packaging, no laboratory sterility that kills the organic feel, no mold-horror sensationalism, no cartoon colors, no kitchen countertop context, no branded jar lid, no food-styling glamour gloss.

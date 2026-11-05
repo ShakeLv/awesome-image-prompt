@@ -1,0 +1,14 @@
+Scene:
+A square info-card composition with abstract stage nodes, connecting paths, color-coded zones, and a faint atmospheric festival backdrop. The image should feel like a navigation aid transformed into a premium campaign surface rather than a technical diagram or software screenshot.
+
+Subject:
+The subject is the navigational system itself: stage icons rendered as abstract nodes, routes as glowing paths, and modular blocks for amenities or schedule information kept fully non-readable. The card should imply festival complexity while staying elegant and poster-like.
+
+Important details:
+Use structured layout, soft festival atmosphere, and clear visual hierarchy to make the map intelligible even without words. This is a reasoning-heavy promo asset: it needs to feel useful, ownable, and music-specific at the same time. Avoid dry technical aesthetics.
+
+Use case:
+Festival Lineup single study 7/9 for the Festival Lineup Poster and Social Kit Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable labels, no sponsor map legend, no app UI frame, no literal GPS marker icons, no flat corporate infographic look

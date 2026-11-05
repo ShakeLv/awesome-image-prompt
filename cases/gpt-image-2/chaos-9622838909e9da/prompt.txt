@@ -1,0 +1,14 @@
+Scene:
+Capture a mid-distance crossing between two nearby canopy islands with open sky occupying most of the square. The atmosphere should feel buoyant and calm, with visible depth, suspended seed fluff, and sunlight streaking through the gap between the islands. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Show several medium-sized herbivore analogs launching from one root shelf and gliding toward another using membrane sails, steering tails, and grasping hind limbs. Their bodies should look evolved for repeated controlled leaps in low gravity rather than powered bird flight. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume low gravity, persistent updrafts, and buoyant tissues let mature canopy masses hover while root tendrils still harvest minerals and moisture from the ground. Organisms should visibly respond to vertical distance, drifting substrates, and unstable aerial habitat. Movement should be believable: stretched membranes, wind orientation, and landing targets must all support the ecology of scattered aerial habitat. The animals should feel native to the floating forest, not like copied bats or flying squirrels. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Exoplanet Floating Forest single study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no bird flock, no dragon anatomy, no superhero pose, no roller-coaster action framing, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

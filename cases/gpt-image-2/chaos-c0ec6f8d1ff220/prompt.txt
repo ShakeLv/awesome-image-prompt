@@ -1,0 +1,14 @@
+Scene:
+Create a square museum-vitrine style photograph of fermentation vessels treated as natural-history specimens, with calm raking light, restrained reflections, and an atmosphere of patient observation. Glass, ceramic, cloth covers, and aged labels can appear, but any markings must stay unreadable. The mood should be archival, biological, and sculptural at once. Use the same pedestal, vitrine mood, and raking side light established by the reference image, but let the vessel or cut block become more opaque and sculptural. The background should remain subdued so texture becomes the main event.
+
+Subject:
+Show a dense block or vessel section of fermenting soybean paste with fissures, moisture seams, and subtle crust formation, as if documenting a geological sample from a cheese cave or cellar. Small ceramic or wooden containment edges can appear, but the paste body is the hero. The subject should feel ancient, biological, and tactile.
+
+Important details:
+Micro texture is essential: skins, bubbles, sediment, microbial mats, crusts, folds, and wet surfaces all need distinct tactile logic. The images should respect the beauty of slow transformation without sanitizing it into generic product photography. Fermentation must look alive, layered, and physically specific. Preserve exact display discipline and lighting family from the reference model while shifting into thicker opaque material with micro cracks and wet seams. The viewer should be able to imagine both aroma and time from the surface texture alone.
+
+Use case:
+Fermentation sculpture atlas series study 4/9, concluding the anchor system with a dense miso-geology specimen.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable dates or species names, no modern supermarket packaging, no laboratory sterility that kills the organic feel, no mold-horror sensationalism, no cartoon colors, no modern packaging, no cute artisan-shop styling, no readable labels.

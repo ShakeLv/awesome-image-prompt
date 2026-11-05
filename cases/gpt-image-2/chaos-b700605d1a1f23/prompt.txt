@@ -1,0 +1,14 @@
+Scene:
+Create a square 1:1 portrait image for Fantasy Live-Action Character Portraits. Use a quieter cinematic frame with residue, dusk, or emotional calm, still anchored by precise portrait craft. The frame should feel like a finished professional deliverable rather than a casual snapshot, with clear lens discipline, believable light falloff, and a palette that directly supports Translate fictional or stylized characters into live-action portrait photography that still feels emotionally grounded and costume-realistic.. Keep enough surrounding space and compositional control for gallery, research, campaign, or approval-board reuse while staying photoreal and human-scaled.
+
+Subject:
+Center one live-action fantasy heroine with warm brown skin, long dark braided hair, a faint scar above the left brow, and grounded warrior posture. Close the series on the same character, carrying all previous continuity into a final resolved image that still looks like part of the same story arc. Use the example direction from the brief as grounding context: Translate fictional or stylized characters into live-action portrait photography that still feels emotionally grounded and costume-realistic.. Wardrobe, lighting, environment, and pose may shift to serve this variation, but the viewer must immediately understand that the same reference identity is still in front of the camera.
+
+Important details:
+This backlog line is difficult because Translate fictional or stylized characters into live-action portrait photography that still feels emotionally grounded and costume-realistic.. Preserve skin tone family, bone structure, eye spacing, nose shape, mouth shape, hairline logic, shoulder width, and overall body read across the entire series. preserve exact face / hair base / body proportions from the reference model. Mood may soften or darken, but the same-person read cannot weaken. Avoid the common failure described in the brief: ordinary image models often lose likeness once styling, lighting, or layout changes enter the frame. Success should feel like the result should feel professionally usable, coherent, and clearly built around one stable human identity.
+
+Use case:
+Fantasy Live-Action Character Portraits series study 9/9, a resolved final aftermath portrait.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no sequel-bait crowd scene, no face drift, no genre jump, no decorative smoke overload.

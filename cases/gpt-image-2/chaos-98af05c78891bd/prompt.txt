@@ -1,0 +1,14 @@
+Scene:
+A square candid smartphone snapshot at a neighborhood playground during soft winter morning light. The camera is held at adult chest height from behind a fence opening, slightly off-level, with realistic foreground blur from metal bars and a patchy rubber play surface. The scene should be respectful, public, and non-invasive, with ordinary parents, scooters, and trees in the background.
+
+Subject:
+A completely fictional aerospace heiress and rocket-company celebrity-like person crouches beside a small child-shaped figure in a puffy coat, helping adjust a toy helmet near a playground rocket climber. The adult has an invented face and does not resemble any real entrepreneur, celebrity, or public figure. Their clothing is casual: olive parka, beanie, plain backpack, and scuffed boots. The child is not identifiable, turned away, and present only as a small contextual silhouette.
+
+Important details:
+The composition should imply a mundane public moment rather than a news event. Use realistic smartphone dynamic range, natural breath in cold air, playground wear, mud near the rubber mat, and soft background bokeh. Avoid celebrity spectacle: no crowds, no bodyguards, no press cameras. The subject reads as high-status through posture, expensive but unbranded outerwear, and a passerby quietly noticing them.
+
+Use case:
+Fictional Celebrity Snapshot single study 3/8, testing a believable invented aerospace-celebrity family moment without real likeness or private-event claims.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real celebrity likeness, no real person name, no claimed real event, no identifiable child face, no paparazzi harassment, no brand marks, no unsafe playground action, no staged family portrait.

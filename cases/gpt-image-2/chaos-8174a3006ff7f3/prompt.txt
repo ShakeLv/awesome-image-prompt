@@ -1,0 +1,14 @@
+Scene:
+Use the reference image as the identity source for Fitness Wellness Brand Portraits. Build a premium seated fashion frame with clean furniture or platform support and readable fabric tension Keep the camera logic commercially believable, with stable perspective, square-crop discipline, and light that supports facial recognition before style. The image should feel finished enough for client review, media rollout, or research comparison rather than like an unfinished test frame.
+
+Subject:
+Show the same fashion model as the reference, now wearing another wardrobe direction that feels lookbook-ready and styled for editorial commerce. Preserve the exact recognisable face, haircut base, body read, and age impression from the anchor image while allowing the requested lighting, wardrobe, pose, or environment change to do the storytelling. The variation should clearly connect to the topic brief Produce athletic and wellness-driven portrait campaigns with realistic body proportions, clean skin texture, and premium studio-commercial lighting..
+
+Important details:
+Preserve exact face / hair base / body proportions from the reference model. Preserve the face shape, body proportions, shoulder width, leg length impression, hair base, and skin-tone family while the wardrobe and mood shift. Keep the skin, hair, garment, and background rendering realistic and production-ready. This frame should feel like a true commissioned variation within one coherent portrait package, not like a new person or a disconnected mood board.
+
+Use case:
+Fitness Wellness Brand Portraits series study 5/9, seated lookbook variation using the reference identity.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no lounge-room clutter, no slouching, no lookbook text, no duplicate people, no extra fingers, no broken anatomy, no face drift, no oversmoothed skin, no unrelated props.

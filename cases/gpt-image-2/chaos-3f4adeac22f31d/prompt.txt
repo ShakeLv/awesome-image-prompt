@@ -1,0 +1,14 @@
+Scene:
+A square social card in the same festival world, now organized into clearer segmented blocks as if preparing a day split or format split. Atmospheric haze and stage lighting remain in the background, but the hierarchy is redistributed into cleaner compartments for a more structured communication surface.
+
+Subject:
+Preserve the same lineup identity, silhouette family, color palette, and non-readable artist-band language from the reference image. The act tiers are regrouped into structured modules that imply a day split without presenting a literal readable timetable.
+
+Important details:
+The challenge is to restructure without losing the main festival identity. Keep the same cinematic atmosphere, same performer-stack logic, and same premium social polish while introducing more explicit segmentation. It should feel like the same campaign team produced the root poster and this cutdown card in one coherent rollout.
+
+Use case:
+Festival Lineup series study 3/9 for the Festival Lineup Poster and Social Kit Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the reference hierarchy cues; no readable day labels, no timetable grid, no sponsor logo strip, no ticket-button UI, no unrelated decorative stickers

@@ -1,0 +1,14 @@
+Scene:
+Use the reference NEON RAILWAY key art as the source for title style, protagonist, train world, and campaign palette. Create a square character one-sheet poster mounted in a subway station advertising frame, with glass reflections, believable print texture, and strong cinematic portrait lighting. Keep the magenta-blue neon rail atmosphere but make the protagonist the dominant subject.
+
+Subject:
+Show the same young conductor from the reference in a three-quarter portrait, wearing a dark raincoat, conductor cap, glowing ticket punch, and wet neon highlights. A spectral train curves behind the shoulders. The exact readable poster copy must be: NEON RAILWAY, MARA VALE AS ELIAN, LAST STOP ABOVE THE CITY, SUMMER 2027, LUMEN STUDIO. The title should match the reference style, the actor-character line should be clear near the top, the tagline sits mid-poster, and date plus studio mark sit near the bottom.
+
+Important details:
+This is a character campaign poster, so preserve face, outfit language, title lockup, train icon, and color system from image 01. Text hierarchy must be professional and legible at poster scale. Make the typography feel designed, not randomly placed, and avoid overfilling the frame with fake credits.
+
+Use case:
+Fictional IP Poster series study 3/8, creating a character one-sheet for the same fictional campaign.
+
+Constraints:
+No readable text except the specified fictional poster copy, no watermark, no real logos, preserve exact 1:1 aspect ratio, no existing franchise references, no extra actor names, no misspelled character name, no generic billing block, no distorted face.

@@ -1,0 +1,14 @@
+Scene:
+Use the reference NEON RAILWAY key art as the campaign identity source. Create a square minimalist teaser poster photographed as a glossy printed poster in a theater lobby lightbox. Keep the same magenta-blue neon palette, angular title style, glowing suspended rail motif, rain reflections, and fictional LUMEN STUDIO mark, but use more negative space and a stronger mystery mood.
+
+Subject:
+Show only the rear silhouette of the same young conductor standing on an empty platform as the neon train approaches from a tunnel of light. The exact readable poster copy must be: NEON RAILWAY, BOARDING BEGINS, SUMMER 2027, LUMEN STUDIO. The title sits low and large in the same custom style as the reference, BOARDING BEGINS appears as a short teaser line above the train lights, and the date plus studio mark are small but readable near the bottom.
+
+Important details:
+This must feel like the same fictional IP campaign, not a new movie. Preserve the train silhouette, neon rail geometry, title letterform attitude, color palette, and premium poster hierarchy from image 01. Text should be crisp and sparse. Do not add cast names or billing blocks; this is a teaser release artifact.
+
+Use case:
+Fictional IP Poster series study 2/8, creating a teaser variant while preserving the NEON RAILWAY campaign system.
+
+Constraints:
+No readable text except the specified fictional poster copy, no watermark, no real logos, preserve exact 1:1 aspect ratio, no existing franchise references, no extra slogans, no misspelled title, no illegible date, no cluttered typography.

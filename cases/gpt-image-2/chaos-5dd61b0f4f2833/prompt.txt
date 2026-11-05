@@ -1,0 +1,14 @@
+Scene:
+A horizontal 16:9 production storyboard sheet drawn in graphite pencil and light gray marker wash, arranged as six equal cinematic panels in a clean 2 by 3 grid. Each panel has a small header strip with unreadable production scribbles, a lower notes band with abstract timing blocks, and clear camera-movement arrows. The page should look like a director's practical handoff board: paper texture, smudged pencil edges, ruler-straight gutters, and no readable words.
+
+Subject:
+A rain-soaked night alley sequence establishes one protagonist: a young courier in a dark hooded coat, messenger bag, wet hair visible under the hood, and a small metal film canister gripped in one hand. Six frames show a coherent beat: wide alley entrance, close-up of boots splashing, over-shoulder glance at a distant silhouette, low-angle sprint past pipes, insert shot of the canister, and final frame where the courier ducks behind a metal door. Rain, reflections, steam, and streetlight halos tie the panels together.
+
+Important details:
+This is the reference image for the series. Establish the protagonist, coat shape, messenger bag, canister, rainy alley geometry, pencil style, panel format, arrows, blank speech balloons, and abstract production notation. Arrows should imply pan, dolly, zoom, tilt, and character movement without readable labels. Keep action continuity believable and materials clear: wet pavement, metal door, cloth coat, water spray, and soft pencil hatching.
+
+Use case:
+Film Storyboard Sequence series study 1/8, establishing the rain-alley character, prop, and six-panel storyboard language.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 16:9 horizontal aspect ratio, no printed captions, no legible shot codes, no broken panel grid, no extra main characters, no full-color comic rendering.

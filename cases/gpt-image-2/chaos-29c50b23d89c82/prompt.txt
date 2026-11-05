@@ -1,0 +1,14 @@
+Scene:
+A square prestige-film poster staged inside a grand old theater lobby just after midnight, with velvet curtains, polished stone floors, deep plum shadows, and a controlled pool of amber light falling from above. The frame should feel like a real awards-season key art image: spacious, symmetrical enough to read as premium packaging, but with subtle asymmetry in pose and eye line. Leave natural zones where a designer could later place title blocks and laurel marks without needing actual readable text.
+
+Subject:
+Present an original fictional ensemble of six fandom-coded characters arranged as if they are the cast of a serious competition drama. At center is a tired young heir in a black formal coat; behind him stands a silver-haired strategist; to one side a scarred matriarch in lacquered eveningwear; to the other side a masked bodyguard; below them a school-uniform prodigy seated on the stair edge; and slightly apart, a pearl-dressed witness looking away. Their spacing, height differences, and gaze directions must imply rivalry, loyalty, and hidden alliances rather than simple group portrait symmetry.
+
+Important details:
+This is the reference image for the series, so identity clarity and hierarchy matter more than spectacle. Faces, silhouettes, costume accents, and relative positions must be easy to preserve in later variants. The poster should feel festival-premium: restrained palette, expensive textures, faint ghosted laurel shapes, minimal prop count, dramatic negative space, and no fan-art chaos. The visual language must suggest prestige cinema packaging without any readable credits.
+
+Use case:
+Festival Poster Fandom Crossover series study 1/9, establishing the cast hierarchy and packaging grammar for a reference-dependent festival poster campaign.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no comic-book clutter, no floating character collage, no exaggerated action poses, no neon blockbuster lighting, no messy background extras, no duplicated faces, no broken anatomy.

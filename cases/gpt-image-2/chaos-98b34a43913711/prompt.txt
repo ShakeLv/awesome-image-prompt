@@ -1,0 +1,14 @@
+Scene:
+A square official-selection-style poster on the terrace of a faded seaside hotel at dawn, with pale mineral light, salt haze, stone balustrades, and a muted palette of sea gray, coral blush, cream, and charcoal. The frame should feel expensive and controlled, like a festival one-sheet photographed for the competition lineup, with enough empty breathing room for invisible branding blocks while remaining visually complete without text.
+
+Subject:
+Using the referenced cast as the primary guide, preserve the same six characters, the same front-to-back hierarchy, the same approximate pose directions, and the same alliance tension from image 01. Move them onto the hotel terrace without scrambling their roles: the exhausted heir remains central, the strategist remains elevated, the matriarch and bodyguard still counterbalance each other, the prodigy still anchors the lower edge, and the witness still holds emotional distance. Their wardrobe should shift toward summer formal wear, wind-touched fabrics, and subtle coastal glamour while keeping the same identities.
+
+Important details:
+This image tests whether the model can keep commercial poster continuity while changing setting and seasonal mood. The premium festival grammar must stay intact: sparse layout, elegantly implied laurel areas, controlled reflections on stone and glass, disciplined facial continuity, and no crowding. The visual tone should feel like serious European festival packaging rather than beach fashion advertising or fan convention art.
+
+Use case:
+Festival Poster Fandom Crossover series study 2/9, preserving the reference cast arrangement while translating it into a pale seaside selection poster.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no cast reshuffle, no extra characters, no sunny vacation vibe, no broad comedy expressions, no cheap travel-poster colors, no missing central heir, no broken costume continuity.

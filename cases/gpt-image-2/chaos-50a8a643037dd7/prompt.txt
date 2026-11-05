@@ -1,0 +1,14 @@
+Scene:
+A horizontal 16:9 technical storyboard sheet drawn in pencil, blue-gray marker, and faint construction-line overlays. Six equal panels sit in a 2 by 3 grid with clean gutters, blank note bands, unreadable technical shorthand, camera arrows, altitude arrows, and path arcs. The setting is a dim warehouse after a flood, with stacked crates, shallow water, broken skylight beams, and a small rescue drone navigating the space.
+
+Subject:
+The six panels plan a rescue-drone sequence: wide warehouse establishing shot, drone lifting from a dry platform, overhead path around hanging cables, low tracking shot above floodwater, camera insert showing a heat-signature-like abstract shape with no readable UI, and final panel where the drone drops a small emergency pouch near a trapped worker silhouette. The drone is compact, unbranded, and mechanically plausible, with four rotors, cage guards, sensor pod, and light payload hook.
+
+Important details:
+This board must combine cinematic planning with technical-diagram clarity. Use arrows to show drone movement, camera pan, altitude change, and payload drop, but keep all labels unreadable. Physics and materials matter: rotor wash rippling water, reflected lights, damp cardboard, cable sag, metal shelving, and pouch swing. Maintain consistent drone scale and path logic across all panels. The worker remains a background silhouette; the drone and blocking are the main subject.
+
+Use case:
+Film Storyboard Sequence single study 7/8, an independent technical action storyboard for drone blocking and flood materials.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 16:9 horizontal aspect ratio, no brand marks, no legible UI, no broken six-panel grid, no impossible drone scale, no sci-fi weaponry, no extra rescue vehicles.

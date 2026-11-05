@@ -1,0 +1,14 @@
+Scene:
+Create a square museum-vitrine style photograph of fermentation vessels treated as natural-history specimens, with calm raking light, restrained reflections, and an atmosphere of patient observation. Glass, ceramic, cloth covers, and aged labels can appear, but any markings must stay unreadable. The mood should be archival, biological, and sculptural at once. Create a square museum-style jar portrait with warm side light passing through amber brine and translucent citrus slices. The pedestal and background should remain subdued and dignified.
+
+Subject:
+Fill a glass vessel with halved or sliced preserved citrus fruits suspended in deep amber brine, with softened rinds, seeds, and peel layers visible through the liquid. A few sediment traces and glass imperfections should reinforce age. The jar should feel like both pantry artifact and scientific sample.
+
+Important details:
+Micro texture is essential: skins, bubbles, sediment, microbial mats, crusts, folds, and wet surfaces all need distinct tactile logic. The images should respect the beauty of slow transformation without sanitizing it into generic product photography. Fermentation must look alive, layered, and physically specific. The beauty lies in translucency and time: make rind thickness, softened pulp, suspended seeds, and aged liquid all distinct. The brine should not look like syrup or juice.
+
+Use case:
+Fermentation sculpture atlas single study 7/9, turning preserved citrus into an amber archival specimen.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable dates or species names, no modern supermarket packaging, no laboratory sterility that kills the organic feel, no mold-horror sensationalism, no cartoon colors, no summer-drink styling, no cocktail props, no readable canning label.

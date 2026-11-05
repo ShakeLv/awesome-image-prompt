@@ -1,0 +1,14 @@
+Scene:
+Square dramatic tabletop photograph of a circular stone disk resting in shallow sand, lit by cool moonlike light with a faint rim glow. The stone is dark basalt with turquoise, cinnabar, and shell inlay. The image should feel like a recovered cosmology device, centered, symmetrical, and highly detailed without becoming a flat infographic.
+
+Subject:
+An independent fictional star-disk symbol system, loosely inspired by the visual density of ancient calendar stones but not copying any historical script. The disk contains concentric rings of invented glyph blocks, star nodes, creature profiles, eclipse marks, and directional gates. The glyphs use repeated stepped jaws, paired comet tails, dotted shells, and angular cloud hooks, arranged with strong radial logic.
+
+Important details:
+The symbol system must look intentionally designed: repeated elements should recur at different scales, ring spacing should be consistent, and the central emblem should connect to outer glyph bands through visible visual rules. Keep the marks pseudo-linguistic, not merely decorative ornament. The challenge is controlled fake text in a complex circular layout, with no real words, no copied Maya glyphs, and no accidental calendar numbers.
+
+Use case:
+Fictional Symbol System single study 6/8, testing an independent circular cosmology artifact with dense invented glyph rings.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no Latin letters, no real alphabets, no copied Mayan glyphs, no Arabic numerals, no zodiac symbols, no modern museum label, no flat vector chart, no random ornamental filler.

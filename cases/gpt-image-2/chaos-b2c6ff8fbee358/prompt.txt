@@ -1,0 +1,14 @@
+Scene:
+A square night-market smartphone snapshot with warm steam, mixed LED lighting, crowded depth, and imperfect handheld framing. The camera is positioned behind a food-stall queue, with a shoulder and paper tray blurred in the foreground. Wet pavement reflects colored lights, awnings form layered diagonals, and the subject is caught mid-gesture under realistic low-light phone noise.
+
+Subject:
+A completely fictional action-movie celebrity-like person stands at a street food stall, balancing two skewers and a tiny sauce cup while wearing a simple black bomber jacket, faded jeans, and a baseball cap with no logo. Their face is invented and not based on any real actor or martial artist. They look physically charismatic but relaxed, laughing at a small spill on the counter while the vendor gestures with tongs.
+
+Important details:
+The image should feel like a lucky candid shot, not a promotional still. Keep the fame signal indirect: a few people in line glance over, one raises eyebrows, but nobody photographs aggressively. Render steam, sauce gloss, paper trays, jacket fabric, low-light skin texture, and wet street reflections convincingly. All menu boards, signs, and packaging should be abstract and unreadable.
+
+Use case:
+Fictional Celebrity Snapshot single study 5/8, testing low-light street realism around an invented action-star figure in an ordinary food scene.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real celebrity likeness, no real person name, no claimed real event, no brand cap, no fight scene, no weapons, no tabloid framing, no over-sharpened AI face.
