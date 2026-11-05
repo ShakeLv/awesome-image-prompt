@@ -1,0 +1,14 @@
+Scene:
+A square ambient room with shallow water reflections, floating light strips, and low mist, photographed as a still that could anchor a looping canvas mood. The environment should feel musical and platform-safe, with strong emotional atmosphere but no cluttered narrative action.
+
+Subject:
+The subject is the release environment itself rather than a person: light bridge fragments, fog, reflection, and architectural depth arranged into a calm but ownable promo surface. It should read instantly as part of a music campaign and leave clean space for later adaptation.
+
+Important details:
+This image tests environmental world-building for streaming surfaces. Keep geometry simple, reflections believable, and color disciplined. The mood should be immersive enough to feel tied to a specific release, but abstract enough to adapt across banners, loop stills, and profile takeovers.
+
+Use case:
+Streaming Promo single study 7/9 for the Streaming Banner and Canvas Promo Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no furniture, no visible venue branding, no crowd, no bright rainbow color, no surreal objects breaking the calm world

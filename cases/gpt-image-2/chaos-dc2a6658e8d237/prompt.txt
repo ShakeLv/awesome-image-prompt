@@ -1,0 +1,14 @@
+Scene:
+A square stage-world moodboard showing a large performance environment with an obsidian reflective floor, hanging haze, a giant red moon-like screen graphic, and narrow vertical light slits framing the space. The camera is front-facing and slightly elevated so the entire world reads like a creative-direction board for a tour stage rather than a documentary photo.
+
+Subject:
+A solitary performer silhouette stands at center stage, small relative to the environment, while the true subject is the world itself: reflective black floor, red lunar screen motif, vertical light architecture, and ceremonial empty space. This first image must lock the exact scenic language that later variants preserve: floor finish, screen symbol, scale relationship, and atmospheric density.
+
+Important details:
+Think like a stage creative deck image. Every element should feel intentional and translatable into screens, lighting, wardrobe, and promo materials. The stage world should be dramatic yet minimal, with a strong symbolic motif and enough clean geometry to support coherent expansion. Avoid readable show titles or brand marks; the ownership comes from environmental grammar.
+
+Use case:
+Stage Moodboard series study 1/9 for the Stage Visual Moodboard Performance World Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no audience visible, no visible truss clutter, no sponsor logo, no fireworks, no random props, no realistic venue seating dominating the frame

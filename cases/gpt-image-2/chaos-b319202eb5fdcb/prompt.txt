@@ -1,0 +1,14 @@
+Scene:
+A square cinematic frame built with absolute left-right symmetry and a straight-on camera at human height. The palette is powder pink, mint, butter yellow, pale blue, and faded coral, with soft daylight and a miniature dollhouse clarity. The architecture should feel handcrafted, tidy, slightly theatrical, and emotionally precise rather than casual or naturalistic. Compose a train compartment as a rectangular jewel box, with equal luggage racks, matching curtains, and identical reading lamps framing a central window washed in pale gray daylight.
+
+Subject:
+Place one or two front-facing figures exactly on the central axis, with costumes, props, and furnishings arranged like curated museum pieces. The people should feel composed and deadpan, never candid, and the room must read as a cutaway stage set where every shelf, lamp, chair, and curtain participates in the symmetry. Seat a traveler in a plum coat on the exact centerline, knees together and hands folded, while two boxed pastries and a silver thermos sit on the table with measured spacing.
+
+Important details:
+The signature rules are central balance, flat frontal staging, pastel temperature control, crisp prop spacing, and a charming handmade scale. Preserve clean rectangles, color-coded rooms, disciplined eye-line, and the sense that the camera is respectfully observing an invented world. Avoid messy realism, loose camera motion, asymmetrical clutter, and dramatic lens distortion. The shot should suggest controlled stillness and handcrafted travel nostalgia, with every upholstered surface feeling tactile, crisp, and intentionally color-blocked.
+
+Use case:
+Symmetrical Pastel Dollhouse Cinematography single study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no dutch angle, no chaotic crowd, no gritty grime, no harsh neon, no visible brand packaging, no broken anatomy, no low-detail background, no accidental text fragments.

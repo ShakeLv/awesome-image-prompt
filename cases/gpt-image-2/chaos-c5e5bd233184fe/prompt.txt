@@ -1,0 +1,14 @@
+Scene:
+Design a square product-catalog image for one near-future consumer category, keeping industrial design clarity and marketing hierarchy equally strong. The board should feel commercial and ready to publish, not like a random object render. Compose a square board with stacked grow modules, water reservoirs, clip-on tools, and plant-care accessories arranged as a consumer kit.
+
+Subject:
+Show one coherent product or micro-family with believable consumer positioning, accessory logic, and lifestyle relevance. Hints of packaging, use context, or display systems can appear if they support the category read. The system should communicate ease, modularity, and urban practicality through its physical design and staged context.
+
+Important details:
+Use restrained props, clear product spacing, and material realism to sell a plausible near-future product direction. The concept should feel like something a real company could market within a few years. Let product logic and lifestyle relevance drive the image instead of romantic garden styling. Preserve category-specific marketing logic so the product, accessories, and staged context all support the same consumer story.
+
+Use case:
+Spec Product Catalog single study 4/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no price-tag text, no glossy ad cliché overload, no cartoon gadgets, no fake logos, no rustic farmhouse branding.

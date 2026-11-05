@@ -1,0 +1,14 @@
+Scene:
+A square reminder-style card with a dark field, one centered musician silhouette, and a modular stack of non-readable bars and abstract countdown shapes. The design should feel crisp and repostable, built for release anticipation rather than narrative complexity.
+
+Subject:
+The subject is a clear promotional hierarchy: one portrait or silhouette, one strong ambient light cue, and a disciplined field of abstract modules where release information would eventually live. The image must feel native to music marketing while staying entirely non-branded and non-verbal.
+
+Important details:
+Keep the composition tight, easy to scan, and emotionally direct. Use large tonal contrast, one accent color, and carefully controlled spacing so the card can survive tiny crops. It should feel like a reminder surface for a streaming release, but not like a software notification or generic event flyer.
+
+Use case:
+Streaming Promo single study 8/9 for the Streaming Banner and Canvas Promo Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable countdown numerals, no app interface, no bright busy gradient mesh, no extra props, no fake device mockup frames

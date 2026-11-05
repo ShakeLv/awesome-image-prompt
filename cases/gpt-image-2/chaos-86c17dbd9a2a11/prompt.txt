@@ -1,0 +1,14 @@
+Scene:
+A square moodboard image from the same stage universe, now layered with drifting fog curtains and more diffused side light that partially veils the red lunar screen. The overall architecture must remain identical, but the atmosphere becomes softer and more dreamlike.
+
+Subject:
+Preserve the same central performer silhouette scale, obsidian floor reflections, red moon screen motif, and stage proportions from the reference image. The performer stays small and ceremonial, while the fog becomes a new scenic medium that turns the world into a softer, suspended environment.
+
+Important details:
+This variant should feel like the same performance world viewed through an alternate atmospheric treatment. Do not change the world language; enrich it through diffusion, layered haze, and softened reflections. The stage should still feel buildable, practical, and translatable into a real show creative direction deck.
+
+Use case:
+Stage Moodboard series study 3/9 for the Stage Visual Moodboard Performance World Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the obsidian floor and red-moon motif from the reference; no audience, no extra scenic objects, no heavy rain effect, no decorative starscape, no venue branding

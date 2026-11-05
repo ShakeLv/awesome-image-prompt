@@ -1,0 +1,14 @@
+Scene:
+A square promotional hero frame designed to scale into streaming banner crops, with an invented performer standing on a narrow floating light bridge inside a deep atmospheric world of mist, soft spotlights, and layered distant architecture. The composition should feel cinematic and adaptable, with strong focal center and clear negative zones for later surface changes.
+
+Subject:
+The performer is an invented musician in a long dark coat with subtle metallic trim, shoulder-length straight hair, and a poised stance facing slightly toward camera. This reference image must lock the exact face, hair base, body proportions, coat silhouette, and floating-light environment so later promo images can preserve the same identity across different streaming surfaces.
+
+Important details:
+Think like a release-week platform takeover. The world should feel premium, atmospheric, and immediately ownable at both full size and reduced crops. Use one coherent palette of midnight blue, soft silver, and ember accents; keep the light bridge as a signature cue; and preserve enough empty edges to support future surface adaptation without adding readable platform UI or text.
+
+Use case:
+Streaming Promo series study 1/9 for the Streaming Banner and Canvas Promo Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no crowd, no handheld microphone, no giant stage screens, no brand interface, no overloaded fantasy skyline, no extra performers

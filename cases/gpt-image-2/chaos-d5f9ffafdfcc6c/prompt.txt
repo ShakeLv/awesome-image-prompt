@@ -1,0 +1,14 @@
+Scene:
+A square black-and-white thriller frame with hard contrast, deep blacks, silvery highlights, and geometric shadow patterns cast by railings, blinds, or stained glass. The camera should feel deliberate and predatory, often high above or pinned to an anxious architectural angle. Shoot diagonally across a multi-level stairwell so banister rails stack into dense stripes over a pale floor below.
+
+Subject:
+Build the image around stairs, shadows, landings, banisters, and one isolated figure whose presence is defined as much by silhouette as by body. Fear should come from spacing, emptiness, and the logic of light rather than from explicit violence. Two figures are visible only as separated shadows on different levels, one clearly gaining on the other.
+
+Important details:
+The governing grammar is suspense through architecture. Preserve crisp edges between light and shadow, polished floor reflections, severe stair geometry, and a sense of silent movement just before or after an event. Avoid modern clutter, color accents, or loose handheld energy. Keep bodies secondary and let the rail geometry do most of the emotional work.
+
+Use case:
+Suspense Staircase Shadow single study 4/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no monsters, no readable signage, no casual daylight realism, no fog machine effect, no broken anatomy, no low-detail background, no accidental text fragments.

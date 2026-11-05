@@ -1,0 +1,14 @@
+Scene:
+A square material board arranged with swatches of reflective black acrylic, smoked mirror, matte charcoal, textured rubber, and haze-lit sample panels. The presentation should feel like a serious stage-scenic material study rather than an interior-design moodboard.
+
+Subject:
+The subject is the tactile palette of a performance floor and its neighboring surfaces. Each swatch should imply how stage light, reflection, and movement would behave during a live show, creating a credible scenic language from materials alone.
+
+Important details:
+Use disciplined spacing, subtle labels implied only as empty blocks, and careful lighting to show surface response. The board should communicate production intelligence and world-building ownership. Material realism matters more than decorative beauty here.
+
+Use case:
+Stage Moodboard single study 9/9 for the Stage Visual Moodboard Performance World Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable notes, no interior-design magazine props, no wood furniture mood, no home-decor palette, no unrelated lifestyle items

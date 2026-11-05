@@ -1,0 +1,14 @@
+Scene:
+A square stage-world rendering in the same obsidian universe, now featuring a central mirrored riser and slightly more sculptural platform geometry beneath the performer. The red moon motif, haze, and vertical light slits remain the defining anchors of the composition.
+
+Subject:
+Preserve the same performer silhouette scale, red lunar screen, obsidian floor language, and ceremonial emptiness from the reference image. The only major shift is the introduction of a mirror-like riser that elevates the performer and gives the scene a stronger ritual center.
+
+Important details:
+The riser should feel like a logical scenic extension inside the same show package. Use reflection, material realism, and symmetry to create focus, but avoid making the stage ornate or overbuilt. This must still read as one coherent performance world that could support lighting plots, wardrobe choices, and promo imagery.
+
+Use case:
+Stage Moodboard series study 4/9 for the Stage Visual Moodboard Performance World Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the obsidian floor and red-moon motif from the reference; no audience, no pyrotechnics, no extra props, no architectural set pieces unrelated to the world, no brand marks

@@ -1,0 +1,14 @@
+Scene:
+A square white-wall installation showing two companion posters hung side by side with equal spacing, photographed frontally so the pair reads as a designed conversation rather than two unrelated sheets. The poster should express rigorous Swiss grid design with modular columns, disciplined margins, quiet asymmetry, and large white fields, using red, black, white, graphite gray, and occasional cool silver paper tone and a tactile surface appropriate to the medium.
+
+Subject:
+Compose a matched diptych: two posters sharing one style system while splitting the narrative across paired motifs, mirrored masses, or complementary color emphasis. Use gallery objects, arrows, cropped still-life fragments, line charts, timetable bars, and alignment guides as the main visual ingredients, and organize them with grotesk typographic blocks, rules, and index markers rendered as non-readable layout forms. For the contemporary-subject axis, thread in shared bicycles, transit maps, and civic information cues reduced into a severe exhibition grid. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Both halves should feel distinct yet inseparable. Preserve one coherent visual language, but let each sheet carry its own focal symbol and rhythm without readable wording. Preserve baseline precision, invisible column logic, severe spacing discipline, and crisp edge hierarchy. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no centered symmetry, no distressed paper, no decorative ornament, no playful doodles.
+
+Use case:
+Swiss Grid single study 6/9, testing system flexibility across a paired set.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

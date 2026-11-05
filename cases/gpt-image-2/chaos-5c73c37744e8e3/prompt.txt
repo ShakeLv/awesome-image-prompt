@@ -1,0 +1,14 @@
+Scene:
+A square front-facing poster presentation on a clean neutral wall, lit like a premium print test, with crisp edges and a polished but still tactile finish appropriate to the style. The poster should express rigorous Swiss grid design with modular columns, disciplined margins, quiet asymmetry, and large white fields, using red, black, white, graphite gray, and occasional cool silver paper tone and a tactile surface appropriate to the medium.
+
+Subject:
+Apply the historical poster language to a contemporary urban subject so the old visual grammar proves it can carry present-day themes without losing authenticity or formal discipline. Use gallery objects, arrows, cropped still-life fragments, line charts, timetable bars, and alignment guides as the main visual ingredients, and organize them with grotesk typographic blocks, rules, and index markers rendered as non-readable layout forms. For the contemporary-subject axis, thread in shared bicycles, transit maps, and civic information cues reduced into a severe exhibition grid. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+This is not parody. The contemporary subject should feel genuinely absorbed into the style through palette, composition, symbolic compression, and non-readable lettering treatment. Preserve baseline precision, invisible column logic, severe spacing discipline, and crisp edge hierarchy. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no centered symmetry, no distressed paper, no decorative ornament, no playful doodles.
+
+Use case:
+Swiss Grid single study 9/9, testing historical grammar on a present-day subject.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

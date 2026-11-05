@@ -1,0 +1,14 @@
+Scene:
+Create a square high-end sushi photograph on pale hinoki wood or a neutral omakase counter, lit with precise raking light that reveals grain in fish and separation in rice. The environment should feel silent, expensive, and almost clinical in its cleanliness. Space, alignment, and proportion matter as much as the ingredients themselves. Keep the exact counter angle, wood grain direction, spacing rhythm, and raking light established by the reference image so the series continuity remains immediate. The frame should stay spare and silent.
+
+Subject:
+Feature several pieces built around deep red tuna, including pristine nigiri and a sashimi slice with visible grain and a faint moist sheen. Rice grains should stay individually legible beneath the fish, and a restrained wasabi accent may sit nearby. The scene should feel colder, leaner, and incredibly exact.
+
+Important details:
+Every ingredient should reward macro inspection: fish grain direction, cut angle, moisture, knife marks, rice-grain separation, wasabi texture, shiso curl, and the grain of the wood beneath all need to remain distinct. The result should communicate mastery through restraint and surgical care rather than abundance. Preserve exact counter geometry, camera height, and spacing from the reference model while shifting the fish family to red tuna. Muscle grain, cut plane smoothness, and rice compression need to remain especially convincing at close range.
+
+Use case:
+Sushi and sashimi precision series study 2/9, adapting the anchor lineup to tuna grain and rice control.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no soy sauce pools, no decorative restaurant clutter, no readable menu cards, no plastic sushi display look, no overloaded garnish, no torch marks, no spicy sauce drizzles, no sesame scatter.

@@ -1,0 +1,14 @@
+Scene:
+A square design board of layered texture panels, circular red gradients, black reflective fields, and grainy atmospheric surfaces arranged with clean spacing. The board should look like a stage visual concept sheet for massive LED content rather than a random abstract-art collage.
+
+Subject:
+The subject is a family of visual motifs for stage screens: lunar discs, fog-softened gradients, vertical slit textures, and reflective shadow fields. Each panel should feel like a usable scenic content ingredient that belongs to a larger performance universe.
+
+Important details:
+Keep the board disciplined and production-minded. The motifs should read clearly, feel scalable to large screens, and suggest a coherent show identity. Use texture and layout to sell professionalism, not novelty. Avoid any readable labels or software annotation.
+
+Use case:
+Stage Moodboard single study 6/9 for the Stage Visual Moodboard Performance World Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no UI software panels, no readable notes, no rainbow glitch effects, no unrelated photography, no decorative scrapbook style

@@ -1,0 +1,14 @@
+Scene:
+Create a square near-future catalogue board that feels like a premium consumer-product launch sheet without using readable copy. The composition should combine one hero product or family grouping with secondary modules, packaging-like shapes, and abstract information zones arranged in a clean commercial hierarchy. Lighting should be photographic, precise, and product-friendly. Keep the same industrial design language but stage the family around compact units, wall-adjacent footprints, and tight-space accessories in the same catalog format.
+
+Subject:
+Center the image on a coherent consumer product family whose forms, finishes, interface surfaces, and accessory logic all belong together. The products can be speculative, but they must still feel market-positioned, manufacturable, and suited to a believable household or urban use case. Preserve the reference forms, vent logic, and material palette while emphasizing urban apartment suitability and modular storage.
+
+Important details:
+Think like a product marketer and industrial designer at once. Material choices, scale relationships, accessory combinations, and staged use cues should imply a clear category, audience, and feature set even though no readable text appears. The image should be strong enough for catalog, launch-page, or retail poster use. The board should feel like a real line extension rather than a total redesign, with compactness expressed through packaging and scale decisions. Preserve the exact structural language established by the reference image, especially the industrial design language, material palette, module family proportions, and catalog layout hierarchy.
+
+Use case:
+Spec Product Catalog series study 2/4, designed as a reusable core-system image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real-world brand marks, no readable product copy, no random luxury nonsense props, no inconsistent industrial design, no tiny gadget novelty feel.

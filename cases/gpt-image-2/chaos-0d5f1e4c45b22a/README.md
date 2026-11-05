@@ -1,0 +1,12 @@
+# Merch Sell Sheet
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/super-deformed-trailer-cover/packages/single-rollout-assets/images/merch-sell-sheet/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/89759fbf506abd05937ae70e4af515f07aa92740cf12918e0d6cfc98ab0437e8.webp)
+- SHA-256:89759fbf506abd05937ae70e4af515f07aa92740cf12918e0d6cfc98ab0437e8
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

@@ -1,0 +1,14 @@
+Scene:
+A square single-image autostereogram-style pattern, designed like a repeating ocean texture that hides a raised 3D fish silhouette when viewed with relaxed divergent focus.
+
+Subject:
+A seamless field of small coral, bubbles, sand ripples, shells, and blue-green dot clusters. The visible surface should look like a regular repeating pattern, but the spacing should subtly encode one large hidden fish shape in the center with fins, tail, and body depth.
+
+Important details:
+Pattern-based hidden-depth image, precise horizontal repetition, small phase shifts creating the fish silhouette, ocean palette of teal, aqua, ivory, coral, and navy, dense but organized micro texture, no obvious fish outline at normal viewing distance.
+
+Use case:
+Independent Prompt Atlas image testing whether a generated image can imitate hidden-depth autostereogram logic.
+
+Constraints:
+No readable text, no watermark, no logos, no obvious central fish drawing, no random large icons, no broken repeat bands, no frame, preserve exact 1:1 aspect ratio.

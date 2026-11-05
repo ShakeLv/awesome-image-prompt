@@ -1,0 +1,14 @@
+Scene:
+A square composition derived from banner logic: broad negative space, one clear performer presence, atmospheric depth, and subtle horizon layers compressed into a centered tile. The frame should behave like a design study for an artist-channel header reimagined inside a square crop.
+
+Subject:
+One invented musician stands within a spacious atmospheric field while abstract header bands, distant architecture, and soft light gradients create the sense of a larger panoramic world. The composition should test whether banner logic can still feel elegant when compressed into a square.
+
+Important details:
+Use negative space and silhouette discipline as the main storytelling devices. The subject must remain immediately legible while the environment hints at a larger campaign world. This should feel like professional streaming promo design exploration rather than a literal software interface mockup.
+
+Use case:
+Streaming Promo single study 9/9 for the Streaming Banner and Canvas Promo Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no platform icons, no readable header text, no crowd, no over-detailed skyline, no collage fragments

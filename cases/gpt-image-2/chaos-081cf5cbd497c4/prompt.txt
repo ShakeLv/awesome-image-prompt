@@ -1,0 +1,14 @@
+Scene:
+Compose a square street-food brand image that feels rooted in vernacular signage, fast service, handheld eating, and dense local texture without copying any specific real-world brand or famous location. The frame should feel energetic and commercial, with heat, packaging, and human-scale surfaces that suggest a busy street-food context. Maintain the same stall materials and warm practical lighting, but widen just enough to show sauce bottles, chopped garnishes, and prep containers in a disciplined layout.
+
+Subject:
+The food must look handheld, immediate, and physically satisfying, while the brand kit emerges through color, paper, enamel, painted surfaces, stall materials, and abstract signage forms rather than readable names. Feature the signature food alongside an organized condiment station that feels authentic to a fast-moving street-food setup.
+
+Important details:
+This topic depends on cultural and retail credibility. Preserve believable stall materials, quick-service rhythms, food wrapping logic, and the layered density of a small-footprint brand environment. Use sign-painting, stencil-like marks, or abstract lettering forms only as non-legible texture; the identity should come from visual language, not copied brands or readable text. Preserve the exact camera height, lens feel, prop family, tabletop scale, palette discipline, and brand logic established by 01-stall-anchor. The identity system from the anchor image must stay intact through packaging color, counter texture, and painted-surface cues, even as prep tools and sauces become more visible.
+
+Use case:
+Street Food Kit series study 3/9, built for Prompt Atlas coverage of a food and beverage commercial visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no famous landmarks, no franchise styling, no tourist-poster cliché, no fake AI neon overload, no generic festival booth, no ingredient chaos, no readable labels, no sterile studio emptiness.

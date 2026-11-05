@@ -1,0 +1,14 @@
+Scene:
+Create a square camp enrollment hero for Camp Promo, using a trustworthy youth-sports camp world with bright clean facilities, family-friendly daylight, and polished enrollment layouts. The frame should feel commercial, polished, and immediately useful for a real client deliverable rather than a one-off art experiment. Keep the composition readable at thumbnail scale while still rewarding a closer look with layered depth, clean negative space, and strong directional light. Build the image so it clearly supports sports communication, with enough modular structure to imply information architecture without relying on literal words.
+
+Subject:
+Center the image on one original coach and a small group of original young athletes in supervised brandless training activity, arranged as coach guiding small athlete group. Treat the subject as original and brandless, with believable apparel construction, realistic body proportions, and strong emotional legibility. Surround the subject with supporting environmental cues that reinforce the category but never overpower the main figure. All secondary objects, props, and background elements should strengthen the same professional sports or fitness context.
+
+Important details:
+This first image must establish the full reference system for later derivatives: enrollment-ready card modules, non-readable schedule zones, and organized family-friendly campaign structure. The emotional tone should read as safe optimistic energy. Make the visual language reusable, disciplined, and commercially credible, with clean edges, coherent light behavior, and obvious hierarchy. Abstract panels, diagram bands, or stat-like modules are welcome, but they must remain non-readable and subordinate to the main visual message. The result should feel original, specific, and ready to anchor a larger package.
+
+Use case:
+Camp Promo series study 1/9, the reference image for the package.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand marks, no copied famous team or product identity, no generic stock-photo stiffness, no cluttered background noise, no celebrity likenesses.

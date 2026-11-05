@@ -1,0 +1,14 @@
+Scene:
+Compose a square street-food brand image that feels rooted in vernacular signage, fast service, handheld eating, and dense local texture without copying any specific real-world brand or famous location. The frame should feel energetic and commercial, with heat, packaging, and human-scale surfaces that suggest a busy street-food context. Use a square evening or late-afternoon crop of a compact food stall with warm practical lights, metal surfaces, and layered materials that feel genuinely used.
+
+Subject:
+The food must look handheld, immediate, and physically satisfying, while the brand kit emerges through color, paper, enamel, painted surfaces, stall materials, and abstract signage forms rather than readable names. Center one signature handheld food item at the counter while the stall surfaces, paper wraps, and non-legible sign-painted textures define the brand world around it.
+
+Important details:
+This topic depends on cultural and retail credibility. Preserve believable stall materials, quick-service rhythms, food wrapping logic, and the layered density of a small-footprint brand environment. Use sign-painting, stencil-like marks, or abstract lettering forms only as non-legible texture; the identity should come from visual language, not copied brands or readable text. This image establishes the reference system for the series, including camera height, tabletop discipline, prop family, and color control that later images must inherit. This anchor image must establish the identity kit for the series: wrapper palette, condiment organization, counter wear, and a fast-service mood that still feels curated.
+
+Use case:
+Street Food Kit series study 1/9, built for Prompt Atlas coverage of a food and beverage commercial visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no famous landmarks, no franchise styling, no tourist-poster cliché, no fake AI neon overload, no generic festival booth, no readable stall name, no giant tourist crowd, no celebrity chef portrait.

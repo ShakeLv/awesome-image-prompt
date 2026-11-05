@@ -1,0 +1,14 @@
+Scene:
+Design a square product-catalog image for one near-future consumer category, keeping industrial design clarity and marketing hierarchy equally strong. The board should feel commercial and ready to publish, not like a random object render. Present a sleek bottle-like device, docking base, cartridge modules, and carry accessories on a clean commuting-oriented catalog board.
+
+Subject:
+Show one coherent product or micro-family with believable consumer positioning, accessory logic, and lifestyle relevance. Hints of packaging, use context, or display systems can appear if they support the category read. The family should feel compact, modern, and plausible for daily carry, with strong continuity between portable and docked components.
+
+Important details:
+Use restrained props, clear product spacing, and material realism to sell a plausible near-future product direction. The concept should feel like something a real company could market within a few years. Use restrained urban props and crisp product spacing so the category reads immediately without copy. Preserve category-specific marketing logic so the product, accessories, and staged context all support the same consumer story.
+
+Use case:
+Spec Product Catalog single study 5/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no price-tag text, no glossy ad cliché overload, no cartoon gadgets, no fake logos, no fitness-brand styling.

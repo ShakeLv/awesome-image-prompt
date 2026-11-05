@@ -1,0 +1,14 @@
+Scene:
+Compose a square street-food brand image that feels rooted in vernacular signage, fast service, handheld eating, and dense local texture without copying any specific real-world brand or famous location. The frame should feel energetic and commercial, with heat, packaging, and human-scale surfaces that suggest a busy street-food context. Compose a square corner view of a stall or storefront using crates, stacked paper goods, and one food hero under mixed daylight and practical light.
+
+Subject:
+The food must look handheld, immediate, and physically satisfying, while the brand kit emerges through color, paper, enamel, painted surfaces, stall materials, and abstract signage forms rather than readable names. Treat the display as a mini brand environment, where ingredients and packaging reinforce the street-food concept without becoming a grocery scene.
+
+Important details:
+This topic depends on cultural and retail credibility. Preserve believable stall materials, quick-service rhythms, food wrapping logic, and the layered density of a small-footprint brand environment. Use sign-painting, stencil-like marks, or abstract lettering forms only as non-legible texture; the identity should come from visual language, not copied brands or readable text. This image should feel fully self-contained while still belonging to the same broader topic and commercial world. Wood wear, plastic crate texture, paper stack edges, and food freshness should all feel plausible and grounded in daily service.
+
+Use case:
+Street Food Kit single study 8/9, built for Prompt Atlas coverage of a food and beverage commercial visual system.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no famous landmarks, no franchise styling, no tourist-poster cliché, no fake AI neon overload, no generic festival booth, no supermarket produce section, no readable stickers, no clean showroom sterility.

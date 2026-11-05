@@ -1,0 +1,14 @@
+Scene:
+A square streaming promo card in the same atmospheric world, with the performer shifted slightly off center so the frame carries more negative space and cleaner silhouette edges. Mist, distant architecture, and the floating bridge remain present, but the composition is calmer and more interface-ready.
+
+Subject:
+Preserve the exact same performer from the reference image with identical face, hair base, body proportions, and coat silhouette. The artist stands in the same world and same mood, now framed to allow more breathing room and profile-surface adaptability while retaining the strong release identity established by the root image.
+
+Important details:
+The key is adaptability without dilution. Keep the same signature bridge cue, the same midnight palette, and the same atmospheric layering while simplifying the composition for profile-centric placement. It should feel like a streaming profile takeover asset that clearly belongs to one release campaign and one specific artist identity.
+
+Use case:
+Streaming Promo series study 3/9 for the Streaming Banner and Canvas Promo Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no interface icons, no notification symbols, no crowd, no large props, no busy skyline detail

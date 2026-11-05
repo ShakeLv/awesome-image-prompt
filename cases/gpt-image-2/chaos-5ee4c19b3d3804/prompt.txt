@@ -1,0 +1,14 @@
+Scene:
+A square studio moodboard image showing a wardrobe rail with several dark garments, metallic trims, boots, gloves, and folded fabric swatches under dramatic side light. The shot should feel like a presentation slide for a tour costume direction rather than a retail fashion rack.
+
+Subject:
+The subject is the wardrobe language itself: long silhouettes, matte black textiles, brushed metal accents, and disciplined color control that could belong to a live performance world. No literal brand labels or readable tags should appear; the rail should communicate stage identity through material and silhouette.
+
+Important details:
+Keep the styling serious, modern, and show-ready. Use selective props such as a belt, earpiece, or glove only if they reinforce the live-performance world. The image should bridge fashion and staging without feeling like a store display or editorial shopping spread.
+
+Use case:
+Stage Moodboard single study 5/9 for the Stage Visual Moodboard Performance World Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no retail signage, no readable clothing labels, no bright casual garments, no mannequins, no audience or stage in the background

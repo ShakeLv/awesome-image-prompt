@@ -1,0 +1,14 @@
+Scene:
+Design a square explanatory board for one speculative machine, making the image useful for a presentation, poster, or worldbuilding manual page. The composition should have one dominant cutaway read supported by controlled secondary views. Show a dense industrial module with capture inlets, sorting chambers, thermal conversion core, and output molds laid out in clear process order.
+
+Subject:
+Show a complete device with clear internal zones and believable maintenance or operational structure. The machine should look impossible only in ambition, not in the clarity of its construction logic. The machine should communicate recycling and orbital industry through internal sequencing rather than through background scenery.
+
+Important details:
+Prioritize visual explanation, clean sectional hierarchy, and disciplined materials. Every chamber, conduit, shell break, and inset should help the viewer infer what the machine does. Let thermal contrast, chamber geometry, and material flow provide the drama while keeping the overall poster analytical. Preserve internal cause and effect so the viewer can follow how material, energy, pressure, heat, or flow moves through the device.
+
+Use case:
+Spec Tech Cutaway single study 5/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no text blocks, no comic-book speed effects, no pure abstract geometry without function, no brand logos, no fantasy forge aesthetics.

@@ -1,0 +1,14 @@
+Scene:
+A square black-and-white thriller frame with hard contrast, deep blacks, silvery highlights, and geometric shadow patterns cast by railings, blinds, or stained glass. The camera should feel deliberate and predatory, often high above or pinned to an anxious architectural angle. Use a narrow stair run with polished wood risers and a bright overhead beam that isolates the middle three steps.
+
+Subject:
+Build the image around stairs, shadows, landings, banisters, and one isolated figure whose presence is defined as much by silhouette as by body. Fear should come from spacing, emptiness, and the logic of light rather than from explicit violence. A single metal key lies on one illuminated step while the lower portion of a descending figure enters only as shadow.
+
+Important details:
+The governing grammar is suspense through architecture. Preserve crisp edges between light and shadow, polished floor reflections, severe stair geometry, and a sense of silent movement just before or after an event. Avoid modern clutter, color accents, or loose handheld energy. The image should feel almost absurdly simple, with suspense created by scale, emptiness, and the importance of a small object.
+
+Use case:
+Suspense Staircase Shadow single study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no gore, no monsters, no readable signage, no casual daylight realism, no fog machine effect, no broken anatomy, no low-detail background, no accidental text fragments.

@@ -1,0 +1,14 @@
+Scene:
+A square red-cyan anaglyph image of a futuristic glass corridor, composed so it can be viewed with red-cyan 3D glasses. The corridor recedes deeply from foreground to background.
+
+Subject:
+Transparent glass panels, floating white guide rails, suspended translucent cubes, and a central walkway. Near cubes should have strong red-cyan separation, midground panels moderate separation, and far background almost aligned, creating believable depth.
+
+Important details:
+Photorealistic architectural render, precise anaglyph channel offset, cyan and red fringes only where stereo separation should occur, glossy glass refraction, symmetrical perspective, clean vanishing point, dark floor reflection, high contrast but not chaotic.
+
+Use case:
+Independent Prompt Atlas image testing anaglyph depth encoding and optical material rendering.
+
+Constraints:
+No readable text, no watermark, no logos, no people, no random color fringing unrelated to depth, no tilted horizon, no broken corridor symmetry, preserve exact 1:1 aspect ratio.

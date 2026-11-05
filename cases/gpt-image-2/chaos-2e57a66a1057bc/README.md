@@ -1,0 +1,12 @@
+# Elevator Ceremony
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/symmetrical-pastel-dollhouse-cinematography/packages/single-symmetrical-pastel-dollhouse-cinematography/images/09-elevator-ceremony/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/45dffe5e46e0ba46d618dc5cfe299cd0fd95a85956c4208cabdf125f19d731db.webp)
+- SHA-256:45dffe5e46e0ba46d618dc5cfe299cd0fd95a85956c4208cabdf125f19d731db
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

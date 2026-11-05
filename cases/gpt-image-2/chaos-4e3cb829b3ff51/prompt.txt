@@ -1,0 +1,14 @@
+Scene:
+A square promo still in the same floating-bridge world, now cropped tighter and energized by drifting haze ribbons, faint motion blur in fabric edges, and stronger light pulses under the performer’s feet. The environment must remain unmistakably tied to the reference hero frame, just optimized for a looping surface mood.
+
+Subject:
+Preserve the exact same performer from the reference image, including face shape, hair base, body proportions, and long coat silhouette. The musician now turns slightly within the frame as if caught mid-loop, while the light bridge and mist layers remain the signature spatial anchors of the streaming campaign.
+
+Important details:
+This should feel like a believable canvas still from the same release system. Keep the color world, bridge geometry, and crop discipline consistent, but introduce subtle motion implication through fabric, haze, and light sweep. The image must remain clean enough for platform use and recognizably identical to the reference release identity.
+
+Use case:
+Streaming Promo series study 2/9 for the Streaming Banner and Canvas Promo Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no extra characters, no fake playback controls, no chaotic particles, no lens warping, no bright daylight

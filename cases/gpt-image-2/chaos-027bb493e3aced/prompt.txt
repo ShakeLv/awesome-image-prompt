@@ -1,0 +1,14 @@
+Scene:
+A square celebratory announcement card set against a deep atmospheric field with controlled sparks of light, portrait fragments, and soft metallic gradients. The frame should feel like a streaming milestone celebration surface while staying generic and platform-neutral.
+
+Subject:
+One invented musician appears through cropped portrait panels and silhouette fragments, surrounded by rings of light, confetti-like particles, and clean zones where future milestone numbers could sit. The card should communicate achievement and momentum without literal stats or readable copy.
+
+Important details:
+Keep it elegant rather than noisy. Use small bursts of light, subtle metallic edges, and a calm but optimistic palette shift within the established release mood. The composition should feel like a premium music announcement card intended for reposting across artist channels and profile surfaces.
+
+Use case:
+Streaming Promo single study 6/9 for the Streaming Banner and Canvas Promo Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable numbers, no social app UI, no emoji language, no cheap party styling, no brand icons

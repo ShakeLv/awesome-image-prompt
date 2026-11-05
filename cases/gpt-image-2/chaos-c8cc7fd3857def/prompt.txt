@@ -1,0 +1,14 @@
+Scene:
+Design a square explanatory board for one speculative machine, making the image useful for a presentation, poster, or worldbuilding manual page. The composition should have one dominant cutaway read supported by controlled secondary views. Show a station-scale machine hub with passenger circulation implied at tiny scale and the main cutaway focused on routing coils, lift shafts, and safety chambers.
+
+Subject:
+Show a complete device with clear internal zones and believable maintenance or operational structure. The machine should look impossible only in ambition, not in the clarity of its construction logic. The machine should feel civic and infrastructural, not weaponized, with internal systems clearly devoted to public movement.
+
+Important details:
+Prioritize visual explanation, clean sectional hierarchy, and disciplined materials. Every chamber, conduit, shell break, and inset should help the viewer infer what the machine does. Balance architectural scale with diagram clarity so the device still feels like a poster subject rather than a building render. Preserve internal cause and effect so the viewer can follow how material, energy, pressure, heat, or flow moves through the device.
+
+Use case:
+Spec Tech Cutaway single study 2/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no text blocks, no comic-book speed effects, no pure abstract geometry without function, no brand logos, no sci-fi weapon cues.

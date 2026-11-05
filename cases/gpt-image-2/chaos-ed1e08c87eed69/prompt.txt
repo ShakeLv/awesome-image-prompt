@@ -1,0 +1,14 @@
+Scene:
+A square design board presenting several playlist-cover style tiles arranged on a dark neutral ground, each using a related mood, portrait fragment, or atmospheric field. The board should look like a streaming-campaign workbench rather than an app screenshot, with careful spacing and premium visual polish.
+
+Subject:
+The subject is a family of compact promo tiles built around one imagined music release atmosphere: partial performer crops, environmental stills, light-bridge fragments, and abstract shape cues meant for browse surfaces. No tile needs readable text, but the family should feel coherent enough to belong to one release period.
+
+Important details:
+Prioritize small-format legibility, tone control, and system variation. The board should demonstrate how one release world can populate playlist and discovery surfaces without flattening into sameness. Use distinct but compatible crops, disciplined spacing, and enough atmospheric depth to preserve the music mood.
+
+Use case:
+Streaming Promo single study 5/9 for the Streaming Banner and Canvas Promo Set Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no platform logos, no readable playlist titles, no software chrome, no extra lifestyle props, no crowded collage look

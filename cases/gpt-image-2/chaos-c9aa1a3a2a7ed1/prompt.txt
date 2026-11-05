@@ -1,0 +1,14 @@
+Scene:
+A square stage-concept still with a black reflective floor and a disciplined lattice of red and white beams cutting through haze. The camera faces the grid head-on so the geometry reads clearly, like a concept rendering inside a production deck.
+
+Subject:
+The subject is the beam system itself: intersecting lines, reflective floor echoes, and an implied performer zone left open in the center. The image should demonstrate how lighting alone can create an ownable performance space.
+
+Important details:
+Keep the beams clean, the floor believable, and the empty center powerful. This should feel technical enough to inform a show, but stylish enough to function as a moodboard image. Avoid making it a generic club-laser wallpaper by preserving strong composition and negative space.
+
+Use case:
+Stage Moodboard single study 8/9 for the Stage Visual Moodboard Performance World Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no audience, no DJ booth, no rainbow colors, no visible truss clutter, no readable control screens

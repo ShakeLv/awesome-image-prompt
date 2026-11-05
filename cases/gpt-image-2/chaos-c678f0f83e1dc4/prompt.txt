@@ -1,0 +1,14 @@
+Scene:
+Design a square explanatory board for one speculative machine, making the image useful for a presentation, poster, or worldbuilding manual page. The composition should have one dominant cutaway read supported by controlled secondary views. Compose a cylindrical or ovoid archive vessel with shell layers, cooling veins, suspension chambers, and controlled access hatches visible in section.
+
+Subject:
+Show a complete device with clear internal zones and believable maintenance or operational structure. The machine should look impossible only in ambition, not in the clarity of its construction logic. The internal zones should explain preservation, inspection, and retrieval without requiring text or actors.
+
+Important details:
+Prioritize visual explanation, clean sectional hierarchy, and disciplined materials. Every chamber, conduit, shell break, and inset should help the viewer infer what the machine does. Use cold color discipline and precise shell breaks to keep the machine elegant and technical. Preserve internal cause and effect so the viewer can follow how material, energy, pressure, heat, or flow moves through the device.
+
+Use case:
+Spec Tech Cutaway single study 3/5, designed as a self-contained support image for this topic.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no text blocks, no comic-book speed effects, no pure abstract geometry without function, no brand logos, no horror cryo-pod trope.
