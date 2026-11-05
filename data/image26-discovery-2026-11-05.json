@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-05",
+  "queries": [
+    "GPT Image 2.6 prompt examples images",
+    "gpt-image-2.6 github prompts",
+    "GPT Image 2.6 site:x.com",
+    "GPT Image 2.6 prompt gallery",
+    "GPT Image 2.6 提示词 图片",
+    "GPT Image 2.6 site:reddit.com prompt",
+    "gpt-image-2.6 site:github.com",
+    "Images 2.6 prompt",
+    "GPT Image 2.6 site:youtube.com",
+    "GPT Image 2.6 site:xiaohongshu.com",
+    "gpt-image-2.6-flare prompt example",
+    "gpt-image-2.6-sunburst images prompt",
+    "GPT Image 2.6 prompts examples original images November 2026"
+  ],
+  "scope": "Public indexed web across English/Chinese; GitHub, X, Reddit, YouTube and Xiaohongshu domain searches attempted; not an exhaustive internet census",
+  "sources": [
+    {
+      "url": "https://developers.openai.com/api/docs/guides/image-generation",
+      "author": "OpenAI",
+      "status": "source-read",
+      "finding": "Official 2.6 markup example includes full prompt and model ID; other old examples explicitly use 2.5. Media links for new examples require extraction and review."
+    },
+    {
+      "url": "https://x.com/shitunote/status/2118191294631862562",
+      "author": "马识途 / shitunote",
+      "status": "paired-source-found",
+      "model": "ChatGPT Images 2.6",
+      "modelEvidence": "Author describes testing 2.6 and includes complete Chinese loop prompt plus GIF preview in same post; exact API variant unspecified.",
+      "previewUrl": "https://pbs.twimg.com/tweet_video_thumb/HWVPeU4bAAAfSmO?format=webp&name=large",
+      "subject": "Cartoon dog sipping tea in a burning room; emotional reaction loop",
+      "remaining": [
+        "download and visually inspect media",
+        "resolve original animated output rather than passing thumbnail as full GIF",
+        "record reuse terms before copying full content into ProjectD"
+      ],
+      "projectdStatus": "not-imported"
+    },
+    {
+      "url": "https://cloud.tencent.com.cn/developer/article/2776489",
+      "status": "summary-only",
+      "finding": "Summary names four GIF cases: glass butterfly, perfume bottle, girl with shiba, canyon waterfall. Full prompts and output assets were not returned. Page explicitly forbids unauthorized republication."
+    },
+    {
+      "url": "https://en.kocpc.com.tw/archives/26801",
+      "status": "fetch-timeout",
+      "finding": "Search result discusses reference-image examples; full article unavailable in this run."
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n5d1b6205e1c1",
+      "status": "fetch-timeout",
+      "finding": "Search excerpt explicitly calls some examples unverified instructions; do not count as generated pairs."
+    },
+    {
+      "url": "https://i18n.openart.ai/ai-model/gpt-image-2-6/",
+      "status": "lead-only",
+      "finding": "Search page has result previews but exact full prompt/output pairing is unverified."
+    },
+    {
+      "url": "https://www.topview.ai/gpt-image-2-6",
+      "status": "excluded-from-2.6",
+      "finding": "Page explicitly labels previews 2.5."
+    },
+    {
+      "url": "https://www.aivideofree.com/gpt-image-2-6",
+      "status": "excluded-from-2.6",
+      "finding": "Page explicitly labels prompts/results 2.5."
+    },
+    {
+      "url": "https://gptimage3.app/tools/gpt-image-2-6",
+      "status": "excluded-from-2.6",
+      "finding": "Coming-soon page uses available older model."
+    }
+  ],
+  "acceptedNew26Pairs": 0,
+  "discoveredSourcePaired26Candidates": 1,
+  "projectdNewLive": 0,
+  "failures": [
+    "Two follow-up built-in web requests failed connection",
+    "X station search failed: extension release TLS handshake; no login attempted",
+    "GitHub repository search unexpected EOF",
+    "Several remio searches returned no results; article fetches timed out"
+  ],
+  "next": [
+    "Retry original media retrieval after connectivity returns",
+    "Inspect official markup output and exact reference requirements",
+    "Continue creator-post searches and reconcile duplicates against ProjectD",
+    "Import only reviewed complete pairs through existing ProjectD publisher"
+  ]
+}

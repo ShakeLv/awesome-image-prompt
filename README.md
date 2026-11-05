@@ -8,6 +8,12 @@ Image and prompt pairs with original author, source, actual generation model, re
 
 Third-party prompts and images retain their original licenses and attribution in each record. No blanket repository license grants rights to third-party content.
 
+## More historical pairs
+
+[Batch 2: 144 additional image/prompt pairs](GALLERY-BATCH-0002.md), retaining their actual GPT Image 2 / 2.5 labels and per-item licenses. Total historical pairs published here: 197 (53 in batch 1, 144 in batch 2).
+
+[GPT Image 2.6 discovery ledger](RESEARCH-IMAGE-2.6.md).
+
 ## Gallery
 
 ### Pure White Marketplace Packshot (reference photo required)
