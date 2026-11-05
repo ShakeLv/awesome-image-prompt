@@ -1,0 +1,14 @@
+Scene:
+A square hero tour-poster composition built like a high-end announcement key art, with one performer centered on a stage-like platform and tall spotlight beams cutting through haze behind them. The frame should feel ready to scale into city-specific posters, keeping large modular zones where date and venue information could later appear as graphic blocks rather than readable text.
+
+Subject:
+An invented headlining musician stands in a dramatic but controlled pose, wearing a long coat and holding a low, relaxed stance that suggests stage authority. This reference image must lock the exact face, hair base, body proportions, wardrobe silhouette, and poster hierarchy so later city variants can preserve the same tour identity.
+
+Important details:
+Treat the date and city information as non-readable graphic modules: stacked bars, block fields, and rhythmic typographic placeholders. The lighting architecture, performer scale, and negative space are the real system. The poster must feel energetic and live, but still professionally laid out for ticketing and campaign deployment rather than chaotic fan art.
+
+Use case:
+Tour Posters series study 1/9 for the Tour Poster City Rollout Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable dates, no venue logos, no crowd hands, no confetti storm, no extra band members, no brand sponsorship marks

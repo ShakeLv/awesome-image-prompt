@@ -1,0 +1,14 @@
+Scene:
+A square museum-shop poster styled as an elegant transit map on warm ivory paper. The design is front-facing, clean, and balanced, combining public-transport diagram language with subtle historical ornament. Use restrained colors inspired by lacquer red, jade green, imperial yellow, ink black, porcelain blue, and bronze gray. Keep the background mostly plain, with no scroll border or aged parchment effects.
+
+Subject:
+A thematic subway map of Chinese dynastic succession and cultural currents. A main chronological trunk line runs across the center, with branch lines for northern regimes, southern courts, frontier states, literary flourishing, trade routes, and administrative reforms. Major transfer hubs represent unification, division, capital shifts, examination culture, maritime exchange, and reform cycles. Station dots vary in size to suggest dynastic weight and transition intensity. Tiny abstract icons show seals, city gates, river bends, books, and bronze vessels.
+
+Important details:
+The map must be a reasoning diagram, not a literal geography map. Use route structure to show continuity, splits, reunification, and parallel developments. Avoid readable dynasty names or dates; represent station labels as small non-readable glyph capsules. Keep line thickness consistent, transfer hubs clear, and routes easy to trace. The historical style should remain subtle and premium, supporting the transit-map clarity rather than overwhelming it with decoration.
+
+Use case:
+Thematic Subway Map single study 4/8, testing dynastic transition abstraction, historical hierarchy, and clean map-like composition.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real national emblem, no portrait illustrations, no battlefield scene, no fake Chinese characters, no overly ornate scroll texture, no random line tangles.

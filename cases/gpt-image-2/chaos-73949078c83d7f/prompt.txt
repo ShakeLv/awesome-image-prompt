@@ -1,0 +1,14 @@
+Scene:
+Same square editorial art-board composition, warm newsprint background, muted palette, small runner characters, and hand-drawn annotation style as the reference image. Preserve the reference image's chart-mountain language and visual hierarchy.
+
+Subject:
+Transform the market mountain into an earnings weather map. The same abstract runner characters now move under weather systems made from bar-chart clouds, rain made of tiny dots, sunbursts shaped like upward arrows, and fog banks covering uncertain slopes. The central reasoning path should show how signals pass through expectation, surprise, and uncertainty without using readable text.
+
+Important details:
+Maintain the reference style: elegant magazine illustration, structured layout, tiny pseudo-annotations, clean margins, muted blue, graphite, tomato red, moss green, and cream. The image should communicate multi-step analysis through visual metaphors: weather fronts, forecast paths, risk zones, and character decisions. No real data, no ticker symbols, no readable labels.
+
+Use case:
+Second image in a reference-dependent Thinking Mode series, testing whether the same visual reasoning language can express a different analytical frame.
+
+Constraints:
+PRESERVE the reference image's square crop, character scale, editorial line quality, annotation style, and restrained color system. No readable text, no real companies, no logos, no watermark, no literal financial advice, no crowded dashboard UI, preserve exact 1:1 aspect ratio.

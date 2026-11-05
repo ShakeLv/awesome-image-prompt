@@ -1,0 +1,14 @@
+Scene:
+A square editorial or interface layout study with exact margins, confident grid structure, and premium print or screen presentation. Build the frame around a flat archival or proof-like sheet with modular content blocks. Keep the lighting, camera distance, and spatial organization tuned for a high-signal research image rather than a casual snapshot. The image belongs to the Type Specimen Book theme and should feel immediately legible as a prompt atlas theme for type specimen book, testing text-rendering with gpt image 2..
+
+Subject:
+Center the study on a flat archival or proof-like sheet with modular content blocks. Translate the theme into a concrete visual statement instead of an abstract mood board: the viewer should understand what kind of image this is, what is being tested, and why the composition is difficult. Use the slug idea of type specimen book as a literal guide for subject matter, materials, and staging. If helpful, borrow the broad visual cues suggested by ABC..., Light, Regular, Bold, Black, but keep the result original and specific to this study.
+
+Important details:
+Typography fields must stay unreadable, but hierarchy, rhythm, and page architecture should feel convincing enough for design review. Preserve a disciplined square composition, clear focal hierarchy, and enough secondary information to make the image feel complete rather than underspecified. The image should look polished, novel, and exhibition-ready, with topic-specific credibility coming from the way surfaces, structure, and visual language reinforce Type Specimen Book. Avoid generic filler elements that do not serve the main concept.
+
+Use case:
+Type Specimen Book single study 5/8, testing text-rendering through the archive sheet variation.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logo lockups from real brands, no broken grid, no arbitrary poster clutter, no malformed columns, no accidental lorem ipsum.

@@ -1,0 +1,14 @@
+Scene:
+A square crop showing a flat seamless tessellation design on matte ceramic tile, viewed straight-on with no perspective distortion. The tile surface is softly lit like a museum catalog photograph, with tiny glaze texture and crisp printed edges. The composition must read as a repeatable pattern that can continue beyond all four borders.
+
+Subject:
+An Escher-inspired interlocking fish-to-bird tessellation: fish silhouettes flow from the left and gradually transform into bird silhouettes toward the right, while every positive shape also creates a matching negative shape. Each figure is complete, edge-matched, and locked into neighboring figures with no gaps and no overlaps. The underlying geometry uses repeating curved diamonds and mirrored S-shaped seams.
+
+Important details:
+Precise optical-illusion geometry, seamless tile logic, clean silhouette boundaries, balanced teal, ivory, graphite, and muted gold palette, subtle ceramic glaze, no text, no frame, no visible grout lines. The left and right borders must connect visually, and the top and bottom borders must also connect visually. The pattern should be legible both as individual animals and as one continuous mathematical tiling.
+
+Use case:
+Reference image for a fanout series. Later images must preserve this same seamless interlocking lattice while changing material and narrative content.
+
+Constraints:
+No readable text, no watermark, no logos, no isolated central emblem, no blank border, no broken tiles, no random wallpaper noise, no perspective angle, no objects casting shadows over the pattern, preserve exact 1:1 aspect ratio.

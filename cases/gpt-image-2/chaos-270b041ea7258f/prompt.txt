@@ -1,0 +1,14 @@
+Scene:
+A single vertical 9:21 illustrated terrain scroll, like a museum-grade painted map seen from a high oblique angle. The scroll travels from rugged northern mountains at the top through watchtowers and ridgelines toward lower valleys and villages at the bottom.
+
+Subject:
+A continuous Great Wall terrain narrative: crenellated wall segments climbing ridges, beacon towers, steep stone stairs, mountain passes, dry grasses, distant villages, switchback paths, old caravan traces, and changing weather bands. The wall must remain spatially continuous through the entire image.
+
+Important details:
+Extreme vertical 9:21 aspect ratio, readable topographic logic, hand-painted cartographic detail, believable Chinese mountain geology, mist depth, tiny human-scale landmarks, accurate wall geometry following ridgelines, clear foreground-middle-background layering, rich detail without visual clutter.
+
+Use case:
+Independent Prompt Atlas image for testing long-format landscape continuity, world-knowledge detail, and dense structured composition.
+
+Constraints:
+No readable text, no labels, no watermark, no logos, no map pins, no fantasy castle additions, no disconnected wall fragments, no frame, preserve exact 9:21 vertical aspect ratio.

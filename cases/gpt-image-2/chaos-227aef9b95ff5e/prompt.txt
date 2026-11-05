@@ -1,0 +1,14 @@
+Scene:
+A square product-environment shot of a freestanding sign board inside a dim entry corridor, lit with clean practical light and slight floor reflections. The board should look real and usable, but it also needs enough visual drama to feel like part of the main tour campaign.
+
+Subject:
+The sign board carries the same performer-led graphic identity, spotlight cues, and modular non-readable information blocks that define the larger tour poster system. It should feel like a crowd-flow object that still belongs inside a serious live-music rollout, not generic venue signage.
+
+Important details:
+Balance utility and campaign character. Use a clean frame, believable material build, and restrained environmental context so the sign board reads clearly. The live-show energy should come from lighting and poster cues, not from crowd chaos or literal readable instructions.
+
+Use case:
+Tour Posters single study 9/9 for the Tour Poster City Rollout Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no arrows with readable labels, no venue logo, no crowd queue, no emergency signage, no cheap plastic retail look

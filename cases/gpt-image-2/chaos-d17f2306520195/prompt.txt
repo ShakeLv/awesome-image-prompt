@@ -1,0 +1,14 @@
+Scene:
+Create a square cinematic still for Underwater Caustics Temple. Use production-grade photoreal lighting, disciplined lens behavior, and a composition that feels like a finished key frame from an original film rather than a casual snapshot. A flooded ancient temple hall sits under clear seawater, where refracted sunlight ripples across columns, steps, and the stone floor in moving caustic bands, while the water body above remains bright and softly turbulent. Treat this as an adjacent moment before or after the main event, preserving the same topic language while letting the atmosphere shift slightly in intensity or position.
+
+Subject:
+Build a coherent original scene whose emotional center comes from atmosphere, light physics, and spatial clarity. Avoid relying on celebrity likeness, franchise iconography, or stylized illustration shortcuts. Weathered pillars, broken carvings, drifting silt, threadlike algae, and a single calm fish or small school gliding through the chamber should provide scale and life without turning the frame into an aquarium fantasy. Show the environment in transition, with clear evidence of recent motion, changing weather, or fading light, but without turning it into action spectacle.
+
+Important details:
+Preserve a believable physical world with strong depth layering, careful color separation, and premium image discipline. Make the caustics physically convincing on hard stone surfaces, with believable attenuation, soft blue-green depth, particulate haze, and refraction logic that sells the image as a real submerged space rather than a digital backdrop. Subtle temporal storytelling matters here more than maximal drama, so let traces, gradients, and environmental residue do the work.
+
+Use case:
+Caustics Temple single study 7/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no divers, no submarines, no treasure-chest cliches, no readable inscriptions, no cartoon coral overload.

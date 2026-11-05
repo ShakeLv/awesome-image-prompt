@@ -1,0 +1,14 @@
+Scene:
+A square poster using the same hierarchy as the reference tour image, but now framed by dark velvet curtains, narrower spotlights, and warmer side light that suggest a more intimate theater environment. The composition must stay modular and campaign-consistent, not drift into costume-drama poster language.
+
+Subject:
+Preserve the exact same headlining musician from the reference image, with identical face shape, hair base, body proportions, and long-coat silhouette. The performer remains centered and dominant, while the environment shifts into theater warmth and ceremonial framing around them.
+
+Important details:
+Use velvet texture and warmer highlights to imply venue scale change while keeping the poster system intact. Date and venue information should still exist only as abstract graphic bands and stacked blocks. The emotional shift is intimacy, not identity replacement. It should still read as the same tour campaign at a glance.
+
+Use case:
+Tour Posters series study 3/9 for the Tour Poster City Rollout Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the exact reference face, hair base, and body proportions; no readable marquee text, no orchestra crowd, no costume swap, no decorative gold ornament excess, no sponsor marks

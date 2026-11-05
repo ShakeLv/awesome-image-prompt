@@ -1,0 +1,14 @@
+Scene:
+A formal portrait 4:5 patent drawing sheet with pure white background, thin black vector-like strokes, and a clean engineering layout.
+
+Subject:
+A compact drone folding arm joint shown in FIG. 1 assembled perspective, FIG. 2 top plan view, FIG. 3 hinge cross-section, and FIG. 4 exploded motor mount stack. Include numbered callouts 50, 52, 54, 56, 58, 60, 62, and 64 for arm tube, hinge pin, locking latch, motor plate, vibration damper, screw boss, wire channel, and propeller guard socket.
+
+Important details:
+USPTO-style drawing, strict monochrome, dashed hidden lines, section hatching through hinge, exploded parts aligned on one axis, small clean labels, thin leader lines, realistic mechanical relationships, no rendering shadows, no perspective clutter.
+
+Use case:
+Independent Prompt Atlas image testing technical decomposition, readable callouts, and patent drawing style transfer.
+
+Constraints:
+Only readable text should be FIG. 1, FIG. 2, FIG. 3, FIG. 4, and numeric callouts 50 through 64; no color, no logo, no watermark, no photorealistic drone render, no dense legal text, no handwritten annotations, preserve exact 4:5 aspect ratio.

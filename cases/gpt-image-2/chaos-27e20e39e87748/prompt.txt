@@ -1,0 +1,14 @@
+Scene:
+A square flash sheet lying flat on a spotless drafting table, photographed from directly above so the white paper becomes a clean field for evenly spaced tattoo motifs. Light is crisp and studio neutral, with only faint edge shadows and a subtle hint of masking tape at two corners. The page should feel like a product-ready design sheet from a modern custom tattoo parlor.
+
+Subject:
+Create a western roadside themed flash sheet with about twelve independent motifs: cowboy boot, prickly pear cactus, motel key fob, revolver holster without gun, rattlesnake, horseshoe, spur, roadside sign shape without readable words, highway sunset, matchbook, whiskey glass, and desert rose. Render the motifs in a contemporary tattoo-flash language that mixes American traditional color blocking with a slightly polished commercial finish. Each emblem must be isolated, fully framed by white paper, and strong enough to be chosen individually by a client.
+
+Important details:
+The important control point is motif variety within a unified retail sheet. Keep line weights confident, color fills restrained, and shadows minimal. The page should read as body-art inventory rather than illustration editorial. Use dusty red, mustard, turquoise, black, cream, and cactus green, with enough white space so the table never feels crowded. Avoid turning the sheet into a narrative western poster or a scrapbook page.
+
+Use case:
+Tattoo Flash Sheet single study 3/8, testing themed commercial flash with multiple independent western motifs and disciplined paper layout.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no full desert scene background, no human cowboy portrait, no collage overlap, no fake brand marks, no glossy sticker sheen, no tattooed skin.

@@ -1,0 +1,14 @@
+Scene:
+A square straight-on street photograph of a damp city wall pasted with multiple copies of the same tour poster, lit by sodium street spill and reflected rain on the pavement below. The scene should feel urban and tactile, but still composed enough to show poster hierarchy clearly.
+
+Subject:
+The poster family features one performer, spotlight beams, and abstract modular information fields repeated across the wall. Tears, overlaps, and wrinkles are allowed, but the campaign must remain legible as one owned live-tour identity rather than anonymous street clutter.
+
+Important details:
+Use repetition, wet texture, and poster wear to suggest real-world rollout. Keep other environmental elements quiet so the posters dominate. The mood should be urgent and live, but the design system must still read as professional, coherent, and adaptable to ticketing culture.
+
+Use case:
+Tour Posters single study 8/9 for the Tour Poster City Rollout Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable graffiti, no brand billboards nearby, no passing crowd, no daylight, no unrelated posters breaking the campaign repetition

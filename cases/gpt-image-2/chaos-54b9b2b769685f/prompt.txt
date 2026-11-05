@@ -1,0 +1,14 @@
+Scene:
+A square scene where miniature scale is believable through lens behavior, surface detail, and carefully staged environmental cues. Build the frame around small illuminated interiors that sell scale and atmosphere together. Keep the lighting, camera distance, and spatial organization tuned for a high-signal research image rather than a casual snapshot. The image belongs to the Tilt-Shift Miniature World theme and should feel immediately legible as a prompt atlas theme for tilt-shift miniature world, testing photorealism, physics-materials, style-transfer with gpt image 2..
+
+Subject:
+Center the study on small illuminated interiors that sell scale and atmosphere together. Translate the theme into a concrete visual statement instead of an abstract mood board: the viewer should understand what kind of image this is, what is being tested, and why the composition is difficult. Use the slug idea of tilt shift miniature world as a literal guide for subject matter, materials, and staging. If helpful, borrow the broad visual cues suggested by tilt-shift, but keep the result original and specific to this study.
+
+Important details:
+The charm should come from credible micro-world logic: tiny infrastructure, scaled weathering, selective focus, and a clear sense of inhabited smallness. Preserve a disciplined square composition, clear focal hierarchy, and enough secondary information to make the image feel complete rather than underspecified. The image should look polished, novel, and exhibition-ready, with topic-specific credibility coming from the way surfaces, structure, and visual language reinforce Tilt-Shift Miniature World. Avoid generic filler elements that do not serve the main concept.
+
+Use case:
+Tilt-Shift Miniature World single study 5/8, testing photorealism, physics-materials, style-transfer through the night window variation.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no giant human hands, no obvious toy-store packaging, no random oversized props, no readable text, no flat diorama cuteness without realism, no muddy depth cues.

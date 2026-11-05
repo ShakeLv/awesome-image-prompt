@@ -1,0 +1,14 @@
+Scene:
+A horizontal 16:9 cinematic image in the same late imperial scholar's study as the reference, keeping the desk, lattice windows, bamboo blinds, floorboards, scroll tubes, and morning light direction consistent. The camera remains low and slightly off-center, looking across the desk toward the scholar. The mood is quiet, realistic, and charged by the contrast between old paper culture and a modern pocket glass device.
+
+Subject:
+Use the reference as the primary identity and room guide. The same young scholar, with the same face, cloth cap, blue-gray silk robe, pale inner layers, and thoughtful demeanor, now holds the smartphone upright in both hands as if receiving an impossible message. Beside him are an inkstone, brush, seal paste box, folded fan, tea cup, and a half-unrolled blank scroll. The phone screen glows softly with abstract speech-bubble shapes and color blocks, but no readable characters.
+
+Important details:
+Preserve the scholar's identity, robe palette, desk layout, window placement, and period material accuracy from image 01. The modern object should look genuinely manufactured: glass reflections, thin black bezel, slight fingerprints, and cool screen light falling onto his fingers. The historical props must not become generic fantasy décor. The image should make the time-space contrast instantly clear without relying on labels, comedy, or obvious branding.
+
+Use case:
+Time-Space Contrast series study 2/8, testing reference-based identity and space continuity while changing the scholar's modern-tech interaction.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 16:9 horizontal aspect ratio, no brand marks, no changed scholar face, no extra modern devices, no malformed hands, no neon sci-fi room lighting, no costume inaccuracies.

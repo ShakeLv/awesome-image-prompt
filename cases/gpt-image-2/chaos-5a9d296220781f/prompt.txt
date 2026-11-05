@@ -1,0 +1,14 @@
+Scene:
+A horizontal 16:9 photoreal image on a Han dynasty frontier road, with packed earth, beacon-tower silhouette, low mountains, dry grass, wooden signposts without readable marks, and late golden light. The composition is wide and spacious, allowing a horse courier, period equipment, and a hovering modern drone to occupy distinct zones. The atmosphere should feel like serious historical reportage interrupted by one impossible machine.
+
+Subject:
+A Han courier in layered hemp and wool travel garments stands beside a saddled horse, carrying a bamboo document tube, leather belt pouch, wrapped bow case, and practical boots. He looks upward with alert professional focus as a compact quadcopter drone hovers at eye level, its camera gimbal facing him. The horse is calm but attentive. A second courier farther back shields his eyes from dust and light, grounding the scale of the road.
+
+Important details:
+The historical details should be plausible: frontier clothing, horse tack, beacon architecture, document tubes, road dust, and weathered materials. The drone must be modern, small, unbranded, with four rotors, camera lens, gray plastic body, and subtle motion blur on blades. No sci-fi weaponry or fantasy armor. The time-space contrast should read as logistics meeting logistics: ancient messenger network confronted by aerial delivery and surveillance technology.
+
+Use case:
+Time-Space Contrast single study 7/8, an independent Han courier and drone scene for world-knowledge composition.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 16:9 horizontal aspect ratio, no brand marks, no futuristic city, no fantasy military armor, no oversized drone, no duplicated horses, no illegible dust cloud hiding the main interaction.

@@ -1,0 +1,14 @@
+Scene:
+A square environmental shot of a tidy merch table before doors open, with folded shirts, poster tubes, accessory trays, and one sign board arranged under dim practical venue light. The scene should feel real and music-specific, not like a generic retail checkout counter.
+
+Subject:
+The table carries a coherent drop identity through repeated graphic cues, dark palette, and controlled presentation. It should communicate the excitement of live-show commerce while keeping every object part of one curated launch family.
+
+Important details:
+Use practical realism and layout discipline. The table must feel functional, but also photogenic enough for promo use. Keep the environment subdued so the merch family dominates, and avoid readable pricing or visible sponsor marks.
+
+Use case:
+Tour Merch single study 8/9 for the Tour Merch and Ticket Drop System Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no crowd hands, no readable price lists, no sponsor signage, no venue branding, no cluttered cash-register focus

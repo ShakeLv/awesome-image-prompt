@@ -1,0 +1,14 @@
+Scene:
+A square tattoo flash sheet displayed against a slightly warm white wall in a nautical-themed but contemporary tattoo studio, photographed straight-on with soft even light. The paper should appear crisp and substantial, with tiny pinholes, natural margin spacing, and just enough environmental shadow to feel physically present without distracting from the artwork.
+
+Subject:
+Design a maritime memory flash sheet with approximately twelve isolated motifs: clipper ship, lighthouse, rope-wrapped anchor, mermaid bust, compass rose, storm cloud over waves, shell, gull, bottle with tiny sea scene, lifebuoy, ship wheel, and dagger crossing a rope heart. The visual language should blend classic sailor tattoo heritage with tidy modern shop presentation. Each emblem must be ready to tattoo as an independent piece, using confident outlines, flat but rich color blocks, and modest stylized shading rather than painterly realism.
+
+Important details:
+The success condition is recognizable sailor flash without nostalgia turning muddy. Keep spacing generous and the palette controlled with navy, crimson, seafoam, cream, gold, and black. The sheet should feel like a real consultation-wall product that respects tattoo production constraints: no overcomplicated micro detail, no motifs touching, no decorative frame, no surrounding beach scene. Maintain the balance between heritage symbolism and retail clarity.
+
+Use case:
+Tattoo Flash Sheet single study 5/8, testing nautical flash vocabulary on a clean modern sheet that still feels rooted in tattoo history.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no full ocean background, no photoreal sailor portrait, no aged parchment effect, no sticker-style drop shadows, no overlapping motifs, no body skin context.

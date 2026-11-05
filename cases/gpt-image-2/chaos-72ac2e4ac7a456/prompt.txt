@@ -1,0 +1,14 @@
+Scene:
+A single vertical 9:21 allegorical scroll in a refined editorial painting style. A river begins as a small spring at the top, grows through towns and seasons in the middle, and reaches a wide moonlit estuary at the bottom.
+
+Subject:
+One human life shown as a continuous river timeline without text: childhood paper boats near the source, student notebooks beside a bridge, first apartment windows, workbench and tools, family dinner light, hospital corridor calmness, old hands planting a tree, and a final open sea horizon. All moments must be connected by the same river path.
+
+Important details:
+Extreme vertical scroll composition, emotionally clear but not sentimental, coherent time progression, recurring visual motifs, seasonal color transitions, dense micro scenes that remain readable in a gallery thumbnail, painterly detail, careful negative space around major life moments.
+
+Use case:
+Independent Prompt Atlas image for testing reasoning composition, extreme aspect ratio, and long-form visual narrative without text labels.
+
+Constraints:
+No readable text, no captions, no watermark, no logos, no disjointed panels, no fantasy glow, no celebrity likeness, preserve exact 9:21 vertical aspect ratio.

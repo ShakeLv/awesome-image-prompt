@@ -1,0 +1,14 @@
+Scene:
+A square photographic image with intentional lens choice, coherent light, and a subject that feels observed rather than merely decorated. Build the frame around a time-sensitive or kinetic phenomenon captured at the right instant. Keep the lighting, camera distance, and spatial organization tuned for a high-signal research image rather than a casual snapshot. The image belongs to the Telescope Nebula Galaxy theme and should feel immediately legible as a prompt atlas theme for telescope nebula galaxy, testing photorealism, world-knowledge with gpt image 2..
+
+Subject:
+Center the study on a time-sensitive or kinetic phenomenon captured at the right instant. Translate the theme into a concrete visual statement instead of an abstract mood board: the viewer should understand what kind of image this is, what is being tested, and why the composition is difficult. Use the slug idea of telescope nebula galaxy as a literal guide for subject matter, materials, and staging. If helpful, borrow the broad visual cues suggested by Pillars of Creation, JWST, but keep the result original and specific to this study.
+
+Important details:
+The realism should come from timing, optics, and material response: atmosphere, contrast, depth, motion, and tiny physical cues all need to agree. Preserve a disciplined square composition, clear focal hierarchy, and enough secondary information to make the image feel complete rather than underspecified. The image should look polished, novel, and exhibition-ready, with topic-specific credibility coming from the way surfaces, structure, and visual language reinforce Telescope Nebula Galaxy. Avoid generic filler elements that do not serve the main concept.
+
+Use case:
+Telescope Nebula Galaxy single study 4/8, testing photorealism, world-knowledge through the motion moment variation.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no watermark, no cheap HDR excess, no unreadable signage, no fake stock-photo posing, no compositing seams, no arbitrary lens flare.

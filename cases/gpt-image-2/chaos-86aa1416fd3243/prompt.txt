@@ -1,0 +1,14 @@
+Scene:
+A square close product shot with grazing light, high tactile realism, and careful specular control across multiple materials. Compose the frame as a square key visual with disciplined camera placement, premium lighting control, and believable real-world scale. The tonal range should feel polished and intentional, with enough atmosphere to create depth without obscuring form. Keep contrast calibrated for launch, catalog, or research presentation use rather than casual snapshot aesthetics.
+
+Subject:
+Center an original cordless precision drill-driver with a magnesium frame, rubber grip overmold, satin metal chuck, compact battery base, and carefully resolved vent geometry. Make the subject feel original, production-aware, and clearly grounded in Tool and Device Hero Render System. For this series image, preserve exact core subject identity, proportions, base geometry, and material language from the reference image whenever continuity matters. The focal hierarchy should be immediate: primary form first, then material behavior, then supporting environmental cues that clarify use context and difficulty.
+
+Important details:
+Push rubber, metal, plastic, seams, and tolerances without losing the recognizable object identity. The crop should sell physical quality and manufacturing maturity. Preserve exact tool silhouette, grip shape, chuck design, battery geometry, vent pattern, and color blocking across the series. Materials must look tactile and production-ready rather than toy-like or over-stylized. Use believable materials, engineering logic, and professional composition discipline. Reflections, shadows, edge breaks, texture scale, interface density, and small physical joints must all support realism. Avoid filler props, vague mood-board clutter, or any element that weakens the sense of a purpose-built industrial or automotive image.
+
+Use case:
+Tool Renders series study 3/9 for Tool and Device Hero Render System, built as image 03-surface-study.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no brand logos, no readable labels, no workshop mess, no sparks, no impossible tool bits, no sci-fi glow.

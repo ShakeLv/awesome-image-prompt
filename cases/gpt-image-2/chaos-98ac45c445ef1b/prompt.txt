@@ -1,0 +1,14 @@
+Scene:
+A square close product photograph of a ticket wallet, passes, translucent sleeves, and small paper inserts spread on black velvet with low directional light. The materials should feel luxurious and collectible without crossing into fashion-accessory branding.
+
+Subject:
+The subject is the set of entry objects themselves, designed with one premium music-drop language of emblems, dark color, and subtle metallic cues. The composition should feel like high-value tour collateral meant to be photographed and shared.
+
+Important details:
+Keep it tactile, minimal, and coherent. The wallet, passes, and inserts should look like parts of one system. Use shadow, texture, and spacing to suggest exclusivity while avoiding literal seat numbers or readable ticket data.
+
+Use case:
+Tour Merch single study 9/9 for the Tour Merch and Ticket Drop System Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable seat info, no barcode, no brand logo, no wallet brand styling, no extra jewelry or lifestyle props

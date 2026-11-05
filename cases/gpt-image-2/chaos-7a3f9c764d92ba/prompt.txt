@@ -1,0 +1,14 @@
+Scene:
+Same square, straight-on seamless tile view as the reference image. Preserve the exact reference lattice, border continuity, figure scale, and flat no-perspective composition. The surface now appears as an isometric-looking but still flat urban planning map printed on satin paper, with tiny roof textures and street-like seams integrated into the tessellation.
+
+Subject:
+Use the same interlocking fish-to-bird tessellation geometry from the reference image, but reinterpret every shape as a miniature city block, rooftop garden, canal edge, bridge, or plaza. Fish silhouettes become curved canal districts; bird silhouettes become angular roof clusters and park wedges. The reference seam logic must remain complete and gapless, with every city district locking into the next and continuing through all four borders.
+
+Important details:
+Accurate lattice preservation, map-like clarity, tiny rooftops, micro parks, canals, bridges, warm window dots, slate roofs, moss green parks, pale stone streets, muted blue water. The image should feel like a precise impossible city plan generated from the same tessellation, not a normal top-down city map. Keep the pattern readable at thumbnail scale.
+
+Use case:
+Fourth image in a reference-dependent tessellation fanout series, testing structural continuity while changing the scene into an architectural miniature map.
+
+Constraints:
+PRESERVE the reference image lattice, crop, camera angle, border continuity, and figure count. No readable text, no watermark, no map labels, no logos, no perspective skyline, no frame, no broken edge repeats, no random scattered buildings outside the pattern, preserve exact 1:1 aspect ratio.

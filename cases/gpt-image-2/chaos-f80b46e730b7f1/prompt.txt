@@ -1,0 +1,14 @@
+Scene:
+A square cutaway editorial illustration of a compact data newsroom, seen from a slightly elevated front angle. The room is built like a miniature stage set with tidy desks, wall boards, pinned cards, chart-like murals, and warm overhead lamps. The style is sophisticated magazine illustration with paper texture and restrained color.
+
+Subject:
+A teamless newsroom where objects perform the reasoning: a sorting table groups evidence cards, a wall board compares three abstract scenarios, a small printer releases a blank decision sheet, and an overhead track connects sources to conclusion. No people are visible; the furniture and diagrams imply the thinking process. All notes are pseudo-writing and symbol marks only.
+
+Important details:
+Highly organized layout, readable zones, clear path from inputs to synthesis, subtle humor, tiny icons, chart shapes, and editorial craft. The image should feel like a visual newsroom for analysis: structured, calm, and full of purposeful details. Use cream, ink black, muted teal, warm yellow, and red accent marks.
+
+Use case:
+Independent Thinking Mode single image, testing complex multi-zone composition and reasoning visualization in one coherent scene.
+
+Constraints:
+No readable text, no real news headlines, no real data, no logos, no watermark, no humans, no messy office clutter, no photorealistic computer UI, preserve exact 1:1 aspect ratio.

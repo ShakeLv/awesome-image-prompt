@@ -1,0 +1,14 @@
+Scene:
+Build a clean profile study in the open terminator landscape with the animal standing on a low rise under steady lateral light. The square frame should keep background detail subdued so the body plan reads clearly against the perpetual twilight. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Center on one mature grazer whose warm-side anatomy differs visibly from the cold-side anatomy: expanded thermal fins, denser insulation, offset sensory organs, and a gait adapted to cross-slope travel. The animal should feel plausible and calm rather than monstrous. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the sun never changes position in the sky from this biome. Organisms should show enduring asymmetry, thermal management, and directional growth because the warm side and cold side of the world remain stable over evolutionary time. This is a morphology image, so asymmetry must be precise and justified. Every uneven feature should suggest a role in temperature control, vision, or wind management within a world of permanent directional stress. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Tidal Locked Terminator Life single study 4/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no mirrored body halves, no fantasy chimera mixing, no heroic battle pose, no flat museum-cutout background, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

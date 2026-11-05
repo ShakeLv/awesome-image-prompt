@@ -1,0 +1,14 @@
+Scene:
+A square environmental photograph of a dim venue lobby lined with backlit poster lightboxes. The lightboxes should display a coherent headliner campaign language across multiple panels, creating the sense of a full tour rollout environment before doors open.
+
+Subject:
+The subject is the wall of campaign surfaces itself: repeated performer imagery, spotlight geometry, and non-readable date modules translated into illuminated display panels. The hallway should feel real, with polished floor reflections and practical lighting, but the posters remain the unmistakable focal point.
+
+Important details:
+This is a deployment study. Keep the environment believable and minimal, and let repetition sell ownership. The lightboxes should feel like a real tour promotion occupying physical space, not a trade-show booth. Strong poster hierarchy and atmospheric light are more important than environmental decoration.
+
+Use case:
+Tour Posters single study 6/9 for the Tour Poster City Rollout Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no venue logos, no audience queue, no readable directional signage, no branded concessions, no random ads sharing the wall

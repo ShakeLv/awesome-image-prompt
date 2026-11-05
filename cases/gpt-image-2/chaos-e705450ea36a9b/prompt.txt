@@ -1,0 +1,14 @@
+Scene:
+A portrait 4:5 black-and-white patent drawing sheet, pure white background, crisp technical linework, and formal multi-figure arrangement.
+
+Subject:
+A modular teapot filter assembly shown as FIG. 1 assembled teapot section view, FIG. 2 removable filter basket, FIG. 3 locking bayonet ring, and FIG. 4 exploded seal stack. Include numbered callouts 30, 32, 34, 36, 38, 40, 42, and 44 with thin leader lines pointing to spout, lid, filter mesh, gasket, handle, ring tab, flow holes, and tea chamber.
+
+Important details:
+USPTO-style monochrome line art, clean section hatching, dashed hidden edges, precise exploded alignment, small Arial-like figure labels, consistent stroke weight, technical clarity, no decorative illustration style, enough whitespace to read every component.
+
+Use case:
+Independent Prompt Atlas image testing engineering linework, callout consistency, and structured patent sheet composition.
+
+Constraints:
+Only readable text should be FIG. 1, FIG. 2, FIG. 3, FIG. 4, and numeric callouts 30 through 44; no color, no logo, no watermark, no photorealism, no long paragraphs, no handwritten marks, preserve exact 4:5 aspect ratio.

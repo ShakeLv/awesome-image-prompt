@@ -1,0 +1,14 @@
+Scene:
+A square product composition of layered ticket stubs, passes, and sleeves arranged on a dark matte surface with soft directional light. The objects should feel collectible and tactile, while the overall design remains visibly derived from the reference poster identity.
+
+Subject:
+Preserve the exact same emblem geometry, portrait cue, palette, and spacing logic from the reference image. The subject now becomes a ticket pack, but it must still clearly belong to the same tour drop language rather than a different campaign.
+
+Important details:
+Use realistic paper stock, foil accents, die cuts, and subtle shadows to create desirability. The ticket surfaces should feel premium and music-specific, with empty information zones represented only as abstract modules. The root poster identity must remain obvious across every object.
+
+Use case:
+Tour Merch series study 2/9 for the Tour Merch and Ticket Drop System Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve the same emblem and palette from the reference; no readable seat numbers, no barcodes, no sponsor marks, no unrelated packaging filler, no bright souvenir-shop colors

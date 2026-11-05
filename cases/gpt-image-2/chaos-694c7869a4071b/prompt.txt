@@ -1,0 +1,14 @@
+Scene:
+A square promo header concept with broad negative space, one strong performer silhouette, and modular stacked information zones built as non-readable bars. The image should feel like it could sit atop a ticket page or sales landing surface while retaining the drama of a tour poster.
+
+Subject:
+The subject is a controlled combination of live-performance identity and modular information hierarchy: one headliner figure, spotlight architecture, and placeholder blocks for dates, city, and venue. It should look musical and commercial, not like a generic event website header.
+
+Important details:
+Use shape contrast, beam geometry, and carefully spaced modules to make the surface instantly scannable. Keep the live-show energy present, but do not let the layout collapse into a noisy flyer. The image should suggest ticketing clarity without rendering any actual readable information.
+
+Use case:
+Tour Posters single study 5/9 for the Tour Poster City Rollout Family Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable dates, no sponsor logos, no browser UI, no crowd photo background, no fake QR code

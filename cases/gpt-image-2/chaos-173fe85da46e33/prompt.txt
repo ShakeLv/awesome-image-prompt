@@ -1,0 +1,14 @@
+Scene:
+Same square, straight-on seamless tile view as the reference image. Preserve the full repeatable lattice, edge alignment, figure scale, and overall pattern density from the reference. The surface now looks like a living reef relief photographed under clear shallow water, with soft caustic highlights and fine organic texture.
+
+Subject:
+Use the same interlocking fish-to-bird tessellation geometry from the reference image, but reinterpret the figures as coral reef creatures and branching coral forms. Fish shapes become tiny reef fish with subtle scale texture; bird shapes become wing-like coral fans and sea-bird silhouettes made of coral polyps. The exact seam logic must remain complete, gapless, and repeatable across all four borders.
+
+Important details:
+Accurate reference preservation, no geometry drift, no new loose shapes outside the lattice. Use coral pink, seafoam, turquoise, ivory sand, and deep blue shadow. Add fine coral pores, algae edges, and underwater caustics while keeping the original tessellation readable. The image should still look like one precise seamless pattern, not a random reef illustration.
+
+Use case:
+Second image in a reference-dependent tessellation series. It should prove that the queue can use image 01 as --ref while changing material language and subject details.
+
+Constraints:
+PRESERVE the reference image lattice, crop, camera angle, border continuity, and figure count. No readable text, no watermark, no logos, no extra central icon, no broken edges, no perspective view, no frame, no random decorative scatter, preserve exact 1:1 aspect ratio.

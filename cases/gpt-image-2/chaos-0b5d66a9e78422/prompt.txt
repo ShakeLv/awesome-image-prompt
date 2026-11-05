@@ -1,0 +1,14 @@
+Scene:
+A square educational wall poster styled as a modern subway system map, printed on matte pale cream stock. The design is front-facing, crisp, and technical, with generous margins and a balanced legend panel in the lower right. Use calm academic colors: deep blue, burgundy, ochre, teal, charcoal, and muted purple. The poster should feel useful for a university hallway or museum shop.
+
+Subject:
+A thematic subway map of philosophy history. Route lines represent major schools and questions: metaphysics, ethics, political thought, empiricism, rationalism, existentialism, analytic logic, and eastern wisdom. The lines branch from an ancient forum-like origin hub, pass through dense medieval and enlightenment transfer zones, and spread into modern debates. Larger circular transfer stations indicate conceptual collisions such as mind-body, virtue, reason, social contract, language, suffering, and freedom. Small icons show scrolls, lamps, scales, dialogue bubbles, and labyrinths.
+
+Important details:
+The map must express lineage and influence without relying on readable names. Use station dots, interchange rings, branching lines, route colors, and section density to show chronology and cross-pollination. Keep all label areas as non-readable short glyph bars, with no actual text. Transit geometry should be disciplined: consistent stroke widths, clean corners, obvious transfer circles, and no accidental tangles. The network should feel like a knowledge graph converted into a professional public-transport diagram.
+
+Use case:
+Thematic Subway Map single study 2/8, testing philosophical lineage abstraction, structured hierarchy, and transfer-based reasoning composition.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real philosopher portraits, no fake university emblem, no random symbols, no illegible paragraph blocks, no chaotic route crossing, no geographic base map.

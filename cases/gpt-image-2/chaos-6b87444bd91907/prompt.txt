@@ -1,0 +1,14 @@
+Scene:
+A square documentary image composed like a premium archaeology magazine feature. Use warm Sahara sandstone, dusty red-brown pigment, muted ivory chalk, and low dusk light. Frame a Tassili sandstone wall filled with prehistoric painted figures, giraffes, dancers, and hunters that seem gently volumetric without becoming fantasy creatures with crisp depth layering, restrained contrast, and subtle atmospheric depth so the scene feels excavated, observed, and historically grounded rather than theatrical or game-like. Keep the light directional but believable, as if captured during a careful field visit.
+
+Subject:
+Center the image on a Tassili sandstone wall filled with prehistoric painted figures, giraffes, dancers, and hunters that seem gently volumetric without becoming fantasy creatures. Include culturally accurate surface logic, region-specific setting, and believable human-scale cues in stairs, doorways, cut blocks, relief edges, or water depth. Shapes, carvings, masonry joints, and site wear should feel studied from real archaeology, with no generic ancient-world mashup and no ornamental filler borrowed from another civilization.
+
+Important details:
+Keep the imagery recognizably North African rock art, with elongated figures, animal profile logic, archaeological weathering, and only a restrained suggestion of volume emerging from the painted surface. Emphasize sandstone shelter walls, mineral pigment residues, dust-softened ledges, weathering crust, and subtle low-relief transitions where painting meets stone. Keep inscriptions, painted registers, symbolic motifs, or carved bands visually plausible but not readable. Preserve a museum-grade balance between beauty and evidence: light should reveal relief depth, edge wear, repairs, sediment traces, and excavation context without turning the site into fantasy spectacle. The composition should feel like a definitive reference frame that later variations can inherit exactly.
+
+Use case:
+Tassili Rock Art Coming Alive series study 1/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no glowing magic portals, no comic-book action poses, no modern graffiti, no surreal monsters, no tourists, no anachronistic props, no collage layout, no exaggerated fantasy lighting.

@@ -1,0 +1,14 @@
+Scene:
+A horizontal 16:9 cinematic photograph inside a late imperial Chinese scholar's study, viewed from a low three-quarter angle across a dark wooden desk. Morning light enters through carved lattice windows and catches suspended dust, bamboo blinds, stacked thread-bound books, inkstone, brush rest, porcelain water dropper, and a plain modern black smartphone lying on the desk. The image should feel real, richly textured, and immediately legible as a time-space collision.
+
+Subject:
+A young historical scholar in layered pale linen and blue-gray silk robes sits at the desk, hair tied in a simple topknot under a soft black cloth cap. He leans forward with calm curiosity, one hand resting beside a brush and the other hovering near the glowing phone. His expression is thoughtful rather than comedic. The room contains period-accurate furniture, scroll storage tubes, a low screen, ceramic tea cup, worn floorboards, and no modern objects except the phone.
+
+Important details:
+This is the reference image for a continuity series. Establish the scholar's face, robe color, desk layout, window position, light direction, and exact room geometry clearly enough for later images to preserve them. The smartphone screen may glow with abstract colored blocks only, never readable text or logos. Balance historical material accuracy with photoreal modern technology, avoiding fantasy costume cues or stage-prop flatness.
+
+Use case:
+Time-Space Contrast series study 1/8, establishing the scholar identity and study reference for later modern-tech interactions.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 16:9 horizontal aspect ratio, no brand marks, no extra modern objects, no anachronistic clothing fasteners, no caricature expression, no fantasy palace styling.

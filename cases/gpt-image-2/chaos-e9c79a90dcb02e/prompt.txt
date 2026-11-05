@@ -1,0 +1,14 @@
+Scene:
+A square overhead unboxing-style composition showing tissue paper, layered inserts, a small accessory, and folded soft goods inside a dark collector box. The shot should feel tactile and premium, with careful light on paper folds and textured surfaces.
+
+Subject:
+The subject is the bundle reveal itself: coordinated printed surfaces, accessory hints, and a coherent graphic language tying the whole box together. The objects should feel music-specific and limited-edition without showing readable SKU text or commercial branding.
+
+Important details:
+Focus on material layering and launch desirability. Tissue, card stock, soft goods, and small objects should all reinforce one collector system. The scene should feel curated and musical, not like generic beauty or lifestyle subscription packaging.
+
+Use case:
+Tour Merch single study 7/9 for the Tour Merch and Ticket Drop System Prompt Atlas theme.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no shipping labels, no brand boxes, no price tags, no packing peanuts, no extra unrelated consumer products

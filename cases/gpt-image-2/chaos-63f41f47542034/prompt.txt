@@ -1,0 +1,14 @@
+Scene:
+Frame a ridge-top botanical study under stable twilight, with the warm horizon just outside the frame casting long lateral light across the scene. Every plant should be visibly angled toward the same source, with reflective tissues on the warm side and insulated structures on the cold side. Build the frame as a square natural history study with disciplined composition, believable lighting, and enough environmental evidence to explain how this organism or system functions without any caption. Keep the image polished, observational, and suitable for a research gallery rather than pulp fantasy spectacle.
+
+Subject:
+Focus on several plant analogs with one-sided leaf fans, mirrored shadow surfaces, and root buttresses resisting constant wind and heat asymmetry. A few small grazers or pollinators can appear, but the plants should dominate the composition. Show the anatomy, habitat interaction, and scale cues clearly so the viewer can infer locomotion, feeding, reproduction, or ecological role from the visual alone. Every visible structure should feel evolved for a purpose, with layered foreground, midground, and background information that rewards close inspection.
+
+Important details:
+Assume the sun never changes position in the sky from this biome. Organisms should show enduring asymmetry, thermal management, and directional growth because the warm side and cold side of the world remain stable over evolutionary time. The plant anatomy should clearly encode environmental adaptation: sunward photosynthetic surfaces, leeward storage tissues, and asymmetric growth rings. Avoid Earth flowers or trees copied into a new sky; this is an evolved twilight flora. Favor coherent biology over decorative excess: tissues, shells, membranes, spores, tendrils, fins, silica lattices, or atmospheric sacs should all follow one material logic. Preserve a convincing relationship between the environment and the body plan, use restrained color hierarchy, and make the image feel like a serious speculative field record rather than a random monster concept.
+
+Use case:
+Tidal Locked Terminator Life single study 2/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no bilateral symmetry in plant crowns, no flower-garden look, no tropical lushness, no readable signage, no accidental brand resemblance, no direct copy of known terrestrial species, no cartoon simplification.

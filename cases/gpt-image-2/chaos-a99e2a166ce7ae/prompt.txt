@@ -1,0 +1,14 @@
+Scene:
+A horizontal 16:9 photoreal night scene in a Tang dynasty wine house courtyard, with lantern light, painted wooden beams, stone paving, low tables, ceramic wine cups, musical instruments, and distant garden rocks. The frame is cinematic and balanced: the historical environment occupies most of the image, while one modern phone creates the unmistakable time-space contrast. Warm lanterns mix with the cool glow of the screen.
+
+Subject:
+A Tang poet figure inspired by the romantic image of a wandering literary celebrity reclines beside a low table in flowing white and pale green robes, loose hair under a soft cloth wrap, wine cup nearby, and brush materials pushed aside. He holds a modern smartphone horizontally with both hands, absorbed in a colorful mobile battle game. Several companions in Tang dress lean in, amused and astonished, while a musician pauses mid-performance.
+
+Important details:
+Keep the Tang setting plausible: robe shapes, table height, wine vessels, lantern structure, courtyard architecture, and social posture should feel researched rather than generic fantasy. The smartphone must be unbranded with realistic glass, black bezel, finger reflections, and a screen showing abstract game lanes and colored hero-like shapes but no readable text, logos, or recognizable game interface. The joke should be instantly legible: ancient poetry culture collides with competitive mobile play.
+
+Use case:
+Time-Space Contrast single study 6/8, an independent Tang poet gaming scene for historical-modern fusion.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 16:9 horizontal aspect ratio, no brand marks, no named game UI, no fantasy armor, no inaccurate plastic props beyond the phone, no distorted hands, no crowded unreadable composition.

@@ -1,0 +1,14 @@
+Scene:
+A horizontal 16:9 cinematic photograph in the same late imperial scholar's study, preserving the reference image's room layout, desk position, lattice-window light, bamboo blinds, muted wood surfaces, book stacks, ink tools, and realistic dust. The frame should be wide enough to show the period setting clearly while focusing on the scholar's hands and modern device. The mood is concentrated, slightly tense, and visually witty without becoming parody.
+
+Subject:
+Use the reference as the primary guide for the same scholar's identity, robe layers, cap, face shape, posture, and desk environment. The scholar now holds a small unbranded handheld gaming console above a blank practice scroll. His brows are gently furrowed in strategic focus. The screen shows a colorful abstract battle-map interface made of shapes, lanes, and tiny icons, but no readable text, no numbers, and no recognizable game branding. Brushes, seal stones, a tea cup, and thread-bound books surround the device.
+
+Important details:
+Keep the historical costume and props accurate: cloth cap, silk robe folds, wooden brush rack, inkstone sheen, ceramic glaze, and natural window light. The gaming device should have believable plastic, glass, joysticks, buttons, reflections, and cool screen spill on fingers. The time-space joke must come from the disciplined contrast between scholarly ritual and modern play, not from exaggerated cartoon expressions or cluttered neon effects.
+
+Use case:
+Time-Space Contrast series study 4/8, testing reference continuity while introducing a handheld battle-game anachronism.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 16:9 horizontal aspect ratio, no brand marks, no changed scholar identity, no extra players, no fantasy weapons, no illegible hands, no inconsistent room layout.
