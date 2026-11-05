@@ -1,0 +1,1040 @@
+{
+  "date": "2026-11-05",
+  "indexedCases": 50,
+  "uniquePromptTexts": 41,
+  "note": "Source-linked index. Full prompt text stays at original source. Neither import-ready nor ProjectD-live. Multiple parameter outputs do not inflate unique prompt count.",
+  "items": [
+    {
+      "id": "official-case-1",
+      "title": "1. Complexity 对比：纸雕足球夺冠（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "1. Complexity 对比：纸雕足球夺冠（Sunburst）",
+      "promptSha256": "89f9ae4fdd0544f7a54f1839f1c0008467556dff7e69577f0385c809e41b29a9",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/paper-cut-football-effort-medium-gpt-image-2-6-sunburst.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-2",
+      "title": "2. 原生循环 GIF：提灯小猴（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "2. 原生循环 GIF：提灯小猴（Sunburst）",
+      "promptSha256": "b6e5963062073d06276e4c961542c18f5a4e765b7e980747e1e17d6a07912e79",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/monkey-lantern-gpt-image-2-6-sunburst.gif"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-3",
+      "title": "3. 纪实摄影风：渔民与狗（Flare vs Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "3. 纪实摄影风：渔民与狗（Flare vs Sunburst）",
+      "promptSha256": "a14ae3dd46d3fd791d924d5942aab33bfffb15940f777d7633fc6a800c871073",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/photorealism-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/photorealism-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-4",
+      "title": "4. 信息图：全自动咖啡机流程（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "4. 信息图：全自动咖啡机流程（Sunburst）",
+      "promptSha256": "be39e80883184dd600332be7e65fce082b9ad43341b3a1d6782a1aae03827ec3",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/infographic-coffee-machine-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-5",
+      "title": "5. 精确文案广告：Thread「Yours to Create.」（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "5. 精确文案广告：Thread「Yours to Create.」（Sunburst）",
+      "promptSha256": "e36a221315516a6c53658ccc11f747f8fb44c7bd17a59a11e710efbf6825b1bf",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/thread-ad-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-6",
+      "title": "6. SVG Logo：Field & Flour 面包店",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "6. SVG Logo：Field & Flour 面包店",
+      "promptSha256": "87a6d5df443ad4afa4e6a43e17c315091b0aee3c989c060526a2e6faa4c1a0af",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/field-and-flour-gpt-image-2-6-flare.svg",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/field-and-flour-gpt-image-2-6-sunburst.svg",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/logo-generation-1-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-7",
+      "title": "7. 四格漫画：宠物在家狂欢（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "7. 四格漫画：宠物在家狂欢（Sunburst）",
+      "promptSha256": "b686709bbac8c6fa559c9f6bb5e340e200e584800114ceff20fdef2538db7891",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/comic-reel-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-8",
+      "title": "8. UI 预览：农贸市场 App（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "8. UI 预览：农贸市场 App（Sunburst）",
+      "promptSha256": "8231c54c6b2474eacd657e664185f48e07370fb28e9a725fcd8e7a9c3fead201",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/ui-farmers-market-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-9",
+      "title": "9. 科学教育图：细胞呼吸一览（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "9. 科学教育图：细胞呼吸一览（Sunburst）",
+      "promptSha256": "1e50dd0d4042befc8c5a4916d5dc5c4050ae064aa53f8fc40ec14bfab86395c1",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/scientific-educational-cellular-respiration-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-10",
+      "title": "10. 路演幻灯片：Market Opportunity（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "10. 路演幻灯片：Market Opportunity（Sunburst）",
+      "promptSha256": "1dab595ac1e2257dd1c41b04d0d9f160807ac448101aaeb7373f25006f427f1b",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/market-opportunity-slide-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-11",
+      "title": "11. Markup 局部编辑：厨房花瓶改色（Flare）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "11. Markup 局部编辑：厨房花瓶改色（Flare）",
+      "promptSha256": "a407c48d47ba23d74de1f7fb783fb920a86dce11d521f99e6dff2bdb6a6204d1",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/markup-vase-gpt-image-2-6-flare.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-12",
+      "title": "12. 透明抠图产品（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "12. 透明抠图产品（Sunburst）",
+      "promptSha256": "9085878b1f426d81a24692aee6ec8acd6d742ebfaf042c733d20eeae29004b81",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/extract-product-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-13",
+      "title": "13. 节日贺卡：旧泰迪熊（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "13. 节日贺卡：旧泰迪熊（Sunburst）",
+      "promptSha256": "8633a6c0100c019228a528e1366f0a79ec8e7d04035e08f1bdcd8434418a6928",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/christmas-holiday-card-teddy-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-14",
+      "title": "14. 收藏玩具包装：复古螺旋桨飞机（Sunburst）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "14. 收藏玩具包装：复古螺旋桨飞机（Sunburst）",
+      "promptSha256": "8fb2c718d1566ddf91454bbc981942fa44626a8ba25917150328edd4ecefc8c8",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/christmas-collectible-toy-airplane-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-16",
+      "title": "16. 历史语境：1969 年 Bethel 户外人群（生成）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "16. 历史语境：1969 年 Bethel 户外人群（生成）",
+      "promptSha256": "30e05ffdbbd9d638e2118d1b100e6bdd5c854a7aa6f049a231e5258da23c21d9",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/world-knowledge-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/world-knowledge-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-17",
+      "title": "17. 布局保持翻译：咖啡机信息图 → 西班牙语（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "17. 布局保持翻译：咖啡机信息图 → 西班牙语（编辑）",
+      "promptSha256": "f7f150ae574b682483d79a1e6e1edbbc0f884e91e9c1d874f91d0d3e123071fd",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/infographic-coffee-machine-sp-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-18",
+      "title": "18. 风格迁移：像素风摩托骑士（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "18. 风格迁移：像素风摩托骑士（编辑）",
+      "promptSha256": "1aa24a7e0f3ec49e501c12c42723ac95957ebd43a54c8f86febd7aac906562d8",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/motorcycle-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/motorcycle-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-19",
+      "title": "19. 身份保持换装（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "19. 身份保持换装（编辑）",
+      "promptSha256": "fcf704fa03ad4cdcf31cf84c74c6480a31aeaf009e60e5c1fa5d40dd09534867",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/outfit-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/outfit-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-20",
+      "title": "20. 多图合成：把狗放入场景（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "20. 多图合成：把狗放入场景（编辑）",
+      "promptSha256": "aea161e56aee7b573dcf27eda2d6dee3f81994431ac820969b33d2e5c6fc104a",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/test-woman-with-dog-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/test-woman-with-dog-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-21",
+      "title": "21. 草图转写实山谷（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "21. 草图转写实山谷（编辑）",
+      "promptSha256": "36fd4199c86a270fc52dcc24f27ac134f1753ac2652f4c22398de7da9164e5d1",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/realistic-valley-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/realistic-valley-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-22",
+      "title": "22. 局部移除：拿掉手中的花（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "22. 局部移除：拿掉手中的花（编辑）",
+      "promptSha256": "572cf201b4091ce51bc7dff07ac0010d864779e65995859843e685ba49c0dd43",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/man-with-no-flower-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/man-with-no-flower-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-23",
+      "title": "23. 人物入景：营地与熊（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "23. 人物入景：营地与熊（编辑）",
+      "promptSha256": "0ae57db1bde698bd20a1985d04a32d5df36dffdb1b99a227b47f3b294dcca666",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/scene-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/scene-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-24",
+      "title": "24. 多轮精修起点：洗发水公路广告牌（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "24. 多轮精修起点：洗发水公路广告牌（编辑）",
+      "promptSha256": "e3b0fbfa563491405e1b8e4f54d7895ffb7c0259ca1702fbc5dd039c88e014c1",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/billboard-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/billboard-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-25",
+      "title": "25. 多轮精修：广告牌改为冬夜雪景（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "25. 多轮精修：广告牌改为冬夜雪景（编辑）",
+      "promptSha256": "26feb87b667835bdfb27030d64a80aaa6600c9328f5d5c02322d219bd6ef46a7",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/billboard-winter-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/billboard-winter-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-26",
+      "title": "26. 角色一致性：建立儿童书主角（生成）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "26. 角色一致性：建立儿童书主角（生成）",
+      "promptSha256": "71e3fdd535d4e86d22cb535243eb20638137762e7f6d9b8ca74cbb185f9fb3da",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/childrens-book-illustration-1-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-27",
+      "title": "27. 角色一致性：续写雪后救松鼠（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "27. 角色一致性：续写雪后救松鼠（编辑）",
+      "promptSha256": "655b5b65e75f122f6aafa51747a3b367008f1df99c336c818450e7cc34ebec8b",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/childrens-book-illustration-2-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/childrens-book-illustration-2-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "official-case-28",
+      "title": "28. 室内家具替换：白椅 → 木椅（编辑）",
+      "sourceRepository": "xianyu110/awesome-gpt-images-2.6",
+      "sourceCommit": "7ec41e86e7c686cf6e364e80adaef548ea035495",
+      "promptSourceUrl": "https://github.com/xianyu110/awesome-gpt-images-2.6/blob/7ec41e86e7c686cf6e364e80adaef548ea035495/README.md",
+      "promptSection": "28. 室内家具替换：白椅 → 木椅（编辑）",
+      "promptSha256": "9f48b02cc56d945fe243bc98ee5bbd127e26f8cf7c17a5a08b1d7621d3ffdcfa",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/kitchen-chairs-gpt-image-2-6-flare.webp",
+        "https://raw.githubusercontent.com/xianyu110/awesome-gpt-images-2.6/7ec41e86e7c686cf6e364e80adaef548ea035495/images/kitchen-chairs-gpt-image-2-6-sunburst.webp"
+      ],
+      "modelEvidence": "Source identifies these as official GPT Image 2.6 examples; original official source must be checked before import.",
+      "reviewStatus": "indexed-pending-primary-review",
+      "mediaRights": "OpenAI/original creators; repository MIT does not relicense media",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-01",
+      "title": "speed-flare-low",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/01-speed-flare-low.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/01-speed-flare-low.json",
+      "promptSha256": "602b9e1c8cd87450ebe8f6c8215781a7a484c6c487b463cd4b058359a5b21f85",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/01-speed-flare-low.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "low",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-02",
+      "title": "speed-sunburst-low",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/02-speed-sunburst-low.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/02-speed-sunburst-low.json",
+      "promptSha256": "602b9e1c8cd87450ebe8f6c8215781a7a484c6c487b463cd4b058359a5b21f85",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/02-speed-sunburst-low.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "low",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-03",
+      "title": "quality-medium",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/03-quality-medium.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/03-quality-medium.json",
+      "promptSha256": "602b9e1c8cd87450ebe8f6c8215781a7a484c6c487b463cd4b058359a5b21f85",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/03-quality-medium.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-04",
+      "title": "quality-high",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/04-quality-high.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/04-quality-high.json",
+      "promptSha256": "602b9e1c8cd87450ebe8f6c8215781a7a484c6c487b463cd4b058359a5b21f85",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/04-quality-high.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "high",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-05",
+      "title": "quality-xhigh",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/05-quality-xhigh.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/05-quality-xhigh.json",
+      "promptSha256": "602b9e1c8cd87450ebe8f6c8215781a7a484c6c487b463cd4b058359a5b21f85",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/05-quality-xhigh.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "xhigh",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-06",
+      "title": "quality-max",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/06-quality-max.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/06-quality-max.json",
+      "promptSha256": "602b9e1c8cd87450ebe8f6c8215781a7a484c6c487b463cd4b058359a5b21f85",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/06-quality-max.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "max",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-07",
+      "title": "complexity-low",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/07-complexity-low.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/07-complexity-low.json",
+      "promptSha256": "cce4d2686482226e800e4a2942aecd1ba09a4eba06d2a522025a8d23a3c64942",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/07-complexity-low.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "high",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-08",
+      "title": "complexity-medium",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/08-complexity-medium.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/08-complexity-medium.json",
+      "promptSha256": "cce4d2686482226e800e4a2942aecd1ba09a4eba06d2a522025a8d23a3c64942",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/08-complexity-medium.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "high",
+        "complexity": "medium",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-09",
+      "title": "complexity-high",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/09-complexity-high.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/09-complexity-high.json",
+      "promptSha256": "cce4d2686482226e800e4a2942aecd1ba09a4eba06d2a522025a8d23a3c64942",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/09-complexity-high.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "high",
+        "complexity": "high",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-10",
+      "title": "consistency-recolor",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/10-consistency-recolor.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/10-consistency-recolor.json",
+      "promptSha256": "92a1c540b273a067f1aecda6fc27a59ae939cd2a85ef9c54fc5180f359c3b252",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/10-consistency-recolor.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": "03",
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-11",
+      "title": "consistency-lighting",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/11-consistency-lighting.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/11-consistency-lighting.json",
+      "promptSha256": "3d39f81550ec4335fcc468ae2aa88bd5bab9a489cc871610244e34d48aef34b3",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/11-consistency-lighting.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": "10",
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-12",
+      "title": "consistency-background",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/12-consistency-background.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/12-consistency-background.json",
+      "promptSha256": "6f4950b210fae3b953f62c76a425935e351412ec569006b3cc7cc1a905d82ead",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/12-consistency-background.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": "11",
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-13",
+      "title": "professional-product",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/13-professional-product.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/13-professional-product.json",
+      "promptSha256": "2a9c855e66c27871d41b2dd5f50edd4b778764d1c92c5b493c0db54830837a8e",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/13-professional-product.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "high",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-14",
+      "title": "professional-poster",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/14-professional-poster.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/14-professional-poster.json",
+      "promptSha256": "c05eaac5ef0b55e7022b8b0c49e1227661cc5d9150da94cee0307b51808a22bf",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/14-professional-poster.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "high",
+        "complexity": "high",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-15",
+      "title": "sketch-to-mascot",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/15-sketch-to-mascot.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/15-sketch-to-mascot.json",
+      "promptSha256": "4f50efa1844dd00fd275a8c01b528f930c5ee0440028abcb5408966bcc399562",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/15-sketch-to-mascot.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": "inputs/owl-sketch.png",
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-16",
+      "title": "mascot-sprite-sheet",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/16-mascot-sprite-sheet.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/16-mascot-sprite-sheet.json",
+      "promptSha256": "7f5ffebffae5ec0e7b5600d122fece9deadcb453d02ce6476a15d2bd91d6555a",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/16-mascot-sprite-sheet.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1536x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": "15",
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-17",
+      "title": "markup-control-prompt-only",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/17-markup-control-prompt-only.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/17-markup-control-prompt-only.json",
+      "promptSha256": "7403d4ba06b1893e4ff2d290758a9035424ec730160e09f230f9fd297d9fffde",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/17-markup-control-prompt-only.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1
+      },
+      "referenceSource": "03",
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-18",
+      "title": "markup-overlay-edit",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/18-markup-overlay-edit.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/18-markup-overlay-edit.json",
+      "promptSha256": "7403d4ba06b1893e4ff2d290758a9035424ec730160e09f230f9fd297d9fffde",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/18-markup-overlay-edit.png"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "medium",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "png",
+        "n": 1,
+        "markup": "inputs/mug-markup.png"
+      },
+      "referenceSource": "03",
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-19",
+      "title": "svg-flare",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/19-svg-flare.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/19-svg-flare.json",
+      "promptSha256": "24568d211f06d91d5c4df847b4d3bbf980ce72174d2ae8d5dd3229e9a881b325",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/19-svg-flare.svg"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "low",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "svg",
+        "n": 1,
+        "svg": {
+          "model": "gpt-6-luna",
+          "reasoning": {
+            "effort": "low"
+          }
+        }
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-20",
+      "title": "svg-sunburst",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/20-svg-sunburst.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/20-svg-sunburst.json",
+      "promptSha256": "24568d211f06d91d5c4df847b4d3bbf980ce72174d2ae8d5dd3229e9a881b325",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/20-svg-sunburst.svg"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "low",
+        "complexity": "low",
+        "size": "1024x1024",
+        "output_format": "svg",
+        "n": 1,
+        "svg": {
+          "model": "gpt-6-luna",
+          "reasoning": {
+            "effort": "low"
+          }
+        }
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-21",
+      "title": "gif-flare-owl",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/21-gif-flare-owl.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/21-gif-flare-owl.json",
+      "promptSha256": "e6868d6a11ea467ba820afc8b5d4ca5f47f203fbf0759b11811d8165c4e7ebcb",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/21-gif-flare-owl.gif"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-flare",
+        "quality": "low",
+        "complexity": "low",
+        "size": "512x512",
+        "output_format": "gif",
+        "n": 1,
+        "frame_count": 6,
+        "frame_duration_ms": 200
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "nightlab-22",
+      "title": "gif-sunburst-product",
+      "sourceRepository": "az9713/gpt-image-2.6-demo",
+      "sourceCommit": "98225561192b7333705acc4d57f3b41795a49d5d",
+      "promptSourceUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/22-gif-sunburst-product.prompt.txt",
+      "requestUrl": "https://github.com/az9713/gpt-image-2.6-demo/blob/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/requests/22-gif-sunburst-product.json",
+      "promptSha256": "a1f80246a1098c05b3d22358b06a21d7c386db58208703b267f22b4d728cfd16",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/az9713/gpt-image-2.6-demo/98225561192b7333705acc4d57f3b41795a49d5d/image_26_experiment/outputs/22-gif-sunburst-product.gif"
+      ],
+      "settings": {
+        "model": "gpt-image-2.6-sunburst",
+        "quality": "low",
+        "complexity": "low",
+        "size": "512x512",
+        "output_format": "gif",
+        "n": 1,
+        "frame_count": 6,
+        "frame_duration_ms": 200
+      },
+      "referenceSource": null,
+      "modelEvidence": "Manifest and exact request/output filenames match; sanitized response evidence and visual review remain to check.",
+      "reviewStatus": "indexed-pending-visual-review",
+      "mediaRights": "No explicit repository license found; original source links retained.",
+      "projectdStatus": "not-imported"
+    },
+    {
+      "id": "creator-v3rt0x-tea",
+      "title": "居家持茶杯人像（作者对比中左图为 2.6）",
+      "sourceRepository": "original X post",
+      "prompt": "a realistic photo of a woman holding a cup of tea inside her home",
+      "promptSourceUrl": "https://x.com/v3rt0x_/status/2118147596891901957",
+      "promptSha256": "f55986e5e5d66d004deca7e3939ea5f7f22b4d23e63b4f5c24597cbb7440ec74",
+      "previewUrls": [
+        "https://pbs.twimg.com/media/HWUrkFiXMAAmGRv?format=webp&name=large"
+      ],
+      "modelEvidence": "Original post explicitly labels left/first output GPT Image 2.6 and right/second output GPT Image 2.5. Only first output is indexed. Exact variant unspecified.",
+      "reviewStatus": "original-post-read-pending-visual-review",
+      "mediaRights": "Original creator retains rights; no explicit reuse license found.",
+      "projectdStatus": "not-imported"
+    }
+  ]
+}

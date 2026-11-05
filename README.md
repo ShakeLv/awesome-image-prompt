@@ -2,6 +2,10 @@
 
 Image and prompt pairs with original author, source, actual generation model, reference inputs, and per-item provenance.
 
+## GPT Image 2.6 — current focus
+
+[Browse 50 source-linked 2.6 case groups (41 distinct prompt texts)](GPT-IMAGE-2.6.md). Includes exact prompt source links, pinned output images and API settings where available. These are indexed candidates; ProjectD import and publication are tracked separately.
+
 ## Initial ProjectD backfill
 
 53 Nano Banana 2.1 pairs copied from ProjectD with matching image hashes. These are historical examples, not GPT Image 2.6 outputs. [Structured data](data/projectd-batch-0001.json).
