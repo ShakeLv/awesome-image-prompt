@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 fictional public-health poster study inspired by international modernist information campaigns from the mid twentieth century. The style is clean and didactic: flat pastel background, limited red, blue, black, and cream palette, strong grid, simplified pictograms, and a prominent headline field made from unreadable block shapes. The poster should read as historical visual communication research, not as current medical advice.
+
+Subject:
+A simplified nurse-like figure, water faucet, soap, clean hands, and a shield-like abstract shape are arranged in a modernist grid. The figures are invented and generic, with no real health agency emblem, no medical logo, no country symbol, and no actual instruction text. The bottom area contains small diagram panels showing washing, drying, and clean surface icons, but all labels are blank bars or pseudo-letter marks.
+
+Important details:
+Focus on structured-layout and text-field discipline: modular grid, clear pictogram hierarchy, high-contrast headline area, numbered-looking circles that are not readable numbers, and subtle vintage print grain. Preserve the design-history angle by using period-appropriate flat shapes and lithographic texture. Avoid modern app UI, contemporary public-health slogans, or realistic disease imagery. The poster should be safe, fictional, and analytical rather than prescriptive.
+
+Use case:
+Propaganda Poster History single study 6/8, an independent modernist public-health poster-language specimen for design-history comparison.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 9:16 vertical aspect ratio, no real health agency marks, no actual medical instruction, no current public-policy slogan, no national flag, no frightening disease imagery.

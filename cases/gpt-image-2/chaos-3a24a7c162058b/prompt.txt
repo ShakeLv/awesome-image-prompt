@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic mockup of an open two-page zine spread lying on an unpainted plywood table, viewed from above with soft window light and shallow paper shadows. The pages are cream uncoated stock with visible fibers, staple crease, tiny handling dents, and imperfect trimmed edges. The entire spread is printed in fluorescent pink, cobalt blue, and black Risograph inks only.
+
+Subject:
+A botanical field-guide spread about imaginary greenhouse plants, shown through bold independent-comic linework, leaf silhouettes, seed pods, root diagrams, small specimen boxes, and pseudo-caption bars. The left page has a large plant cutaway; the right page has four smaller panels of leaves and roots. All title and note areas are abstract unreadable marks, not real writing.
+
+Important details:
+The print process is the main subject. Show 1-2mm registration drift between pink fills, cobalt blue shadows, and black keylines. Add coarse halftone shading, uneven ink coverage, roller streaks near the fold, slight ink offset transfer from facing pages, and small misaligned registration crosses in the corners. Keep the spread structured and legible as a designed zine artifact, not a messy collage.
+
+Use case:
+Risograph Misprint single study 5/8, testing a botanical zine spread with realistic paper, ink, and three-color misregistration.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real publication name, no glossy coated paper, no full-color digital print, no clean vector perfection, no human hands, no actual scientific labels.

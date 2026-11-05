@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic product shot of a Risograph zine poster lying flat on a slightly warm off-white studio table, viewed straight down with soft side light and subtle paper shadows. The print is on uncoated cream paper with visible fibers, deckled tiny edge imperfections, and faint roller pressure marks. The palette is limited to fluorescent pink, cobalt blue, and black ink, with off-white paper as the fourth tone.
+
+Subject:
+A fictional 1980s independent-comic style poster showing a moonlit street corner, a small record shop facade, a bicycle leaning on a pole, angular clouds, and two simplified figures drawn in bold zine linework. The layout has a large central illustration, abstract pseudo-title blocks near the top, small pseudo-caption bars at the bottom, and a few registration cross marks along the margins. All text areas must be unreadable graphic shapes.
+
+Important details:
+Make this image the clean reference print for a fanout series. The composition should be stable, balanced, and easy to preserve later: central shop window, bicycle lower right, clouds upper left, figures midground, pseudo-title band top. Include halftone dots, uneven ink absorption, slight fluorescent pink spread, cobalt blue grain, and black keyline crispness. Registration should be mostly accurate with only tiny natural offset.
+
+Use case:
+Reference image for a Risograph Misprint series. Later images must preserve this same zine poster composition while changing specific plate errors and ink defects.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real band names, no real brand marks, no glossy digital poster, no full-color CMYK, no perfectly clean vector art, no folded magazine mockup, no human hands.

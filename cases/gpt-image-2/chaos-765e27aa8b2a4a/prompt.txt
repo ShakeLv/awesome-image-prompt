@@ -1,0 +1,14 @@
+Scene:
+A square tabletop shot of several poster prints stacked and slightly fanned, with curled corners, offset edges, and soft directional light revealing paper thickness and ink behavior. The poster should express DIY risograph poster language with fluorescent layers, halftone dots, soy-ink soak, copier artifacts, and handmade zine rhythm, using fluorescent pink, teal, ultramarine, black, and fibrous cream paper and a tactile surface appropriate to the medium.
+
+Subject:
+Design the top poster to dominate while nearby duplicate sheets echo the same composition, creating a tactile print-run scene rather than a single isolated sheet. Use club-flyer stars, bicycles, cats, plants, arrows, sticker bursts, notebook doodles, and photocopy shadows as the main visual ingredients, and organize them with xerox-like title blocks, stickers, and captions treated as energetic but non-readable print texture. For the contemporary-subject axis, thread in community workshops, late-night print studios, and messenger bikes folded into a zine-launch poster system. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Use the stack to emphasize production character: edge shadows, repeated motifs peeking from beneath, and subtle misalignment should enrich the material reading without changing the core design. Preserve plate drift, dot grain, bleed-through, paper curl, and independent-publisher roughness. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no full-CMYK smoothness, no perfect vector edges, no glossy magazine finish, no sterile product polish.
+
+Use case:
+Risograph Zine single study 7/9, testing print-run tactility and repeat presence.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

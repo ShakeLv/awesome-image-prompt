@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 fictional poster study inspired by mid-century civil-defense and broadcast-information graphics. The palette is faded teal, orange, black, cream, and gray, with screenprint grain, folded paper creases, and modular diagram panels. A large headline region at the top and a footer instruction strip are filled with unreadable pseudo-letter blocks. The poster must feel like a historical museum artifact, not present-day emergency guidance.
+
+Subject:
+A generic radio tower emits concentric signal rings over a simplified city cutaway: apartment blocks, basement shelter icon, family silhouettes, battery lamp, water jug, and a small tabletop radio. All elements are invented and unbranded. No government seal, national emblem, real agency name, warning code, or readable instruction appears. The layout uses diagram arrows and numbered-looking circles, but they remain abstract and non-readable.
+
+Important details:
+Capture civil-defense poster grammar: anxious but orderly information design, bold icon system, practical object diagrams, signal waves, limited screenprint colors, and strong modular hierarchy. Keep the educational design-history lens clear by avoiding real instructions or current hazards. The diagram should be visually plausible while preventing actual public-safety advice from being readable. Use aging, ink misregistration, and paper texture to ground the period style.
+
+Use case:
+Propaganda Poster History single study 8/8, an independent civil-defense broadcast poster-language specimen for design-history comparison.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 9:16 vertical aspect ratio, no real government seal, no actual emergency instruction, no real warning code, no national flag, no contemporary political or disaster reference.

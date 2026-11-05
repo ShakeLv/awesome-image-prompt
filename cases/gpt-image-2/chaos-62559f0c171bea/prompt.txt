@@ -1,0 +1,14 @@
+Scene:
+A square poster-like composition with loud red, tobacco yellow, nicotine cream, and deep black arranged in flat graphic blocks over a staged crime tableau. The lighting should feel hard and directional, but the overall image should still read as a designed print object rather than a literal movie still. Use a cheap motel exterior corridor at night, with doorways receding along one side and a giant mustard color slab masking part of the sky.
+
+Subject:
+Focus on an implied act of violence or aftermath through frozen props, bodies held in stiff poses, diner booths, cheap motel details, briefcases, dashboard reflections, or nightclub furniture. The people should feel iconic and deadpan, with tension communicated through placement and color rather than explicit gore. A man in a dark suit leans against the railing while a dropped room key and a crimson heel mark imply a sudden unseen event.
+
+Important details:
+The crucial visual rule is the collision of graphic poster language and static pulp staging. Use oversized non-readable letterform-like shapes, caption bars, drop-shadow slabs, and paper-print textures without introducing actual words. Preserve bold silhouette hierarchy, cropped tension, and cynical cool. The palette should feel sun-faded even at night, with grainy paper texture and non-readable graphic bars interrupting the realism.
+
+Use case:
+Pulpy Typography Over Violent Tableau single study 2/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no explicit gore, no dismemberment, no recognizable brand packaging, no comic speech balloons, no broken anatomy, no low-detail background, no accidental text fragments.

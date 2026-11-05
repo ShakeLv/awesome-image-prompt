@@ -1,0 +1,14 @@
+Scene:
+Create a square 1:1 portrait image for Salon Color Makeover Campaign. Use a premium portrait frame with one clear change direction and enough negative space to judge styling cleanly. The frame should feel like a finished professional deliverable rather than a casual snapshot, with clear lens discipline, believable light falloff, and a palette that directly supports Design salon-ready hair-color makeover campaigns that highlight believable before-after change, hair texture, and beauty-advertising polish.. Keep enough surrounding space and compositional control for gallery, research, campaign, or approval-board reuse while staying photoreal and human-scaled.
+
+Subject:
+Center one salon model with neutral beige skin, collarbone-length dark hair, a clean oval face, and a precise hairline built for controlled color changes. Keep the exact same person from the reference while executing the first major change requested by the topic, whether hair, makeup, wardrobe, grooming, or professional read. Use the example direction from the brief as grounding context: Design salon-ready hair-color makeover campaigns that highlight believable before-after change, hair texture, and beauty-advertising polish.. Wardrobe, lighting, environment, and pose may shift to serve this variation, but the viewer must immediately understand that the same reference identity is still in front of the camera.
+
+Important details:
+This backlog line is difficult because Design salon-ready hair-color makeover campaigns that highlight believable before-after change, hair texture, and beauty-advertising polish.. Preserve skin tone family, bone structure, eye spacing, nose shape, mouth shape, hairline logic, shoulder width, and overall body read across the entire series. preserve exact face / hair base / body proportions from the reference model. The switch must be obvious, but the identity must remain stronger than the styling change. Avoid the common failure described in the brief: ordinary image models often lose likeness once styling, lighting, or layout changes enter the frame. Success should feel like the result should feel professionally usable, coherent, and clearly built around one stable human identity.
+
+Use case:
+Salon Color Makeover Campaign series study 2/9, the first controlled transformation.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no face redraw, no changed age unless explicitly asked, no costume-party exaggeration, no new body shape.

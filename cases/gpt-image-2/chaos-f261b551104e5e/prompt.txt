@@ -1,0 +1,14 @@
+Scene:
+Create a square dependent hospitality image in the same evening-lit environment, preserving the exact warm lantern glow, blue ambient depth, and refined textile-material language from the reference image, but organize the composition around a dessert and serving spread. The scene should still feel clearly connected to the anchor while becoming more table-rich and abundance-focused.
+
+Subject:
+Show a composed spread of sweets, dates, tea or coffee service, serving vessels, and one subtle gift element arranged into a premium hosting image. Preserve exact campaign identity from the reference model while changing the emphasis toward celebratory food and hospitality. The spread should look real, respectful, and suitable for hospitality or retail communication during the season.
+
+Important details:
+Keep the mood generous but measured. Surface realism matters: glaze, metal, pastry texture, fabric weave, and lantern light should all feel persuasive. The image should behave like a premium seasonal asset for restaurants, hotels, or gifting brands. It must remain calm, culturally informed, and free of spectacle-heavy distraction.
+
+Use case:
+Ramadan/Eid series study 4/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact campaign identity from the reference image, no readable menu cards, no alcohol, no crowd, no logo plates, no fantasy palace, no overdecorated stage set, no stereotype props.

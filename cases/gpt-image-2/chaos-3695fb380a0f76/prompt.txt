@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 fictional poster study inspired by high-contrast revolutionary portrait screenprints and mid-century Latin American graphic poster traditions. The paper is rough, ink is limited to black, red, cream, and deep teal, and the composition uses a single monumental head, radiating background shapes, and a lower block of unreadable title forms. It should look like a museum-safe style study, not a real movement poster.
+
+Subject:
+An invented anonymous young organizer wearing a plain dark beret appears in a bold graphic portrait. The face is not based on any real person and avoids recognizable historical likeness. Wind-shifted hair, a stern upward gaze, and simplified facial planes create an iconic poster silhouette. Behind the portrait are abstract stars, sunburst shards, and screenprint misregistration, but no real flags, names, party emblems, weapons, or actual slogans.
+
+Important details:
+Capture the design grammar often associated with revolutionary portrait posters: flat high-contrast face planes, limited ink palette, heroic upward gaze, hard poster crop, visible screenprint texture, and strong title block hierarchy. The type areas must look intentionally designed but remain unreadable. Keep the work fictional and educational; do not reproduce famous portraits, real leaders, real symbols, or specific campaign names. The image should support visual-history analysis of style transfer and structured layout.
+
+Use case:
+Propaganda Poster History single study 4/8, an independent revolutionary portrait poster-language specimen for design-history comparison.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 9:16 vertical aspect ratio, no real leader likeness, no real party symbols, no actual slogan, no weapons, no contemporary political reference.

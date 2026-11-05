@@ -1,0 +1,14 @@
+Scene:
+Same square top-down studio product shot as the reference image, with the same cream paper sheet, same table, same soft shadows, and the same zine poster design. Preserve the reference layout exactly: moonlit street corner, record shop facade, bicycle lower right, angular clouds upper left, two simplified figures, pseudo-title band, and bottom pseudo-caption blocks.
+
+Subject:
+Convert the reference into a cobalt-blue double-feed ghosting error. The cobalt blue plate appears twice: one normal blue impression and a faint second ghost impression shifted a few millimeters upward and left, as if the sheet slipped or fed twice during printing. Blue shadows, shop window shapes, cloud fills, bicycle accents, and margin registration crosses all show the ghost duplicate, while black keylines and fluorescent pink remain mostly single-pass.
+
+Important details:
+Keep the print artifact physically plausible. The ghost image should be lighter, grainier, and partially incomplete, with roller fade near one edge and uneven pressure across the sheet. Show halftone dots, paper tooth, ink pooling in darker blue regions, and a few speckled voids where ink skipped. The composition should still read as the same poster, not a new design or motion blur photograph.
+
+Use case:
+Third image in a reference-dependent Risograph Misprint series, preserving the base poster while showing cobalt blue double-feed ghosting.
+
+Constraints:
+PRESERVE the reference image composition, paper crop, zine layout, subject placement, and square format. No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real brand marks, no digital blur filter, no full-color CMYK, no changed poster subject, no human hands.

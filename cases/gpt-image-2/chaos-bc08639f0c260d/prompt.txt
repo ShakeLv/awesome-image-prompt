@@ -1,0 +1,14 @@
+Scene:
+A square outdoor battlefield image shaped by violent weather: slanting rain, flattened reeds, mud spray, charcoal clouds, and wind carving motion through fabric and grass. The palette should stay restrained in charcoal, wet brown, muted steel, and deep moss, with nature overpowering the people within it. Show a field cut by a broken fence line and puddled track, with heavy rain turning the soil black and reflective.
+
+Subject:
+The subject is two lone armored duelists facing each other across open ground, bamboo edges, flooded fields, or broken terrain. Their poses should feel precise and ritualized, with tension coming from stance, distance, and weather rather than from explicit impact. The duelists stand on opposite sides of the broken fence opening, sharing one invisible line of movement through the gap.
+
+Important details:
+The core language is discipline against elemental force. Preserve historically inspired layered armor, soaked cloth, muddy terrain, reeds bent by wind, and the sense that rain itself is a character. Avoid fantasy powers, impossible weapons, or decorative heroic posing. Let the fence fragments and puddles deepen the composition without distracting from the poised bodies.
+
+Use case:
+Rain Wind Samurai Duel Field single study 4/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable banners, no bright saturated armor, no fantasy monsters, no gore splatter, no stylized comic effects, no broken anatomy, no low-detail background, no accidental text fragments.

@@ -1,0 +1,14 @@
+Scene:
+A square dusk street photograph of a backlit transit poster glowing inside glass, with faint rain reflections, soft city blur in the distance, and the poster remaining fully legible as a composition. The poster should express DIY risograph poster language with fluorescent layers, halftone dots, soy-ink soak, copier artifacts, and handmade zine rhythm, using fluorescent pink, teal, ultramarine, black, and fibrous cream paper and a tactile surface appropriate to the medium.
+
+Subject:
+Adapt the poster into a public-facing lightbox version that still honors the original style grammar while feeling bold enough to stop a passerby from several meters away. Use club-flyer stars, bicycles, cats, plants, arrows, sticker bursts, notebook doodles, and photocopy shadows as the main visual ingredients, and organize them with xerox-like title blocks, stickers, and captions treated as energetic but non-readable print texture. For the contemporary-subject axis, thread in community workshops, late-night print studios, and messenger bikes folded into a zine-launch poster system. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Let the style survive the illumination test: color blocking, silhouette contrast, and abstract lettering should stay controlled under bright internal light and reflective glass. Preserve plate drift, dot grain, bleed-through, paper curl, and independent-publisher roughness. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no full-CMYK smoothness, no perfect vector edges, no glossy magazine finish, no sterile product polish.
+
+Use case:
+Risograph Zine single study 3/9, testing distance readability in public display.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

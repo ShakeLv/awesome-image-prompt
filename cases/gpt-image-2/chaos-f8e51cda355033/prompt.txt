@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 fictional poster study inspired by mid-century space-race optimism and state science promotion graphics. The design uses deep cobalt, bright red, cream, silver, and aged offset texture. A rocket arc cuts upward through geometric stars, while large unreadable headline blocks occupy a diagonal band and a footer strip. The poster should feel like a historical design artifact for classroom analysis, not a real national campaign.
+
+Subject:
+An invented astronaut-like figure in a simplified pressure suit points toward a stylized orbit path above a city of antennas, observatories, and abstract industrial roofs. The rocket is generic, with no national insignia, agency logos, real mission markings, flags, or readable numbers. The figure's face is obscured by a reflective visor. Concentric orbital lines, starbursts, and technical diagram circles create a sense of scientific progress.
+
+Important details:
+Emphasize historical poster cues: space-age geometry, optimistic upward diagonals, simplified industrial skyline, flat color separations, halftone grain, registration shifts, and bold typography fields. The type blocks should be visually convincing but unreadable. Do not include real mission patches, specific spacecraft names, or identifiable political symbols. The image should test world-knowledge style transfer, structured layout, and poster hierarchy while staying fictional and non-persuasive.
+
+Use case:
+Propaganda Poster History single study 5/8, an independent space-race poster-language specimen for design-history comparison.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 9:16 vertical aspect ratio, no real space agency marks, no national flags, no actual slogan, no real leader likeness, no contemporary political reference.

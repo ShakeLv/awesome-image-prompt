@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic tabletop shot of a small stack of Risograph flyers, with the top flyer slightly askew and two duplicate sheets visible underneath. The paper is matte cream stock on a gray studio surface, lit by cool daylight. The top print uses fluorescent pink, cobalt blue, and black with rough halftone texture, ink pooling, and light paper curl at one corner.
+
+Subject:
+An imaginary aquarium-club flyer drawn in independent-comic style: jellyfish, bubble columns, a fish tank silhouette, coral shapes, and a simplified diver helmet arranged in a structured poster grid. The flyer has abstract blocks where a title and schedule would be, plus tiny pseudo-ticket shapes along the bottom edge. All lettering is non-readable graphic texture.
+
+Important details:
+Make the misprint specific and physical. The top flyer has a visible feed skew: the cobalt blue plate is rotated slightly clockwise, fluorescent pink bubbles are shifted left, and black keylines remain straight. The duplicate sheets underneath show partial offset transfer and faint ghost ink. Include registration crosses that do not align, coarse screen dots in the water, small ink voids in the jellyfish, and scuffed paper edges.
+
+Use case:
+Risograph Misprint single study 7/8, testing stacked flyer realism with skewed multi-plate registration and offset transfer.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real aquarium name, no ticket barcode, no full-color digital flyer, no glossy paper, no wet ink puddles, no human hands, no clean vector perfection.

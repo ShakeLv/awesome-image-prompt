@@ -1,0 +1,14 @@
+Scene:
+A square conservation-table view of a vintage poster laid on gray felt under raking light, with visible fold lines, softened corners, and subtle aging that still preserves the integrity of the image. The poster should express late-1960s psychedelic poster language with liquid swirls, floral mandala density, vibrating contours, and molten ornamental framing, using acid orange, violet, lime, cyan, cream, and deep black and a tactile surface appropriate to the medium.
+
+Subject:
+Present the poster as an archive copy that has been stored, unfolded, and carefully documented, letting age and handling reveal how the design holds up across time. Use sun faces, paisley smoke, guitars, mushrooms, stars, lotus petals, and concentric wave rings as the main visual ingredients, and organize them with ornamental pseudo-lettering that feels lavish and tangled while remaining unreadable. For the contemporary-subject axis, thread in a rooftop electronic set, bike lights, and crowd motion translated into a hallucinatory hand-drawn poster field. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Aging must stay believable rather than theatrical: slight yellowing, fold memory, edge wear, and pigment variation should support the historical or crafted feeling of the style. Preserve dense symmetry, nested curves, optical vibration, and saturated color friction across the whole sheet. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no plain corporate layout, no dead empty zones, no restrained minimalist spacing, no clean sans-serif blocks.
+
+Use case:
+Psychedelic 60s single study 5/9, testing archival endurance and age character.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.

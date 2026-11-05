@@ -1,0 +1,14 @@
+Scene:
+A square poster-like composition with loud red, tobacco yellow, nicotine cream, and deep black arranged in flat graphic blocks over a staged crime tableau. The lighting should feel hard and directional, but the overall image should still read as a designed print object rather than a literal movie still. Set the image in a narrow back alley with wet asphalt, one fire stair, and a huge red vertical panel that crops the space like pasted print stock.
+
+Subject:
+Focus on an implied act of violence or aftermath through frozen props, bodies held in stiff poses, diner booths, cheap motel details, briefcases, dashboard reflections, or nightclub furniture. The people should feel iconic and deadpan, with tension communicated through placement and color rather than explicit gore. An exploded briefcase spills casino chips, photos, and a red-stained handkerchief while two figures hold a silent standoff at opposite edges.
+
+Important details:
+The crucial visual rule is the collision of graphic poster language and static pulp staging. Use oversized non-readable letterform-like shapes, caption bars, drop-shadow slabs, and paper-print textures without introducing actual words. Preserve bold silhouette hierarchy, cropped tension, and cynical cool. The props should read crisply enough for narrative, yet the composition must stay closer to editorial design than documentary realism.
+
+Use case:
+Pulpy Typography Over Violent Tableau single study 4/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no readable text, no logos, no explicit gore, no dismemberment, no recognizable brand packaging, no comic speech balloons, no broken anatomy, no low-detail background, no accidental text fragments.

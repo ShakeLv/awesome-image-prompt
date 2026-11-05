@@ -1,0 +1,14 @@
+Scene:
+Create a square lore-card composition that feels like an astronomical codex page recovered from ruins. Use a dry midnight palette with desaturated stone, dim gold leaf, and faint star-blue illumination. The card should feature a central broken tablet suspended over a sober frame system with empty diagram panels, thin radial accents, and a muted glow that implies celestial importance without readable labels.
+
+Subject:
+The relic is a fallen observatory tablet carved from dark basalt and inlaid with tiny brass star pins. One corner is snapped away, exposing fresh stone beneath older weathering. The front surface contains circular orbit grooves, eclipse notches, and abstract constellation channels that suggest a predictive instrument rather than decorative carving. Dust lingers in the recesses, and a few hairline fractures cross the outer ring. It should feel like a device scholars used to map the heavens before a catastrophe destroyed the tower that housed it.
+
+Important details:
+The tablet must feel functional and mythic at the same time. Keep the orbital grooves precise, the brass pins subtly reflective, and the missing fragment visually important enough to imply incomplete knowledge. The card frame should support the storytelling with archive-like geometry, but never overpower the object. Make the object read clearly at thumbnail size, with a strong round-to-square contrast between relic and card. Avoid real zodiac symbols, readable star names, or generic sci-fi circuitry.
+
+Use case:
+Relic Artifact Lore Card Set single study 3/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real astronomy symbols, no modern circuit board look, no floating magical spellbook pages, no random planets, no cartoon ruin debris, no cracked-screen effect.

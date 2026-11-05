@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic still life of a fictional museum ticket and attached receipt on a pale stone counter. The ticket stock is thick matte paper with a torn perforated edge, while the receipt is thin curled thermal paper. Soft gallery light, tiny shadows, and paper fibers should make both materials distinct.
+
+Subject:
+Create a fictional museum admission specimen. The exact readable text should include: SPECIMEN, ATLAS MUSEUM, ADMISSION, GALLERY A, ADULT, 23 APR 2026, 10:30, RECEIPT, TOTAL 0.00. Include a decorative non-scannable barcode-like strip and a small abstract artifact icon, but no real museum logo, no QR code, no payment card digits, no transaction ID, and no address. The receipt can show short gray placeholder rules as unreadable texture.
+
+Important details:
+This image tests two paper systems in one composition: heavier ticket stock versus slick thermal receipt. Keep typography aligned, with readable hierarchy on the ticket and receipt. The perforation, ink density, paper curl, and stone-counter reflections should feel physically plausible. The specimen mark and zero-total value make the document safe and non-operational while retaining museum-product realism.
+
+Use case:
+Pseudo-Real Documents single study 6/8, testing ticket and receipt typography, paper-material contrast, and fictional commercial mockup realism.
+
+Constraints:
+No readable text except the specified museum ticket and receipt strings, no watermark, no logos, preserve exact 1:1 aspect ratio, no real museum name, no QR code, no scannable barcode, no credit card digits, no transaction number, no address, no extra pricing lines.

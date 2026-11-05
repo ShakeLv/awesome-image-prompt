@@ -1,0 +1,14 @@
+Scene:
+Create a square collectible lore card with a polished archive layout, pale shell-like highlights, and a formal frame that suggests court provenance. Use a cool marine palette of pearl, indigo, oxidized silver, and muted sea green. The object should sit in the center over layered velvet and parchment shapes, with blank crest plates and subtle ornamental corners that imply rarity without any words.
+
+Subject:
+The relic is a royal tide seal once used to authorize oceanic decrees. It combines a silver signet handle, a flattened oval stamp face made of nacre and dark steel, and a ring of wave-cut inlays around the edge. Salt deposits gather in seams, and one corner carries a tiny fracture filled with blue resin from an old repair. The stamp face should show abstract emblem geometry but no readable heraldry. It must feel ceremonial, administrative, and heavy with the politics of a drowned court.
+
+Important details:
+The seal should communicate rank and history through craft. Make the nacre shimmer softly, the silver feel worn by generations of hands, and the salt residue indicate long burial near water. The card frame must remain unified with the other relic studies, but the object should stand apart through elegant proportions and ocean-derived material language. Keep the composition organized enough for a codex, reward card, or collection page. Avoid generic pirate clichés; this is a state artifact, not a tavern prop.
+
+Use case:
+Relic Artifact Lore Card Set single study 2/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no crown icon with readable initials, no pirate flags, no modern office stamp, no seashell clutter, no broken symmetry, no cheap jewelry styling.

@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic studio photograph of a Chinese calligraphy practice copybook opened flat on a bamboo desk. The page is printed on thin ivory practice paper with faint red grid lines, gray model characters, black student brush strokes, ink feathering, and a small ceramic brush rest. The camera is top-down with gentle daylight and crisp page texture.
+
+Subject:
+Show a fictional calligraphy copybook page. The exact readable text should include: 书法临摹, 永, 和, 山, 水, 月, 心, SPECIMEN. Arrange the characters in repeated practice boxes: pale gray model characters in the first column, darker traced attempts beside them, and one red rectangular specimen stamp in a corner. No school name, real teacher name, grading score, student identity, or publication imprint.
+
+Important details:
+The test is text rendering plus paper physics. Grid lines must align consistently, characters must sit inside boxes, brush strokes should show pressure, dry-brush texture, ink pooling, and slightly uneven human practice. The printed model characters should be cleaner than the practice strokes. Keep the page believable as a cultural stationery product and not as a certificate. The specified characters should remain readable at thumbnail scale.
+
+Use case:
+Pseudo-Real Documents single study 4/8, testing copybook grid precision, Chinese character readability, brush texture, and thin practice paper realism.
+
+Constraints:
+No readable text except the specified copybook strings, no watermark, no logos, preserve exact 1:1 aspect ratio, no real school name, no personal name, no grading marks, no publisher imprint, no random extra characters, no unreadable ink blot covering the models.

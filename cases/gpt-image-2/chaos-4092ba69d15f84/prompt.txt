@@ -1,0 +1,14 @@
+Scene:
+Same square top-down studio product shot as the reference image: the same Risograph zine poster on cream uncoated paper, same table, same paper edges, same soft side lighting, and the same central poster composition. Preserve the reference crop, paper position, zine layout, shop facade, bicycle, clouds, figures, pseudo-title band, and bottom pseudo-caption bars.
+
+Subject:
+Transform the reference print into a deliberate fluorescent-pink plate misregistration study. The same poster remains visible, but the fluorescent pink separation is shifted 1-2mm down and slightly right relative to the cobalt blue and black plates. Pink fills, facial accents, window glow, cloud shadows, and abstract title blocks should visibly float away from the black keyline while the main composition remains recognizable.
+
+Important details:
+Make the misprint physical and believable, not a digital glitch. Show fluorescent ink spreading into paper fibers, tiny pink halos around edges, uneven pressure bands, halftone rosettes, and slight overprint where pink crosses cobalt blue. Keep the black keyline and cobalt plate mostly stable so the pink drift is easy to read. Registration marks along the margins may show the offset as colored crosses that fail to align.
+
+Use case:
+Second image in a reference-dependent Risograph Misprint series, preserving the base poster while isolating fluorescent pink plate drift.
+
+Constraints:
+PRESERVE the reference image composition, paper crop, zine layout, subject placement, and square format. No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no real brand marks, no full-color CMYK, no digital RGB glitch, no changed poster subject, no human hands.

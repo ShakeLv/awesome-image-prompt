@@ -1,0 +1,12 @@
+# Colonial Drift Grid
+
+Source-paired archive. **Pending individual ProjectD editorial review.**
+
+- Actual source model:GPT Image2, not2.6.
+- [Complete original prompt](prompt.txt)
+- [Pinned source](https://github.com/ChaosRealmsAI/gpt-image-2-gallery/blob/5296db8c996e38776c83a0bc8c64f848dcd512b3/works/topics/radiolarian-marine-sculpture/packages/single-radiolarian-atlas/images/colonial-drift-grid/meta.json)
+- [Native author-published rendition](../../../images/chaos-source/cf595b8d6f95b02b82d44da320633c486402f3f9d0c340d72b099d480cd1e49b.webp)
+- SHA-256:cf595b8d6f95b02b82d44da320633c486402f3f9d0c340d72b099d480cd1e49b
+- Reference dependencies:0; full relationships retained in data/chaos-source-gallery.json.
+
+MIT. Copyright2026 GPT Image2 Hub / ChaosRealmsAI. [Full source license](../../../sources/chaos-gpt-image-2/LICENSE). No rights to external references/trademarks inferred. The source generation PNG is absent; this is an unchanged author-published2400px WebP rendition.

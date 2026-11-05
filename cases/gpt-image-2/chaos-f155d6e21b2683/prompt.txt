@@ -1,0 +1,14 @@
+Scene:
+Create a square 1:1 portrait image for Relationship Portrait Series. Use a clean portrait setup with enough room for two bodies, stable spacing, and honest emotional neutrality. The frame should feel like a finished professional deliverable rather than a casual snapshot, with clear lens discipline, believable light falloff, and a palette that directly supports Photograph pairs or small groups in ways that reveal intimacy, tension, friendship, or shared history through pose, distance, and gaze.. Keep enough surrounding space and compositional control for gallery, research, campaign, or approval-board reuse while staying photoreal and human-scaled.
+
+Subject:
+Center the same recurring pair: a woman with golden-brown skin and a curly bob, and her partner with warm brown skin, cropped hair, and a relaxed upright build. Establish the same recurring pair and especially the same primary reference model so later relationship beats can shift emotion without changing identity. Use the example direction from the brief as grounding context: Photograph pairs or small groups in ways that reveal intimacy, tension, friendship, or shared history through pose, distance, and gaze.. Wardrobe, lighting, environment, and pose may shift to serve this variation, but the viewer must immediately understand that the same reference identity is still in front of the camera.
+
+Important details:
+This backlog line is difficult because Photograph pairs or small groups in ways that reveal intimacy, tension, friendship, or shared history through pose, distance, and gaze.. Preserve skin tone family, bone structure, eye spacing, nose shape, mouth shape, hairline logic, shoulder width, and overall body read across the entire series. preserve exact face / hair base / body proportions from the reference model. The body spacing, height difference, and facial recognition of both people should lock in here. Avoid the common failure described in the brief: ordinary image models often lose likeness once styling, lighting, or layout changes enter the frame. Success should feel like the result should feel professionally usable, coherent, and clearly built around one stable human identity.
+
+Use case:
+Relationship Portrait Series series study 1/9, the baseline pair portrait.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no extra friends, no wedding-style decor unless relevant, no readable text, no generic stock smile.

@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic image of a fictional rail seat reservation card clipped to a train seatback tray. The card is printed on satin paper with rounded corners, tiny punched holes, and a folded crease. Behind it, the train interior is softly blurred: fabric seat, window light, and a metal tray hinge. The camera is front-facing so the text plane is readable.
+
+Subject:
+Create a fictional rail reservation specimen. The exact readable text should include: SPECIMEN, RAIL PASS, TRAIN T26, CAR 05, SEAT 08A, FROM NOVA, TO HARBOR, DATE 23 APR 2026, DEPART 14:20, SAMPLE ONLY. Add a decorative non-scannable barcode-like strip and a simple carriage seat diagram made of rectangles. Do not include real railway operators, real station names, passenger name, ticket number, QR code, payment data, or terms and conditions.
+
+Important details:
+The test is transit-document realism in context: crisp ticket typography, small icon alignment, paper thickness, punched holes, clip shadow, mild paper bend, and believable train-seat materials. The reservation must look product-real but clearly fictional and non-operational. Keep the specified route and seat fields readable; all other background marks should be abstract texture. No real transport brand identity should appear.
+
+Use case:
+Pseudo-Real Documents single study 8/8, testing readable rail reservation layout, satin card material, transport context, and safe fictional ticket design.
+
+Constraints:
+No readable text except the specified rail reservation strings, no watermark, no logos, preserve exact 1:1 aspect ratio, no real rail company, no real station names, no passenger name, no ticket number, no QR code, no scannable barcode, no payment data, no extra schedule text.

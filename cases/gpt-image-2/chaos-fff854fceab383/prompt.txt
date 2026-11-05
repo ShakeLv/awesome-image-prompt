@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 fictional museum-study poster inspired by early twentieth-century wartime civic recruitment design, using cream paper, navy blue, muted red, and aged lithographic ink. The composition centers on a pointing hand and direct frontal gaze, but all headline and footer areas are filled with unreadable block-letter placeholders. The poster should feel historically recognizable as a design language study without recruiting for any real cause.
+
+Subject:
+An invented older civic figure in a plain dark coat points outward from the center, framed by a circular burst and stacked border bands. The face is generic and not a real person; no national flags, official seals, military insignia, or actual campaign marks appear. The lower half contains a large blank slogan band rendered as non-readable lettering shapes and a row of small abstract poster-registration marks. Paper wear, fold creases, and offset ink texture are visible.
+
+Important details:
+Capture the poster grammar: frontal address, commanding hand gesture, strong eye contact, centered figure, thick headline band, restrained patriotic-era palette, and lithographic texture. Keep the invented figure respectful and non-caricatured. The visual power should come from composition and historical design conventions, not from readable persuasion. Make the text fields look deliberately placed, but prevent any actual words, numbers, or recognizable slogans from forming.
+
+Use case:
+Propaganda Poster History single study 2/8, an independent civic recruitment poster-language specimen for design-history comparison.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 9:16 vertical aspect ratio, no real flags, no real military insignia, no actual recruitment slogan, no real public figure likeness, no modern political reference.

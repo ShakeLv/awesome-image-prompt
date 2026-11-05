@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 fictional poster study inspired by twentieth-century political woodcut and mass-movement print traditions. The page uses rough black ink, red spot color, cream paper, carved line texture, and a high-contrast crowd composition. The headline and side-caption fields are rendered as unreadable carved blocks, keeping the focus on historical print language rather than actual persuasion.
+
+Subject:
+A group of anonymous workers, students, and villagers march through a simplified street, each holding blank banners or abstract rectangular placards with no readable marks. The people are invented, not based on real leaders or specific organizations. Their faces are simplified by woodcut marks, with varied ages and clothing but no real emblems, flags, party badges, or national symbols. The central gesture is collective movement, not a call to a real action.
+
+Important details:
+Emphasize carved print materiality: gouged black lines, uneven red overprint, rough paper tooth, strong diagonals, stacked silhouettes, simplified hands, and poster hierarchy. The composition should demonstrate how woodcut visual language builds urgency through rhythm and contrast. Keep all banners blank or filled with non-readable texture. Do not include real slogans, real historical leaders, or modern protest references. This is a design-history specimen.
+
+Use case:
+Propaganda Poster History single study 7/8, an independent woodcut crowd poster-language specimen for design-history comparison.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 9:16 vertical aspect ratio, no real party symbols, no real leader likeness, no actual protest slogan, no national flags, no contemporary political reference.

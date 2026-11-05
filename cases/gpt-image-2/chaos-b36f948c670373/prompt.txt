@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic product mockup of a fictional palm-reading report sheet on lightly textured parchment paper, photographed on a dark wooden table with a magnifying glass and blank envelope as props. The sheet has a clean consulting-report layout, soft sepia ink, thin diagram lines, and one pressed paper crease.
+
+Subject:
+Create an entertainment-only palm analysis document. The exact readable text should include: SPECIMEN, PALM READING REPORT, Entertainment Only, Life Line, Head Line, Heart Line, Mounts, Notes, sample chart. Show a line drawing of a palm with labeled regions, small annotation boxes, and a neat report grid. Do not include a real client name, birth date, address, phone number, signature, payment field, or predictive claims.
+
+Important details:
+The document should look convincingly printed and handled: letterpress-like header, thin gray rule lines, subtle ink spread, hand-drawn palm diagram texture, corner shadow, and slightly uneven paper grain. The hierarchy must be readable: title, diagram, labels, notes area, and specimen mark. Keep the tone mystical but restrained, like boutique stationery, not a legal or medical report. The entertainment disclaimer should be clear.
+
+Use case:
+Pseudo-Real Documents single study 5/8, testing report-layout readability, diagram labels, parchment material, and safe fictional entertainment framing.
+
+Constraints:
+No readable text except the specified palm report strings, no watermark, no logos, preserve exact 1:1 aspect ratio, no real person data, no signature, no phone number, no address, no payment details, no medical claims, no legal certification, no extra prophecy text.

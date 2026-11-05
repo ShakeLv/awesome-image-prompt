@@ -1,0 +1,14 @@
+Scene:
+A vertical 9:16 fictional poster study inspired by mid-century socialist realist agricultural and industrial mural language. The page has a heroic low angle, warm sunrise, red-orange sky, golden grain, steel machinery, and thick painted brush texture. Large banner-like type fields sit at the top and bottom as unreadable block shapes, aged by paper fibers and offset ink. The result should read as educational visual-history reconstruction, not a real political message.
+
+Subject:
+A group of invented workers and farmers stand together in a sweeping composition: one person holds a sheaf of grain, another guides a factory lever, another looks toward distant tractors and chimneys. Their clothing is simplified workwear without real badges, flags, or party emblems. The faces are idealized but generic. Industrial wheels and harvest rows converge behind them, linking agriculture and factory production in one theatrical poster image.
+
+Important details:
+Emphasize the visual grammar of socialist-realist poster art: heroic upward gaze, muscular silhouettes, red-gold palette, sunrise symbolism, synchronized bodies, monumental scale, painterly realism, and strong central hierarchy. Keep every political identifier fictional or absent. The headline fields should look historically plausible but remain unreadable. Avoid copying any known poster or depicting a real leader. The subject is style-transfer and world-knowledge research.
+
+Use case:
+Propaganda Poster History single study 3/8, an independent industrial-harvest poster-language specimen for design-history comparison.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 9:16 vertical aspect ratio, no real party symbols, no real leader likeness, no actual slogan, no national flags, no contemporary political reference.

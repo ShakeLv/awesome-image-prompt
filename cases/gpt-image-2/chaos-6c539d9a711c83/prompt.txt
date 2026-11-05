@@ -1,0 +1,14 @@
+Scene:
+A square photorealistic overhead photograph of a fictional herbal study note on warm cream prescription-style paper, placed beside a ceramic tea cup, blank kraft envelope, and a brush pen. The paper has slight wrinkles, deckled fiber edges, and a red specimen chop mark. Lighting is soft and domestic, like a careful product shot for cultural stationery.
+
+Subject:
+Create a fictional traditional-herbal note, explicitly not a medical prescription. The exact readable text should include: SPECIMEN, Herbal Study Note, Not for treatment, 甘草, 陈皮, 茯苓, 菊花, 生姜, sample only. Mix tidy printed form fields with expressive handwritten Chinese herb names, using dark brown ink and a red square stamp reading SPECIMEN. Do not include patient name, doctor name, diagnosis, dosage, pharmacy, license number, or instructions for use.
+
+Important details:
+The visual goal is document-level precision: ruled boxes, date area left blank, blank signature line, ink pressure changes, brush-pen pooling, paper translucency, red stamp texture, and believable stationery shadows. The Chinese characters should be readable and beautiful, but the content must remain a non-actionable study sample. Keep the note materially convincing while making its specimen and non-treatment status unambiguous.
+
+Use case:
+Pseudo-Real Documents single study 3/8, testing handwritten document realism, Chinese character rendering, paper fibers, and safe non-medical framing.
+
+Constraints:
+No readable text except the specified herbal study strings, no watermark, no logos, preserve exact 1:1 aspect ratio, no patient data, no doctor signature, no dosage, no treatment directions, no real clinic name, no pharmacy seal, no scannable code.

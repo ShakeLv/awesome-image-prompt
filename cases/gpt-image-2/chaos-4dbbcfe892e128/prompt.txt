@@ -1,0 +1,14 @@
+Scene:
+Create a square 1:1 portrait image for Relationship Portrait Series. Use a cleaner portrait frame with more distance, directional light, and readable emotional friction in body language. The frame should feel like a finished professional deliverable rather than a casual snapshot, with clear lens discipline, believable light falloff, and a palette that directly supports Photograph pairs or small groups in ways that reveal intimacy, tension, friendship, or shared history through pose, distance, and gaze.. Keep enough surrounding space and compositional control for gallery, research, campaign, or approval-board reuse while staying photoreal and human-scaled.
+
+Subject:
+Center the same recurring pair: a woman with golden-brown skin and a curly bob, and her partner with warm brown skin, cropped hair, and a relaxed upright build. Use posture, gaze, and spacing to create tension while preserving the same exact pair from the reference. Use the example direction from the brief as grounding context: Photograph pairs or small groups in ways that reveal intimacy, tension, friendship, or shared history through pose, distance, and gaze.. Wardrobe, lighting, environment, and pose may shift to serve this variation, but the viewer must immediately understand that the same reference identity is still in front of the camera.
+
+Important details:
+This backlog line is difficult because Photograph pairs or small groups in ways that reveal intimacy, tension, friendship, or shared history through pose, distance, and gaze.. Preserve skin tone family, bone structure, eye spacing, nose shape, mouth shape, hairline logic, shoulder width, and overall body read across the entire series. preserve exact face / hair base / body proportions from the reference model. The relationship changes here, not the people. Avoid the common failure described in the brief: ordinary image models often lose likeness once styling, lighting, or layout changes enter the frame. Success should feel like the result should feel professionally usable, coherent, and clearly built around one stable human identity.
+
+Use case:
+Relationship Portrait Series series study 3/9, a tension portrait.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, preserve exact face / hair base / body proportions from the reference model, no argument theatrics, no screaming faces, no identity swap, no costume reset.

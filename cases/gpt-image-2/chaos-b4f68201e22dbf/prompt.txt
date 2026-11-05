@@ -1,0 +1,14 @@
+Scene:
+Create a square climax-style relic card that still respects the same codex frame language as the rest of the set. Use blackened gold, violet shadow, dim ivory highlights, and a narrow corona of eclipse light behind the object. The card layout should feel authoritative and collectible, with strong central placement, empty plaque bars, subtle corner geometry, and just enough radiant contrast to imply endgame importance.
+
+Subject:
+The relic is an eclipse gate key designed to open a sealed threshold between day and night domains. It has a long stem of dark metal, a circular bow split into light and shadow halves, and a complex bit that resembles nested crescent teeth rather than ordinary cuts. Thin fissures of pale light run through the metal like trapped dawn. One side is polished by use, while the shadow half remains rough and ancient. The key should feel ceremonial, mechanically plausible, and unmistakably tied to a major world event.
+
+Important details:
+This object must feel like a final-tier collectible without becoming generic epic fantasy jewelry. Keep the silhouette iconic and immediately legible. The mixed light-and-shadow material treatment should imply function, not random ornament. Preserve the package's card-frame consistency, but let the eclipse motif elevate the sense of stakes and lore. It should work as a codex highlight, event reward, or unlock banner centerpiece. Avoid real religious symbols, generic skeleton-key clichés, or unreadable magic circles.
+
+Use case:
+Relic Artifact Lore Card Set single study 9/9.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no modern key teeth, no giant fantasy castle backdrop, no glowing rune text, no extra hands, no overdesigned filigree mess, no lens flare washing out the silhouette.

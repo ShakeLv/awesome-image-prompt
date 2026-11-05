@@ -1,0 +1,14 @@
+Scene:
+A square urban wall study with the poster pasted onto rough plaster among torn edges and older paper remnants, photographed in soft overcast light so texture, glue bubbles, and surface scars stay visible. The poster should express agitated constructivist geometry driven by diagonals, wedges, ray bursts, and halftone photomontage fragments, using revolutionary red, bone white, black, and steel gray with sharp contrast and a tactile surface appropriate to the medium.
+
+Subject:
+Create a version that feels made for the street, with the poster carrying enough formal force to survive abrasion, layering, and imperfect placement without losing its visual identity. Use megaphones, gears, worker profiles, factory towers, flags, and industrial beams as the main visual ingredients, and organize them with heavy angular pseudo-Cyrillic slogan blocks kept abstract and non-readable. For the contemporary-subject axis, thread in public transit megaphones, cranes, and modular housing blocks pushed into militant diagonal rhythm. The poster must feel like an original design object rather than a reproduction of any known work.
+
+Important details:
+Keep the main design intact but let the environment add grit: lifted corners, tiny tears, wrinkled paper, and older color fragments around the perimeter should amplify the style rather than dilute it. Preserve diagonal force, abrupt scale shifts, posterized cutout shadows, and coarse print grain. Keep every letterform abstract and non-readable, as if it were a typographic texture rather than language. Make the style unmistakable through composition, palette, surface behavior, and symbolic compression. no soft curves, no pastel palette, no decorative nostalgia, no polished luxury finish.
+
+Use case:
+Constructivist single study 4/9, testing street-life durability and layered context.
+
+Constraints:
+No readable text, no watermark, no logos, preserve exact 1:1 aspect ratio, no copyrighted characters, no real brand marks, no QR codes, no interface chrome, no accidental gibberish lettering.
