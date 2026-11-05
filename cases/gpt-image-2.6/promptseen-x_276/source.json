@@ -165,5 +165,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_366/image26-s04-bakery-logo-original-3cac1a60a6c7.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_276/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_276",
+    "projectdId": "c57830a85694af",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "3cac1a60a6c797fff3e2ddf1c749ed5eadb9fb0efcee9d3676a0a9fdab9a8ae1",
+    "promptFileSha256": "a5cca996b25016bbffb971604ff9b3c1c26f9686db4e2fa836b1e786f4f12b2d",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Field & Flour raster bread logo with transparency, not an editable vector design.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

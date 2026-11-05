@@ -182,5 +182,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_381/image26-s15-pelican-on-a-red-bicycle-original-10c33092faee.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_287/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_287",
+    "projectdId": "7e1b1dbe10d7b7",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "10c33092faee23e30d739283bf0e6073c357cbbdd2acc7a7fdb3801477d6c159",
+    "promptFileSha256": "c5b53248d3bdc517414e20fa1ffe56925abe3c4a7889b7ab3154c2d3631ca325",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Fictional humorous pelican and red bicycle, with visible beak, wheels and feet.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

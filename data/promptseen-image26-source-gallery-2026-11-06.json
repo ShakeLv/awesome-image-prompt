@@ -170,7 +170,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_363/image26-s01-sailor-and-dog-documentary-portrait-original-e0e9ff2eed61.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_273/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_273",
+        "projectdId": "4e654299e3293d",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "e0e9ff2eed61d05cc9ff16e6a32170b5ce7865edafa526d4486cbcd72954521e",
+        "promptFileSha256": "1696d2ff31916f1d4dbf292b900bfd432a4e58c32b5218c40043517627f8bd7a",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Fictional fisherman; dog rests near lower frame edge. Synthetic documentary-style scene, not an actual photographed person.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_274",
@@ -339,7 +353,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_364/image26-s02-coffee-machine-process-infographic-original-38d44c0ef512.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_274/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_274",
+        "projectdId": "3d43a063bc3627",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "38d44c0ef5122947cf51d4698c8498a470a70baa57b6f92caaa515cf18fdd58c",
+        "promptFileSha256": "82b9fcae5edf9942f01353a5c2f9c2e57640762452a695fb44a1b68de2b67ae7",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Readable Chinese espresso components and arrows; illustrative schematic, not an engineering or operating manual.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_275",
@@ -508,7 +536,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_365/image26-s03-streetwear-campaign-poster-original-ea8f2397fef5.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_275/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_275",
+        "projectdId": "b3be651c23f78c",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "ea8f2397fef55aa2a33a505734686ec3b025620cf010cf5e7a68e82571658755",
+        "promptFileSha256": "1b212b3d3278f274d8870b65257671983e0c4b3d072c6f242f07018385277e22",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Fictional THREAD campaign with MOVE YOUR WAY text and three adult models; not a real brand campaign.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_276",
@@ -677,7 +719,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_366/image26-s04-bakery-logo-original-3cac1a60a6c7.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_276/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_276",
+        "projectdId": "c57830a85694af",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "3cac1a60a6c797fff3e2ddf1c749ed5eadb9fb0efcee9d3676a0a9fdab9a8ae1",
+        "promptFileSha256": "a5cca996b25016bbffb971604ff9b3c1c26f9686db4e2fa836b1e786f4f12b2d",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Field & Flour raster bread logo with transparency, not an editable vector design.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_277",
@@ -846,7 +902,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_367/image26-s05-1969-outdoor-music-festival-original-b79e4f0591d4.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_277/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_277",
+        "projectdId": "b35550f6c0225f",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "b79e4f0591d4c3bbf6724ab219e302b4890aef73db2078fa18c5391ecf6b37b0",
+        "promptFileSha256": "ccaa3fde4b07fc44908b676283d8d7a53a655c6418f77e32705022ae7b21d61a",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Fictional 1969 festival design; not an authentic historical poster or event record.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_278",
@@ -1015,7 +1085,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_368/image26-s06-pet-home-alone-comic-strip-original-4aefa4546814.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_278/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_278",
+        "projectdId": "db5370b624c34e",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "4aefa4546814f2ea8d8b4971fb683eee5078668555f6a3b9e6a23aa7aebd9155",
+        "promptFileSha256": "915bde66b20f1c5c81b37f80ed04c0df13099029cd3bd34b00005d09f0dceb77",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Four-panel dog comic with red collar; the final cardboard fort remains mostly collapsed. Existing generation imperfections retained.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_279",
@@ -1184,7 +1268,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_369/image26-s07-farmers-market-mobile-interface-original-e406d13d2d25.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_279/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_279",
+        "projectdId": "b0a4768dde3c2c",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "e406d13d2d2562e11f18ff8da2bfabe02efd65ccee6bf39417a060fd5a14c297",
+        "promptFileSha256": "e44bbb26eaf6f47e1b9377cb89e5d3cdca778a9fe7e0a511702d16a4b087813e",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Chinese 周末鲜集 visual interface concept; not a functioning app.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_280",
@@ -1353,7 +1451,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_370/image26-s08-cellular-respiration-learning-diagram-original-ea348935b35c.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_280/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_280",
+        "projectdId": "6b3ede76de341c",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "ea348935b35c2f972ff126324d80f223406d0955e05ad4e4f67cc002aac336fb",
+        "promptFileSha256": "bcc47e4df6fdec84a31dfd2241f3e7b553efe776b1f9162f449e7bd403ddcb76",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Conceptual respiration overview, omitting acetyl-CoA transition and chemiosmosis detail; not a complete biochemical teaching reference.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_281",
@@ -1522,7 +1634,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_371/image26-s09-market-opportunity-pitch-slide-original-565380cd48cf.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_281/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_281",
+        "projectdId": "2c23fa759c634a",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "565380cd48cfa938224a494958ac87fe0f7beb4e3011388d4e7922d2046e6265",
+        "promptFileSha256": "ead82d8a0f10e81e6c6af02b0dc10b81a83e8a72b35a4fc1ff84957dd7da2d66",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Fictional market data and additional generated numbers retained; nested circles are not concentric. No real market research or investment claim.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_282",
@@ -1849,7 +1975,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_372/image26-s10-marked-vase-color-edit-original-25dbee10ed12.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_282/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_282",
+        "projectdId": "88be265bd9949f",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "25dbee10ed121f1076da8ec1c33bf27188ff458d9440951bc0d20eef8b9e04ce",
+        "promptFileSha256": "7a5ed68ba0a80239fcbb9e4a4b50e509cf3388bfa1d47faa4566f7b0bb3aec95",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Cobalt vase edit. Original reference and markup are linked only; exact preservation relative to the input was not independently validated.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_283",
@@ -2100,7 +2240,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_375/image26-s11-pixel-art-motorcycle-rider-original-a817817ed1dc.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_283/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_283",
+        "projectdId": "54734f1cbcfc6b",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "a817817ed1dc39259344da5ab73ffb7f11e47373f906cb4f95e65120f5cb131d",
+        "promptFileSha256": "d30817ac66b15f7647bd65c8aa9921deacd9bd774fff1ce3ccf017d8ab680eb0",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Pixel motorcycle rider with both wheels visible; source palette inspiration, not an exact grain reproduction.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_284",
@@ -2351,7 +2505,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_377/image26-s12-river-valley-sketch-to-photograph-original-d2f725d263d1.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_284/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_284",
+        "projectdId": "624cf7264ad9f8",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "d2f725d263d19ee9d3bd1e21d1813cdf12e6633fd0de43b0aa9aee98ce7f29bd",
+        "promptFileSha256": "aeac4d62af4bb8272ae8420395e2a22b48a3b1f23ddedfec5c559b479b8c74b7",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Pencil landscape with three foreground pines and bridge, with some painterly texture. Exact source-input geometric preservation not independently validated.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_285",
@@ -2537,7 +2705,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_379/image26-s13-orange-office-cat-sticker-sheet-original-9b1fb9d2da95.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_285/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_285",
+        "projectdId": "a4ad50c50a124a",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "9b1fb9d2da955bd6335d2ed2d5ddb9bb764752638433e5089ca2df7c0c02d08d",
+        "promptFileSha256": "db65378b366317d2e0261a027863f694777c3bd6ec214cba282e9bf43d9e3a1c",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Twelve orange office-cat stickers in a 3×4 grid; Chinese phrases visually read across the full output.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_286",
@@ -2706,7 +2888,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_380/image26-s14-orange-koi-in-pale-blue-water-original-05a55a4042cf.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_286/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_286",
+        "projectdId": "9b88b132086299",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "05a55a4042cfc14565a596723df85872d8275d28c952623a32d889b9c6af0948",
+        "promptFileSha256": "6c6f7b5814c396f433ea083f981b7dbdc5ca0eaef02eeb408f93614fd073f80e",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Koi image with the complete eight-word English prompt; tail cropped at the left edge.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_287",
@@ -2892,7 +3088,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_381/image26-s15-pelican-on-a-red-bicycle-original-10c33092faee.png",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_287/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_287",
+        "projectdId": "7e1b1dbe10d7b7",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": true,
+        "allSixGifFramesViewed": false,
+        "sourceNativeSha256": "10c33092faee23e30d739283bf0e6073c357cbbdd2acc7a7fdb3801477d6c159",
+        "promptFileSha256": "c5b53248d3bdc517414e20fa1ffe56925abe3c4a7889b7ab3154c2d3631ca325",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "Fictional humorous pelican and red bicycle, with visible beak, wheels and feet.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_288",
@@ -3148,7 +3358,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_382/image26-g01-monkey-raising-a-lantern-original-494bc7e73ea5.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_288/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_288",
+        "projectdId": "742cf5853ebf9a",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "494bc7e73ea5fbfdbfab6e0593cd301a9d120ca370d9017282019e35a2004ef4",
+        "promptFileSha256": "db5708af46418bb04cad7e084ab2eac516c0504f80bcf2a6a2e40cbd3bc6c587",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: monkey raises and lowers lantern and blinks; minor background drift remains.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_289",
@@ -3322,7 +3546,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_384/image26-g02-falling-stock-reaction-loop-original-9e4b6c2f3e61.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_289/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_289",
+        "projectdId": "6081eafff6597f",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "9e4b6c2f3e61fbf344d29e0c8b86275c1b7343cd699f19d7b3bc96cef6055759",
+        "promptFileSha256": "0a4242cf62ab3bf11551b07c566d058c9f7dbdd1f0dcaee2540de43c0a50e2c2",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: adult office character transitions from hope to shock, crying, wiping tears and hope. Fictional chart, not market data.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_290",
@@ -3496,7 +3734,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_385/image26-g03-rising-stock-celebration-loop-original-597336c910cf.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_290/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_290",
+        "projectdId": "d9c282e4d9f53c",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "597336c910cf64af72c32305b41147a9ea5ea6f733ecf726d33b1b015798c5da",
+        "promptFileSha256": "e9eead2846a0cd73c876dea8845823ffddf0db97719f179cf4555a4112596091",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: fictional rising-stock celebration with blank papers; coarse six-pose motion, no actual returns or recommendation.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_291",
@@ -3687,7 +3939,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_386/image26-g04-dancing-white-chicken-original-c327bdac5626.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_291/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_291",
+        "projectdId": "1c5b06c02f9f31",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "c327bdac5626bfeed9e50f16be575721a46398486bf48266261180ae0a3889ba",
+        "promptFileSha256": "373fd0f101e80d6ee1d64619c23f236ac25215d6af2c1737cbf90ed619927634",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: dancing chicken feet and wings remain visible; small scale changes remain.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_292",
@@ -3960,7 +4226,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_387/image26-g05-blue-haired-character-eating-rice-original-072d93232dbd.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_292/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_292",
+        "projectdId": "400fadffd45772",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "072d93232dbd45ad0ddaf138bd590ace3f295ed7c9c37511fbb1b049088b9808",
+        "promptFileSha256": "ac0cb1509671d1f949b6a3c5c26124ae04daa9aa74997ea8fa247a73e9899b20",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: rice-eating character nods, caption 真香！ is legible; caption placement varies slightly.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_293",
@@ -4151,7 +4431,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_389/image26-g06-chicken-practicing-tai-chi-original-ff333b2320cc.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_293/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_293",
+        "projectdId": "91cef7564a4e53",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "ff333b2320cce19a5625f758c71c7691fcbd2d09ea03ff2a287ce254ff68b2b3",
+        "promptFileSha256": "573a587f6b4be5c51b4bca4192cde64a91925ceabfd672f957c0a1d1ef9af603",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: stylized chicken tai chi-inspired poses, not an accurate martial arts tutorial.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_294",
@@ -4342,7 +4636,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_390/image26-g07-family-dinner-in-china-in-2005-original-fa8bba900c1a.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_294/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_294",
+        "projectdId": "253f5094ec3bfe",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "fa8bba900c1ac60e942186cc7b2dce3e7bd7614d21d261a563e54917d38f6afa",
+        "promptFileSha256": "9d30d8b4e30e8fa718fe4046f14147a06566f776c45e6815294c39fab18bd360",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: four fictional family members at dinner, old TV and 2005 calendar; not an actual family recording.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_295",
@@ -4615,7 +4923,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_391/image26-g08-round-fish-reaction-loop-original-a97106290531.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_295/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_295",
+        "projectdId": "ac3393c628e0d4",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "a97106290531fbfeb13c48d03747e93ab21942fb78fb4a4ebcbb7ff7c25a56a8",
+        "promptFileSha256": "e851e0bc807fff326e0a0cdc623e91c80915101abbe5af363a3de199bdf61dd5",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: mint fish with yellow hat nods; the requested two nods are weakly separated.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_296",
@@ -4806,7 +5128,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_393/image26-g09-standing-backflip-loop-original-45400bf590b0.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_296/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_296",
+        "projectdId": "2ca2eaa6c111ff",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "45400bf590b073fa37086741d9761d2c308c06efc3994c1710fc6122cf411771",
+        "promptFileSha256": "41b891feead211af69e0b2b39ce162922f9a7c1947efcb1d6ac38ad429cfbc69",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: coarse gymnastic rotation with different first crouching and last standing poses; loop seam is visible, not continuous-motion validation or exercise instruction.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_297",
@@ -5079,7 +5415,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_394/image26-g10-two-dancing-robots-original-2781082629c8.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_297/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_297",
+        "projectdId": "a3751c18b0cce5",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "2781082629c84398c0fbe35477ba99e0ce234b517f2a695cef211650d7e27fb7",
+        "promptFileSha256": "6b619ea8537acd11fb550c4dd9e47ee7d7f211686b99c6533980474f8c6d4073",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: green-left and orange-right robots wave and clap, both full bodies visible.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_298",
@@ -5352,7 +5702,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_396/image26-g11-cycling-pelican-loop-original-253ae2f8e6a3.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_298/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_298",
+        "projectdId": "7b850391549947",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "253ae2f8e6a30fe2f9bf20f30dd19c692c3edf28d4e529e9c466ed323c892581",
+        "promptFileSha256": "98180b109cd1b9fe78f88c79d1c4e79423ead7e171b77fe6351361201c13bd25",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: pelican legs and body change pose; pedal geometry/background drift and wheel rotation are not physically continuous.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     },
     {
       "id": "x_299",
@@ -5608,7 +5972,21 @@
       "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_397/image26-g12-animated-notebook-owl-original-425000388bd5.gif",
       "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_299/run.yaml",
       "archiveStatus": "complete-native-output-and-recorded-prompt",
-      "projectdStatus": "pending-individual-visual-review"
+      "projectdStatus": "approved-local-review-awaiting-publication",
+      "visualReview": {
+        "sourceWorkId": "x_299",
+        "projectdId": "49ff08208fda46",
+        "status": "approved-local-review-not-yet-imported",
+        "fullWorkingPromptRead": true,
+        "completeUncroppedFrameViewed": false,
+        "allSixGifFramesViewed": true,
+        "sourceNativeSha256": "425000388bd5de01fe4ef8d31e599d15994cb4a8f29d627760072c2ac5b1b69b",
+        "promptFileSha256": "ddce94b6a4e4825136712425169795c46cc526dfbe29b903509627ae78f840c7",
+        "losslessPreviewPixelsVerified": true,
+        "referenceAssetsNotRehosted": true,
+        "reason": "All six frames viewed: pencil owl blinks and raises wings while staying a drawing; notebook lines drift slightly.",
+        "reviewedAt": "2026-11-05T19:45:21.452Z"
+      }
     }
   ]
 }

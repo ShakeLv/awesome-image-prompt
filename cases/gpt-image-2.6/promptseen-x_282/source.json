@@ -323,5 +323,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_372/image26-s10-marked-vase-color-edit-original-25dbee10ed12.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_282/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_282",
+    "projectdId": "88be265bd9949f",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "25dbee10ed121f1076da8ec1c33bf27188ff458d9440951bc0d20eef8b9e04ce",
+    "promptFileSha256": "7a5ed68ba0a80239fcbb9e4a4b50e509cf3388bfa1d47faa4566f7b0bb3aec95",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Cobalt vase edit. Original reference and markup are linked only; exact preservation relative to the input was not independently validated.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

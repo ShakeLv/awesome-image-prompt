@@ -247,5 +247,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_377/image26-s12-river-valley-sketch-to-photograph-original-d2f725d263d1.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_284/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_284",
+    "projectdId": "624cf7264ad9f8",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "d2f725d263d19ee9d3bd1e21d1813cdf12e6633fd0de43b0aa9aee98ce7f29bd",
+    "promptFileSha256": "aeac4d62af4bb8272ae8420395e2a22b48a3b1f23ddedfec5c559b479b8c74b7",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Pencil landscape with three foreground pines and bridge, with some painterly texture. Exact source-input geometric preservation not independently validated.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

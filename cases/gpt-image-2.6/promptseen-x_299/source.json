@@ -252,5 +252,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_397/image26-g12-animated-notebook-owl-original-425000388bd5.gif",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_299/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_299",
+    "projectdId": "49ff08208fda46",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": false,
+    "allSixGifFramesViewed": true,
+    "sourceNativeSha256": "425000388bd5de01fe4ef8d31e599d15994cb4a8f29d627760072c2ac5b1b69b",
+    "promptFileSha256": "ddce94b6a4e4825136712425169795c46cc526dfbe29b903509627ae78f840c7",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "All six frames viewed: pencil owl blinks and raises wings while staying a drawing; notebook lines drift slightly.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

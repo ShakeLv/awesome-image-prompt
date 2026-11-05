@@ -170,5 +170,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_384/image26-g02-falling-stock-reaction-loop-original-9e4b6c2f3e61.gif",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_289/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_289",
+    "projectdId": "6081eafff6597f",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": false,
+    "allSixGifFramesViewed": true,
+    "sourceNativeSha256": "9e4b6c2f3e61fbf344d29e0c8b86275c1b7343cd699f19d7b3bc96cef6055759",
+    "promptFileSha256": "0a4242cf62ab3bf11551b07c566d058c9f7dbdd1f0dcaee2540de43c0a50e2c2",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "All six frames viewed: adult office character transitions from hope to shock, crying, wiping tears and hope. Fictional chart, not market data.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

@@ -165,5 +165,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_371/image26-s09-market-opportunity-pitch-slide-original-565380cd48cf.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_281/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_281",
+    "projectdId": "2c23fa759c634a",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "565380cd48cfa938224a494958ac87fe0f7beb4e3011388d4e7922d2046e6265",
+    "promptFileSha256": "ead82d8a0f10e81e6c6af02b0dc10b81a83e8a72b35a4fc1ff84957dd7da2d66",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Fictional market data and additional generated numbers retained; nested circles are not concentric. No real market research or investment claim.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

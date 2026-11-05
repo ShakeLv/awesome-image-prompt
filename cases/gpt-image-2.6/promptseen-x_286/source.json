@@ -165,5 +165,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_380/image26-s14-orange-koi-in-pale-blue-water-original-05a55a4042cf.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_286/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_286",
+    "projectdId": "9b88b132086299",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "05a55a4042cfc14565a596723df85872d8275d28c952623a32d889b9c6af0948",
+    "promptFileSha256": "6c6f7b5814c396f433ea083f981b7dbdc5ca0eaef02eeb408f93614fd073f80e",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Koi image with the complete eight-word English prompt; tail cropped at the left edge.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

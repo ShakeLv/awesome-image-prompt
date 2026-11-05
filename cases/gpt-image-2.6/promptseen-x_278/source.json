@@ -165,5 +165,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_368/image26-s06-pet-home-alone-comic-strip-original-4aefa4546814.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_278/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_278",
+    "projectdId": "db5370b624c34e",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "4aefa4546814f2ea8d8b4971fb683eee5078668555f6a3b9e6a23aa7aebd9155",
+    "promptFileSha256": "915bde66b20f1c5c81b37f80ed04c0df13099029cd3bd34b00005d09f0dceb77",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Four-panel dog comic with red collar; the final cardboard fort remains mostly collapsed. Existing generation imperfections retained.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

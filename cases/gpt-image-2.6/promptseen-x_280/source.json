@@ -165,5 +165,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_370/image26-s08-cellular-respiration-learning-diagram-original-ea348935b35c.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_280/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_280",
+    "projectdId": "6b3ede76de341c",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "ea348935b35c2f972ff126324d80f223406d0955e05ad4e4f67cc002aac336fb",
+    "promptFileSha256": "bcc47e4df6fdec84a31dfd2241f3e7b553efe776b1f9162f449e7bd403ddcb76",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Conceptual respiration overview, omitting acetyl-CoA transition and chemiosmosis detail; not a complete biochemical teaching reference.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

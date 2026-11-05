@@ -165,5 +165,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_365/image26-s03-streetwear-campaign-poster-original-ea8f2397fef5.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_275/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_275",
+    "projectdId": "b3be651c23f78c",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "ea8f2397fef55aa2a33a505734686ec3b025620cf010cf5e7a68e82571658755",
+    "promptFileSha256": "1b212b3d3278f274d8870b65257671983e0c4b3d072c6f242f07018385277e22",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Fictional THREAD campaign with MOVE YOUR WAY text and three adult models; not a real brand campaign.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

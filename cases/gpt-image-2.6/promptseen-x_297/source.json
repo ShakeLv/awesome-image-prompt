@@ -269,5 +269,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_394/image26-g10-two-dancing-robots-original-2781082629c8.gif",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_297/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_297",
+    "projectdId": "a3751c18b0cce5",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": false,
+    "allSixGifFramesViewed": true,
+    "sourceNativeSha256": "2781082629c84398c0fbe35477ba99e0ce234b517f2a695cef211650d7e27fb7",
+    "promptFileSha256": "6b619ea8537acd11fb550c4dd9e47ee7d7f211686b99c6533980474f8c6d4073",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "All six frames viewed: green-left and orange-right robots wave and clap, both full bodies visible.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

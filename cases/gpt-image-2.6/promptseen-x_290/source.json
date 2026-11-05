@@ -170,5 +170,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_385/image26-g03-rising-stock-celebration-loop-original-597336c910cf.gif",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_290/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_290",
+    "projectdId": "d9c282e4d9f53c",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": false,
+    "allSixGifFramesViewed": true,
+    "sourceNativeSha256": "597336c910cf64af72c32305b41147a9ea5ea6f733ecf726d33b1b015798c5da",
+    "promptFileSha256": "e9eead2846a0cd73c876dea8845823ffddf0db97719f179cf4555a4112596091",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "All six frames viewed: fictional rising-stock celebration with blank papers; coarse six-pose motion, no actual returns or recommendation.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

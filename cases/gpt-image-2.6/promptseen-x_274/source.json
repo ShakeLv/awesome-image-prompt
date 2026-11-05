@@ -165,5 +165,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_364/image26-s02-coffee-machine-process-infographic-original-38d44c0ef512.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_274/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_274",
+    "projectdId": "3d43a063bc3627",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "38d44c0ef5122947cf51d4698c8498a470a70baa57b6f92caaa515cf18fdd58c",
+    "promptFileSha256": "82b9fcae5edf9942f01353a5c2f9c2e57640762452a695fb44a1b68de2b67ae7",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Readable Chinese espresso components and arrows; illustrative schematic, not an engineering or operating manual.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

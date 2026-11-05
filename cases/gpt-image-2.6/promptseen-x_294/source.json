@@ -187,5 +187,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_390/image26-g07-family-dinner-in-china-in-2005-original-fa8bba900c1a.gif",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_294/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_294",
+    "projectdId": "253f5094ec3bfe",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": false,
+    "allSixGifFramesViewed": true,
+    "sourceNativeSha256": "fa8bba900c1ac60e942186cc7b2dce3e7bd7614d21d261a563e54917d38f6afa",
+    "promptFileSha256": "9d30d8b4e30e8fa718fe4046f14147a06566f776c45e6815294c39fab18bd360",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "All six frames viewed: four fictional family members at dinner, old TV and 2005 calendar; not an actual family recording.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

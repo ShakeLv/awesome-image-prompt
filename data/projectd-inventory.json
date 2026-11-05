@@ -34,8 +34,9 @@
   "projectdNewBatchStatus": "495 accepted42090448597; fourth487 publishing42094646749.",
   "projectdPublishedGptImage26": 40,
   "localMediaBytesScope": "ProjectD preview renditions; native original archive bytes are separately recorded per source.",
-  "githubTotalArchivedSourcePairs": 5734,
-  "upstreamArchivedNotInProjectD": 2454,
+  "githubTotalArchivedSourcePairs": 5761,
+  "upstreamArchivedNotInProjectD": 2481,
   "newGithubApprovedPairs": 1666,
-  "latestPublicationRun": "42090448597"
+  "latestPublicationRun": "42090448597",
+  "githubArchivedGptImage26Pairs": 67
 }

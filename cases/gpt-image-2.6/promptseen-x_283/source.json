@@ -247,5 +247,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_375/image26-s11-pixel-art-motorcycle-rider-original-a817817ed1dc.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_283/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_283",
+    "projectdId": "54734f1cbcfc6b",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "a817817ed1dc39259344da5ab73ffb7f11e47373f906cb4f95e65120f5cb131d",
+    "promptFileSha256": "d30817ac66b15f7647bd65c8aa9921deacd9bd774fff1ce3ccf017d8ab680eb0",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Pixel motorcycle rider with both wheels visible; source palette inspiration, not an exact grain reproduction.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

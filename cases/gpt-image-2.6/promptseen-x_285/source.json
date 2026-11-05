@@ -182,5 +182,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_379/image26-s13-orange-office-cat-sticker-sheet-original-9b1fb9d2da95.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_285/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_285",
+    "projectdId": "a4ad50c50a124a",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "9b1fb9d2da955bd6335d2ed2d5ddb9bb764752638433e5089ca2df7c0c02d08d",
+    "promptFileSha256": "db65378b366317d2e0261a027863f694777c3bd6ec214cba282e9bf43d9e3a1c",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Twelve orange office-cat stickers in a 3×4 grid; Chinese phrases visually read across the full output.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

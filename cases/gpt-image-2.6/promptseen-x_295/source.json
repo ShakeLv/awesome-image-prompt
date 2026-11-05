@@ -269,5 +269,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_391/image26-g08-round-fish-reaction-loop-original-a97106290531.gif",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_295/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_295",
+    "projectdId": "ac3393c628e0d4",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": false,
+    "allSixGifFramesViewed": true,
+    "sourceNativeSha256": "a97106290531fbfeb13c48d03747e93ab21942fb78fb4a4ebcbb7ff7c25a56a8",
+    "promptFileSha256": "e851e0bc807fff326e0a0cdc623e91c80915101abbe5af363a3de199bdf61dd5",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "All six frames viewed: mint fish with yellow hat nods; the requested two nods are weakly separated.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

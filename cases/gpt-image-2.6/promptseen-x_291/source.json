@@ -187,5 +187,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_386/image26-g04-dancing-white-chicken-original-c327bdac5626.gif",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_291/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_291",
+    "projectdId": "1c5b06c02f9f31",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": false,
+    "allSixGifFramesViewed": true,
+    "sourceNativeSha256": "c327bdac5626bfeed9e50f16be575721a46398486bf48266261180ae0a3889ba",
+    "promptFileSha256": "373fd0f101e80d6ee1d64619c23f236ac25215d6af2c1737cbf90ed619927634",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "All six frames viewed: dancing chicken feet and wings remain visible; small scale changes remain.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

@@ -252,5 +252,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_382/image26-g01-monkey-raising-a-lantern-original-494bc7e73ea5.gif",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_288/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_288",
+    "projectdId": "742cf5853ebf9a",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": false,
+    "allSixGifFramesViewed": true,
+    "sourceNativeSha256": "494bc7e73ea5fbfdbfab6e0593cd301a9d120ca370d9017282019e35a2004ef4",
+    "promptFileSha256": "db5708af46418bb04cad7e084ab2eac516c0504f80bcf2a6a2e40cbd3bc6c587",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "All six frames viewed: monkey raises and lowers lantern and blinks; minor background drift remains.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }

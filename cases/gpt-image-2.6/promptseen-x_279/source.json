@@ -165,5 +165,19 @@
   "originalImageUrl": "https://raw.githubusercontent.com/picontapLab/prompt-seen/272bd41645f21c4d07c3c06625904932609a613a/public/media/a_369/image26-s07-farmers-market-mobile-interface-original-e406d13d2d25.png",
   "sourceUrl": "https://github.com/picontapLab/prompt-seen/blob/272bd41645f21c4d07c3c06625904932609a613a/content/examples/x_279/run.yaml",
   "archiveStatus": "complete-native-output-and-recorded-prompt",
-  "projectdStatus": "pending-individual-visual-review"
+  "projectdStatus": "approved-local-review-awaiting-publication",
+  "visualReview": {
+    "sourceWorkId": "x_279",
+    "projectdId": "b0a4768dde3c2c",
+    "status": "approved-local-review-not-yet-imported",
+    "fullWorkingPromptRead": true,
+    "completeUncroppedFrameViewed": true,
+    "allSixGifFramesViewed": false,
+    "sourceNativeSha256": "e406d13d2d2562e11f18ff8da2bfabe02efd65ccee6bf39417a060fd5a14c297",
+    "promptFileSha256": "e44bbb26eaf6f47e1b9377cb89e5d3cdca778a9fe7e0a511702d16a4b087813e",
+    "losslessPreviewPixelsVerified": true,
+    "referenceAssetsNotRehosted": true,
+    "reason": "Chinese 周末鲜集 visual interface concept; not a functioning app.",
+    "reviewedAt": "2026-11-05T19:45:21.452Z"
+  }
 }
