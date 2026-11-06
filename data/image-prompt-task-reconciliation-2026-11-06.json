@@ -1,9 +1,9 @@
 {
-  "reconciledAt": "2026-11-05T22:30:43.030929+00:00",
+  "reconciledAt": "2026-11-06T00:50:27.357218+00:00",
   "archiveRepository": "https://github.com/ShakeLv/awesome-image-prompt",
-  "archiveFullPairs": 5761,
-  "archiveRemoteVerifiedPairFiles": 9972,
-  "archivePairsAlsoPublicOnProjectD": 5553,
+  "archiveFullPairs": 11158,
+  "archiveRemoteVerifiedPairFiles": 15423,
+  "archivePairsAlsoPublicOnProjectD": 10950,
   "newPublicPairsAcrossReviewedSources": 3979,
   "archivedQualityHeldFromProjectD": 208,
   "heldArchiveBreakdown": {
@@ -20,8 +20,8 @@
   "chaosNewPublicPairs": 3472,
   "chaosHeld": 159,
   "chaosUnreviewed": 0,
-  "historicalProjectdBackfillArchived": 1574,
-  "historicalBackfillRightsHeld": 5397,
+  "historicalProjectdBackfillArchived": 6971,
+  "historicalBackfillRightsHeld": 0,
   "existingSourcePairsConfirmedAlreadyArchived": {
     "chaos": 166,
     "apiModels": 491
@@ -36,6 +36,10 @@
     "data/chaos-existing166-archive-reconciliation-2026-11-06.json",
     "data/apimodels-existing491-archive-reconciliation-2026-11-06.json",
     "data/chaos07-797-public-acceptance-2026-11-06.json",
-    "data/projectd-legacy-backfill-reconciliation-2026-11-06.json"
-  ]
+    "data/projectd-legacy-backfill-reconciliation-2026-11-06.json",
+    "data/github-all11158-complete-pairs-acceptance-2026-11-06.json"
+  ],
+  "newlyMirroredPreviousMetadataHolds": 5397,
+  "currentPairCollectionCriteria": "Corresponding image and complete prompt; author or explicit license presence not required. Preserve available source details and actual model.",
+  "latestArchiveAcceptance": "data/projectd-pair-only-backfill-2026-11-06.json"
 }

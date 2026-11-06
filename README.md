@@ -1,8 +1,8 @@
 # awesome-image-prompt
 
-**5,761 complete source-bound image/prompt pairs archived.** Original attribution, actual generation models, reference requirements and per-item provenance are retained.
+**11,158 complete image/prompt pairs archived.** Original attribution, actual generation models, reference requirements and per-item provenance are retained.
 
-[Complete remote archive verification](data/github-all5761-complete-pairs-acceptance-2026-11-06.json) verifies all5,761 complete image/prompt pairs against the actual GitHub tree:9,972 full local files match remote Git blobs, including complete prompts and archived media. Image-only held candidates are excluded from the pair count. Archive count is separate from ProjectD publication.
+[Complete remote archive verification](data/github-all11158-complete-pairs-acceptance-2026-11-06.json) checks all11,158 complete pairs against the actual GitHub tree: 15,423 full files match remote Git blobs. All10,950 existing ProjectD pairs are now archived;208 additional source pairs remain archived with their individual ProjectD quality holds.
 
 [3,631 additional ChaosRealmsAI GPT Image2 source pairs](GPT-IMAGE-2-CHAOS.md) retain complete prompts, unchanged author-published renditions and source references. All3,631 individually reviewed:3,472 approved and published on ProjectD,159 held,zero unreviewed. Latest797 completed [ordinary public full-prompt/image/ten-locale acceptance](data/chaos07-797-public-acceptance-2026-11-06.json),run42117944922. ProjectD now contains10,950 records. All166 earlier Chaos pairs and491 earlier APIModels pairs were verified already archived, with no duplicate additions. Archive totals are separate from public acceptance.
 
@@ -27,9 +27,9 @@ The new440 reviewed GitHub pairs have [completed publication and exact public ac
 
 ## ProjectD historical backfill
 
-**1,574 historical pairs** are now archived across 16 batches with complete prompts and local images. [Browse all batches](PROJECTD-ARCHIVE.md). Their actual generation models remain unchanged; historical outputs are not relabeled as GPT Image 2.6.
+**6,971 historical pairs** are now archived across70 batches with complete prompts and local images. [Browse all batches](PROJECTD-ARCHIVE.md). Their actual generation models remain unchanged; historical outputs are not relabeled as GPT Image 2.6.
 
-The remaining **5,397** legacy records have individual source-evidence holds. [Held records](data/projectd-backfill-held.json) · [Upstream license audit](data/projectd-held-source-audit.json) · [Current inventory](data/projectd-inventory.json).
+The previously held **5,397** legacy pairs are now [fully archived and remotely verified](data/projectd-pair-only-backfill-2026-11-06.json). Collection requires a corresponding image and complete prompt; missing authors or explicit license metadata do not block intake. Available original source links, credits and notices remain intact. There are **zero legacy pairs awaiting backfill**.
 
 Third-party prompts and images retain original licenses, attribution and rights notices. No blanket repository license grants rights to third-party content.
 

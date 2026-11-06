@@ -1,17 +1,10 @@
 {
-  "checkedAt": "2026-11-05T21:55:49.362547+00:00",
-  "legacyAlreadyArchived": 1574,
-  "legacyHeld": 5397,
-  "heldBySourceHost": {
-    "youmind.com": 887,
-    "x.com": 4392,
-    "github.com": 97,
-    "www.reddit.com": 8,
-    "www.xiaohongshu.com": 9,
-    "opennana.com": 4
-  },
-  "status": "Everyremaininglegacyrecordhasexplicitoutcome;notanunprocesseddownloadqueue",
-  "reason": "Missing per-item source/license provenance; source repository licenses explicitly exclude third-party prompts/images where stated. Preserve original full records and per-item holds. Do not relabel or silently approve.",
-  "itemLedger": "data/projectd-backfill-held.json",
-  "sourceRightsAudit": "data/projectd-held-source-audit.json"
+  "checkedAt": "2026-11-06T00:50:27.357218+00:00",
+  "legacyAlreadyArchived": 6971,
+  "legacyHeld": 0,
+  "previouslyMetadataHeldNowArchived": 5397,
+  "status": "complete",
+  "criteria": "Owner2026-11-06: corresponding image and complete prompt suffice; author/explicit license metadata not an intake gate. Existing notices retained; missing claims not invented.",
+  "acceptance": "data/projectd-pair-only-backfill-2026-11-06.json",
+  "previousHoldSnapshot": "data/projectd-backfill-held.json"
 }

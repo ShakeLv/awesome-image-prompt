@@ -1,7 +1,14 @@
 {
   "snapshotDate": "2026-11-05",
-  "count": 5397,
-  "items": [
+  "count": 0,
+  "items": [],
+  "currentCount": 0,
+  "currentStatus": "all5397formerlyMetadataHeldPairsArchived",
+  "resolvedAt": "2026-11-06T00:50:27.357218+00:00",
+  "resolution": "Owner removed author/explicit license metadata gating; complete original image/prompt pair verified. Historical count/items below retained as prior snapshot, not current holds.",
+  "acceptance": "data/projectd-pair-only-backfill-2026-11-06.json",
+  "previousCount": 5397,
+  "previousItems": [
     {
       "id": "0ac0549cf5ac19",
       "title": "Alpaca Overloaded with Presents",
